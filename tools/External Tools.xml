@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="kill process  on port 20860" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="killProcessOnPort20860.sh" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/work/code/wanmei-cis" />
+    </exec>
+  </tool>
+</toolSet>
