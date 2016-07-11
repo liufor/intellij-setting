@@ -1,0 +1,16 @@
+<templateSet group="liufor">
+  <template name="try" value="try{&#10;    $END$&#10;}&#10;catch($EXCEPTION$ e){&#10;    e.$METHOD$;&#10;}" description="try-cath" toReformat="false" toShortenFQNames="true">
+    <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tryf" value="try{&#10;    $END$&#10;}&#10;catch($EXCEPTION$){&#10;    e.$METHOD$;&#10;}&#10;finally{&#10;    $END$&#10;}" description="try-catch-finaly" toReformat="false" toShortenFQNames="true">
+    <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
