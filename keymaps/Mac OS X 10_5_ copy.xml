@@ -5,17 +5,36 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ChooseDebugConfiguration">
-    <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="DatabaseView.PropertiesAction" />
   <action id="Debug" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="GotoLine" />
   <action id="GotoRow" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="shift meta back_space" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="Run" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -32,4 +51,5 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
