@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1467961488129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/BirthdayPartyController.java" timestamp="1469073190121">
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/BirthdayPartyController.java" timestamp="1469085414091">
         <mark key="]" line="42" column="17" />
         <mark key="." line="42" column="17" />
         <mark key="^" line="42" column="17" />
@@ -21,6 +21,9 @@
       </file>
       <file name="$USER_HOME$/work/code/NQ/position/__init__.py" timestamp="1467960737653">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/index.css" timestamp="1469089600246">
+        <mark key="[" line="41" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1469071940128">
         <mark key="[" line="0" column="0" />
@@ -37,11 +40,6 @@
         <mark key="[" line="44" column="18" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/SocketAddress.java" timestamp="1469031948150" />
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/theme/ListPage.js" timestamp="1469072312952">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/ComboController.java" timestamp="1468999836380" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/group.js" timestamp="1469083576366" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/birthday.js" timestamp="1468996149372">
@@ -96,20 +94,29 @@
         <mark key="^" line="147" column="13" />
         <mark key="." line="147" column="13" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/birthdayParty.js" timestamp="1468983039071">
+        <mark key="'" line="45" column="30" />
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="41" column="42" />
+        <mark key="." line="41" column="42" />
+      </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/group-index.css" timestamp="1469088719416">
+        <mark key="[" line="146" column="1" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/service/BirthdayPartyService.java" timestamp="1469006323006">
         <mark key="[" line="86" column="71" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/GroupPartyList.js" timestamp="1469083836658">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="78" column="46" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/GroupPartyList.js" timestamp="1469089371281">
+        <mark key="[" line="135" column="33" />
+        <mark key="]" line="82" column="33" />
+        <mark key="." line="82" column="33" />
+        <mark key="^" line="82" column="33" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/dto/PriceRange.java" timestamp="1469081938252">
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/dto/PriceRange.java" timestamp="1469085377291">
         <mark key="[" line="2" column="3" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="10" column="33" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="37" column="4" />
+        <mark key="^" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/group_party.js" timestamp="1468940194632">
         <mark key="'" line="31" column="8" />
@@ -148,6 +155,7 @@
       <file name="/JavaScript Console" timestamp="1468995774707">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/static/newhtml/group.html" timestamp="1469086080010" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/groupParty.js" timestamp="1468942637464">
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="34" />
@@ -166,12 +174,16 @@
         <mark key="^" line="251" column="36" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/Banner.js" timestamp="1469079781139" />
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" timestamp="1469083440875">
-        <mark key="'" line="288" column="12" />
-        <mark key="[" line="267" column="21" />
-        <mark key="]" line="269" column="46" />
-        <mark key="." line="269" column="46" />
-        <mark key="^" line="269" column="46" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" timestamp="1469085998491">
+        <mark key="'" line="289" column="12" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/Recommend.js" timestamp="1469088435085">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/ThemeController.java" timestamp="1469072012248">
         <mark key="[" line="117" column="37" />
@@ -191,6 +203,11 @@
         <mark key="^" line="28" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/helper/MethodLogHelper.java" timestamp="1468990490121" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/group_party.js" timestamp="1468941019923">
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/weixin/WeixinEventMessageHandler.java" timestamp="1467695857125">
         <mark key="[" line="204" column="57" />
       </file>
@@ -199,6 +216,12 @@
         <mark key="[" line="89" column="67" />
       </file>
       <file name="$USER_HOME$/work/code/tomcat/java/org/apache/catalina/connector/Request.java" timestamp="1468909005852" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/page-index.css" timestamp="1469089034390">
+        <mark key="[" line="187" column="4" />
+        <mark key="]" line="187" column="4" />
+        <mark key="^" line="112" column="0" />
+        <mark key="." line="187" column="4" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/GroupPartyController.java" timestamp="1469073247438">
         <mark key="[" line="46" column="0" />
       </file>
@@ -336,11 +359,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>活动日列</text>
       </register>
       <register name="-" type="4">
-        <text>NULL</text>
+        <text>活动日列</text>
       </register>
       <register name="/" type="4">
         <text>theme'</text>
@@ -349,36 +372,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigi5Ye6546w6YeN5aSN55qESWQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRoZW1lLWl0ZW0tZGVzYyI+eyBpdGVtLmRlc2NyaXB0aW9uIH08L3A+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0ZXMgPSB0aGlzLnByb3BzLmNhdGVnb3JpZXMuZGF0YTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5wcm9wcy5jYXRlZ29yaWVzLmRhdGEpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>BIRTHDAY_PARTY_LIST_FETCHING,
-    BIRTHDAY_PARTY_LIST_FETCH_SUCCESS,
-    BIRTHDAY_PARTY_LIST_FETCH_FAIL,
-    BIRTHDAY_PARTY_DETAIL_FETCHING,
-    BIRTHDAY_PARTY_DETAIL_FETCH_SUCCESS,
-    BIRTHDAY_PARTY_DETAIL_FETCH_FAIL,</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyA5OTnlpZfppJBJZO+8jOWNl+S6rOS4ujTvvIzljJfkuqzkuLozMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9GSVhNRQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcHJpY2UgPSB0aGlzLnByb3BzLmNpdHlJZCA9PSAxID8gOTk5IDogNzk5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBsamggb24gMTYvNy8yMC4K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY29tYm9JZCA9IHRoaXMucHJvcHMuY2l0eUlkID09IDEgPyAzMSA6IDQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
