@@ -29,7 +29,7 @@
       <file name="$USER_HOME$/work/code/NQ/position/__init__.py" timestamp="1467960737653">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1469071940128">
+      <file name="/a.dummy" timestamp="1469165345514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" timestamp="1469106616351">
@@ -162,8 +162,10 @@
         <mark key="." line="41" column="42" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-management/src/main/resources/spring/mvc-dispatcher-servlet.xml" timestamp="1469161069813" />
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/group-index.css" timestamp="1469160102655">
-        <mark key="[" line="146" column="1" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/group-index.css" timestamp="1469165041193">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/service/BirthdayPartyService.java" timestamp="1469106493271">
         <mark key="[" line="86" column="71" />
@@ -460,7 +462,30 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>.group-theme-countdown{
+    z-index: 10;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-top: 3px;
+    width: 115px;
+    height: 37px;
+    font-size: 12px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    line-height: 16px;
+    background-color: rgba(244,103,170,.8);
+}
+p.countdown-end{
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: normal;
+}
+.countdown-time p{
+    margin: 0;
+    padding: 0;
+}</text>
       </register>
       <register name="-" type="4">
         <text>title</text>
@@ -471,29 +496,52 @@
       <register name="0" type="2">
         <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKi8K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
+      <register name="1" type="4">
+        <text>.group-theme-countdown{
+    z-index: 10;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-top: 3px;
+    width: 115px;
+    height: 37px;
+    font-size: 12px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    line-height: 16px;
+    background-color: rgba(244,103,170,.8);
+}
+p.countdown-end{
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: normal;
+}
+.countdown-time p{
+    margin: 0;
+    padding: 0;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0Ij4gMjAxNiDlubQgNyDmnIggMTUg5pelIDEyOjAwPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJsYWJlbCI+5rS+5a+55pel5pyfPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0Ij4gMjAxNiDlubQgNyDmnIggMTUg5pelIDEyOjAwPC9zcGFuPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRoZW1lLWl0ZW0tZGVzYyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJsYWJlbCI+5rS+5a+55pel5pyfPC9zcGFuPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRoZW1lLWl0ZW0tZGVzYyI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJpdGVtLWxpc3QiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJpdGVtLWxpc3QiPgo=</text>
