@@ -70,11 +70,11 @@
       <file name="$USER_HOME$/work/code/react-demos/demo05/index.html" timestamp="1468300841573">
         <mark key="[" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/DetailPage.js" timestamp="1469179213448">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="30" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/DetailPage.js" timestamp="1469185127517">
+        <mark key="[" line="58" column="32" />
+        <mark key="]" line="58" column="32" />
+        <mark key="." line="58" column="32" />
+        <mark key="^" line="44" column="12" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/customization/component/ComboList.js" timestamp="1469170344558" />
       <file name="/fragment.js" timestamp="1468242361505">
@@ -86,8 +86,14 @@
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/ChooseThemePage.js" timestamp="1469072173024">
         <mark key="[" line="44" column="18" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/component/Party1.js" timestamp="1469185183671">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/spring/mvc-dispatcher-servlet.xml" timestamp="1469161292633" />
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/node_modules/react/dist/react.js" timestamp="1469180629733" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/node_modules/react/dist/react.js" timestamp="1469183125423" />
       <file name="$USER_HOME$/work/code/NQ/position/stock_signal.csv" timestamp="1467967880624">
         <mark key="[" line="0" column="5" />
       </file>
@@ -120,6 +126,7 @@
       <file name="/Dummy.txt" timestamp="1469106240230">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/node_modules/react/react.js" timestamp="1469184002297" />
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/weixin/WeixinEventMessageHandler.java" timestamp="1467695857125">
         <mark key="[" line="204" column="57" />
       </file>
@@ -263,28 +270,31 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>nextState</text>
+        <text>className={this.props.className}</text>
       </register>
       <register name="-" type="4">
-        <text>nextState</text>
+        <text>className={this.props.className}</text>
       </register>
       <register name="/" type="4">
         <text>theme'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXh0U3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMiBvbkNsaWNrPXt0aGlzLnByb3BzLm9uQ2xpY2tIMn0+e3RoaXMuc3RhdGUueHh9PC9oMj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLnRhcmdldC52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMiBvbkNsaWNrPXt0aGlzLnByb3BzLm9uQ2xpY2tIMn0+e3RoaXMucHJvcHMueHh9PC9oMj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gcHJvcHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="4" type="4">
+        <text>// xx: {
+    //     xx1:&quot;default-xx1&quot;,
+    //     xx2:&quot;default-xx2&quot;
+    // }</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -293,13 +303,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Ly90aGlzLnByb3BzID0ge3l5eToiMTExIn07IC8vIOaXoOazleeUn+aViCzkvJrlr7zoh7RXQVJJTkcs6L+Y5Lya57un57ut6L+Q6KGM44CCCgogICAgICAgIC8vIHNldEludGVydmFsKGZ1bmN0aW9uICgpIHsKICAgICAgICAvLyAgICAgY29uc29sZS5sb2codGhpcyk7CiAgICAgICAgLy8gfSwgMTAwMCk7CiAgICAgICAgLy8KICAgICAgICAvLyBzZXRJbnRlcnZhbChmdW5jdGlvbiAoKSB7CiAgICAgICAgLy8gICAgY29uc29sZS5sb2codGhpcyk7CiAgICAgICAgLy8gfS5iaW5kKHRoaXMpLDEwMDApOwogICAgICAgIC8vCiAgICAgICAgLy8gc2V0SW50ZXJ2YWwoKCk9PiB7CiAgICAgICAgLy8gICAgY29uc29sZS5sb2codGhpcyk7CiAgICAgICAgLy8gfSwxMDAwKTsKCiAgICAgICAgdmFyIGkgPTA7CiAgICAgICAgLy8gc2V0SW50ZXJ2YWwoKCk9PnsKICAgICAgICAvLyAgICBjb25zb2xlLmxvZyhpKyspIDsKICAgICAgICAvLwogICAgICAgIC8vIH0sMTAwMCk7CiAgICAgICAgc2V0SW50ZXJ2YWwoZnVuY3Rpb24gKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZyhpKyspOwogICAgICAgIH0sMTAwMCk7</text>
+        <text>onClickH1(e) {
+        console.log(&quot;onClickH1&quot;);
+        //this.setState({xx: &quot;onClickH1-xx&quot;});
+        this.setState({xx: &quot;onClickH1-xx&quot;});
+
+    }</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KCk9PnsKICAgICAgICAgICAgY29uc29sZS5sb2coaSsrKSA7CgogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2hhbGxvd0NvbXBhcmUobmV4dFByb3BzLG5leHRTdGF0ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
