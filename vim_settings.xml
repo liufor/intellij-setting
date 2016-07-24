@@ -55,12 +55,12 @@
       <file name="$USER_HOME$/work/code/wanmei-party-management/src/main/resources/spring/mvc-dispatcher-servlet.xml" timestamp="1469161069813" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/group-index.css" timestamp="1469168382273" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/build/lib.js" timestamp="1469178265353" />
-      <file name="$USER_HOME$/work/code/redux/examples/counter-vanilla/index2.html" timestamp="1469372642038">
-        <mark key="'" line="40" column="26" />
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="61" column="18" />
-        <mark key="." line="61" column="18" />
-        <mark key="^" line="71" column="39" />
+      <file name="$USER_HOME$/work/code/redux/examples/counter-vanilla/index2.html" timestamp="1469373250704">
+        <mark key="'" line="62" column="24" />
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="23" />
+        <mark key="." line="62" column="23" />
+        <mark key="^" line="62" column="22" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/node_modules/react-redux/dist/react-redux.js" timestamp="1469178838189" />
       <file name="$USER_HOME$/work/code/simplest-redux-example/package.json" timestamp="1469353152337" />
@@ -75,7 +75,6 @@
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/util.js" timestamp="1469346725314" />
     </filemarks>
     <jumps>
-      <jump line="165" column="14" filename="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/service/ComboService.java" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c96ba33c-93ae-42cd-99ab-63cd3c33a5fd/console_3.sql" />
       <jump line="5" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c96ba33c-93ae-42cd-99ab-63cd3c33a5fd/console_3.sql" />
       <jump line="5" column="9" filename="$USER_HOME$/work/code/linshi/wanmei-party-api/src/main/resources/config-online.properties" />
@@ -175,6 +174,7 @@
       <jump line="64" column="0" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/component/Party1.js" />
       <jump line="16" column="16" filename="$USER_HOME$/work/code/redux/examples/counter-vanilla/index2.html" />
       <jump line="39" column="26" filename="$USER_HOME$/work/code/redux/examples/counter-vanilla/index2.html" />
+      <jump line="62" column="24" filename="$USER_HOME$/work/code/redux/examples/counter-vanilla/index2.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -197,13 +197,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>store</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>store</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>theme'</text>
+        <text encoding="base64">XDx0eXBlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>incrementIfOdd</text>
@@ -240,9 +240,9 @@
       </register>
     </registers>
     <search>
-      <last-search>theme'</last-search>
+      <last-search encoding="base64">XDx0eXBlXD4=</last-search>
       <last-offset />
-      <last-pattern>theme'</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlXD4=</last-pattern>
       <last-replace>Group</last-replace>
       <last-substitute>Birthday</last-substitute>
       <last-dir>1</last-dir>
@@ -250,7 +250,6 @@
     </search>
     <history>
       <history-search>
-        <entry>brea</entry>
         <entry>sim</entry>
         <entry>mome</entry>
         <entry>main</entry>
@@ -270,6 +269,7 @@
         <entry>Birthday</entry>
         <entry>console.log</entry>
         <entry>theme'</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>19,21t.</entry>
