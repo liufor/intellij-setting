@@ -25,11 +25,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/newhtml/page-group-checkout.html" timestamp="1469552598632" />
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" timestamp="1469529576499">
-        <mark key="[" line="232" column="32" />
-        <mark key="]" line="232" column="32" />
-        <mark key="^" line="237" column="14" />
-        <mark key="." line="232" column="32" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" timestamp="1469614719275">
+        <mark key="[" line="127" column="20" />
+        <mark key="]" line="127" column="18" />
+        <mark key="^" line="127" column="18" />
+        <mark key="." line="127" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/UnpaidOrderDetailPage.js" timestamp="1469602078950">
         <mark key="[" line="327" column="20" />
@@ -338,6 +338,7 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/OrderController.java" timestamp="1469614698435" />
       <file name="$USER_HOME$/work/code/redux/examples/counter/reducers/index2.js" timestamp="1469413787468">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -366,12 +367,12 @@
         <mark key="]" line="210" column="13" />
         <mark key="." line="210" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" timestamp="1469613989917">
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" timestamp="1469614767709">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="67" column="12" />
-        <mark key="]" line="109" column="46" />
-        <mark key="." line="109" column="46" />
-        <mark key="^" line="109" column="46" />
+        <mark key="[" line="192" column="41" />
+        <mark key="]" line="192" column="41" />
+        <mark key="^" line="180" column="42" />
+        <mark key="." line="192" column="41" />
       </file>
       <file name="$USER_HOME$/work/code/redux/examples/todos2/reducers/index.js" timestamp="1469436691960">
         <mark key="[" line="8" column="0" />
@@ -612,16 +613,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>this.loadData(
-                Util.getCityId(props.location.query),
-                props.orderForm.themeId,
-                props.orderForm.placeId,
-                props.orderForm.comboId
-            );
-            this.checkOrderForm(props);</text>
+        <text>createOrder</text>
       </register>
       <register name="-" type="4">
-        <text>CUSTOMIZTION_ORDER_TYPE</text>
+        <text>createOrder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlXD4=</text>
@@ -629,56 +624,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IExvYWRpbmcgZnJvbSAiLi4vLi4vLi4vY29tcG9uZW50L2xvYWRpbmciOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>this.loadData(
-                Util.getCityId(props.location.query),
-                props.orderForm.themeId,
-                props.orderForm.placeId,
-                props.orderForm.comboId
-            );
-            this.checkOrderForm(props);</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFydHlLaWRzTnVtYmVyOiBjaGlsZE51bSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFydHlQYXJlbnRzTnVtYmVyOiBhZHVsdE51bSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEdST1VQX09SREVSX1RZUEUgPSAzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkQ29tbW9kaXRpZXM6IChmb3JtLmNvbW1vZGl0aWVzIHx8IFtdKS5tYXAoKGl0ZW0pID0+ICh7Y29tbW9kaXR5SWQ6IGl0ZW0uaWR9KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2lkR2VuZGVyOiBmb3JtLmtpZEdlbmRlciwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA7CiAgICAgICAgICAgICAgICByZXR1cm47</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAga2lkQmlydGhkYXk6IGZvcm0ua2lkQmlydGhkYXkgJiYgZGF0ZUZvcm1hdHRlcihmb3JtLmtpZEJpcnRoZGF5LCAneXl5eS1tbS1kZCcpLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>query.comboId || query.themeId || query.placeId) {
-                props.clearOrderForm();
-                props.updateOrderForm({
-                    comboId: query.comboId,
-                    themeId: query.themeId,
-                    placeId: query.placeId
-                });
-
-                this.context.router.replace({
-                    pathname: '/checkout',
-                    query: {
-                        from: query.comboId ? 'combo' : (query.themeId ? 'theme' : 'place')
-                    }
-                });
-                this.loadData(
-                    Util.getCityId(props.location.query),
-                    query.themeId,
-                    query.placeId,
-                    query.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAga2lkTmFtZTogZm9ybS5raWROYW1lLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFydHlUaW1lOiBmb3JtLnBhcnR5VGltZSAmJiBkYXRlRm9ybWF0dGVyKGZvcm0ucGFydHlUaW1lLCAneXl5eS1tbS1kZCcpLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGNob29zZVRoZW1lKCkgewogICAgICAgIHZhciBvcmRlckZvcm0gPSB0aGlzLnByb3BzLm9yZGVyRm9ybTsKICAgICAgICBzZW5kRVYoJy9mb3JtL2Nob29zZS90aGVtZScpOwogICAgICAgIHRoaXMuY29udGV4dC5yb3V0ZXIucHVzaCh7CiAgICAgICAgICAgIHBhdGhuYW1lOiAnL2NoZWNrb3V0L3RoZW1lJywKICAgICAgICAgICAgcXVlcnk6IHsKICAgICAgICAgICAgICAgIGNpdHlJZDogdGhpcy5zdGF0ZS5jaXR5SWQsCiAgICAgICAgICAgICAgICBjb21ib0lkOiBvcmRlckZvcm0uY29tYm9JZAogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9CgogICAgY2hvb3NlQ29tYm8oKSB7CiAgICAgICAgc2VuZEVWKCcvZm9ybS9jaG9vc2UvY29tYm8nKTsKICAgICAgICB0aGlzLmNvbnRleHQucm91dGVyLnB1c2goewogICAgICAgICAgICBwYXRobmFtZTogJy9jaGVja291dC9jb21ibycsCiAgICAgICAgICAgIHF1ZXJ5OiB7CiAgICAgICAgICAgICAgICBjaXR5SWQ6IHRoaXMuc3RhdGUuY2l0eUlkLAogICAgICAgICAgICAgICAgdGhlbWVJZDogdGhpcy5wcm9wcy5vcmRlckZvcm0udGhlbWVJZAogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9CgogICAgY2hvb3NlUGxhY2UoKSB7CiAgICAgICAgdmFyIG9yZGVyRm9ybSA9IHRoaXMucHJvcHMub3JkZXJGb3JtOwogICAgICAgIHNlbmRFVignL2Zvcm0vY2hvb3NlL3BsYWNlJyk7CgogICAgICAgIHRoaXMuY29udGV4dC5yb3V0ZXIucHVzaCh7CiAgICAgICAgICAgIHBhdGhuYW1lOiAnL2NoZWNrb3V0L3BsYWNlJywKICAgICAgICAgICAgcXVlcnk6IHsKICAgICAgICAgICAgICAgIGNpdHlJZDogdGhpcy5zdGF0ZS5jaXR5SWQsCiAgICAgICAgICAgICAgICBjb21ib0lkOiBvcmRlckZvcm0uY29tYm9JZAogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9CgogICAgY2hvb3NlQ29tbW9kaXR5KCkgewogICAgICAgIHZhciBjb21ib0lkID0gdGhpcy5wcm9wcy5vcmRlckZvcm0uY29tYm9JZDsKCiAgICAgICAgaWYgKCFjb21ib0lkKSB7CiAgICAgICAgICAgIHNlbmRFVignL2Zvcm0vZXJyb3Iv6K+35YWI6YCJ5oup5aWX6aSQJyk7CiAgICAgICAgICAgIHRoaXMucmVmcy50b2FzdC5zaG93KCfor7flhYjpgInmi6nlpZfppJAnKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgc2VuZEVWKCcvZm9ybS9jaG9vc2UvY29tbW9kaXR5Jyk7CgogICAgICAgIHRoaXMuY29udGV4dC5yb3V0ZXIucHVzaCh7CiAgICAgICAgICAgIHBhdGhuYW1lOiAnL2NoZWNrb3V0L2NvbW1vZGl0eScsCiAgICAgICAgICAgIHF1ZXJ5OiB7CiAgICAgICAgICAgICAgICBjaXR5SWQ6IHRoaXMuc3RhdGUuY2l0eUlkLAogICAgICAgICAgICAgICAgY29tYm9JZAogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhlbWVJZDogZm9ybS50aGVtZUlkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxhY2VJZDogZm9ybS5wbGFjZUlkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
