@@ -24,7 +24,7 @@
       <file name="/a.dummy" timestamp="1469765858340">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" timestamp="1469614899418">
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" timestamp="1469780321841">
         <mark key="[" line="127" column="20" />
         <mark key="]" line="127" column="18" />
         <mark key="^" line="127" column="18" />
@@ -54,6 +54,7 @@
         <mark key="." line="176" column="4" />
         <mark key="^" line="176" column="4" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/group.js" timestamp="1469779764907" />
       <file name="$USER_HOME$/work/code/wanmei-common/wanmei-authc/pom.xml" timestamp="1466401136449">
         <mark key="[" line="110" column="26" />
       </file>
@@ -182,12 +183,12 @@
         <mark key="." line="34" column="32" />
         <mark key="^" line="34" column="32" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/groupOrder.js" timestamp="1469613304033">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="15" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/groupOrder.js" timestamp="1469780639036">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/GeoController.java" timestamp="1469099695829">
         <mark key="[" line="27" column="91" />
@@ -213,12 +214,6 @@
         <mark key="]" line="237" column="0" />
         <mark key="^" line="367" column="15" />
         <mark key="." line="237" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/PartyCaseController.java" timestamp="1469764388373">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="19" column="97" />
-        <mark key="." line="19" column="98" />
-        <mark key="^" line="19" column="97" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/common/entitysearch/ExampleBuilder.java" timestamp="1468835012890">
         <mark key="[" line="92" column="30" />
@@ -298,7 +293,7 @@
         <mark key="." line="9" column="48" />
         <mark key="^" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/order.js" timestamp="1469610242595">
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/order.js" timestamp="1469779779777">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="18" />
@@ -339,6 +334,12 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/OrderController.java" timestamp="1469778617559">
+        <mark key="[" line="264" column="69" />
+        <mark key="]" line="264" column="69" />
+        <mark key="^" line="264" column="69" />
+        <mark key="." line="264" column="69" />
+      </file>
       <file name="$USER_HOME$/work/code/redux/examples/counter/reducers/index2.js" timestamp="1469413787468">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -360,18 +361,12 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/constant/index.js" timestamp="1469613260696">
-        <mark key="'" line="185" column="51" />
-        <mark key="[" line="210" column="13" />
-        <mark key="]" line="210" column="13" />
-        <mark key="." line="210" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" timestamp="1469777285909">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="78" column="21" />
-        <mark key="]" line="78" column="20" />
-        <mark key="." line="78" column="20" />
-        <mark key="^" line="78" column="20" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" timestamp="1469781510936">
+        <mark key="'" line="303" column="27" />
+        <mark key="[" line="126" column="45" />
+        <mark key="]" line="126" column="44" />
+        <mark key="." line="126" column="44" />
+        <mark key="^" line="126" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/redux/examples/todos2/reducers/index.js" timestamp="1469436691960">
         <mark key="[" line="8" column="0" />
@@ -391,6 +386,7 @@
         <mark key="^" line="15" column="8" />
         <mark key="." line="15" column="8" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/groupParty.js" timestamp="1469780867633" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/UnpaidOrderDetailPage.js" timestamp="1469592320742">
         <mark key="[" line="108" column="41" />
         <mark key="]" line="40" column="0" />
@@ -489,8 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="36" filename="$USER_HOME$/work/code/NQ/backtesting/stagety_back.py" />
-      <jump line="535" column="21" filename="$USER_HOME$/work/code/NQ/backtesting/stagety_back.py" />
       <jump line="144" column="24" filename="$USER_HOME$/work/code/NQ/data/history_data.py" />
       <jump line="10" column="0" filename="$USER_HOME$/work/code/NQ/backtesting/tushare_zipline_test.py" />
       <jump line="0" column="30" filename="/fragment.py" />
@@ -589,6 +583,8 @@
       <jump line="14" column="0" filename="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/groupOrder.js" />
       <jump line="17" column="0" filename="$USER_HOME$/work/code/wanmei-party-ui/view/action/groupOrder.js" />
       <jump line="37" column="10" filename="$USER_HOME$/work/code/wanmei-party-ui/view/action/order.js" />
+      <jump line="75" column="53" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" />
+      <jump line="293" column="27" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -611,43 +607,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getCurrentUser</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImdldEN1cnJlbnRVc2VyLWNvbXBvbmVudERpZE1vdW50Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7ZmV0Y2hpbmc6IGZhbHNlfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7ZmV0Y2hpbmc6IHRydWV9KTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5wcm9wcy5vcmRlckRldGFpbC5mZXQpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy4pCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcXVlcnkgPSBwcm9wcy5sb2NhdGlvbi5xdWVyeTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgeAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZmV0Y2hpbmcgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBvcmRlckNvZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
