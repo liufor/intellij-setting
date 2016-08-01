@@ -453,11 +453,11 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="38" column="16" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/OrderDetailPage.js" timestamp="1470044820865">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="17" />
-        <mark key="^" line="28" column="17" />
-        <mark key="." line="28" column="17" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/OrderDetailPage.js" timestamp="1470047712907">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="^" line="236" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/logback.xml" timestamp="1468990549139">
         <mark key="[" line="49" column="61" />
@@ -622,10 +622,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>count</text>
+        <text>SERVICE_PHONE</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>SERVICE_PHONE</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -634,34 +634,36 @@
         <text encoding="base64">aW1wb3J0IHtnZXRHcm91cE9yZGVyRGV0YWlsfSBmcm9tICIuLi8uLi8uLi9hY3Rpb24vZ3JvdXBPcmRlciI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcGFydHlEZXRhaWxGZXRjaGVkCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBgJHt0aW1lLmdldEZ1bGxZZWFyKCl95bm0JHt0aW1lLmdldE1vbnRoKCkgKyAxfeaciCR7dGltZS5nZXREYXRlKCl95pelICR7dGltZS5nZXRIb3VycygpOiR7dGltZS5nZXRNaW51dGVzfX1gOwo=</text>
+      <register name="3" type="4">
+        <text>else {
+            this.props.getGroupOrderDetail(this.state.code);
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGVGb3JtYXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBgJHt0aW1lLmdldEZ1bGxZZWFyKCl95bm0JHt0aW1lLmdldE1vbnRoKCkgKyAxfeaciCR7dGltZS5nZXREYXRlKCl95pelYDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtmZXRjaGluZzogb3JkZXJEZXRhaWxGZXRjaGVkIHx8IHBhcnR5RGV0YWlsRmV0Y2hlZH0pOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpbWUgPSBuZXcgRGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtmZXRjaGluZzogdHJ1ZX0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpbWUgPSBuZXcgRGF0ZSh0aW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3IpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>10</text>
+        <text>49</text>
       </register>
     </registers>
     <search>
@@ -697,7 +699,6 @@
         <entry>checkout</entry>
       </history-search>
       <history-cmd>
-        <entry>103</entry>
         <entry>170</entry>
         <entry>4</entry>
         <entry>84</entry>
@@ -717,6 +718,7 @@
         <entry>7</entry>
         <entry>19</entry>
         <entry>10</entry>
+        <entry>49</entry>
       </history-cmd>
       <history-expr />
       <history-input />
