@@ -47,11 +47,12 @@
         <mark key="." line="121" column="62" />
         <mark key="^" line="121" column="20" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/UnpaidOrderDetailPage.js" timestamp="1470053271822">
-        <mark key="[" line="8" column="62" />
-        <mark key="]" line="8" column="60" />
-        <mark key="." line="8" column="60" />
-        <mark key="^" line="8" column="60" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/UnpaidOrderDetailPage.js" timestamp="1470054084174">
+        <mark key="'" line="18" column="26" />
+        <mark key="[" line="111" column="11" />
+        <mark key="]" line="109" column="95" />
+        <mark key="." line="109" column="95" />
+        <mark key="^" line="109" column="95" />
       </file>
       <file name="$USER_HOME$/work/code/NQ/position/change_position.py" timestamp="1468466056288">
         <mark key="[" line="214" column="17" />
@@ -448,7 +449,7 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="38" column="16" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/OrderDetailPage.js" timestamp="1470053203996">
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/OrderDetailPage.js" timestamp="1470053654628">
         <mark key="[" line="138" column="79" />
         <mark key="]" line="9" column="29" />
         <mark key="." line="9" column="29" />
@@ -495,7 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/work/code/NQ/backtesting/tushare_zipline_test.py" />
       <jump line="0" column="30" filename="/fragment.py" />
       <jump line="611" column="45" filename="$USER_HOME$/anaconda/envs/NQ/lib/python2.7/site-packages/zipline-0.9.0+183.g6997299-py2.7-macosx-10.5-x86_64.egg/zipline/algorithm.py" />
       <jump line="485" column="51" filename="$USER_HOME$/anaconda/envs/NQ/lib/python2.7/site-packages/zipline/algorithm.py" />
@@ -595,6 +595,7 @@
       <jump line="75" column="53" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" />
       <jump line="293" column="27" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" />
       <jump line="194" column="26" filename="$USER_HOME$/work/code/wanmei-party-ui/view/route/index.js" />
+      <jump line="18" column="26" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/UnpaidOrderDetailPage.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -616,11 +617,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZW5kZXJBY3Rpdml0eSgpICsgdGhpcy5yZW5kZXIoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>groupPartyId</text>
       </register>
       <register name="-" type="4">
-        <text>renderServiceProcess</text>
+        <text>groupPartyId</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -629,31 +630,37 @@
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZW5kZXJBY3Rpdml0eSgpICsgdGhpcy5yZW5kZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcHMuY291cG9uTGlzdC5tZXRhLm9yZGVyQ29kZSA9PT0gcHJvcHMuY29kZSAmJgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXIoKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcHMuY291cG9uTGlzdC5kYXRhICYmCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">IHZhcgogdmFyCiAKIHZhcg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJEZXRhaWwubWV0YS50aWNrZXRJZCA9PT0gdGlja2V0SWQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>const
+const
+const</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>let
+let
+let</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>var
+var
+var</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U2VyCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZW5kZXJBY3Rpdml0eSgpICsgdGhpcy5yZW5kZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXIoKX0K</text>
       </register>
       <register name=":" type="4">
         <text>49</text>
