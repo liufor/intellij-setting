@@ -47,12 +47,12 @@
         <mark key="." line="121" column="62" />
         <mark key="^" line="121" column="20" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/UnpaidOrderDetailPage.js" timestamp="1470054084174">
-        <mark key="'" line="18" column="26" />
-        <mark key="[" line="111" column="11" />
-        <mark key="]" line="109" column="95" />
-        <mark key="." line="109" column="95" />
-        <mark key="^" line="109" column="95" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/UnpaidOrderDetailPage.js" timestamp="1470109758978">
+        <mark key="'" line="20" column="26" />
+        <mark key="[" line="204" column="19" />
+        <mark key="]" line="189" column="10" />
+        <mark key="." line="189" column="10" />
+        <mark key="^" line="189" column="10" />
       </file>
       <file name="$USER_HOME$/work/code/NQ/position/change_position.py" timestamp="1468466056288">
         <mark key="[" line="214" column="17" />
@@ -105,7 +105,7 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/route/index.js" timestamp="1470033668253">
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/route/index.js" timestamp="1470109543425">
         <mark key="'" line="194" column="26" />
         <mark key="[" line="119" column="28" />
         <mark key="]" line="203" column="37" />
@@ -403,7 +403,7 @@
         <mark key="^" line="15" column="8" />
         <mark key="." line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/OrderDetailPage.js" timestamp="1470033253411" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/OrderDetailPage.js" timestamp="1470107658271" />
       <file name="OptimizerProperties.xml" timestamp="1468467435508">
         <mark key="[" line="0" column="0" />
       </file>
@@ -449,11 +449,11 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="38" column="16" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/OrderDetailPage.js" timestamp="1470053654628">
-        <mark key="[" line="138" column="79" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/OrderDetailPage.js" timestamp="1470109160541">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/logback.xml" timestamp="1468990549139">
         <mark key="[" line="49" column="61" />
@@ -484,6 +484,12 @@
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/GroupPartyController.java" timestamp="1469073247438">
         <mark key="[" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/util.js" timestamp="1470109126895">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="1" column="47" />
+        <mark key="^" line="1" column="47" />
+        <mark key="." line="1" column="47" />
       </file>
       <file name="/fragment.java" timestamp="1470022916088">
         <mark key="[" line="0" column="0" />
@@ -618,49 +624,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>groupPartyId</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>groupPartyId</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gIi4uLy4uLy4uL2NvbXBvbmVudC9Ub2FzdCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvcHMuY291cG9uTGlzdC5tZXRhLm9yZGVyQ29kZSA9PT0gcHJvcHMuY29kZSAmJgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvcHMuY291cG9uTGlzdC5kYXRhICYmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IHZhcgogdmFyCiAKIHZhcg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJEZXRhaWwubWV0YS50aWNrZXRJZCA9PT0gdGlja2V0SWQK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="5" type="8">
-        <text>const
-const
-const</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHByb3BzLmdyb3VwUGFydHlEZXRhaWwuZGF0YSAmJgogICAgICAgICAgICAgICAgcHJvcHMuZ3JvdXBQYXJ0eURldGFpbC5tZXRhLmdyb3VwUGFydHlJZCA9PT0gcHJvcHMuZ3JvdXBPcmRlckRldGFpbC5ncm91cFBhcnR5SWQKCiAgICAgICAgKSB7CgoKCiAgICAgICAgICAgIGlmIChwcm9wcy50aGVtZURldGFpbC5kYXRhICYmCiAgICAgICAgICAgICAgICBwcm9wcy50aGVtZURldGFpbC5kYXRhLmlkID09PSBwcm9wcy5ncm91cE9yZGVyRGV0YWlsLmRhdGEudGhlbWVJZAogICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgICAgIGZldGNoaW5nOiBmYWxzZQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoIXByb3BzLnRoZW1lRGV0YWlsLmZldGNoaW5nKSB7CiAgICAgICAgICAgICAgICBwcm9wcy5nZXRUaGVtZURldGFpbCh7CiAgICAgICAgICAgICAgICAgICAgdGhlbWVJZDogcHJvcHMuZ3JvdXBPcmRlckRldGFpbC5kYXRhLnRoZW1lSWQsCiAgICAgICAgICAgICAgICAgICAgY2l0eUlkOiBwcm9wcy5ncm91cE9yZGVyRGV0YWlsLmRhdGEuY2l0eUlkCiAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
-      <register name="6" type="8">
-        <text>let
-let
-let</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>var
-var
-var</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZW5kZXJBY3Rpdml0eSgpICsgdGhpcy5yZW5kZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdyb3VwT3JkZXJGZXRjaGVkCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXIoKX0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJvcHMuZ3JvdXBPcmRlckRldGFpbC5kYXRhICYmCiAgICAgICAgICAgIHByb3BzLmdyb3VwT3JkZXJEZXRhaWwubWV0YS5jb2RlID09PSBwcm9wcy5jb2RlICYm</text>
       </register>
       <register name=":" type="4">
         <text>49</text>
