@@ -36,11 +36,8 @@
         <mark key="^" line="127" column="18" />
         <mark key="." line="127" column="18" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/CheckoutPage.js" timestamp="1470215054740">
-        <mark key="[" line="389" column="21" />
-        <mark key="]" line="391" column="7" />
-        <mark key="^" line="391" column="7" />
-        <mark key="." line="391" column="7" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/CheckoutPage.js" timestamp="1470216110946">
+        <mark key="^" line="377" column="7" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/account/AlbumDetailPage.js" timestamp="1470044630981">
         <mark key="[" line="180" column="104" />
@@ -649,7 +646,18 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>css</text>
+        <text>choosePlace () {
+        var orderForm = this.props.orderForm;
+        sendEV('/form/choose/place');
+
+        this.context.router.push({
+            pathname: '/checkout/place',
+            query: {
+                cityId: 1,
+                comboId: 1
+            }
+        });
+    }</text>
       </register>
       <register name="-" type="4">
         <text>css</text>
@@ -660,32 +668,43 @@
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAiLi9wYWdlL3BhZ2UtYmlydGhkYXktb3JkZXIuY3NzIjsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>choosePlace () {
+        var orderForm = this.props.orderForm;
+        sendEV('/form/choose/place');
+
+        this.context.router.push({
+            pathname: '/checkout/place',
+            query: {
+                cityId: 1,
+                comboId: 1
+            }
+        });
+    }</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDE+eHh4PC9oMT4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IDxkaXYgY2xhc3M9ImZpZWxkIGZpZWxkLXJlbWFyayI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmaWVsZC1sYWJlbCI+PGkgY2xhc3M9InNwcml0ZS1wZW5jaWwgYmlydGhkYXktaWNvbjYiPjwvaT48aT4g5aSHPC9pPjxpPuazqDwvaT48L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZXh0YXJlYSBjbGFzcz0iZmllbGQtdGV4dGFyZWEiIG5hbWU9InJlbWFyayIgcGxhY2Vob2xkZXI9IijpgInloaspIj48L3RleHRhcmVhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZWFjdFRlc3RVdGlscwo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWFjdFRlc3RVdGlscwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">dmFyIHBsYWNlRGV0YWlsID0gdGhpcy5wcm9wcy5wbGFjZURldGFpbDsKICAgICAgICB2YXIgb3JkZXJGb3JtID0gdGhpcy5wcm9wcy5vcmRlckZvcm07CgogICAgICAgIHZhciB0ZXh0ID0gPHNwYW4gY2xhc3NOYW1lPSJmaWVsZC1wbGFjZWhvbGRlciI+5Zy65Zyw6YCJ5oupPC9zcGFuPjs=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgIHgK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRpdiBjbGFzc05hbWU9ImNoaWxkLWluZm8tcGFuZWwiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGZvcj0iIj48aSBjbGFzc05hbWU9InNwcml0ZS1wZW5jaWwgYmlydGhkYXktaWNvbjEiIC8+5Li+5Yqe5pe26Ze0IDogPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iIiB0eXBlPSJ0ZXh0IiBjbGFzc05hbWU9ImNoaWxkLWluZm8taW5wdXQiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name=":" type="4">
         <text>49</text>
