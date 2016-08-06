@@ -48,12 +48,11 @@
         <mark key="^" line="178" column="49" />
         <mark key="." line="178" column="49" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/CheckoutPage.js" timestamp="1470394472142">
-        <mark key="'" line="620" column="0" />
-        <mark key="[" line="180" column="26" />
-        <mark key="]" line="180" column="26" />
-        <mark key="^" line="180" column="58" />
-        <mark key="." line="180" column="26" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/CheckoutPage.js" timestamp="1470396609249">
+        <mark key="'" line="619" column="0" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/ChooseThemePage.js" timestamp="1469072173024">
         <mark key="[" line="44" column="18" />
@@ -382,8 +381,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -395,31 +394,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IGFjdGlvbi5wYXlsb2FkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvdW50OjEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY29tYm9JbmZvID0gdGhpcy5nZXRDb21ib0luZm8oKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y29uc3QgZGVmYXVsdFBob25lID0gdGhpcy5wcm9wcy5iaXJ0aGRheU9yZGVyRm9ybS5jb250YWN0UGhvbmUKICAgICAgICAgICAgICAgICAgICB8fCAodGhpcy5wcm9wcy51c2VyLmRhdGEgJiYgdGhpcy5wcm9wcy51c2VyLmRhdGEucGhvbmUpOwogICAgICAgICAgICAgICAgdGhpcy5wcm9wcy51cGRhdGVCaXJ0aGRheU9yZGVyRm9ybSh7CiAgICAgICAgICAgICAgICAgICAgY29udGFjdFBob25lOiBkZWZhdWx0UGhvbmUKICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpY2UgKz0gKGZvcm0ucGFydHlQYXJlbnRzTnVtYmVyIC0gY29tYm9JbmZvLmFkdWx0TnVtKSAqIHRoaXMucHJvcHMuYWR1bHRDb21tb2RpdHkuZGF0YS5zYWxlUHJpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApIHsK</text>
+      <register name="7" type="4">
+        <text>{
+                            birthdayPartyId: order.birthdayPartyId,
+                            orderCode: order.orderCode,
+                            contactPhone: order.contactPhone,
+                            kidRemark: order.kidRemark,
+                            ticketId: order.ticketId
+                        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybS5wYXJ0eVBhcmVudHNOdW1iZXIgPiBjb21ib0luZm8uYWR1bHROdW0K</text>
+        <text encoding="base64">ICAgIGNvdW50OjEsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZm9ybS5wYXJ0eVBhcmVudHNOdW1iZXIgJiYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
