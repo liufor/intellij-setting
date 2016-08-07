@@ -87,7 +87,7 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/pom.xml" timestamp="1470565753300">
+      <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/pom.xml" timestamp="1470571217329">
         <mark key="[" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/dto/ComboDto.java" timestamp="1466405627472">
@@ -162,6 +162,23 @@
         <mark key="^" line="149" column="27" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/main/scala/com/liufor/Counter.scala" timestamp="1470572606956">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="11" column="8" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/test/scala/com/liufor/MySpec.scala" timestamp="1470572316108">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/main/scala/com/liufor/WordCounter.scala" timestamp="1470571930196">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/UnpaidOrderDetailPage.js" timestamp="1470391658896">
         <mark key="[" line="210" column="38" />
         <mark key="]" line="361" column="21" />
@@ -195,6 +212,12 @@
       <file name="/dummy.sql" timestamp="1467703758443">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/main/scala/com/liufor/App.scala" timestamp="1470572561185">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/birthday/component/Content.js" timestamp="1470206893009">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="26" />
@@ -203,9 +226,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1469106240230">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" timestamp="1470385202368">
-        <mark key="'" line="339" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/CheckoutPage.js" timestamp="1470390272244">
         <mark key="[" line="817" column="30" />
@@ -387,10 +407,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Unit</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Unit</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -399,37 +419,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KDE9PTEpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnQoMTI3PT0xMjcpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnQoMTI4PT0xMjgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3VudGVyLnVwKHdvcmQsIGMpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y29uc3QgZGVmYXVsdFBob25lID0gdGhpcy5wcm9wcy5iaXJ0aGRheU9yZGVyRm9ybS5jb250YWN0UGhvbmUKICAgICAgICAgICAgICAgICAgICB8fCAodGhpcy5wcm9wcy51c2VyLmRhdGEgJiYgdGhpcy5wcm9wcy51c2VyLmRhdGEucGhvbmUpOwogICAgICAgICAgICAgICAgdGhpcy5wcm9wcy51cGRhdGVCaXJ0aGRheU9yZGVyRm9ybSh7CiAgICAgICAgICAgICAgICAgICAgY29udGFjdFBob25lOiBkZWZhdWx0UGhvbmUKICAgICAgICAgICAgICAgIH0pOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y29uc3QgZGVmYXVsdFBob25lID0gdGhpcy5wcm9wcy5iaXJ0aGRheU9yZGVyRm9ybS5jb250YWN0UGhvbmUKICAgICAgICAgICAgICAgICAgICB8fCAodGhpcy5wcm9wcy51c2VyLmRhdGEgJiYgdGhpcy5wcm9wcy51c2VyLmRhdGEucGhvbmUpOwogICAgICAgICAgICAgICAgdGhpcy5wcm9wcy51cGRhdGVCaXJ0aGRheU9yZGVyRm9ybSh7CiAgICAgICAgICAgICAgICAgICAgY29udGFjdFBob25lOiBkZWZhdWx0UGhvbmUKICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-                            birthdayPartyId: order.birthdayPartyId,
-                            orderCode: order.orderCode,
-                            contactPhone: order.contactPhone,
-                            kidRemark: order.kidRemark,
-                            ticketId: order.ticketId
-                        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvdW50OjEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtCg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
