@@ -9,15 +9,20 @@
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/ChooseCommodityPage.js" timestamp="1470714036454">
         <mark key="^" line="122" column="65" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/OrderDetailPage.js" timestamp="1470633702638">
+        <mark key="[" line="522" column="57" />
+        <mark key="]" line="522" column="57" />
+        <mark key="." line="522" column="57" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/LoginController.java" timestamp="1466601133644">
         <mark key="[" line="42" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1470719211660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/CheckoutPage.js" timestamp="1470725791868">
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/CheckoutPage.js" timestamp="1470726775956">
         <mark key="'" line="622" column="0" />
-        <mark key="[" line="292" column="42" />
+        <mark key="[" line="331" column="55" />
         <mark key="]" line="292" column="42" />
         <mark key="^" line="292" column="42" />
         <mark key="." line="292" column="42" />
@@ -63,6 +68,8 @@
       <file name="/fragment.py" timestamp="1470642365445">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/CommodityJson.java" timestamp="1470726928926" />
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/dto/OrderDetailDto.java" timestamp="1470727102445" />
       <file name="/a.sql" timestamp="1470640297679">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,6 +88,7 @@
       <file name="$USER_HOME$/work/code/react-demos/demo05/index.html" timestamp="1468300841573">
         <mark key="[" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/form/OrderGroupPartyForm.java" timestamp="1470726425848" />
       <file name="/fragment.js" timestamp="1468242361505">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,7 +105,7 @@
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/ChooseThemePage.js" timestamp="1469072173024">
         <mark key="[" line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/dto/BirthdayPartyDto.java" timestamp="1470633822572" />
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/dto/BirthdayPartyDto.java" timestamp="1470726523326" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/page-group-order.css" timestamp="1470651127605" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/page-order-list-v2.css" timestamp="1470627141113">
         <mark key="[" line="14" column="1" />
@@ -118,6 +126,11 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/CommodityCountJson.java" timestamp="1470727058864">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/anaconda/envs/NQ/lib/python2.7/site-packages/MySQLdb/connections.py" timestamp="1470641816111" />
       <file name="$USER_HOME$/Documents/scala_projects/lastversion/pom.xml" timestamp="1470569890560">
         <mark key="[" line="7" column="22" />
@@ -129,6 +142,11 @@
       </file>
       <file name="$USER_HOME$/work/code/NQ/position/stock_signal.csv" timestamp="1467967880624">
         <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/OrderListPageV3.js" timestamp="1470628172018">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/OrderDetailPageV3.js" timestamp="1470630780383" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/OrderDetailPage.js" timestamp="1470631715416" />
@@ -174,7 +192,7 @@
         <mark key="[" line="11" column="1" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/page-index.css" timestamp="1470711497537" />
-      <file name="/fragment.java" timestamp="1470581309202">
+      <file name="/fragment.java" timestamp="1470726976804">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -300,28 +318,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>toggleCommodity(item) {
-        var addCommodities = this.props.birthdayOrderForm.addCommodities || [];
-        var isExist = _.find(addCommodities, function (commodity) {
-            return commodity.id === item.id;
-        });
-
-        if (isExist) {
-            addCommodities = addCommodities.reduce(function (ret, curr) {
-                if (curr.id !== item.id) {
-                    ret.push(curr);
-                }
-                return ret;
-            }, []);
-        } else {
-            addCommodities.push(item);
-        }
-
-        this.props.updateBirthdayOrderForm({
-            addCommodities: addCommodities
-        });
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>var</text>
@@ -332,7 +330,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgYWRkQ29tbW9kaXRpZXMgPSB0aGlzLnByb3BzLmJpcnRoZGF5T3JkZXJGb3JtLmFkZENvbW1vZGl0aWVzIHx8IFtdOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgeAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>toggleCommodity(item) {
         var addCommodities = this.props.birthdayOrderForm.addCommodities || [];
         var isExist = _.find(addCommodities, function (commodity) {
@@ -355,29 +359,23 @@
         });
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50ID0gMDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2Ugewo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50ID0gaXNTZWxlY3RlZC5jb3VudDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzU2VsZWN0ZWQpIHsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrYm94ID0gKDxpIGNsYXNzTmFtZT0ic3ByaXRlLWNoZWNrLW9uIi8+KTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGNoZWNrYm94ID0gKDxpIGNsYXNzTmFtZT0ic3ByaXRlLWNoZWNrLW9mZiIvPik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrYm94ID0gKDxpIGNsYXNzTmFtZT0ic3ByaXRlLWNoZWNrLW9uIi8+KTsK</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
