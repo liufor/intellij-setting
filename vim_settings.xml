@@ -133,8 +133,8 @@
       <file name="$USER_HOME$/work/code/wanmei-party-ui-master/.config.json" timestamp="1469522964867">
         <mark key="[" line="1" column="54" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/OrderSimpleJson.java" timestamp="1470627268063">
-        <mark key="[" line="13" column="31" />
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/OrderSimpleJson.java" timestamp="1470737066642">
+        <mark key="[" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/PaymentController.java" timestamp="1470735520646" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/birthday/component/Content.js" timestamp="1470206893009">
@@ -225,11 +225,11 @@
         <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/anaconda/envs/NQ/lib/python2.7/site-packages/MySQLdb/connections.py" timestamp="1470641816111" />
-      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/OrderController.java" timestamp="1470732433747">
-        <mark key="[" line="315" column="83" />
-        <mark key="]" line="316" column="35" />
-        <mark key="." line="316" column="95" />
-        <mark key="^" line="316" column="35" />
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/OrderController.java" timestamp="1470737838399">
+        <mark key="[" line="394" column="95" />
+        <mark key="]" line="394" column="78" />
+        <mark key="." line="394" column="78" />
+        <mark key="^" line="394" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/scala_projects/lastversion/pom.xml" timestamp="1470569890560">
         <mark key="[" line="7" column="22" />
@@ -486,11 +486,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VVNFIHBhcnR5OwoKQUxURVIgVEFCTEUgY29tYm8KICAgIEFERCBDT0xVTU4gYWR1bHRfcHJpY2UgREVDSU1BTCgxMCwyKSBERUZBVUxUICctMS4wMCcgQ09NTUVOVCAn5oiQ5Lq65Y2V5Lu3LOWmguaenOS4ui0x5oiW6ICFTlVMTCzliJnkvb/nlKjlhajlsYDmiJDkurrljZXku7cnLAogICBBREQgQ09MVU1OIGNoaWxkX3ByaWNlIERFQ0lNQUwoMTAsMikgREVGQVVMVCAnLTEuMDAnIENPTU1FTlQgJ+WEv+erpeWNleS7tyzlpoLmnpzngpwtMeaIluiAhU5VTEws5YiZ5L2/55So5YWo5bGA5oiQ5Lq65Y2V5Lu3JzsK</text>
+      <register name="&quot;" type="4">
+        <text>getPartyTime</text>
       </register>
       <register name="-" type="4">
-        <text>commodityPrice</text>
+        <text>getPartyTime</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -499,51 +499,31 @@
         <text encoding="base64">ICAgICAgICB2YXIgYWRkQ29tbW9kaXRpZXMgPSB0aGlzLnByb3BzLmJpcnRoZGF5T3JkZXJGb3JtLmFkZENvbW1vZGl0aWVzIHx8IFtdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VVNFIHBhcnR5OwoKQUxURVIgVEFCTEUgY29tYm8KICAgIEFERCBDT0xVTU4gYWR1bHRfcHJpY2UgREVDSU1BTCgxMCwyKSBERUZBVUxUICctMS4wMCcgQ09NTUVOVCAn5oiQ5Lq65Y2V5Lu3LOWmguaenOS4ui0x5oiW6ICFTlVMTCzliJnkvb/nlKjlhajlsYDmiJDkurrljZXku7cnLAogICBBREQgQ09MVU1OIGNoaWxkX3ByaWNlIERFQ0lNQUwoMTAsMikgREVGQVVMVCAnLTEuMDAnIENPTU1FTlQgJ+WEv+erpeWNleS7tyzlpoLmnpzngpwtMeaIluiAhU5VTEws5YiZ5L2/55So5YWo5bGA5oiQ5Lq65Y2V5Lu3JzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyU2ltcGxlSnNvbnMuYWRkKHRoaXMuT3JkZXJHcm91cFBhcnR5MlNpbXBsZUpzb24ob3JkZXIpKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dGV4dCA9IDxzcGFuIGNsYXNzTmFtZT0iZmllbGQtcGxhY2Vob2xkZXIiPuWcuuWcsOmAieaLqTwvc3Bhbj47CgogICAgICAgIGlmIChvcmRlckZvcm0ucGxhY2VJZCAmJgogICAgICAgICAgICBwbGFjZURldGFpbC5kYXRhICYmCiAgICAgICAgICAgIHBsYWNlRGV0YWlsLmRhdGEuaWQgPT09IG9yZGVyRm9ybS5wbGFjZUlkCiAgICAgICAgKSB7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvcmRlcnMuZm9yRWFjaChvcmRlciAtPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyUGFydHkuc2V0Q29tbW9kaXRpZXMoKTsK</text>
+        <text encoding="base64">VVNFIHBhcnR5OwoKQUxURVIgVEFCTEUgY29tYm8KICAgIEFERCBDT0xVTU4gYWR1bHRfcHJpY2UgREVDSU1BTCgxMCwyKSBERUZBVUxUICctMS4wMCcgQ09NTUVOVCAn5oiQ5Lq65Y2V5Lu3LOWmguaenOS4ui0x5oiW6ICFTlVMTCzliJnkvb/nlKjlhajlsYDmiJDkurrljZXku7cnLAogICBBREQgQ09MVU1OIGNoaWxkX3ByaWNlIERFQ0lNQUwoMTAsMikgREVGQVVMVCAnLTEuMDAnIENPTU1FTlQgJ+WEv+erpeWNleS7tyzlpoLmnpzngpwtMeaIluiAhU5VTEws5YiZ5L2/55So5YWo5bGA5oiQ5Lq65Y2V5Lu3JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">dGV4dCA9IDxzcGFuIGNsYXNzTmFtZT0iZmllbGQtcGxhY2Vob2xkZXIiPuWcuuWcsOmAieaLqTwvc3Bhbj47CgogICAgICAgIGlmIChvcmRlckZvcm0ucGxhY2VJZCAmJgogICAgICAgICAgICBwbGFjZURldGFpbC5kYXRhICYmCiAgICAgICAgICAgIHBsYWNlRGV0YWlsLmRhdGEuaWQgPT09IG9yZGVyRm9ybS5wbGFjZUlkCiAgICAgICAgKSB7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgeAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyUGFydHkuc2V0Q29tbW9kaXRpZXMoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>toggleCommodity(item) {
-        var addCommodities = this.props.birthdayOrderForm.addCommodities || [];
-        var isExist = _.find(addCommodities, function (commodity) {
-            return commodity.id === item.id;
-        });
-
-        if (isExist) {
-            addCommodities = addCommodities.reduce(function (ret, curr) {
-                if (curr.id !== item.id) {
-                    ret.push(curr);
-                }
-                return ret;
-            }, []);
-        } else {
-            addCommodities.push(item);
-        }
-
-        this.props.updateBirthdayOrderForm({
-            addCommodities: addCommodities
-        });
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
