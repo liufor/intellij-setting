@@ -6,15 +6,17 @@
       <file name="/start_script.py" timestamp="1467961488129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/ChooseCommodityPage.js" timestamp="1470652058448" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/ChooseCommodityPage.js" timestamp="1470714036454">
+        <mark key="^" line="122" column="65" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/LoginController.java" timestamp="1466601133644">
         <mark key="[" line="42" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1470655626659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/CheckoutPage.js" timestamp="1470657954535">
-        <mark key="'" line="622" column="0" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/CheckoutPage.js" timestamp="1470711377392">
+        <mark key="'" line="621" column="0" />
         <mark key="[" line="207" column="57" />
         <mark key="]" line="207" column="56" />
         <mark key="." line="207" column="56" />
@@ -30,6 +32,7 @@
       <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/pom.xml" timestamp="1470571217329">
         <mark key="[" line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/static/newhtml/new-choose.html" timestamp="1470711453525" />
       <file name="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/dto/ComboDto.java" timestamp="1466405627472">
         <mark key="[" line="17" column="25" />
       </file>
@@ -58,9 +61,6 @@
       <file name="/fragment.py" timestamp="1470642365445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/static/newhtml/choose.html" timestamp="1470666173489">
-        <mark key="'" line="520" column="3256" />
-      </file>
       <file name="/a.sql" timestamp="1470640297679">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,9 +69,6 @@
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/OrderSimpleJson.java" timestamp="1470627268063">
         <mark key="[" line="13" column="31" />
-      </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" timestamp="1470385202368">
-        <mark key="'" line="339" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/redux/examples/todos2/components/AddTodo.js" timestamp="1469436192842">
         <mark key="[" line="0" column="0" />
@@ -174,6 +171,7 @@
       <file name="$USER_HOME$/work/code/redux/examples/todos2/components/Todo.js" timestamp="1469431354408">
         <mark key="[" line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/page-index.css" timestamp="1470711497537" />
       <file name="/fragment.java" timestamp="1470581309202">
         <mark key="[" line="0" column="0" />
       </file>
@@ -301,43 +299,83 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>toggleCommodity(item) {
+        var addCommodities = this.props.birthdayOrderForm.addCommodities || [];
+        var isExist = _.find(addCommodities, function (commodity) {
+            return commodity.id === item.id;
+        });
+
+        if (isExist) {
+            addCommodities = addCommodities.reduce(function (ret, curr) {
+                if (curr.id !== item.id) {
+                    ret.push(curr);
+                }
+                return ret;
+            }, []);
+        } else {
+            addCommodities.push(item);
+        }
+
+        this.props.updateBirthdayOrderForm({
+            addCommodities: addCommodities
+        });
+    }</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iY29sbC00Ij48L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYWRkQ29tbW9kaXRpZXMgPSB0aGlzLnByb3BzLmJpcnRoZGF5T3JkZXJGb3JtLmFkZENvbW1vZGl0aWVzIHx8IFtdOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PGltZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcmM9Imh0dHA6Ly83eHJ6OWUuY29tMi56MC5nbGIucWluaXVjZG4uY29tL3BhcnR5TWFuYWdlLzIwMTY3MjczMzI5NmE5ODJlOTkzLThkY2UtNDA0Ny1iZmViLTcxMWEwMjljZTFlMy5qcGc/aW1hZ2VWaWV3Mi8yL3cvMTQwL2gvODYvIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbHQ9IiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9IndpZHRoOiAxMDAlOyBoZWlnaHQ6IDEwMCU7IHBvc2l0aW9uOiBhYnNvbHV0ZTsgbGVmdDogMHB4OyB0b3A6IDBweDsiPg==</text>
+        <text>toggleCommodity(item) {
+        var addCommodities = this.props.birthdayOrderForm.addCommodities || [];
+        var isExist = _.find(addCommodities, function (commodity) {
+            return commodity.id === item.id;
+        });
+
+        if (isExist) {
+            addCommodities = addCommodities.reduce(function (ret, curr) {
+                if (curr.id !== item.id) {
+                    ret.push(curr);
+                }
+                return ret;
+            }, []);
+        } else {
+            addCommodities.push(item);
+        }
+
+        this.props.updateBirthdayOrderForm({
+            addCommodities: addCommodities
+        });
+    }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHNlY3Rpb24gY2xhc3NOYW1lPSJzZWN0aW9uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0ic2VjdGlvbi10aXRsZSI+5Li75Lq65YWs5L+h5oGvPC9oMj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZpZWxkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibGFiZWwiPuWwj+Wvv+aYnzwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmllbGQtdGV4dCI+eyBvcmRlci5raWROYW1lIH08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZpZWxkLXRleHQiPnsgKHsxOiAn55S3JywgMjogJ+Wlsyd9KVtvcmRlci5raWRHZW5kZXJdIH08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmllbGQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJsYWJlbCI+PGk+55SfPC9pPjxpPuaXpTwvaT48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZpZWxkLXRleHQiPnsgZm9ybWF0RGF0ZShvcmRlci5raWRCaXJ0aGRheSkgfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmaWVsZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImxhYmVsIj48aT7lpIc8L2k+PGk+5rOoPC9pPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmllbGQtdGV4dCI+eyBvcmRlci5raWRSZW1hcmsgfHwgJ+aXoCcgfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9zZWN0aW9uPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ClNFTEVDVAogIGNvdW50KCopLAogIGNvdW50KERJU1RJTkNUICh1dWlkKSkKRlJPTSB0b25namkKV0hFUkUgdXJsIExJS0UgIiUwMDEwMTIwMDAwNTclIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50ID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50ID0gaXNTZWxlY3RlZC5jb3VudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUIHVybApGUk9NIHRvbmdqaQpXSEVSRSBpZD03NzQ1MDsKCmh0dHAlM0ElMkYlMkZtLndhbmR1b2R1by5jb20lMkZpdGVtJTJGMDAxMDEyMDAwMDIwJTNGX3d4X3NoYXJlJTNEMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzU2VsZWN0ZWQpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aHR0cCUzQSUyRiUyRm0ud2FuZHVvZHVvLmNvbSUyRml0ZW0lMkYwMDEwMTIwMDAwMjAlM0Zfd3hfc2hhcmUlM0QxCgoKc2VsZWN0IGlkLHV1aWQsdXJsLGRhdGUgYXMgZHQgZnJvbSB0b25namkKd2hlcmUgdHlwZT0ncC5naWYnIGFuZCB1cmwgbGlrZSAnaHR0cFwlM0FcJTJGXCUyRm0ud2FuZHVvZHVvLmNvbVwlMkZpdGVtXCUyRiUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrYm94ID0gKDxpIGNsYXNzTmFtZT0ic3ByaXRlLWNoZWNrLW9uIi8+KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGNoZWNrYm94ID0gKDxpIGNsYXNzTmFtZT0ic3ByaXRlLWNoZWNrLW9mZiIvPik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
