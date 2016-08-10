@@ -48,8 +48,11 @@
         <mark key="." line="173" column="61" />
         <mark key="^" line="173" column="61" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/UnpaidOrderDetailPage.js" timestamp="1470818058677">
-        <mark key="[" line="154" column="95" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/UnpaidOrderDetailPage.js" timestamp="1470829212073">
+        <mark key="[" line="285" column="67" />
+        <mark key="]" line="285" column="60" />
+        <mark key="." line="285" column="60" />
+        <mark key="^" line="285" column="60" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/component/loading.js" timestamp="1470819818286" />
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/runEnvConfig/config-dev.properties" timestamp="1470640218743" />
@@ -59,7 +62,7 @@
         <mark key="." line="297" column="15" />
         <mark key="^" line="297" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/UnpaidOrderDetailPage.js" timestamp="1470818149307">
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/UnpaidOrderDetailPage.js" timestamp="1470828585037">
         <mark key="[" line="148" column="95" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar!/scala/AnyVal.scala" timestamp="1470721270761" />
@@ -317,11 +320,11 @@
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/OrderDetailPage.js" timestamp="1470817647564">
         <mark key="[" line="274" column="95" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/UnpaidOrderDetailPage.js" timestamp="1470818116931">
-        <mark key="[" line="151" column="73" />
-        <mark key="]" line="246" column="76" />
-        <mark key="." line="246" column="76" />
-        <mark key="^" line="246" column="76" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/UnpaidOrderDetailPage.js" timestamp="1470829082332">
+        <mark key="[" line="267" column="100" />
+        <mark key="]" line="267" column="98" />
+        <mark key="." line="267" column="98" />
+        <mark key="^" line="267" column="98" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/spring/jobs.xml" timestamp="1470625237144" />
       <file name="OptimizerProperties.xml" timestamp="1468467435508">
@@ -552,11 +555,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>commodityPrice</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeAo=</text>
       </register>
       <register name="-" type="4">
-        <text>commodityPrice</text>
+        <text>commodwityPrice</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -564,34 +567,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29tbW9kaXRpZXM6IGNvbW1vZGl0aWVzCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeAo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiAgICB0b2dnbGVDb21tb2RpdHkgKGl0ZW0pIHsKICAgICAgICB2YXIgY29tbW9kaXRpZXMgPSB0aGlzLnByb3BzLm9yZGVyRm9ybS5jb21tb2RpdGllcyB8fCBbXTsKICAgICAgICB2YXIgaXNFeGlzdCA9IF8uZmluZChjb21tb2RpdGllcywgZnVuY3Rpb24gKGNvbW1vZGl0eSkgewogICAgICAgICAgICByZXR1cm4gY29tbW9kaXR5LmlkID09PSBpdGVtLmlkOwogICAgICAgIH0pOwoKICAgICAgICBpZiAoaXNFeGlzdCkgewogICAgICAgICAgICBjb21tb2RpdGllcyA9IGNvbW1vZGl0aWVzLnJlZHVjZShmdW5jdGlvbiAocmV0LCBjdXJyKSB7CiAgICAgICAgICAgICAgICBpZiAoY3Vyci5pZCAhPT0gaXRlbS5pZCkgewogICAgICAgICAgICAgICAgICAgIHJldC5wdXNoKGN1cnIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIHJldDsKICAgICAgICAgICAgfSwgW10pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGNvbW1vZGl0aWVzLnB1c2goaXRlbSk7CiAgICAgICAgfQogICAgICAgIHRoaXMucHJvcHMudXBkYXRlT3JkZXJGb3JtKHsKICAgICAgICAgICAgY29tbW9kaXRpZXMKICAgICAgICB9KTsKICAgIH0=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGlzRXhpc3QgPSBfLmZpbmQoY29tbW9kaXRpZXMsIGZ1bmN0aW9uIChjb21tb2RpdHkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBjb21tb2RpdHkuaWQgPT09IGl0ZW0uaWQ7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGlzRXhpc3QgPSBfLmZpbmQoY29tbW9kaXRpZXMsIGZ1bmN0aW9uIChjb21tb2RpdHkpIHsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>context.router.push(
             pathname:'xx'
         );</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB0bz17YC9jdXN0b21pemF0aW9uYH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG89e2BqaW5nY2FpX2hpc3RvcnlgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG89e2AvaW52aXRhdGlvbi9hZGRpbmZvYH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy5vbkNsaWNrQ3VzdG9taXphdGlvbigpLmJpbmQodGhpcyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG89e2AvaW52aXRhdGlvbi9hZGRpbmZvYH0K</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
