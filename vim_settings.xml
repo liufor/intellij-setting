@@ -104,6 +104,12 @@
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/newhtml/page-group-detail.html" timestamp="1469543438338">
         <mark key="[" line="63" column="33" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/service/PartyCaseService.java" timestamp="1470887541847">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/python_projects/tongji/tongji.py" timestamp="1470643920875">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="4" />
@@ -137,6 +143,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/PartyCaseJson.java" timestamp="1470887163824">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/main/scala/com/liufor/DoNothingAction.scala" timestamp="1470582314476">
         <mark key="[" line="5" column="29" />
@@ -178,6 +189,12 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/PartyCaseController.java" timestamp="1470887599461">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="29" column="15" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/redux/examples/todos2/components/AddTodo.js" timestamp="1469436192842">
         <mark key="[" line="0" column="0" />
       </file>
@@ -205,6 +222,7 @@
         <mark key="." line="48" column="92" />
         <mark key="^" line="48" column="92" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/dao/generated/party/entity/PartyCase.java" timestamp="1470887144391" />
       <file name="/fragment.js" timestamp="1468242361505">
         <mark key="[" line="0" column="0" />
       </file>
@@ -556,45 +574,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>commodwityPrice</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbW9kaXRpZXM6IGNvbW1vZGl0aWVzCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICB0b2dnbGVDb21tb2RpdHkgKGl0ZW0pIHsKICAgICAgICB2YXIgY29tbW9kaXRpZXMgPSB0aGlzLnByb3BzLm9yZGVyRm9ybS5jb21tb2RpdGllcyB8fCBbXTsKICAgICAgICB2YXIgaXNFeGlzdCA9IF8uZmluZChjb21tb2RpdGllcywgZnVuY3Rpb24gKGNvbW1vZGl0eSkgewogICAgICAgICAgICByZXR1cm4gY29tbW9kaXR5LmlkID09PSBpdGVtLmlkOwogICAgICAgIH0pOwoKICAgICAgICBpZiAoaXNFeGlzdCkgewogICAgICAgICAgICBjb21tb2RpdGllcyA9IGNvbW1vZGl0aWVzLnJlZHVjZShmdW5jdGlvbiAocmV0LCBjdXJyKSB7CiAgICAgICAgICAgICAgICBpZiAoY3Vyci5pZCAhPT0gaXRlbS5pZCkgewogICAgICAgICAgICAgICAgICAgIHJldC5wdXNoKGN1cnIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIHJldDsKICAgICAgICAgICAgfSwgW10pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGNvbW1vZGl0aWVzLnB1c2goaXRlbSk7CiAgICAgICAgfQogICAgICAgIHRoaXMucHJvcHMudXBkYXRlT3JkZXJGb3JtKHsKICAgICAgICAgICAgY29tbW9kaXRpZXMKICAgICAgICB9KTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL+WIhumhteafpeivoiwg57G75Z6L5Y+v6YCJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGlzRXhpc3QgPSBfLmZpbmQoY29tbW9kaXRpZXMsIGZ1bmN0aW9uIChjb21tb2RpdHkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBjb21tb2RpdHkuaWQgPT09IGl0ZW0uaWQ7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL+S4jeeUqOmineWkluaPkOS+myDnsbvlnovliJfooajmjqXlj6Ms5Y+q5pyJ5Lik5LiqLOWJjeerryDlhpnmrbvlvpfkuobjgIIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGlzRXhpc3QgPSBfLmZpbmQoY29tbW9kaXRpZXMsIGZ1bmN0aW9uIChjb21tb2RpdHkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>context.router.push(
-            pathname:'xx'
-        );</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB0bz17YC9jdXN0b21pemF0aW9uYH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG89e2BqaW5nY2FpX2hpc3RvcnlgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG89e2AvaW52aXRhdGlvbi9hZGRpbmZvYH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
