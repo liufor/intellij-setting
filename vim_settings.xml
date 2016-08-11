@@ -26,8 +26,8 @@
         <mark key="^" line="50" column="39" />
         <mark key="." line="51" column="41" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" timestamp="1470383957394">
-        <mark key="[" line="197" column="3" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" timestamp="1470897693538">
+        <mark key="[" line="275" column="0" />
         <mark key="]" line="178" column="49" />
         <mark key="^" line="178" column="49" />
         <mark key="." line="178" column="49" />
@@ -90,9 +90,9 @@
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/spring/mybatis.xml" timestamp="1470891102173">
         <mark key="[" line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/route/index.js" timestamp="1470825911617">
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/route/index.js" timestamp="1470896913811">
         <mark key="'" line="215" column="26" />
-        <mark key="[" line="18" column="66" />
+        <mark key="[" line="24" column="47" />
         <mark key="]" line="196" column="34" />
         <mark key="^" line="196" column="34" />
         <mark key="." line="196" column="34" />
@@ -100,7 +100,7 @@
       <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar!/scala/Product.scala" timestamp="1470722186817" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/GroupPartyList.js" timestamp="1470815609866" />
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/CommodityJson.java" timestamp="1470727939900" />
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/birthdayOrder.js" timestamp="1470802596938" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/birthdayOrder.js" timestamp="1470897334251" />
       <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/test/scala/com/liufor/MySpec.scala" timestamp="1470572316108">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="37" />
@@ -232,11 +232,11 @@
         <mark key="." line="320" column="35" />
         <mark key="^" line="320" column="35" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/constant/index.js" timestamp="1470804792171">
-        <mark key="[" line="162" column="12" />
-        <mark key="]" line="198" column="12" />
-        <mark key="." line="198" column="12" />
-        <mark key="^" line="198" column="12" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/constant/index.js" timestamp="1470897264635">
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="36" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/dto/OrderAddCommodityDto.java" timestamp="1470825341379">
         <mark key="[" line="4" column="34" />
@@ -258,6 +258,7 @@
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/case.js" timestamp="1470897713491" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/OrderDetailPageV3.js" timestamp="1470817699088">
         <mark key="[" line="274" column="95" />
       </file>
@@ -271,6 +272,7 @@
         <mark key="^" line="267" column="98" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/spring/jobs.xml" timestamp="1470625237144" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/birthdayParty.js" timestamp="1470897347192" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/groupOrder.js" timestamp="1470804046689" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/order.js" timestamp="1470629007838">
         <mark key="[" line="32" column="32" />
@@ -484,8 +486,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENBU0VfTElTVF9GRVRDSF9TVUNDRVNTLAo=</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -494,7 +496,7 @@
         <text>checkout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
+        <text encoding="base64">ICAgIENBU0VfTElTVF9GRVRDSF9TVUNDRVNTLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">amRiYy5wYXJ0eS5kcml2ZXJDbGFzcz1jb20ubXlzcWwuamRiYy5Ecml2ZXIK</text>
