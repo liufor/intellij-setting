@@ -111,6 +111,12 @@
         <mark key="." line="153" column="50" />
         <mark key="^" line="153" column="50" />
       </file>
+      <file name="$USER_HOME$/work/code/RxJava/demo/pom.xml" timestamp="1471859888213">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/GroupPartyList.js" timestamp="1471447891947">
         <mark key="[" line="131" column="43" />
         <mark key="]" line="91" column="55" />
@@ -298,6 +304,7 @@
         <mark key="^" line="93" column="29" />
         <mark key="." line="93" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.5.6.RELEASE/spring-amqp-1.5.6.RELEASE.jar!/org/springframework/amqp/core/Exchange.class" timestamp="1471860307900" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/page-order-list.css" timestamp="1470627165419">
         <mark key="[" line="114" column="0" />
       </file>
@@ -441,6 +448,12 @@
         <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1471852869665" />
+      <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App10.java" timestamp="1471860844252">
+        <mark key="[" line="47" column="27" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/CheckoutPage.js" timestamp="1470904265866">
         <mark key="[" line="1113" column="0" />
         <mark key="]" line="1113" column="0" />
@@ -471,6 +484,7 @@
         <mark key="^" line="41" column="89" />
         <mark key="." line="41" column="89" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.5.6.RELEASE/spring-amqp-1.5.6.RELEASE.jar!/org/springframework/amqp/core/AbstractExchange.class" timestamp="1471860303833" />
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/logback.xml" timestamp="1470890268965">
         <mark key="[" line="53" column="22" />
         <mark key="]" line="53" column="22" />
@@ -665,11 +679,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">T1JERVIgQlkgaWQgREVTQyA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>RabbitMessagingTemplate</text>
       </register>
       <register name="-" type="4">
-        <text>subscribe_product_item</text>
+        <text>RabbitMessagingTemplate</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -678,31 +692,31 @@
         <text encoding="base64">ICAgICAgICBhcnIuYWRkKCJ1cmwxIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">T1JERVIgQlkgaWQgREVTQyA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgT2JqZWN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC4K</text>
+        <text encoding="base64">ICAgICAgICBuZXcgT2JqZWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgbGlzdGVuZXI9bmV3IE9iamVjdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE9ic2VydmFibGUuanVzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbi5kZWxldGVFeGNoYW5nZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJ4Lk9ic2VydmFibGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQU1RSW1wbC5RdWV1ZSgibXlRdWV1ZSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBTVFJbXBsLlF1ZXVlIHF1ZXVlPW5ldyBBTVFJbXBsLlF1ZXVlKCJteVF1ZXVlIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYW1xcC5yYWJiaXQuYW5ub3RhdGlvbi5RdWV1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBteVN1YjEudW5zdWJzY3JpYmUoKTsK</text>
+        <text encoding="base64">T1JERVIgQlkgaWQgREVTQyA7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bmV3IE9ic2VydmFibGUuT25TdWJzY3JpYmU8U3RyaW5nPigpIHsKICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC4K</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
