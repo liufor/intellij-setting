@@ -63,6 +63,11 @@
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/generator/generatorConfig.xml" timestamp="1471928885687">
         <mark key="[" line="106" column="23" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/service/GroupPartyService.java" timestamp="1471941713408">
+        <mark key="[" line="62" column="61" />
+        <mark key="]" line="62" column="61" />
+        <mark key="." line="62" column="61" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-common/wanmei-authc/pom.xml" timestamp="1466401136449">
         <mark key="[" line="110" column="26" />
       </file>
@@ -719,11 +724,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>MAX_VALUE</text>
       </register>
       <register name="-" type="4">
-        <text>place</text>
+        <text>MAX_VALUE</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -732,31 +737,31 @@
         <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgibXlFeGNoYW5nZSIsICJmb28uYmFyIiwgImxpdWZvciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWEuYW5kSWRJbihwYXJ0eUlkcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzaG93SW5mbyA9IHRoaXMucHJvcHMucGFydHlEZXRhaWwuc2hvd0luZm87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
