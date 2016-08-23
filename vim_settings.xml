@@ -42,11 +42,11 @@
         <mark key="." line="214" column="136" />
         <mark key="^" line="214" column="136" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" timestamp="1471973172421">
-        <mark key="[" line="142" column="54" />
-        <mark key="]" line="142" column="32" />
-        <mark key="^" line="142" column="32" />
-        <mark key="." line="142" column="32" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" timestamp="1471975206154">
+        <mark key="[" line="151" column="47" />
+        <mark key="]" line="151" column="44" />
+        <mark key="." line="151" column="44" />
+        <mark key="^" line="151" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/birthday/component/Designer.js" timestamp="1471581063979">
         <mark key="[" line="41" column="12" />
@@ -394,6 +394,12 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="46" column="44" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1471974532669">
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="26" />
+        <mark key="^" line="41" column="41" />
+        <mark key="." line="41" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/scala_projects/lastversion/pom.xml" timestamp="1470569890560">
         <mark key="[" line="7" column="22" />
       </file>
@@ -515,6 +521,7 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1471974025532" />
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App10.java" timestamp="1471860844252">
         <mark key="[" line="47" column="27" />
         <mark key="]" line="47" column="24" />
@@ -762,10 +769,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ListBy</text>
+        <text>subscribe_product_item</text>
       </register>
       <register name="-" type="4">
-        <text>ListBy</text>
+        <text>subscribe_product_item</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -774,31 +781,31 @@
         <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgibXlFeGNoYW5nZSIsICJmb28uYmFyIiwgImxpdWZvciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludmVudG9yeUVudGl0eU1hcHBlci5zZWxlY3RPbmUocmVjb3JkKS52Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVTZXJ2aWNlLmdldEFjdGl2ZVByb2R1Y3RTdWJzY3JpYmVMaXN0QnlJdGVtSWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBwcm9kdWN0SWQ9IEVuYWJsZVJlZGlzSHR0cFNlc3Npb24KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVTZXJ2aWNlLmdldEFjdGl2ZVByb2R1Y3RTdWJzY3JpYmVMaXN0QnlJdGVtSWQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoUHJvZHVjdFNrdUVudGl0eTo6Z2V0QmFyQ29kZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBwcm9kdWN0SWQ9IEVuYWJsZVJlZGlzSHR0cFNlc3Npb24KICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoUHJvZHVjdFNrdUVudGl0eTo6Z2V0QmFyQ29kZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRTa3VJZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
