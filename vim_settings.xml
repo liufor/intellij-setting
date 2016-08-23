@@ -87,6 +87,11 @@
         <mark key="^" line="57" column="43" />
         <mark key="." line="56" column="92" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/service/PlaceService.java" timestamp="1471921052142">
+        <mark key="[" line="377" column="41" />
+        <mark key="]" line="380" column="0" />
+        <mark key="." line="380" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/python_projects/tongji/tongji.py" timestamp="1470643920875">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="4" />
@@ -698,7 +703,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5yZWNlaXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaQo=</text>
       </register>
       <register name="-" type="4">
         <text>myQueue1</text>
@@ -710,35 +715,35 @@
         <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgibXlFeGNoYW5nZSIsICJmb28uYmFyIiwgImxpdWZvciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5yZWNlaXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSYWJiaXRUZW1wbGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5yZWNlaXZlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRlbXBsYXRlLnNldE1lc3NhZ2VDb252ZXJ0ZXIobmV3IEphY2tzb24ySnNvbk1lc3NhZ2VDb252ZXJ0ZXIoKSk7Ci8vICAgICAgICB0ZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgibXlFeGNoYW5nZSIsICJmb28uYmFyIiwgbmV3IFBlcnNvbigxLCJsaXVmb3IiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSYWJiaXRUZW1wbGF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXIuc3RvcCgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRlbXBsYXRlLnNldE1lc3NhZ2VDb252ZXJ0ZXIobmV3IEphY2tzb24ySnNvbk1lc3NhZ2VDb252ZXJ0ZXIoKSk7Ci8vICAgICAgICB0ZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgibXlFeGNoYW5nZSIsICJmb28uYmFyIiwgbmV3IFBlcnNvbigxLCJsaXVmb3IiKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXIuc3RvcCgpOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBNZXNzYWdlTGlzdGVuZXJBZGFwdGVyIGFkYXB0ZXIgPSBuZXcgTWVzc2FnZUxpc3RlbmVyQWRhcHRlcihuZXcgRm9vKCksImxpc3RlbiIpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>SimpleMessageListenerContainer container = new SimpleMessageListenerContainer(cachingConnectionFactory);
         container.setQueueNames(&quot;myQueue&quot;);
         container.setMessageListener(adapter);
 //        container.setMessageConverter(new Jackson2JsonMessageConverter());
         container.start();</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5zZXRNZXNzYWdlQ29udmVydGVyKG5ldyBKYWNrc29uMkpzb25NZXNzYWdlQ29udmVydGVyKCkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5zZXRNZXNzYWdlQ29udmVydGVyKG5ldyBKYWNrc29uMkpzb25NZXNzYWdlQ29udmVydGVyKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
