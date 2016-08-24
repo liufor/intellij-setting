@@ -43,11 +43,11 @@
         <mark key="." line="214" column="136" />
         <mark key="^" line="214" column="136" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" timestamp="1472011169156">
-        <mark key="[" line="190" column="49" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="190" column="49" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" timestamp="1472017852019">
+        <mark key="[" line="144" column="26" />
+        <mark key="]" line="144" column="26" />
+        <mark key="." line="144" column="26" />
+        <mark key="^" line="144" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/birthday/component/Designer.js" timestamp="1471581063979">
         <mark key="[" line="41" column="12" />
@@ -180,11 +180,10 @@
         <mark key="." line="400" column="52" />
         <mark key="^" line="400" column="52" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/ItemService.java" timestamp="1471971454239">
-        <mark key="[" line="630" column="58" />
-        <mark key="]" line="630" column="57" />
-        <mark key="^" line="630" column="57" />
-        <mark key="." line="630" column="57" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/ItemService.java" timestamp="1472018095211">
+        <mark key="[" line="637" column="36" />
+        <mark key="]" line="652" column="0" />
+        <mark key="." line="652" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/main/scala/com/liufor/DoNothingAction.scala" timestamp="1470582314476">
         <mark key="[" line="5" column="29" />
@@ -205,7 +204,7 @@
         <mark key="." line="99" column="23" />
         <mark key="^" line="99" column="23" />
       </file>
-      <file name="/a.sql" timestamp="1471970361942">
+      <file name="/a.sql" timestamp="1472016460027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App05.java" timestamp="1471842486965">
@@ -770,10 +769,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>productId</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>productId</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -782,31 +781,31 @@
         <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgibXlFeGNoYW5nZSIsICJmb28uYmFyIiwgImxpdWZvciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoUHJvZHVjdEl0ZW1FbnRpdHk6OmdldElkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL+m7mOiupOWcuuWcsAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQbGFjZUR0byBkZWZhdWx0UGxhY2UgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludmVudG9yeUVudGl0eU1hcHBlci5wdXJjaGFzZUludmVudG9yeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAvL+m7mOiupOWcuuWcsAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgaW52ZW50b3J5SWQ9bnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBQbGFjZUR0byBkZWZhdWx0UGxhY2UgPSBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludmVudG9yeUlkID0gZXhzaXRJbnYuZ2V0SWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludmVudG9yeUVudGl0eU1hcHBlci5wdXJjaGFzZUludmVudG9yeSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgaW52ZW50b3J5SWQ9bnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
