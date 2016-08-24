@@ -49,11 +49,11 @@
         <mark key="." line="214" column="136" />
         <mark key="^" line="214" column="136" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" timestamp="1472040528547">
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="278" column="0" />
-        <mark key="^" line="277" column="0" />
-        <mark key="." line="278" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" timestamp="1472041490170">
+        <mark key="[" line="307" column="28" />
+        <mark key="]" line="307" column="33" />
+        <mark key="." line="307" column="33" />
+        <mark key="^" line="307" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/TrueFalse.java" timestamp="1472029745845" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/birthday/component/Designer.js" timestamp="1471581063979">
@@ -751,10 +751,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PEludmVudG9yeVByZUVudGl0eT4gcHJlSW52cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getInventoryId</text>
+        <text>skuIdQtyMap</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -763,31 +763,31 @@
         <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgibXlFeGNoYW5nZSIsICJmb28uYmFyIiwgImxpdWZvciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PEludmVudG9yeVByZUVudGl0eT4gcHJlSW52cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoSW52ZW50b3J5UHJlRW50aXR5OjpnZXRTa3VJZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8SW50ZWdlciwgTGlzdDxJbnZlbnRvcnlQcmVFbnRpdHk+PiBza3VJZFByZUludnNNYXAgPSBuZXcgSGFzaE1hcDw+KCk7IC8v6aKE5LiK57q/5pWw5aSn5LqOMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdHJlYW0oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBza3VJZFByZUludnNNYXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHF0eSA+IDApIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgaW50IHF0eSA9IHByZUludi5nZXRRdWFudGl0eSgpIC0gcHJlSW52LmdldFVucXVhbGlmaWVkUXVhbnRpdHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgaW50IHZhbGlkUXR5PSAoaW50KSBjb2xsZWN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbGlkU2t1SWRQcmVJbnZzTWFwLnB1dElmQWJzZW50KHNrdUlkLCApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoYy0+Yy5zdHJlYW0oKS5tYXAoaW52LT5pbnYuZ2V0UXVhbnRpdHkoKS1pbnYuZ2V0VW5xdWFsaWZpZWRRdWFudGl0eSgpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdHJlYW0oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBza3VJZFByZUludnNNYXAudmFsdWVzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
