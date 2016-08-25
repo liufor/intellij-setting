@@ -50,10 +50,11 @@
         <mark key="." line="214" column="136" />
         <mark key="^" line="214" column="136" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" timestamp="1472108027295">
-        <mark key="[" line="383" column="82" />
-        <mark key="]" line="388" column="0" />
-        <mark key="." line="388" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" timestamp="1472108758361">
+        <mark key="[" line="267" column="17" />
+        <mark key="]" line="267" column="17" />
+        <mark key="." line="267" column="17" />
+        <mark key="^" line="267" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/TrueFalse.java" timestamp="1472029745845" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/birthday/component/Designer.js" timestamp="1471581063979">
@@ -77,11 +78,6 @@
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/generator/generatorConfig.xml" timestamp="1471928885687">
         <mark key="[" line="106" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/service/GroupPartyService.java" timestamp="1471941713408">
-        <mark key="[" line="62" column="61" />
-        <mark key="]" line="62" column="61" />
-        <mark key="." line="62" column="61" />
-      </file>
       <file name="$USER_HOME$/work/code/wanmei-common/wanmei-authc/pom.xml" timestamp="1466401136449">
         <mark key="[" line="110" column="26" />
       </file>
@@ -103,8 +99,11 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/PreInventoryStatus.java" timestamp="1472029972527">
-        <mark key="[" line="7" column="20" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/PreInventoryStatus.java" timestamp="1472108740035">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/InventoryAdjustItemDto.java" timestamp="1471969647995" />
       <file name="/" timestamp="1468292602474">
@@ -154,11 +153,6 @@
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/GroupPartySimpleJson.java" timestamp="1471929113711">
         <mark key="[" line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/GroupPartyList.js" timestamp="1471931030051">
-        <mark key="[" line="115" column="100" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/component/Designer.js" timestamp="1471449587532">
         <mark key="[" line="4" column="50" />
@@ -349,11 +343,6 @@
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/customization/PaymentStatusPage.js" timestamp="1470820404458">
         <mark key="[" line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/component/PlaceInfo.js" timestamp="1471930070886">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App2.java" timestamp="1471842115698">
         <mark key="[" line="12" column="19" />
@@ -806,44 +795,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25maXJtUHJlSW52ZW50b3J5T25saW5lVGltZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>getPreInventoryToday</text>
       </register>
       <register name="-" type="4">
-        <text>time</text>
+        <text>getPreInventoryToday</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obm93LmFmdGVyKG5vdykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgRGF0ZSBvcEF0ID0gcHJlSW52LmdldE9wQXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25maXJtUHJlSW52ZW50b3J5T25saW5lVGltZSgpOwo=</text>
+        <text encoding="base64">ICAgIE5vQ29uZmlybU9ubGluZSgwLCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3BBdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25maXJtUHJlSW52ZW50b3J5T25saW5lVGltZShpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgRGF0ZSBvcEF0ID0gcHJlSW52LmdldE9wQXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25maXJtUHJlSW52ZW50b3J5T25saW5lVGltZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3BBdDsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9tb3Jyb3dBbTEyLnNldEhvdXJzKDEyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9tb3Jyb3dBbTEyLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgRGF0ZSBvcEF0ID0gcHJlSW52LmdldE9wQXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
