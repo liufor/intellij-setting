@@ -83,10 +83,11 @@
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/newhtml/1.html" timestamp="1468941897967">
         <mark key="[" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryPreManager.java" timestamp="1472098349604">
-        <mark key="[" line="34" column="3" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryPreManager.java" timestamp="1472099468917">
+        <mark key="[" line="67" column="124" />
+        <mark key="]" line="67" column="124" />
+        <mark key="^" line="67" column="7" />
+        <mark key="." line="67" column="124" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/dto/ComboDto.java" timestamp="1466405627472">
         <mark key="[" line="17" column="25" />
@@ -204,7 +205,7 @@
         <mark key="." line="99" column="23" />
         <mark key="^" line="99" column="23" />
       </file>
-      <file name="/a.sql" timestamp="1472097885540">
+      <file name="/a.sql" timestamp="1472098906244">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App05.java" timestamp="1471842486965">
@@ -270,11 +271,6 @@
         <mark key="." line="18" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/generated/entity/InventoryPreEntity.java" timestamp="1472030739796" />
-      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/BirthdayPartyController.java" timestamp="1472006414211">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App03.java" timestamp="1471842322956">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -444,11 +440,11 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_1.sql" timestamp="1472098536545">
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="48" column="34" />
-        <mark key="^" line="48" column="34" />
-        <mark key="." line="48" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_1.sql" timestamp="1472099058184">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="3" />
+        <mark key="^" line="51" column="3" />
+        <mark key="." line="51" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/UserStatus.java" timestamp="1472029694114" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/UnpaidOrderDetailPage.js" timestamp="1471428413491">
@@ -513,8 +509,8 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1471977981860" />
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/mapper/InventoryPreEntityManualMapper.java" timestamp="1472098558719">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1472099444116" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/mapper/InventoryPreEntityManualMapper.java" timestamp="1472099067264">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="15" column="54" />
         <mark key="^" line="15" column="54" />
@@ -766,11 +762,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBzZWJhIG9uIDE2LzYvMzAuCg==</text>
+      <register name="&quot;" type="4">
+        <text>InventoryRefIdentifyDto</text>
       </register>
       <register name="-" type="4">
-        <text>InventoryActionType</text>
+        <text>InventoryRefIdentifyDto</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -779,31 +775,35 @@
         <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgibXlFeGNoYW5nZSIsICJmb28uYmFyIiwgImxpdWZvciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBzZWJhIG9uIDE2LzYvMzAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVJbnYuc2V0T3BlcklkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWZJZGVudGlmeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZlbnRvcnlNYW5hZ2VyLnB1cmNoYXNlSW52ZW50b3J5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnZlbnRvcnlBY3Rpb25UeXBlCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHkuc2V0TXVzdE9ubGluZUF0KG11c3RPbmxpbmVBdCk7Cg==</text>
+      <register name="4" type="4">
+        <text>Integer inventoryId = inventoryAllocationMap.getInventoryId();
+        Integer qty = inventoryAllocationMap.getQuantity();
+
+
+        inventoryEntityManualMapper.increaseAllocatedQuantity(inventoryId, qty);</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGFuVXBsaW5lKCk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">OwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBzZWJhIG9uIDE2LzYvMzAuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVJbnYuc2V0T3BlcklkKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnZlbnRvcnlNYW5hZ2VyLnB1cmNoYXNlSW52ZW50b3J5KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgLy/lpoLmnpwgcXVhbnRpdHkg5pWwKwoKCiAgICAgICAgLy/liIbnu4QK</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHkuc2V0TXVzdE9ubGluZUF0KG11c3RPbmxpbmVBdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
