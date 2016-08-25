@@ -50,11 +50,11 @@
         <mark key="." line="214" column="136" />
         <mark key="^" line="214" column="136" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" timestamp="1472118449649">
-        <mark key="[" line="208" column="23" />
-        <mark key="]" line="208" column="23" />
-        <mark key="." line="208" column="23" />
-        <mark key="^" line="207" column="44" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" timestamp="1472121564417">
+        <mark key="[" line="469" column="16" />
+        <mark key="]" line="512" column="18" />
+        <mark key="." line="512" column="18" />
+        <mark key="^" line="512" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/TrueFalse.java" timestamp="1472029745845" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/birthday/component/Designer.js" timestamp="1471581063979">
@@ -190,7 +190,7 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/ItemService.java" timestamp="1472109703383">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/ItemService.java" timestamp="1472121009014">
         <mark key="[" line="686" column="26" />
         <mark key="]" line="686" column="19" />
         <mark key="^" line="686" column="19" />
@@ -451,11 +451,11 @@
         <mark key="^" line="7" column="72" />
         <mark key="." line="7" column="72" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/SubscribeService.java" timestamp="1472110000615">
-        <mark key="[" line="192" column="24" />
-        <mark key="]" line="192" column="23" />
-        <mark key="^" line="192" column="23" />
-        <mark key="." line="192" column="23" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/SubscribeService.java" timestamp="1472120947124">
+        <mark key="[" line="198" column="65" />
+        <mark key="]" line="219" column="95" />
+        <mark key="^" line="219" column="95" />
+        <mark key="." line="219" column="95" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/PaymentPage.js" timestamp="1470817944663">
         <mark key="[" line="65" column="22" />
@@ -807,10 +807,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>inventoryActionType</text>
+        <text>mustOnlineAt</text>
       </register>
       <register name="-" type="4">
-        <text>inventoryActionType</text>
+        <text>mustOnlineAt</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
@@ -819,31 +819,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oIuefreS/oS0xMueCueadpeWTpiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgSW50ZWdlciBpbnZlbnRvcnlBY3Rpb25UeXBlID0gcHJlSW52LmdldEludmVudG9yeUFjdGlvblR5cGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBEYXRlIHRvbW9ycm93QW0xMiA9IGMuZ2V0VGltZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBJbnRlZ2VyIGl0ZW1JZDEgPSBpdGVtU2VydmljZS5nZXRJdGVtSWQoc2t1SWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZlbnRvcnlQcmVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaWJlU2VydmljZS51cGRhdGVTYWxlVGltZUJ5SXRlbUlkKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBndDBQcmVJbnZJZHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlU2FsZVRpbWVCeUl0ZW1JZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVTZXJ2aWNlLm5vdGlmeU9uc2FsZURhdGVUaW1lKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGNhbk9ubGluZT0gTGlzdHMubmV3QXJyYXlMaXN0KFByZUludmVudG9yeVN0YXR1cy5Db25maXJtZWRPbmxpbmVUaW1lLmdldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgSW50ZWdlciBpbnZlbnRvcnlBY3Rpb25UeXBlID0gcHJlSW52LmdldEludmVudG9yeUFjdGlvblR5cGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIG9ubGluZVRpbWUgPSBpZ25vcmVPbmxpbmVUaW1lIHx8IAo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnZlbnRvcnlQcmVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBndDBQcmVJbnZJZHMK</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
