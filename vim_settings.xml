@@ -186,11 +186,12 @@
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/GroupPartySimpleJson.java" timestamp="1471929113711">
         <mark key="[" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/GroupPartyList.js" timestamp="1472612931469">
-        <mark key="[" line="115" column="101" />
-        <mark key="]" line="115" column="101" />
-        <mark key="^" line="115" column="101" />
-        <mark key="." line="115" column="101" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/GroupPartyList.js" timestamp="1472614055054">
+        <mark key="'" line="132" column="59" />
+        <mark key="[" line="104" column="21" />
+        <mark key="]" line="103" column="26" />
+        <mark key="^" line="103" column="26" />
+        <mark key="." line="103" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/component/Designer.js" timestamp="1471449587532">
         <mark key="[" line="4" column="50" />
@@ -381,11 +382,11 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/component/Title.js" timestamp="1472612323892">
-        <mark key="[" line="97" column="62" />
-        <mark key="]" line="97" column="59" />
-        <mark key="^" line="97" column="59" />
-        <mark key="." line="97" column="59" />
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/component/Title.js" timestamp="1472614040465">
+        <mark key="[" line="95" column="25" />
+        <mark key="]" line="95" column="24" />
+        <mark key="^" line="95" column="24" />
+        <mark key="." line="95" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/ChooseThemePage.js" timestamp="1469072173024">
         <mark key="[" line="44" column="18" />
@@ -745,7 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="7" filename="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/controller/manage/ThemeController.java" />
       <jump line="199" column="27" filename="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/controller/manage/ThemeController.java" />
       <jump line="6" column="0" filename="$USER_HOME$/work/code/linshi/wanmei-party-api/src/main/java/cn/wanmei/party/api/dto/ComboUseRule.java" />
       <jump line="328" column="46" filename="$USER_HOME$/work/code/linshi/wanmei-party-api/src/main/java/cn/wanmei/party/api/service/CommodityService.java" />
@@ -845,6 +845,7 @@
       <jump line="12652" column="0" filename="$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.1.9/rxjava-1.1.9-sources.jar!/rx/Observable.java" />
       <jump line="19" column="4" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/mapper/ProductSkuManualEntityMapper.java" />
       <jump line="482" column="12" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/InventoryService.java" />
+      <jump line="132" column="59" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/GroupPartyList.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -866,44 +867,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>beginTime</text>
       </register>
       <register name="/" type="4">
         <text>checkout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGxlc3NfbXMgPSBiZWZvcmVNaW51dGVzICogNjBMICogMTAwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lX3JhbmdlID0gZm9ybWF0RnJvbVVuaXgoaXRlbS5iZWdpblRpbWUsICd5eXl5LW1tLWRkIEhIOk1NJykgKyIgLSAiIAogICAgICAgICAgICAgICAgICAgICAgICArZm9ybWF0RnJvbVVuaXgoaXRlbS5lbmRUaW1lLCAneXl5eS1tbS1kZCBISDpNTScpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzc05hbWU9ImJ0biBidG4taW1wb3J0YW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9IiI+5oiR5Lmf6KaBPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRpbWVfcmFuZ2UgPSBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgd2FudEJ1eT0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzc05hbWU9ImJ0biBidG4taW1wb3J0YW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9IiI+5oiR5Lmf6KaBPC9hPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA3MHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgd2FudEJ1eT0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNDBweDsK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNDBweDsK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA3MHB4Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNDBweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNDBweDsK</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
