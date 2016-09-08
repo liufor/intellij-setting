@@ -918,16 +918,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL1dERC03ODAK</text>
       </register>
       <register name="-" type="4">
         <text>inventoryActionType</text>
@@ -938,7 +930,16 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL1dERC03ODAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="4" type="8">
         <text>&quot;
 &quot;
 &quot;
@@ -949,29 +950,20 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEludmVudG9yeUFjdGlvblR5cGUuZnJvbUNvZGUocHJlSW52LmdldFF1YW50aXR5QWN0aW9uVHlwZSgpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IGludmVudG9yeV9pZDsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbXBsZURhdGVGb3JtYXQgc2ltcGxlRGF0ZUZvcm1hdD1uZXcgU2ltcGxlRGF0ZUZvcm1hdCgieWRkeXktIikK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYXZlUHJlSW52ZW50b3J5T25saW5lVGltZShwcmVJbnYuZ2V0SWQoKSwgb25saW5lRGF0ZVRpbWUpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIERhdGUgb25saW5lRGF0ZVRpbWUgPSBnZXRPbmxpbmVEYXRlVGltZShwcmVJbnYuZ2V0T3BBdCgpLCB0cnVlLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
