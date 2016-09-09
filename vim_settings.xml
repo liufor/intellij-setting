@@ -384,9 +384,9 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_1.sql" timestamp="1473403754681">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_1.sql" timestamp="1473408082425">
         <mark key="'" line="35" column="53" />
-        <mark key="[" line="207" column="26" />
+        <mark key="[" line="212" column="0" />
         <mark key="]" line="165" column="42" />
         <mark key="." line="165" column="42" />
         <mark key="^" line="165" column="42" />
@@ -458,10 +458,11 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="51" column="17" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/InventoryController.java" timestamp="1473338603280">
-        <mark key="[" line="420" column="71" />
-        <mark key="]" line="424" column="0" />
-        <mark key="." line="424" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/InventoryController.java" timestamp="1473407594693">
+        <mark key="[" line="410" column="93" />
+        <mark key="]" line="410" column="47" />
+        <mark key="." line="410" column="47" />
+        <mark key="^" line="410" column="47" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-api/src/main/resources/runEnvConfig/config-online.properties" timestamp="1473082698495" />
       <file name="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/dto/ComboDto.java" timestamp="1472192866896">
@@ -494,8 +495,8 @@
         <mark key="." line="290" column="7" />
         <mark key="^" line="290" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console.sql" timestamp="1473310727961">
-        <mark key="[" line="21" column="92" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console.sql" timestamp="1473407972085">
+        <mark key="[" line="24" column="0" />
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
@@ -643,7 +644,7 @@
         <mark key="^" line="95" column="24" />
         <mark key="." line="95" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/mapper/manual/ProductSkuManualEntityMapper.xml" timestamp="1473334548756">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/mapper/manual/ProductSkuManualEntityMapper.xml" timestamp="1473407956238">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -955,10 +956,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>storeHousePositionCode1</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>storeHousePositionCode1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -967,31 +968,31 @@
         <text encoding="base64">U0VMRUNUICogRlJPTSBpbnZlbnRvcnlfbG9nIGlsIFdIRVJFIGlsLmludmVudG9yeV9pZCA9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">CQkJCQlmaW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RlJPTSBgb3JkZXJgIG8K</text>
+        <text encoding="base64">CQkJCQlpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V0hFUkUgby5zdGF0dXM9NDAwOwo=</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBXSEVSRSBzdGF0dXMgIT0gMzAwCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJYWRqdXN0SXRlbUR0b3MuYWRkKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">V0hFUkUgc3RhdHVzPTEwMCBBTkQgbm90aWZpZWRfc3RlcD0wOwo=</text>
+        <text encoding="base64">CQkJCQkJaW5Db250ZW50LmFkZChpbkMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RlJPTSBzdWJzY3JpYmVfcHJvZHVjdF9pdGVtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIAo=</text>
+        <text encoding="base64">CQkJCQlpbkNvbnRlbnQuYWRkKGluQyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VUICBvcmdfcXVhbnRpdHk9b3JnX3F1YW50aXR5Kwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
