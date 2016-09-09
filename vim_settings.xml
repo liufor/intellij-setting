@@ -142,6 +142,13 @@
         <mark key="^" line="119" column="21" />
         <mark key="." line="119" column="21" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/DetailPage.js" timestamp="1473131321321">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="88" column="28" />
+        <mark key="]" line="88" column="27" />
+        <mark key="." line="88" column="27" />
+        <mark key="^" line="88" column="27" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/Constants.java" timestamp="1472149831852">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -377,11 +384,12 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_1.sql" timestamp="1473391418561">
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="10" />
-        <mark key="^" line="39" column="10" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_1.sql" timestamp="1473392572192">
+        <mark key="'" line="35" column="53" />
+        <mark key="[" line="66" column="18" />
+        <mark key="]" line="68" column="7" />
+        <mark key="." line="68" column="7" />
+        <mark key="^" line="68" column="7" />
       </file>
       <file name="/fragment.java" timestamp="1472475047394">
         <mark key="[" line="0" column="0" />
@@ -819,7 +827,6 @@
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/runEnvConfig/config-online.properties" timestamp="1473218485218" />
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/work/code/go-jvm/go/src/main/test.go" />
       <jump line="3" column="0" filename="$USER_HOME$/work/code/go-jvm/go/src/main/ch06/listing20.go" />
       <jump line="30" column="22" filename="$USER_HOME$/work/code/go-jvm/go/src/main/ch06/listing20.go" />
       <jump line="11" column="31" filename="$USER_HOME$/work/code/go-jvm/go/src/main/pattern/pattern.go" />
@@ -919,6 +926,7 @@
       <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8ae2d8ff-6ebe-4c8a-a1ab-0f2f9e53bb62/console.sql" />
       <jump line="105" column="20" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/DetailPage.js" />
       <jump line="95" column="0" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/DetailPage.js" />
+      <jump line="35" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_1.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -940,44 +948,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBXSEVSRSB1bnF1YWxpZmllZF9xdWFudGkK</text>
+      <register name="&quot;" type="4">
+        <text>inventory_id</text>
       </register>
       <register name="-" type="4">
-        <text>adjustItemDtos</text>
+        <text>inventory_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0iaW52X21vZGlmaWVkX3RpbWUiIGpkYmNUeXBlPSJEQVRFIiBwcm9wZXJ0eT0iaW52TW9kaWZpZWRUaW1lIi8+Cg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBpbnZlbnRvcnlfbG9nIGlsIFdIRVJFIGlsLmludmVudG9yeV9pZCA9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBXSEVSRSB1bnF1YWxpZmllZF9xdWFudGkK</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBpbnZlbnRvcnlfbG9nIGlsIFdIRVJFIGlsLmludmVudG9yeV9pZCA9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ClNFTEVDVCAqCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlJPTSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJcGEK</text>
+        <text encoding="base64">T1JERVIgQlkgY3JlYXRlZF90aW1lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlmb3IgKHBhcnR5RHRvcy4pCg==</text>
+        <text encoding="base64">V0hFUkUgb3JnX3F1YW50aXR5PTAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkvL1RPRE8gNTDkuKrmnaUK</text>
+        <text encoding="base64">RlJPTSBpbnZlbnRvcnkgaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">U0VMRUNUIGlkLGNyZWF0ZWRfdGltZSxpLiosaS5xdWFudGl0eQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCQo=</text>
+        <text encoding="base64">ICBXSEVSRSB1bnF1YWxpZmllZF9xdWFudGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ClNFTEVDVCAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
