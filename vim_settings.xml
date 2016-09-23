@@ -51,6 +51,7 @@
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/InventoryActionCatalog.java" timestamp="1474430645149">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-weixin-sdk/src/main/java/com/wanduoduo/weixinsdk/WeixinAPI.java" timestamp="1474602815500" />
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/generator/generatorConfig.xml" timestamp="1471928885687">
         <mark key="[" line="106" column="23" />
       </file>
@@ -402,11 +403,10 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/weixin/WeixinEventMessageHandler.java" timestamp="1471424461837">
-        <mark key="[" line="237" column="40" />
-        <mark key="]" line="237" column="36" />
-        <mark key="." line="237" column="36" />
-        <mark key="^" line="237" column="36" />
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/weixin/WeixinEventMessageHandler.java" timestamp="1474602258684">
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/inventory/inventoryList.jsp" timestamp="1474365333241">
         <mark key="[" line="247" column="61" />
@@ -759,6 +759,11 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="46" column="44" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1474432068463">
+        <mark key="[" line="334" column="26" />
+        <mark key="]" line="334" column="26" />
+        <mark key="." line="334" column="26" />
+      </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App01.java" timestamp="1471847427726">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="4" column="21" />
@@ -899,7 +904,9 @@
         <mark key="." line="265" column="81" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/assets/wanduoduo/inventory/inventoryAdjustDetail.js" timestamp="1474365498697" />
-      <file name="$USER_HOME$/work/code/weixin-sdk/src/main/java/cn/wanmei/weixinsdk/WeixinAPI.java" timestamp="1474540403686" />
+      <file name="$USER_HOME$/work/code/weixin-sdk/src/main/java/cn/wanmei/weixinsdk/WeixinAPI.java" timestamp="1474602665314">
+        <mark key="[" line="754" column="5" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/java/com/wanduoduo/core/io/ExcelDateHelper.java" timestamp="1473426160040">
         <mark key="[" line="19" column="48" />
       </file>
@@ -1048,10 +1055,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCg==</text>
       </register>
       <register name="-" type="4">
-        <text>增加</text>
+        <text>getEventKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1060,31 +1067,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXhDYW5RdWFudGl0eSA9ICRzY29wZS5kaWFsb2cuc2VsZWN0ZWREYXRhLm1heE9uc2FsZUNhbkluY1F1YW50aXR5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocXUpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBtZWRpYUlkID0gdGhpcy5nZXRHdW93YW5nSmluZ0NhaU1lZGlhSWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgY2F0Y2ggYmxvY2sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYXJ0aWNsZXNMaXN0ID0gYXBpLmdldE5ld3NNZXNzYWdlKCJnQmRwS21BYUljZ1JxY0VwT2hFdzZPTjFVczYxUjRkMC1TeWpGeWFFcHhZIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxdWFudGl0eSA9IE1hdGguYWJzKHF1YW50aXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocXUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name=":" type="4">
         <text>298</text>
