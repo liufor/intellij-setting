@@ -133,11 +133,10 @@
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/OrderSimpleJson.java" timestamp="1470737066642">
         <mark key="[" line="21" column="35" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_2.sql" timestamp="1474548000116">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_2.sql" timestamp="1474618310718">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/birthday/component/Content.js" timestamp="1472626829663">
         <mark key="[" line="19" column="23" />
@@ -490,7 +489,11 @@
         <mark key="." line="280" column="43" />
         <mark key="^" line="280" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console.sql" timestamp="1474432214099" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console.sql" timestamp="1474618345854">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-api/src/main/java/com/wanduoduo/api/response/ProductItem.java" timestamp="1472201256415">
         <mark key="[" line="51" column="29" />
         <mark key="]" line="51" column="17" />
@@ -728,6 +731,11 @@
         <mark key="]" line="22" column="65" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="46" column="44" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1474432068463">
+        <mark key="[" line="334" column="26" />
+        <mark key="]" line="334" column="26" />
+        <mark key="." line="334" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App01.java" timestamp="1471847427726">
         <mark key="[" line="5" column="27" />
@@ -1014,11 +1022,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>@link #adjustInventory(List, ModifyModel, InventoryAdjustType)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VMRUNUIGFjdGlvbl90eXBlLGFjdGlvbl9kZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>@link #adjustInventory(List, ModifyModel, InventoryAdjustType)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1027,31 +1035,31 @@
         <text encoding="base64">ICAgICAgICBpbnQgaW52ZW50b3J5SWQgPSBhZGp1c3RJdGVtRHRvLmdldEludmVudG9yeUlkKCk7CiAgICAgICAgaW50IHF0eVRvQWN0aW9uID0gYWRqdXN0SXRlbUR0by5nZXRRdWFudGl0eSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIGFjdGlvbl90eXBlLGFjdGlvbl9kZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RlJPTSA7Cg==</text>
+        <text encoding="base64">V0hFUkUgYWxpYXMuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCg==</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KCopCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">RlJPTSAgYWxpYXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">RlJPTSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBtZWRpYUlkID0gdGhpcy5nZXRHdW93YW5nSmluZ0NhaU1lZGlhSWQoKTsK</text>
+        <text encoding="base64">RlJPTSBpbnZlbnRvcnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgY2F0Y2ggYmxvY2sK</text>
+        <text encoding="base64">U0VMRUNUIGlkLG5hbWVfY29uc3QoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYXJ0aWNsZXNMaXN0ID0gYXBpLmdldE5ld3NNZXNzYWdlKCJnQmRwS21BYUljZ1JxY0VwT2hFdzZPTjFVczYxUjRkMC1TeWpGeWFFcHhZIik7Cg==</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">RlJPTSBpbnZlbnRvcnk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>298</text>
