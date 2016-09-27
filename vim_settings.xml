@@ -202,6 +202,7 @@
         <mark key="." line="48" column="92" />
         <mark key="^" line="48" column="92" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-cis/cis-service/src/main/java/cn/wanmei/cis/service/manager/InventoryAllocationManager.java" timestamp="1474965015348" />
       <file name="$USER_HOME$/work/code/NQ/position/__init__.py" timestamp="1467960737653">
         <mark key="[" line="0" column="0" />
       </file>
@@ -363,11 +364,11 @@
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/page-group-detail.css" timestamp="1472556717396">
         <mark key="[" line="85" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1474963332541">
-        <mark key="[" line="555" column="8" />
-        <mark key="]" line="550" column="0" />
-        <mark key="^" line="553" column="31" />
-        <mark key="." line="550" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1474964473232">
+        <mark key="[" line="549" column="9" />
+        <mark key="]" line="550" column="24" />
+        <mark key="^" line="550" column="24" />
+        <mark key="." line="550" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/Recommend.js" timestamp="1472538597443">
         <mark key="[" line="37" column="49" />
@@ -450,6 +451,12 @@
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/StockOutOrderManager.java" timestamp="1474875053193">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryAllocationManager.java" timestamp="1474965213120">
+        <mark key="[" line="589" column="19" />
+        <mark key="]" line="592" column="58" />
+        <mark key="^" line="592" column="58" />
+        <mark key="." line="592" column="58" />
+      </file>
       <file name="$USER_HOME$/work/code/redux/examples/todos2/components/Todo.js" timestamp="1469431354408">
         <mark key="[" line="11" column="1" />
       </file>
@@ -525,10 +532,10 @@
         <mark key="." line="280" column="43" />
         <mark key="^" line="280" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console.sql" timestamp="1474963125222">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console.sql" timestamp="1474964442581">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-api/src/main/java/com/wanduoduo/api/response/ProductItem.java" timestamp="1474859276117">
         <mark key="[" line="51" column="29" />
@@ -1090,11 +1097,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhZGp1c3RJdGVtRHRvcwo=</text>
+      <register name="&quot;" type="4">
+        <text>propagation = Propagation.REQUIRED, value=&quot;cisTransactionManager&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>InventoryAdjustItemDto</text>
+        <text>propagation = Propagation.REQUIRED, value=&quot;cisTransactionManager&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1103,31 +1110,31 @@
         <text encoding="base64">CQkJCQkJCQkJPHRkIG5nLWJpbmQ9ImRhdGEuZGF0YS5xdWFudGl0eS1kYXRhLmFsbG9jYXRlZFF1YW50aXR5Ij48L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhZGp1c3RJdGVtRHRvcwo=</text>
+        <text encoding="base64">U0VMRUNUIHN0YXR1cyxjb3VudCgqKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBtb2RpZnlNb2RlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlJPTSBpbnZlbnRvcnlfYWxsb2NhdGlvbl9tYXA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KCopCg==</text>
+        <text encoding="base64">RlJPTSBpbnZlbnRvcnlfYWxsb2NhdGlvbgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KCopCg==</text>
+        <text encoding="base64">R1JPVVAgQlkgc3RhdHVzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTSBpbnZlbnRvcnlfYWxsb2NhdGlvbjsK</text>
+        <text encoding="base64">V0hFUkUgc3RhdHVzPTE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhZGp1c3RJdGVtRHRvcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RlJPTSBpbnZlbnRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBtb2RpZnlNb2RlbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZlbnRvcnlTZXJ2aWNlLmFsbG9jYXRlSW52ZW50b3JpZXMocmVmSWQsKTsK</text>
+        <text encoding="base64">RlJPTSBpbnZlbnRvcnlfYWxsb2NhdGlvbl9tYXA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>298</text>
