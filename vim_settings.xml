@@ -187,6 +187,9 @@
         <mark key="." line="439" column="24" />
         <mark key="^" line="439" column="24" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/mapper/InventoryAllocationEntityManualMapper.java" timestamp="1474965556846">
+        <mark key="[" line="15" column="166" />
+      </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App03.java" timestamp="1471842322956">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -451,11 +454,11 @@
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/StockOutOrderManager.java" timestamp="1474875053193">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryAllocationManager.java" timestamp="1474965213120">
-        <mark key="[" line="589" column="19" />
-        <mark key="]" line="592" column="58" />
-        <mark key="^" line="592" column="58" />
-        <mark key="." line="592" column="58" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryAllocationManager.java" timestamp="1474965845683">
+        <mark key="[" line="646" column="33" />
+        <mark key="]" line="646" column="35" />
+        <mark key="^" line="646" column="35" />
+        <mark key="." line="646" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/redux/examples/todos2/components/Todo.js" timestamp="1469431354408">
         <mark key="[" line="11" column="1" />
@@ -1098,10 +1101,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>propagation = Propagation.REQUIRED, value=&quot;cisTransactionManager&quot;</text>
+        <text>executeInventory</text>
       </register>
       <register name="-" type="4">
-        <text>propagation = Propagation.REQUIRED, value=&quot;cisTransactionManager&quot;</text>
+        <text>executeInventory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
