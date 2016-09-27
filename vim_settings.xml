@@ -135,11 +135,12 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/common/Oper.java" timestamp="1474976287811">
-        <mark key="[" line="56" column="33" />
-        <mark key="]" line="64" column="42" />
-        <mark key="." line="64" column="42" />
-        <mark key="^" line="64" column="42" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/common/Oper.java" timestamp="1474977488908">
+        <mark key="'" line="57" column="22" />
+        <mark key="[" line="52" column="55" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="100" column="46" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/StockInOrderDto.java" timestamp="1474876896018">
         <mark key="[" line="2" column="28" />
@@ -231,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="31" filename="$USER_HOME$/work/code/go-jvm/go/src/main/pattern/pattern.go" />
       <jump line="24" column="0" filename="$USER_HOME$/work/code/go-jvm/go/src/main/pattern/qiubai.go" />
       <jump line="3" column="0" filename="$USER_HOME$/work/code/go-jvm/go/src/main/pattern/qiubai.go" />
       <jump line="16" column="16" filename="$USER_HOME$/work/code/jvmgo-book/v1/code/jvm-go-learn/src/jvmgo/ch01/cmd.go" />
@@ -331,6 +331,7 @@
       <jump line="35" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_1.sql" />
       <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console.sql" />
       <jump line="35" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/69d3ab04-d0a1-482e-9efc-8a38109d74a4/console.sql" />
+      <jump line="54" column="22" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/common/Oper.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -353,40 +354,40 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gIGNyZWF0b3JOYW1lcz1MaXN0cy5uZXdBcnJheUxpc3QoImNyZWF0b3JJZCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gIGNyZWF0b3JOYW1lcz1MaXN0cy5uZXdBcnJheUxpc3QoImNyZWF0b3JJZCIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1hcDxJbnRlZ2VyLCBMaXN0PFN0cmluZz4+IG1hcHMgPSBuZXcgSGFzaE1hcDw+KDMpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL0xpc3Q8RmllbGQ+IGZpZWxkcyA9IEFycmF5cy5hc0xpc3QodENsYXNzLmdldERlY2xhcmVkRmllbGRzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRBbGxGaWVsZHMoZmllbGRzLCB0Q2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWZhdWx0Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobW9kZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdCB2YWx1ZSA9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaCAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyW10gY3JlYXRvcklkcz0gbmV3IEludGVnZXJbXSgxLDIsMykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
