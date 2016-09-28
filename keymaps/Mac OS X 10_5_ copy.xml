@@ -28,6 +28,10 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="shift meta back_space" />
   </action>
+  <action id="MinimizeCurrentWindow" />
+  <action id="RefactoringMenu">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
