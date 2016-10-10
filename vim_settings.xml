@@ -264,10 +264,11 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/exception/OutOrderError.java" timestamp="1476085186950">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/exception/OutOrderError.java" timestamp="1476086959359">
         <mark key="[" line="25" column="54" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="13" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/ItemService.java" timestamp="1475997710695">
         <mark key="[" line="19" column="36" />
@@ -312,7 +313,7 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
       </file>
-      <file name="/a.sql" timestamp="1476016377513">
+      <file name="/a.sql" timestamp="1476085489468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App05.java" timestamp="1471842486965">
@@ -538,11 +539,9 @@
         <mark key="^" line="46" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-cis/cis-service/src/main/java/cn/wanmei/cis/service/manager/enums/StockOutOrderStatus.java" timestamp="1476082871605" />
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1476016254979">
-        <mark key="[" line="359" column="85" />
-        <mark key="]" line="359" column="44" />
-        <mark key="." line="359" column="44" />
-        <mark key="^" line="359" column="44" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1476085562909">
+        <mark key="[" line="355" column="83" />
+        <mark key="^" line="360" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/Class1.java" timestamp="1475045346422">
         <mark key="[" line="21" column="40" />
@@ -861,12 +860,12 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1476085244038">
-        <mark key="'" line="243" column="0" />
-        <mark key="[" line="242" column="9" />
-        <mark key="]" line="241" column="109" />
-        <mark key="." line="241" column="0" />
-        <mark key="^" line="241" column="74" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1476087447021">
+        <mark key="'" line="302" column="5" />
+        <mark key="[" line="249" column="25" />
+        <mark key="]" line="249" column="23" />
+        <mark key="." line="249" column="23" />
+        <mark key="^" line="249" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/inventory/inventoryList.jsp" timestamp="1474365333241">
         <mark key="[" line="247" column="61" />
@@ -945,9 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="16" filename="$USER_HOME$/work/code/jvmgo-book/v1/code/jvm-go-learn/src/jvmgo/ch01/cmd.go" />
-      <jump line="5" column="0" filename="$USER_HOME$/work/code/jvmgo-book/v1/code/jvm-go-learn/src/jvmgo/ch01/main.go" />
-      <jump line="1109" column="16" filename="$USER_HOME$/work/code/linshi/wanmei-party-api/src/main/java/cn/wanmei/party/api/service/CommodityService.java" />
       <jump line="118" column="56" filename="$USER_HOME$/work/code/NQ/data/save_hist_data2.py" />
       <jump line="13" column="22" filename="$USER_HOME$/work/code/signal-api/signal.py" />
       <jump line="16" column="16" filename="$USER_HOME$/work/code/signal-api/config/tz.py" />
@@ -1045,6 +1041,9 @@
       <jump line="54" column="22" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/common/Oper.java" />
       <jump line="1052" column="7" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/InventoryService.java" />
       <jump line="243" column="0" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
+      <jump line="305" column="16" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
+      <jump line="281" column="41" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
+      <jump line="270" column="5" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1066,44 +1065,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZlbnRvcnlTZXJ2aWNlLnJldHVybkludmVudG9yeShyZWZJZGVudGlmeSwgSW52ZW50b3J5QWN0aW9uVHlwZS5SZXR1cm5JbnZlbnRvcnkgLyog6L+Z6YeM5bqU6K+l5piv5Lia5Yqh5pON5L2c55qE57G75Z6LKi8pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>addStatusChangeLog</text>
       </register>
       <register name="-" type="4">
-        <text>getCode</text>
+        <text>addStatusChangeLog</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIElOREVYIGlkeF9hY3Rpb25fdHlwZSBPTiBzdG9ja19vdXRfb3JkZXJfbG9nKGFjdGlvbl90eXBlKTsK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gdHJ1ZTrkv67mlLnmiJDlip8uZmFsc2U65L+u5pS55aSx6LSlLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZlbnRvcnlTZXJ2aWNlLnJldHVybkludmVudG9yeShyZWZJZGVudGlmeSwgSW52ZW50b3J5QWN0aW9uVHlwZS5SZXR1cm5JbnZlbnRvcnkgLyog6L+Z6YeM5bqU6K+l5piv5Lia5Yqh5pON5L2c55qE57G75Z6LKi8pOwo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gdHJ1ZTrkv67mlLnmiJDlip8uZmFsc2U65L+u5pS55aSx6LSlLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN1Y2Nlc3NDYW5jZWxlZE91dE9yZGVyICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VjY2Vzc2VkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90cnkg5Y+W5raILOmYsuatonN0YXR1c+eKtuaAgeS4jeWHhuehrgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZklkZW50aWZ5LmdldFJlZklkKCksIHJlZklkZW50aWZ5LmdldFJlZlR5cGUoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RvY2tPdXRPcmRlckVudGl0eSBzdWNjZXNzQ2FuY2VsZWRPdXRPcmRlciA9IENhbmNlbFdNU09yZGVycyhvdXRPcmRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdG9ja091dE9yZGVyU3RhdHVzIGl0ZW1fU1RBVFVTID0gU3RvY2tPdXRPcmRlclN0YXR1cy5DcmVhdGVkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5zZXRTdGF0dXMoaXRlbV9TVEFUVVMuZ2V0Q29kZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VyT3JkZXJTdGF0dXMgPT0gU3RvY2tPdXRPcmRlclN0YXR1cy5DcmVhdGVkIHx8IGZvcmNlQ2FuY2VsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnZlbnRvcnlTZXJ2aWNlLnJldHVybkludmVudG9yeShyZWZJZGVudGlmeSwgSW52ZW50b3J5QWN0aW9uVHlwZS5SZXR1cm5JbnZlbnRvcnkgLyog6L+Z6YeM5bqU6K+l5piv5Lia5Yqh5pON5L2c55qE57G75Z6LKi8pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>600</text>
