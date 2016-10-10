@@ -63,6 +63,12 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/WithRefIdentify.java" timestamp="1476106629941">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/python_projects/tongji/tongji.py" timestamp="1470643920875">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="4" />
@@ -299,11 +305,17 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/OrderProductService.java" timestamp="1476008508426">
-        <mark key="[" line="411" column="97" />
-        <mark key="]" line="409" column="39" />
-        <mark key="." line="409" column="39" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/OrderProductService.java" timestamp="1476106106485">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
         <mark key="^" line="409" column="39" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/WithOper.java" timestamp="1476106764455">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/config-constant.properties" timestamp="1472448985934">
         <mark key="[" line="32" column="33" />
@@ -466,7 +478,7 @@
         <mark key="^" line="18" column="223" />
         <mark key="." line="18" column="223" />
       </file>
-      <file name="/fragment.java" timestamp="1476105274636">
+      <file name="/fragment.java" timestamp="1476106191628">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="13" />
@@ -750,10 +762,6 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="46" column="44" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1476085562909">
-        <mark key="[" line="355" column="83" />
-        <mark key="^" line="360" column="44" />
-      </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App01.java" timestamp="1471847427726">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="4" column="21" />
@@ -773,10 +781,10 @@
         <mark key="^" line="54" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/RentOutOrderCreation.java" timestamp="1476008287859">
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/page/group-index.css" timestamp="1472541061102">
         <mark key="[" line="27" column="0" />
@@ -1025,8 +1033,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Oper.system().getName()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="-" type="4">
         <text>Oper.system().getName()</text>
@@ -1038,32 +1046,31 @@
         <text encoding="base64">ICAgIFN0b2NrT3V0T3JkZXJfQ2FudENvbXBsZXRlX0luTm90QWxsb3dlZFN0YXR1cygoNzIwLCLlh7rlupPljZXlpITkuo7kuI3lj6/lrozmiJDnmoTnirbmgIEiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL0ZJWE1FIOS/oeaBr+S4jei2s+S7peiusOW9leaXpeW/lwo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJPcmRlclN0YXR1cyAhPSBTdG9ja091dE9yZGVyU3RhdHVzLkNvbXBsZXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0b2NrT3V0T3JkZXJfQ2FudENvbXBsZXRlX0luTm90QWxsb3dlZFN0YXR1cygoNzIwLCLlh7rlupPljZXlpITkuo7kuI3lj6/lrozmiJDnmoTnirbmgIEiKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZW1hcmsgICAgICDlpIfms6guCg==</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5jZGJnLlJlZlR5cGU7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>,
-                InventoryRefType.ORDER.getValue()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvL0ZJWE1FIOS/oeaBr+S4jei2s+S7peiusOW9leaXpeW/lwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWZUeXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWZJZAo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJPcmRlclN0YXR1cyAhPSBTdG9ja091dE9yZGVyU3RhdHVzLkNvbXBsZXRlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja25vdG51bGwK</text>
+        <text encoding="base64">ICAgIFN0b2NrT3V0T3JkZXJfQ2FudENvbXBsZXRlX0luTm90QWxsb3dlZFN0YXR1cygoNzIwLCLlh7rlupPljZXlpITkuo7kuI3lj6/lrozmiJDnmoTnirbmgIEiKSwK</text>
       </register>
       <register name=":" type="4">
         <text>600</text>
