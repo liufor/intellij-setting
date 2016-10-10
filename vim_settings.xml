@@ -352,7 +352,12 @@
         <mark key="^" line="43" column="43" />
         <mark key="." line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/OrderService.java" timestamp="1476083470285" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/OrderService.java" timestamp="1476093373565">
+        <mark key="[" line="268" column="82" />
+        <mark key="]" line="271" column="56" />
+        <mark key="^" line="271" column="56" />
+        <mark key="." line="271" column="56" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/BirthdayPartyList.js" timestamp="1472715911068">
         <mark key="[" line="225" column="39" />
         <mark key="]" line="225" column="44" />
@@ -532,7 +537,7 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/base/Preconditions.java" timestamp="1476088693061" />
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/base/Preconditions.java" timestamp="1476092895172" />
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/rabbit/App10.java" timestamp="1471871228708">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="65" />
@@ -728,6 +733,12 @@
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="9" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/OutOrderOperate.java" timestamp="1476093330866">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="55" column="43" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/main/scala/com/liufor/App.scala" timestamp="1470582385678">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="9" column="3" />
@@ -861,12 +872,12 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1476091427276">
-        <mark key="'" line="337" column="5" />
-        <mark key="[" line="186" column="17" />
-        <mark key="]" line="240" column="0" />
-        <mark key="^" line="361" column="58" />
-        <mark key="." line="240" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1476093069260">
+        <mark key="'" line="333" column="5" />
+        <mark key="[" line="182" column="36" />
+        <mark key="]" line="190" column="67" />
+        <mark key="^" line="190" column="67" />
+        <mark key="." line="190" column="67" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/inventory/inventoryList.jsp" timestamp="1474365333241">
         <mark key="[" line="247" column="61" />
@@ -937,7 +948,7 @@
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/resources/runEnvConfig/config-online.properties" timestamp="1475033728586">
         <mark key="[" line="35" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1476016542982">
+      <file name="/fragment.java" timestamp="1476091760271">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="13" />
@@ -1066,44 +1077,45 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>refIdentify</text>
       </register>
       <register name="-" type="4">
-        <text>NullableString</text>
+        <text>refIdentify</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gdHJ1ZTrkv67mlLnmiJDlip8uZmFsc2U65L+u5pS55aSx6LSlLgo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja05vdE51bGwocmVmSWRlbnRpZnkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZW1hcmsgICAgICDlpIfms6guCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>,
+                InventoryRefType.ORDER.getValue()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsb2cK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWZUeXBlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWZJZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja25vdG51bGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihvcGVyID09IG51bGwpewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gdHJ1ZTrkv67mlLnmiJDlip8uZmFsc2U65L+u5pS55aSx6LSlLgo=</text>
+        <text encoding="base64">ICAgIC8qOAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VjY2Vzc2VkOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>600</text>
