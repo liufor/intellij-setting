@@ -15,7 +15,7 @@
         <mark key="^" line="66" column="29" />
         <mark key="." line="66" column="31" />
       </file>
-      <file name="/a.dummy" timestamp="1476087851284">
+      <file name="/a.dummy" timestamp="1476103490494">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/UnpaidOrderDetailPage.js" timestamp="1470904816029">
@@ -378,11 +378,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1476101994747">
-        <mark key="[" line="625" column="34" />
-        <mark key="]" line="625" column="33" />
-        <mark key="^" line="625" column="33" />
-        <mark key="." line="625" column="33" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1476103450462">
+        <mark key="[" line="639" column="73" />
+        <mark key="]" line="653" column="64" />
+        <mark key="^" line="653" column="64" />
+        <mark key="." line="653" column="64" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-cis/cis-service/src/main/java/cn/wanmei/cis/service/exception/CommonError.java" timestamp="1476011575026" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/Recommend.js" timestamp="1472538597443">
@@ -457,6 +457,7 @@
         <mark key="." line="23" column="45" />
         <mark key="^" line="23" column="45" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryAllocationManager.java" timestamp="1476103246112" />
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/GroupPartyController.java" timestamp="1471929285391">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -1060,10 +1061,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0ZJWE1FIOS/oeaBr+S4jei2s+S7peiusOW9leaXpeW/lwo=</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>inventoryId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1072,32 +1073,32 @@
         <text encoding="base64">ICAgIFN0b2NrT3V0T3JkZXJfQ2FudENvbXBsZXRlX0luTm90QWxsb3dlZFN0YXR1cygoNzIwLCLlh7rlupPljZXlpITkuo7kuI3lj6/lrozmiJDnmoTnirbmgIEiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0ZJWE1FIOS/oeaBr+S4jei2s+S7peiusOW9leaXpeW/lwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJPcmRlclN0YXR1cyAhPSBTdG9ja091dE9yZGVyU3RhdHVzLkNvbXBsZXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0b2NrT3V0T3JkZXJfQ2FudENvbXBsZXRlX0luTm90QWxsb3dlZFN0YXR1cygoNzIwLCLlh7rlupPljZXlpITkuo7kuI3lj6/lrozmiJDnmoTnirbmgIEiKSwK</text>
+        <text encoding="base64">ICAgICAgICBjdXJPcmRlclN0YXR1cyAhPSBTdG9ja091dE9yZGVyU3RhdHVzLkNvbXBsZXRlOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIFN0b2NrT3V0T3JkZXJfQ2FudENvbXBsZXRlX0luTm90QWxsb3dlZFN0YXR1cygoNzIwLCLlh7rlupPljZXlpITkuo7kuI3lj6/lrozmiJDnmoTnirbmgIEiKSwK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSByZW1hcmsgICAgICDlpIfms6guCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>,
                 InventoryRefType.ORDER.getValue()</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSByZWZUeXBlCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSByZWZJZAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja25vdG51bGwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja25vdG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>600</text>
