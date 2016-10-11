@@ -531,11 +531,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1476182043855">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="311" column="64" />
-        <mark key="^" line="311" column="64" />
-        <mark key="." line="311" column="64" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1476184559885">
+        <mark key="[" line="150" column="40" />
+        <mark key="]" line="150" column="40" />
+        <mark key="^" line="314" column="64" />
+        <mark key="." line="150" column="40" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/ChooseCommodityPage.js" timestamp="1472639899795">
         <mark key="[" line="66" column="0" />
@@ -774,11 +774,10 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/InOrderItemOperate.java" timestamp="1476183600418">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/InOrderItemOperate.java" timestamp="1476184272247">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockInOrderLogEntityType.java" timestamp="1476182458918">
         <mark key="[" line="15" column="52" />
@@ -1120,10 +1119,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>code</text>
+        <text>inOrderItemId</text>
       </register>
       <register name="-" type="4">
-        <text>code</text>
+        <text>inOrderItemId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -1132,31 +1131,31 @@
         <text>(StockInOrderLogActionType.CreateNewOrder.getCode())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuc2V0UmVtYXJrKGNyZWF0aW9uLmdldFJlbWFyaygpKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBJbk9yZGVySXRlbU9wZXJhdGUoKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbnRpdHlfdHlwZQo=</text>
+        <text encoding="base64">ICAgIEBuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbnRpdHlfdHlwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbnRpdHlfdHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuc2V0UmVtYXJrKGNyZWF0aW9uLmdldFJlbWFyaygpKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbnRpdHlfdHlwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBlbnRpdHlfdHlwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>600</text>
