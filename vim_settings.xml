@@ -320,6 +320,12 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/exception/InOrderError.java" timestamp="1476178814312">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" timestamp="1472639013776">
         <mark key="[" line="180" column="39" />
         <mark key="]" line="180" column="39" />
@@ -549,17 +555,17 @@
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="/fragment.java" timestamp="1476177166414">
+      <file name="/fragment.java" timestamp="1476178724212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1476178317422">
-        <mark key="[" line="183" column="45" />
-        <mark key="]" line="203" column="45" />
-        <mark key="^" line="203" column="45" />
-        <mark key="." line="203" column="45" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1476179373342">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="162" column="73" />
+        <mark key="^" line="162" column="73" />
+        <mark key="." line="162" column="73" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/ChooseCommodityPage.js" timestamp="1472639899795">
         <mark key="[" line="66" column="0" />
@@ -781,7 +787,7 @@
         <mark key="^" line="226" column="21" />
         <mark key="." line="226" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockOutOrderStatus.java" timestamp="1476095175643">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockOutOrderStatus.java" timestamp="1476179409922">
         <mark key="[" line="24" column="23" />
         <mark key="]" line="7" column="3" />
         <mark key="^" line="7" column="3" />
@@ -840,10 +846,11 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockInOrderStatus.java" timestamp="1476171370336">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="5" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockInOrderStatus.java" timestamp="1476179029035">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/test/java/com/wanduoduo/domain/test/service/InventoryServiceTest.java" timestamp="1472118613417">
         <mark key="[" line="109" column="58" />
@@ -1023,7 +1030,7 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1476178040964">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1476179291914">
         <mark key="'" line="412" column="5" />
         <mark key="[" line="173" column="20" />
         <mark key="]" line="173" column="19" />
@@ -1188,10 +1195,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>intOrderId</text>
+        <text>order</text>
       </register>
       <register name="-" type="4">
-        <text>intOrderId</text>
+        <text>order</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
