@@ -153,12 +153,12 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/InventoryService.java" timestamp="1476245257432">
-        <mark key="'" line="1127" column="0" />
-        <mark key="[" line="1099" column="26" />
-        <mark key="]" line="1103" column="24" />
-        <mark key="." line="1103" column="24" />
-        <mark key="^" line="1103" column="24" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/InventoryService.java" timestamp="1476257516477">
+        <mark key="'" line="1143" column="0" />
+        <mark key="[" line="1099" column="7" />
+        <mark key="]" line="1111" column="0" />
+        <mark key="^" line="1109" column="64" />
+        <mark key="." line="1111" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/main/scala/com/liufor/DoNothingAction.scala" timestamp="1470582314476">
         <mark key="[" line="5" column="29" />
@@ -440,11 +440,11 @@
         <mark key="." line="95" column="59" />
         <mark key="^" line="95" column="59" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1476245881963">
-        <mark key="[" line="656" column="5" />
-        <mark key="]" line="360" column="36" />
-        <mark key="^" line="359" column="45" />
-        <mark key="." line="360" column="36" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1476258049299">
+        <mark key="[" line="667" column="41" />
+        <mark key="]" line="670" column="14" />
+        <mark key="^" line="670" column="14" />
+        <mark key="." line="670" column="14" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-cis/cis-service/src/main/java/cn/wanmei/cis/service/exception/CommonError.java" timestamp="1476011575026" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/Recommend.js" timestamp="1472538597443">
@@ -941,6 +941,12 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/mapper/InventoryEntityManualMapper.java" timestamp="1476257364619">
+        <mark key="[" line="137" column="16" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="118" column="35" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/SkuQty.java" timestamp="1476165489745">
         <mark key="[" line="2" column="21" />
       </file>
@@ -1144,44 +1150,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlckl0ZW1zLmZvckVhY2goKTsK</text>
+      <register name="&quot;" type="4">
+        <text>qtyToDec</text>
       </register>
       <register name="-" type="4">
-        <text>unQuantity</text>
+        <text>qtyToDec</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>(StockInOrderLogActionType.CreateNewOrder.getCode())</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBxdHkg6LCD5pW05pWw5o2uLCDlj6/og73kuLrmraPvvIzkuZ/lj6/og73kuLrotJ/mlbAuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlckl0ZW1zLmZvckVhY2goKTsK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbk9yZGVyLmdldAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnZlbnRvcnlJZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbk9yZGVyLnNldFdhcmVob3VzZUlkKDApOyAgLy9GSVhNRSDlm57lupPlm57liLDljp/mnaXnmoTku5PlupPvvJ8K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnZlbnRvcnlJZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBJbnRlZ2VyIGludmVudG9yeUlkID0gc2VsZWN0LmdldCgwKS5nZXRJZCgpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBxdHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YoaW52ZW50b3J5SWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>600</text>
@@ -1289,6 +1295,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
