@@ -276,6 +276,7 @@
         <mark key="^" line="10" column="68" />
         <mark key="." line="10" column="68" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockOut/stockOutPartial.jsp" timestamp="1476335327461" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/inventory/onsaleInventoryList.jsp" timestamp="1474866254423">
         <mark key="[" line="250" column="0" />
         <mark key="]" line="250" column="78" />
@@ -593,6 +594,7 @@
         <mark key="^" line="51" column="39" />
         <mark key="." line="52" column="41" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockOut/details.jsp" timestamp="1476335167264" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockOutOrderType.java" timestamp="1476182868573">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="40" column="36" />
@@ -724,12 +726,7 @@
         <mark key="^" line="235" column="9" />
         <mark key="." line="235" column="9" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/stockInPartial.jsp" timestamp="1476334015211">
-        <mark key="[" line="77" column="18" />
-        <mark key="]" line="77" column="17" />
-        <mark key="^" line="77" column="17" />
-        <mark key="." line="77" column="17" />
-      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/stockInPartial.jsp" timestamp="1476335353350" />
       <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/test/scala/com/liufor/MySpec.scala" timestamp="1470572316108">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="37" />
@@ -738,6 +735,11 @@
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/InventoryRefType.java" timestamp="1476183258612">
         <mark key="[" line="6" column="29" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/details.jsp" timestamp="1476335465281">
+        <mark key="[" line="47" column="44" />
+        <mark key="]" line="47" column="44" />
+        <mark key="." line="47" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/PartyCaseJson.java" timestamp="1470888328441">
         <mark key="[" line="5" column="28" />
@@ -1196,11 +1198,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PickingFailure</text>
       </register>
       <register name="-" type="4">
-        <text>inOrdderId</text>
+        <text>PickingFailure</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
