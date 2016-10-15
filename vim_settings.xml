@@ -164,6 +164,11 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/InventoryService.java" timestamp="1476355109392">
+        <mark key="[" line="1137" column="5" />
+        <mark key="]" line="1138" column="0" />
+        <mark key="." line="1138" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/main/scala/com/liufor/DoNothingAction.scala" timestamp="1470582314476">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="20" />
@@ -218,6 +223,11 @@
         <mark key="]" line="119" column="21" />
         <mark key="^" line="119" column="21" />
         <mark key="." line="119" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/mapper/manual/StockOutRentOrderMapper.xml" timestamp="1476369965371">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/Constants.java" timestamp="1472149831852">
         <mark key="[" line="5" column="0" />
@@ -454,6 +464,11 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1476505731912">
+        <mark key="[" line="394" column="21" />
+        <mark key="]" line="398" column="0" />
+        <mark key="." line="398" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-cis/cis-service/src/main/java/cn/wanmei/cis/service/exception/CommonError.java" timestamp="1476011575026" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/Recommend.js" timestamp="1472538597443">
@@ -1270,10 +1285,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>availableQuantity</text>
       </register>
       <register name="/" type="4">
         <text>ret.order</text>
@@ -1282,31 +1297,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCAnPCU9IFN0b2NrSW5PcmRlclN0YXR1cy5GYWlsdXJlLmdldFZhbHVlKCklPicgPT0gc3RhdHVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkLnNldFN0b2NrSW5PcmRlcklkKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZihpbmNsdWRlSXRlbUxvZyl7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9ja0luT3JkZXJMb2dFbnRpdHkgcmVjb3JkID0gbmV3IFN0b2NrSW5PcmRlckxvZ0VudGl0eSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmQuc2V0U3RvY2tJbk9yZGVySWQoaW5PcmRlcklkKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludmVudG9yeUVudGl0eU1hbnVhbE1hcHBlci5hZGp1c3RRdWFudGl0eShpbnZlbnRvcnlJZCwgcXVhbnRpdHksIHVucXVhbGlmaWVkUXVhbnRpdHksIGludmVudG9yeUFkanVzdEl0ZW1EdG8uZ2V0U3RvcmVIb3VzZVBvc2l0aW9uQ29kZSgpLCBpbnZlbnRvcnlBZGp1c3RJdGVtRHRvLmdldFN0b3JlSG91c2VQb3NpdGlvbklkKCkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGp1c3RPbnNhbGVJbnZlbnRvcnkoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkLnNldFN0b2NrSW5PcmRlcklkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZihpbmNsdWRlSXRlbUxvZyl7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>632</text>
