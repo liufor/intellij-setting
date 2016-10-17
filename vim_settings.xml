@@ -135,6 +135,7 @@
         <mark key="." line="53" column="85" />
         <mark key="^" line="53" column="85" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/test/java/com/wanduoduo/domain/test/service/CommonServiceTest.java" timestamp="1476692323512" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_4.sql" timestamp="1475985766540">
         <mark key="[" line="136" column="28" />
         <mark key="]" line="136" column="28" />
@@ -260,6 +261,11 @@
         <mark key="]" line="439" column="24" />
         <mark key="." line="439" column="24" />
         <mark key="^" line="439" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/test/java/com/wanduoduo/domain/service/inventory/StockOutServiceTest.java" timestamp="1476692499598">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App03.java" timestamp="1471842322956">
         <mark key="[" line="8" column="0" />
@@ -422,12 +428,6 @@
         <mark key="^" line="32" column="20" />
         <mark key="." line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/InventoryActionType.java" timestamp="1476690142178">
-        <mark key="[" line="68" column="80" />
-        <mark key="]" line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="31" column="18" />
-      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/exception/InventoryError.java" timestamp="1476011400992">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="41" column="19" />
@@ -478,11 +478,6 @@
         <mark key="]" line="95" column="59" />
         <mark key="." line="95" column="59" />
         <mark key="^" line="95" column="59" />
-      </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/manager/InventoryManager.java" timestamp="1476690427642">
-        <mark key="[" line="410" column="28" />
-        <mark key="]" line="410" column="28" />
-        <mark key="." line="410" column="28" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-cis/cis-service/src/main/java/cn/wanmei/cis/service/exception/CommonError.java" timestamp="1476011575026" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/Recommend.js" timestamp="1472538597443">
@@ -576,7 +571,7 @@
         <mark key="^" line="41" column="38" />
         <mark key="." line="41" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1476677691078">
+      <file name="/fragment.java" timestamp="1476692290090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="13" />
@@ -1099,11 +1094,11 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1476689806280">
-        <mark key="[" line="266" column="33" />
-        <mark key="]" line="266" column="33" />
-        <mark key="." line="266" column="33" />
-        <mark key="^" line="266" column="36" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1476692712719">
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="0" />
+        <mark key="." line="263" column="0" />
+        <mark key="^" line="264" column="39" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/java/com/wanduoduo/core/io/ExcelDateHelper.java" timestamp="1474855519865">
         <mark key="[" line="18" column="47" />
@@ -1252,11 +1247,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>inventoryEntity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>inventoryEntity</text>
+        <text>getQuantity</text>
       </register>
       <register name="/" type="4">
         <text>ret.order</text>
@@ -1265,31 +1260,31 @@
         <text encoding="base64">ICAgIFJlbnRSZXR1cm4oMzEsICLnp5/otYHpgIDnp58t5b2S6L+Y5bqT5a2YIiwgSW52ZW50b3J5QWN0aW9uQ2F0YWxvZy5XYXJlaG91c2VJbnZlbnRvcnkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0b2NrT3V0T3JkZXJJdGVtRW50aXR5IG5ldz0gaXRlbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc2V0UXVhbnRpdHkoMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3N0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJ4eCIsc3QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvY2tPdXRPcmRlckl0ZW1FbnRpdHlNYXBwZXIuaW5zZXJ0KGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdG9ja091dE9yZGVyRHRvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0b2NrT3V0T3JkZXJJdGVtRW50aXR5IG5ldz0gaXRlbQo=</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
