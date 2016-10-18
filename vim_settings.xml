@@ -22,7 +22,7 @@
         <mark key="." line="66" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-api/src/main/resources/spring/mvc-dispatcher-servlet.xml" timestamp="1476770698584" />
-      <file name="/a.dummy" timestamp="1476782997044">
+      <file name="/a.dummy" timestamp="1476792080036">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/InventoryQtyOperate.java" timestamp="1476265483230">
@@ -31,6 +31,7 @@
         <mark key="^" line="64" column="43" />
         <mark key="." line="64" column="43" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/common/RequestHelper.java" timestamp="1476793965072" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/UnpaidOrderDetailPage.js" timestamp="1470904816029">
         <mark key="[" line="214" column="141" />
         <mark key="]" line="214" column="136" />
@@ -68,11 +69,11 @@
         <mark key="^" line="0" column="105" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/controller/LoginController.java" timestamp="1476782746223">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/controller/LoginController.java" timestamp="1476795174269">
+        <mark key="[" line="48" column="70" />
+        <mark key="]" line="46" column="50" />
+        <mark key="^" line="46" column="50" />
+        <mark key="." line="46" column="50" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/InvenotryAlloctedItem.java" timestamp="1474270809440">
         <mark key="[" line="14" column="28" />
@@ -234,18 +235,20 @@
         <mark key="^" line="225" column="44" />
         <mark key="." line="225" column="44" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/StatelessRealm.java" timestamp="1476782698468">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/StatelessRealm.java" timestamp="1476792103212">
         <mark key="[" line="35" column="8" />
         <mark key="]" line="35" column="13" />
         <mark key="." line="35" column="13" />
         <mark key="^" line="35" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/authc/AbstractAuthenticator.java" timestamp="1476790403076" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7e6a2b88-e1dc-40c3-b2ba-0e1464754b7b/console.sql" timestamp="1476515843566">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="12" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.6.2.RELEASE/spring-data-redis-1.6.2.RELEASE-sources.jar!/org/springframework/data/redis/serializer/GenericJackson2JsonRedisSerializer.java" timestamp="1476792346626" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/customization/CustomizationPage.js" timestamp="1472715823312">
         <mark key="[" line="119" column="32" />
         <mark key="]" line="119" column="21" />
@@ -344,6 +347,7 @@
         <mark key="^" line="93" column="29" />
         <mark key="." line="93" column="29" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/SpringCacheManagerWrapper.java" timestamp="1476790117399" />
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/BirthdayPartyJson.java" timestamp="1471939032514">
         <mark key="[" line="40" column="20" />
         <mark key="]" line="40" column="20" />
@@ -408,7 +412,7 @@
         <mark key="." line="26" column="36" />
         <mark key="^" line="26" column="36" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/StatelessToken.java" timestamp="1476783891683">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/StatelessToken.java" timestamp="1476790914528">
         <mark key="[" line="62" column="63" />
         <mark key="]" line="62" column="29" />
         <mark key="^" line="62" column="29" />
@@ -476,13 +480,15 @@
         <mark key="." line="59" column="39" />
         <mark key="^" line="59" column="39" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/StatelessAuthcFilter.java" timestamp="1476786764828">
-        <mark key="[" line="41" column="79" />
-        <mark key="]" line="41" column="78" />
-        <mark key="^" line="41" column="78" />
-        <mark key="." line="41" column="78" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/StatelessAuthcFilter.java" timestamp="1476793369898">
+        <mark key="[" line="53" column="31" />
+        <mark key="]" line="54" column="40" />
+        <mark key="." line="54" column="40" />
+        <mark key="^" line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/resources/spring/redis-context.xml" timestamp="1476788151160" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/resources/spring/redis-context.xml" timestamp="1476793028041">
+        <mark key="[" line="38" column="73" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/component/slider-bar.css" timestamp="1472625985795">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="17" column="13" />
@@ -588,6 +594,9 @@
         <mark key="^" line="247" column="37" />
         <mark key="." line="247" column="37" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/pom.xml" timestamp="1476790783700">
+        <mark key="[" line="292" column="24" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/component/Slidebar.js" timestamp="1472622749072">
         <mark key="[" line="23" column="47" />
         <mark key="]" line="23" column="45" />
@@ -602,6 +611,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="25" column="3" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/resources/runEnvConfig/config-qa.properties" timestamp="1476791138828" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/util.js" timestamp="1470803945672">
         <mark key="[" line="1" column="49" />
         <mark key="]" line="1" column="47" />
@@ -614,11 +624,11 @@
         <mark key="^" line="41" column="38" />
         <mark key="." line="41" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1476770056396">
+      <file name="/fragment.java" timestamp="1476790333061">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/java/com/wanduoduo/core/crypto/DesHelper.java" timestamp="1476779788973" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1476700765370">
@@ -685,11 +695,10 @@
         <mark key="^" line="40" column="36" />
         <mark key="." line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/resources/logback.xml" timestamp="1476788848394">
-        <mark key="[" line="62" column="26" />
-        <mark key="]" line="61" column="33" />
-        <mark key="^" line="61" column="33" />
-        <mark key="." line="61" column="33" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/resources/logback.xml" timestamp="1476793483763">
+        <mark key="[" line="62" column="27" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/SubscribeNotifyStep.java" timestamp="1476182932036">
         <mark key="[" line="47" column="0" />
@@ -770,7 +779,7 @@
         <mark key="." line="290" column="7" />
         <mark key="^" line="290" column="7" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/java/com/wanduoduo/core/cache/RedisService.java" timestamp="1476782991458" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/java/com/wanduoduo/core/cache/RedisService.java" timestamp="1476795187426" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/App.java" timestamp="1476369487603">
         <mark key="[" line="13" column="41" />
         <mark key="]" line="13" column="38" />
@@ -837,11 +846,21 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/details.jsp" timestamp="1476701461151">
+        <mark key="[" line="155" column="29" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/domain/json/PartyCaseJson.java" timestamp="1470888328441">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/OrderController.java" timestamp="1476708910502">
+        <mark key="[" line="491" column="37" />
+        <mark key="]" line="491" column="37" />
+        <mark key="." line="491" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/rust_projects/hello_world/src/main.rs" timestamp="1474527478406">
         <mark key="[" line="4" column="19" />
@@ -884,6 +903,14 @@
         <mark key="]" line="43" column="43" />
         <mark key="^" line="43" column="43" />
         <mark key="." line="43" column="43" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockOut/list.jsp" timestamp="1476699306666">
+        <mark key="[" line="27" column="42" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/controller/BaseController.java" timestamp="1476795266114">
+        <mark key="]" line="126" column="34" />
+        <mark key="^" line="126" column="34" />
+        <mark key="." line="126" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/PartyCaseController.java" timestamp="1470888538411">
         <mark key="[" line="29" column="22" />
@@ -1081,6 +1108,9 @@
         <mark key="]" line="52" column="6" />
         <mark key="^" line="52" column="6" />
         <mark key="." line="52" column="6" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/list.jsp" timestamp="1476698318328">
+        <mark key="[" line="114" column="64" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/order.js" timestamp="1470629007838">
         <mark key="[" line="32" column="32" />
@@ -1296,8 +1326,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>authorizationCachingEnabled</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5jdXJyZW50UmVxdWVzdEF0dHJpYnV0ZXMoKS5nZXRyZXEK</text>
       </register>
       <register name="-" type="4">
         <text>authorizationCachingEnabled</text>
@@ -1309,28 +1339,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+5ZOB54mMPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBnZXRTdQo=</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5jdXJyZW50UmVxdWVzdEF0dHJpYnV0ZXMoKS5nZXRyZXEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3VycmVudFJlcXVlc3Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0ZWxlc3NUb2tlbiB0b2tlbiA9IFN0YXRlbGVzc1Rva2VuLmZyb21Ub2tlbih0b2tlblN0cmluZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKG1zZyxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJTdGF0ZWxlc3NUb2tlbiBkZWNyeXB0IGVycm9yOiIsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBodHRwUmVzcG9uc2UuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9rZW47Cg==</text>
+        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBnZXRTdQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
