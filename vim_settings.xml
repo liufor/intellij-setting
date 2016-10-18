@@ -277,8 +277,11 @@
         <mark key="." line="439" column="24" />
         <mark key="^" line="439" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/resources/spring/spring-shiro.xml" timestamp="1476787524002">
-        <mark key="[" line="29" column="62" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/resources/spring/spring-shiro.xml" timestamp="1476788975610">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/RxJava/demo/src/main/java/com/liufor/App03.java" timestamp="1471842322956">
         <mark key="[" line="8" column="0" />
@@ -479,6 +482,7 @@
         <mark key="^" line="41" column="78" />
         <mark key="." line="41" column="78" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/resources/spring/redis-context.xml" timestamp="1476788151160" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/component/slider-bar.css" timestamp="1472625985795">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="17" column="13" />
@@ -577,7 +581,7 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/realm/CachingRealm.java" timestamp="1476786381601" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/realm/CachingRealm.java" timestamp="1476788609908" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/inventory/inventoryList.jsp" timestamp="1474365333241">
         <mark key="[" line="247" column="61" />
         <mark key="]" line="247" column="37" />
@@ -591,7 +595,7 @@
         <mark key="^" line="23" column="45" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/LoginRequest.java" timestamp="1476774998956" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/realm/AuthenticatingRealm.java" timestamp="1476786349375" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/realm/AuthenticatingRealm.java" timestamp="1476788878681" />
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/GroupPartyController.java" timestamp="1471929285391">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -680,6 +684,12 @@
         <mark key="]" line="40" column="36" />
         <mark key="^" line="40" column="36" />
         <mark key="." line="40" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/resources/logback.xml" timestamp="1476788848394">
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="61" column="33" />
+        <mark key="^" line="61" column="33" />
+        <mark key="." line="61" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/SubscribeNotifyStep.java" timestamp="1476182932036">
         <mark key="[" line="47" column="0" />
@@ -874,9 +884,6 @@
         <mark key="]" line="43" column="43" />
         <mark key="^" line="43" column="43" />
         <mark key="." line="43" column="43" />
-      </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockOut/list.jsp" timestamp="1476699306666">
-        <mark key="[" line="27" column="42" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/PartyCaseController.java" timestamp="1470888538411">
         <mark key="[" line="29" column="22" />
@@ -1074,9 +1081,6 @@
         <mark key="]" line="52" column="6" />
         <mark key="^" line="52" column="6" />
         <mark key="." line="52" column="6" />
-      </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/list.jsp" timestamp="1476698318328">
-        <mark key="[" line="114" column="64" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/order.js" timestamp="1470629007838">
         <mark key="[" line="32" column="32" />
@@ -1292,11 +1296,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBnZXRTdQo=</text>
+      <register name="&quot;" type="4">
+        <text>authorizationCachingEnabled</text>
       </register>
       <register name="-" type="4">
-        <text>isBlank</text>
+        <text>authorizationCachingEnabled</text>
       </register>
       <register name="/" type="4">
         <text>ret.order</text>
