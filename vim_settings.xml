@@ -69,7 +69,7 @@
         <mark key="^" line="0" column="105" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/controller/LoginController.java" timestamp="1476795174269">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/controller/LoginController.java" timestamp="1476795934434">
         <mark key="[" line="48" column="70" />
         <mark key="]" line="46" column="50" />
         <mark key="^" line="46" column="50" />
@@ -235,7 +235,7 @@
         <mark key="^" line="225" column="44" />
         <mark key="." line="225" column="44" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/StatelessRealm.java" timestamp="1476792103212">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/StatelessRealm.java" timestamp="1476795586478">
         <mark key="[" line="35" column="8" />
         <mark key="]" line="35" column="13" />
         <mark key="." line="35" column="13" />
@@ -249,6 +249,11 @@
         <mark key="." line="2" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.6.2.RELEASE/spring-data-redis-1.6.2.RELEASE-sources.jar!/org/springframework/data/redis/serializer/GenericJackson2JsonRedisSerializer.java" timestamp="1476792346626" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/EmployeeService.java" timestamp="1476796166454">
+        <mark key="[" line="125" column="32" />
+        <mark key="]" line="104" column="65" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/customization/CustomizationPage.js" timestamp="1472715823312">
         <mark key="[" line="119" column="32" />
         <mark key="]" line="119" column="21" />
@@ -480,12 +485,6 @@
         <mark key="." line="59" column="39" />
         <mark key="^" line="59" column="39" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/security/shiro/StatelessAuthcFilter.java" timestamp="1476793369898">
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="54" column="40" />
-        <mark key="." line="54" column="40" />
-        <mark key="^" line="54" column="40" />
-      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/resources/spring/redis-context.xml" timestamp="1476793028041">
         <mark key="[" line="38" column="73" />
       </file>
@@ -624,7 +623,7 @@
         <mark key="^" line="41" column="38" />
         <mark key="." line="41" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1476790333061">
+      <file name="/fragment.java" timestamp="1476796998234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -907,10 +906,11 @@
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockOut/list.jsp" timestamp="1476699306666">
         <mark key="[" line="27" column="42" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/controller/BaseController.java" timestamp="1476795266114">
-        <mark key="]" line="126" column="34" />
-        <mark key="^" line="126" column="34" />
-        <mark key="." line="126" column="34" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/controller/BaseController.java" timestamp="1476796202338">
+        <mark key="[" line="118" column="89" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="123" column="7" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/PartyCaseController.java" timestamp="1470888538411">
         <mark key="[" line="29" column="22" />
@@ -1327,10 +1327,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5jdXJyZW50UmVxdWVzdEF0dHJpYnV0ZXMoKS5nZXRyZXEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>authorizationCachingEnabled</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>ret.order</text>
@@ -1339,31 +1339,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+5ZOB54mMPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5jdXJyZW50UmVxdWVzdEF0dHJpYnV0ZXMoKS5nZXRyZXEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3VycmVudFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBzZWUge0BsaW5rICNzZWxlY3RCeUVtYWlsQW5kRW5jcnlwdGVkUHdkKFN0cmluZywgU3RyaW5nKX0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwUmVzcG9uc2UuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBnZXRTdQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5jdXJyZW50UmVxdWVzdEF0dHJpYnV0ZXMoKS5nZXRyZXEK</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
