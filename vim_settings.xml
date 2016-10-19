@@ -24,7 +24,12 @@
       <file name="$USER_HOME$/work/code/wanmei-cis/cis-service/src/main/java/cn/wanmei/cis/service/exception/OutOrderError.java" timestamp="1476011850853">
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/QiniuUploadService.java" timestamp="1476863975609" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/QiniuUploadService.java" timestamp="1476865579452">
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="0" />
+        <mark key="." line="263" column="0" />
+        <mark key="^" line="263" column="55" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/webapp/WEB-INF/web.xml" timestamp="1476846436139" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/authc/credential/SimpleCredentialsMatcher.java" timestamp="1476775547541" />
       <file name="/a.sql" timestamp="1476860896881">
@@ -139,6 +144,7 @@
         <mark key="^" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/service/QiniuService.java" timestamp="1476864886039" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/java/com/wanduoduo/core/cache/RedisService.java" timestamp="1476795187426" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/details.jsp" timestamp="1476701461151">
         <mark key="[" line="155" column="29" />
@@ -162,11 +168,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_12.sql" timestamp="1476785912221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/responsebean/OrderItemResponse.java" timestamp="1476863832987">
-        <mark key="[" line="196" column="39" />
-        <mark key="]" line="198" column="31" />
-        <mark key="^" line="198" column="31" />
-        <mark key="." line="198" column="31" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/responsebean/OrderItemResponse.java" timestamp="1476865433634">
+        <mark key="[" line="199" column="8" />
+        <mark key="]" line="199" column="0" />
+        <mark key="^" line="199" column="51" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/ProductController.java" timestamp="1476861814631" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.4/shiro-web-1.2.4-sources.jar!/org/apache/shiro/web/filter/AccessControlFilter.java" timestamp="1476784829153" />
@@ -175,6 +181,12 @@
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/order/detail.jsp" timestamp="1476847252675" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/list.jsp" timestamp="1476698318328">
         <mark key="[" line="114" column="64" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/java/com/wanduoduo/core/util/QiniuUtils.java" timestamp="1476865033104">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/common/RedisCache/RedisSessionDAO.java" timestamp="1476786697027" />
     </filemarks>
@@ -301,10 +313,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUCg==</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAgZmFsc2Us5LiN5by65Yi25pu/5o2iLOWmguaenOS4jeWMheWQq+Wfn+WQjSzliJnkvb/nlKhxaW5pdUNkbkRvbWFpbi4K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>getQiniuImgDomain</text>
       </register>
       <register name="/" type="4">
         <text>ret.order</text>
@@ -313,31 +325,31 @@
         <text encoding="base64">ICAoMzAzLCfovabovablpLQnLDEsJycsMSwxLDAsJ3N5cycsbm93KCksMCwnc3lzJyxub3coKSksOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUCg==</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAgZmFsc2Us5LiN5by65Yi25pu/5o2iLOWmguaenOS4jeWMheWQq+Wfn+WQjSzliJnkvb/nlKhxaW5pdUNkbkRvbWFpbi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUgaWQ9MzAzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlJPTSBwcm9kdWN0X3NrdQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q1JFQVRFIElOREVYIHN0b3JlaW5vcmRlcl9pbmRleCBPTiBzdG9ja19pbl9vcmRlcl9pdGVtIChzdG9ja19pbl9vcmRlcl9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJvZHVjdEl0ZW1JbWc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q1JFQVRFIElOREVYIHNrdV9pbmRleCBPTiBzdG9ja19pbl9vcmRlcl9pdGVtIChza3VfaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q1JFQVRFIElOREVYIGludmVudG9yeWlkX2luZGV4IE9OIHN0b2NrX2luX29yZGVyX2l0ZW0gKGludmVudG9yeV9pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBmb3JjZVJlcGxhY2VEb21haW4gdHJ1ZSzljbPkvb8gaW1nVXJsIOaYr+WMheWQq+Wfn+WQjeeahOWujOaIkFVSTCzkuZ/lvLrliLblsIbln5/lkI3mm7/mjaLkuLpAeyNxaW5pdUNkbkRvbWFpbn0uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbnNwZWN0X3JlbWFyayBWQVJDSEFSKDIwMCkgREVGQVVMVCAnJyBDT01NRU5UICfmo4DmtYvlpIfms6gu5aaC5p6c5piv5qOA5rWL5byC5bi477yM5LiA5a6a6KaB5re75Yqg5byC5bi45Y6f5ZugJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbnNwZWN0X3N0YXR1cyBJTlQoMTEpIERFRkFVTFQgJzAnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25maXJtX3N0YXR1cyBJTlQoMTEpIERFRkFVTFQgJzAnIE5PVCBOVUxMIENPTU1FTlQgJ+ehruiupOeKtuaAgScsCg==</text>
+        <text encoding="base64">U0VMRUNUCg==</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
