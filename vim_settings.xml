@@ -156,8 +156,8 @@
         <mark key="." line="53" column="85" />
         <mark key="^" line="53" column="85" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/SkuInspectionService.java" timestamp="1476869882985">
-        <mark key="[" line="71" column="26" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/SkuInspectionService.java" timestamp="1476870922658">
+        <mark key="[" line="71" column="25" />
         <mark key="]" line="71" column="7" />
         <mark key="^" line="71" column="7" />
         <mark key="." line="71" column="7" />
@@ -212,7 +212,7 @@
         <mark key="^" line="99" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.4/shiro-core-1.2.4-sources.jar!/org/apache/shiro/authc/credential/SimpleCredentialsMatcher.java" timestamp="1476775547541" />
-      <file name="/a.sql" timestamp="1476866620621">
+      <file name="/a.sql" timestamp="1476871528213">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="90" />
         <mark key="." line="0" column="90" />
@@ -1094,11 +1094,8 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/SkuComponentInspectionResult.java" timestamp="1476870599544">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="15" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/SkuComponentInspectionResult.java" timestamp="1476871208973">
+        <mark key="[" line="2" column="41" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/RentOutOrderCreation.java" timestamp="1476008287859">
         <mark key="[" line="28" column="46" />
@@ -1388,11 +1385,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>getSkuComponentId</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>ret.order</text>
