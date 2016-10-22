@@ -20,6 +20,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -54,6 +57,8 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
 </keymap>

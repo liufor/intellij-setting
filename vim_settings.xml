@@ -567,7 +567,7 @@
         <mark key="." line="95" column="59" />
         <mark key="^" line="95" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477111809098">
+      <file name="/Dummy.txt" timestamp="1477116709996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/Recommend.js" timestamp="1472538597443">
@@ -675,11 +675,8 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1477112126727">
-        <mark key="[" line="848" column="26" />
-        <mark key="]" line="850" column="0" />
-        <mark key="^" line="850" column="0" />
-        <mark key="." line="850" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1477114612224">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/ChooseCommodityPage.js" timestamp="1472639899795">
         <mark key="[" line="66" column="0" />
@@ -1291,8 +1288,12 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1477109104644">
-        <mark key="[" line="209" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1477115688640">
+        <mark key="'" line="615" column="0" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="30" column="20" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/java/com/wanduoduo/core/io/ExcelDateHelper.java" timestamp="1474855519865">
         <mark key="[" line="18" column="47" />
@@ -1320,12 +1321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2759" column="3" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.7.3/jedis-2.7.3-sources.jar!/redis/clients/jedis/Jedis.java" />
-      <jump line="2" column="33" filename="$APPLICATION_CONFIG_DIR$/idea.properties" />
-      <jump line="16" column="26" filename="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/common/entitysearch/SearchFilter.java" />
-      <jump line="169" column="51" filename="$USER_HOME$/work/code/wanmei-party-ui/view/constant/index.js" />
-      <jump line="22" column="29" filename="$USER_HOME$/work/code/wanmei-party-ui/view/action/group_party.js" />
-      <jump line="28" column="8" filename="$USER_HOME$/work/code/wanmei-party-ui/view/action/group_party.js" />
       <jump line="45" column="30" filename="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/birthdayParty.js" />
       <jump line="106" column="40" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="116" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
@@ -1420,6 +1415,12 @@
       <jump line="105" column="17" filename="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/BaseController.java" />
       <jump line="63" column="4" filename="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/BaseController.java" />
       <jump line="210" column="8" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
+      <jump line="846" column="4" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" />
+      <jump line="10" column="23" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
+      <jump line="18" column="37" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
+      <jump line="615" column="0" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
+      <jump line="49" column="21" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1441,53 +1442,76 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBJbnZlbnRvcnlBY3Rpb25UeXBlIGFjdGlvblR5cGU9U2FsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>deductInventory</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>current</text>
+        <text>x</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENvbXBvbmVudEluc3BlY3Rpb25EdG8oInN1aWQwIiw2LDAsMCwiIiksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJbnZlbnRvcnlBY3Rpb25UeXBlIGFjdGlvblR5cGU9U2FsZQo=</text>
+      <register name="1" type="8">
+        <text>domai
+domai
+domai
+domai
+domai
+domai
+domai
+domai
+domai
+domai
+domai
+domai
+domai</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgeD1vcmRlclNlcnZpY2UuCg==</text>
+      <register name="2" type="4">
+        <text>domain
+domain
+domain
+domain
+domain
+domain
+domain
+domain
+domain
+domain
+domain
+domain</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJbnZlbnRvcnlBY3Rpb25UeXBlIGFjdGlvblR5cGU9U2FsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgeD1vcmRlclNlcnZpY2UuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBXREQtMTAwNwo=</text>
+        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBXREQtMTAwNwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
       </register>
     </registers>
     <search>
-      <last-search>current</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern>current</last-pattern>
+      <last-pattern>x</last-pattern>
       <last-replace>Group</last-replace>
       <last-substitute>current</last-substitute>
       <last-dir>1</last-dir>
@@ -1495,7 +1519,6 @@
     </search>
     <history>
       <history-search>
-        <entry>query</entry>
         <entry>SalesStockOutOrder</entry>
         <entry>sales</entry>
         <entry>Sales</entry>
@@ -1515,6 +1538,7 @@
         <entry>debugger</entry>
         <entry>ret.order</entry>
         <entry>current</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
@@ -1542,7 +1566,7 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1578,7 +1602,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -1593,7 +1617,7 @@
       <shortcut-conflict owner="vim">
         <text>meta pressed L</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
