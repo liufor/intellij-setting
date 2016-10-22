@@ -567,7 +567,7 @@
         <mark key="." line="95" column="59" />
         <mark key="^" line="95" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477107785156">
+      <file name="/Dummy.txt" timestamp="1477109568450">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/component/Recommend.js" timestamp="1472538597443">
@@ -675,11 +675,11 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1477107925234">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1477108743907">
         <mark key="[" line="846" column="5" />
-        <mark key="]" line="805" column="61" />
-        <mark key="^" line="805" column="61" />
-        <mark key="." line="805" column="61" />
+        <mark key="]" line="843" column="0" />
+        <mark key="^" line="843" column="0" />
+        <mark key="." line="843" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/ChooseCommodityPage.js" timestamp="1472639899795">
         <mark key="[" line="66" column="0" />
@@ -1291,11 +1291,8 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1477051619373">
-        <mark key="[" line="286" column="50" />
-        <mark key="]" line="78" column="36" />
-        <mark key="^" line="78" column="36" />
-        <mark key="." line="78" column="36" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" timestamp="1477109104644">
+        <mark key="[" line="209" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/java/com/wanduoduo/core/io/ExcelDateHelper.java" timestamp="1474855519865">
         <mark key="[" line="18" column="47" />
@@ -1323,7 +1320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/work/code/NQ/position/change_position.py" />
       <jump line="2759" column="3" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.7.3/jedis-2.7.3-sources.jar!/redis/clients/jedis/Jedis.java" />
       <jump line="2" column="33" filename="$APPLICATION_CONFIG_DIR$/idea.properties" />
       <jump line="16" column="26" filename="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/common/entitysearch/SearchFilter.java" />
@@ -1423,6 +1419,7 @@
       <jump line="35" column="19" filename="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/BaseController.java" />
       <jump line="105" column="17" filename="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/BaseController.java" />
       <jump line="63" column="4" filename="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/BaseController.java" />
+      <jump line="210" column="8" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1595,6 +1592,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>meta pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
