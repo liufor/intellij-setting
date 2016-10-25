@@ -186,11 +186,11 @@
         <mark key="." line="53" column="85" />
         <mark key="^" line="53" column="85" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/SkuInspectionService.java" timestamp="1477380332685">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="157" column="36" />
-        <mark key="^" line="157" column="36" />
-        <mark key="." line="157" column="36" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/SkuInspectionService.java" timestamp="1477382547578">
+        <mark key="[" line="544" column="0" />
+        <mark key="]" line="544" column="0" />
+        <mark key="." line="544" column="0" />
+        <mark key="^" line="544" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_4.sql" timestamp="1475985766540">
         <mark key="[" line="136" column="28" />
@@ -246,11 +246,11 @@
         <mark key="." line="99" column="23" />
         <mark key="^" line="99" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/controller/OrderController.java" timestamp="1477378865141">
-        <mark key="[" line="94" column="64" />
-        <mark key="]" line="94" column="64" />
-        <mark key="^" line="94" column="51" />
-        <mark key="." line="94" column="64" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/controller/OrderController.java" timestamp="1477381878566">
+        <mark key="[" line="191" column="19" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
+        <mark key="^" line="189" column="26" />
       </file>
       <file name="/a.sql" timestamp="1477309687493">
         <mark key="[" line="0" column="0" />
@@ -1097,11 +1097,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/requestbean/OrderItemInspectionRequest.java" timestamp="1476957844986">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="16" column="27" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/requestbean/OrderItemInspectionRequest.java" timestamp="1477382597722">
+        <mark key="[" line="50" column="3" />
+        <mark key="]" line="50" column="3" />
+        <mark key="." line="50" column="3" />
+        <mark key="^" line="50" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockInOrderLogEntityType.java" timestamp="1476337420113">
         <mark key="[" line="4" column="6" />
@@ -1368,8 +1368,8 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/ComponentInspectionStatus.java" timestamp="1477296099770">
-        <mark key="[" line="5" column="64" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/ComponentInspectionStatus.java" timestamp="1477381579548">
+        <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
@@ -1533,11 +1533,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>status</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>ComponentInspectionStatus.not_returned.getValue()</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -1546,31 +1546,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnNwZWN0aW9uX2Muc3RhdHVzID0gLTE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3BlY3Rpb25fYy5wYXNzQ291bnQgPSBpbnNwZWN0aW9uX2MuZGVmYXVsdENvdW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50SW5zcGVjdGlvbnNNYXAuY2xlYXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB3dWxpdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
