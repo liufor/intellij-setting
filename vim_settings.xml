@@ -186,7 +186,11 @@
         <mark key="." line="53" column="85" />
         <mark key="^" line="53" column="85" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/SkuInspectionService.java" timestamp="1477366548392" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/SkuInspectionService.java" timestamp="1477373741018">
+        <mark key="]" line="157" column="36" />
+        <mark key="^" line="157" column="36" />
+        <mark key="." line="157" column="36" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_4.sql" timestamp="1475985766540">
         <mark key="[" line="136" column="28" />
         <mark key="]" line="136" column="28" />
@@ -958,11 +962,6 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/OrderController.java" timestamp="1477288685869">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/rust_projects/hello_world/src/main.rs" timestamp="1474527478406">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="3" column="10" />
@@ -1137,10 +1136,11 @@
         <mark key="^" line="53" column="37" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/SkuInspectionController.java" timestamp="1477366839987">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/SkuInspectionController.java" timestamp="1477373579445">
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="48" column="96" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/test/java/com/wanduoduo/domain/test/service/InventoryServiceTest.java" timestamp="1472118613417">
         <mark key="[" line="109" column="58" />
@@ -1514,8 +1514,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>itemRequest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>itemRequest</text>
@@ -1527,31 +1527,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZmluYWwgTGlzdDxPcmRlckl0ZW1EdG8+IHJlbnRPcmRlckl0ZW1zPW9yZGVySXRlbXNCeVR5cGUuZ2V0KE9yZGVySXRlbVR5cGUubWVtYmVyX3JlbnQuZ2V0VmFsdWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvY2tJblNlcnZpY2UuZ2V0SW5PcmRlcigK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvZHVjdEl0ZW1Ta3VJbnNwZWN0aW9uTW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvY2tJblNlcnZpY2UuZ2V0SW5PcmRlcigK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2R1Y3RJdGVtU2t1SW5zcGVjdGlvbk1vZGVsPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvZHVjdEl0ZW1Ta3VJbnNwZWN0aW9uTW9kZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihpbnNwZWN0aW9uVHlwZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb2R1Y3RJdGVtU2t1SW5zcGVjdGlvbk1vZGVsPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
