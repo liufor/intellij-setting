@@ -17,11 +17,10 @@
         <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/ItemDto.java" timestamp="1477291843746" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_14.sql" timestamp="1477642387488">
-        <mark key="[" line="301" column="18" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
-        <mark key="^" line="235" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_14.sql" timestamp="1477646541737">
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="0" />
+        <mark key="." line="307" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/SkuInspectionComponentDto.java" timestamp="1477589954526">
         <mark key="[" line="24" column="0" />
@@ -202,6 +201,11 @@
         <mark key="^" line="29" column="77" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/inspectStockIn.jsp" timestamp="1477484719991">
+        <mark key="[" line="3" column="64" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/App.java" timestamp="1477374880625">
         <mark key="[" line="42" column="4" />
         <mark key="]" line="42" column="4" />
@@ -223,6 +227,11 @@
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/details.jsp" timestamp="1477584927993">
         <mark key="[" line="70" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/OrderController.java" timestamp="1477464909729">
+        <mark key="[" line="479" column="49" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/common/DefaultEmployeeHelper.java" timestamp="1477623078777">
         <mark key="[" line="2" column="34" />
@@ -282,6 +291,11 @@
         <mark key="^" line="60" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-api/src/main/java/com/wanduoduo/api/exception/ApiErrorEnum.java" timestamp="1477287139401" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/RentInOrderItemInspection.java" timestamp="1477555410883">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/resources/config-constant.properties" timestamp="1477625460196" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/assets/wanduoduo/product/productDetailComponent.js" timestamp="1477585310041" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1477379347303" />
@@ -454,8 +468,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>stockInOrderStatus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VMRUNUIGJhcl9jb2RlCg==</text>
       </register>
       <register name="-" type="4">
         <text>stockInOrderStatus</text>
@@ -467,31 +481,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS5pblZpZXdNb2RlbCA9IGZhbHNlOyAvL+S4jeWPr+aTjeS9nOeahOWxleekuueKtuaAgS4KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPSJ7e2luc3BlY3Rpb25JblZpZXdNb2RlbH19Igo=</text>
+        <text encoding="base64">U0VMRUNUIGJhcl9jb2RlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5pbnNwZWN0aW9uSW5WaWV3TW9kZWwgPSBmYWxzZTsK</text>
+        <text encoding="base64">RlJPTSBwcm9kdWN0X3NrdQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5pbnNwZWN0aW9uSW5WaWV3TW9kZWwgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0hFUkUgYmFyX2NvZGUgSVMgTk9UIE5VTEwgOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5pblZpZXdNb2RlbCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPSJ7e2luc3BlY3Rpb25JblZpZXdNb2RlbH19Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5pbnNwZWN0aW9uSW5WaWV3TW9kZWwgPSBmYWxzZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2gzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5pbnNwZWN0aW9uSW5WaWV3TW9kZWwgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5pblZpZXdNb2RlbCA9IHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
