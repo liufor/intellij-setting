@@ -250,10 +250,10 @@
         <mark key="^" line="36" column="49" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/InventoryService.java" timestamp="1478056356855">
-        <mark key="[" line="1103" column="5" />
-        <mark key="]" line="1150" column="29" />
-        <mark key="." line="1150" column="29" />
-        <mark key="^" line="1150" column="29" />
+        <mark key="[" line="1105" column="5" />
+        <mark key="]" line="1152" column="29" />
+        <mark key="." line="1152" column="29" />
+        <mark key="^" line="1152" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/scala_projects/kuaixue/scala-learning/src/main/scala/com/liufor/DoNothingAction.scala" timestamp="1470582314476">
         <mark key="[" line="5" column="29" />
@@ -1274,8 +1274,8 @@
         <mark key="." line="9" column="28" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/SkuInspectionController.java" timestamp="1478082989638" />
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/test/java/com/wanduoduo/domain/test/service/InventoryServiceTest.java" timestamp="1472118613417">
-        <mark key="[" line="109" column="58" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/test/java/com/wanduoduo/domain/test/service/InventoryServiceTest.java" timestamp="1478175548169">
+        <mark key="[" line="36" column="43" />
         <mark key="]" line="109" column="20" />
         <mark key="^" line="109" column="20" />
         <mark key="." line="109" column="20" />
@@ -1444,11 +1444,11 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/mapper/InventoryEntityManualMapper.java" timestamp="1478173735562">
-        <mark key="[" line="46" column="152" />
-        <mark key="]" line="47" column="24" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/mapper/InventoryEntityManualMapper.java" timestamp="1478175711744">
+        <mark key="[" line="47" column="99" />
+        <mark key="]" line="47" column="99" />
         <mark key="^" line="47" column="24" />
-        <mark key="." line="47" column="24" />
+        <mark key="." line="47" column="99" />
       </file>
       <file name="/migration.sql" timestamp="1477120183367">
         <mark key="[" line="0" column="0" />
@@ -1695,10 +1695,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getOper</text>
+        <text>qtyToIncrease</text>
       </register>
       <register name="-" type="4">
-        <text>getOper</text>
+        <text>qtyToIncrease</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
