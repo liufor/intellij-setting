@@ -808,11 +808,6 @@
         <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/inventory/warehouseInventoryAdjustDetail.jsp" timestamp="1478147004323" />
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1478170184828">
-        <mark key="[" line="1337" column="0" />
-        <mark key="]" line="1337" column="0" />
-        <mark key="." line="1337" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/VisitType.java" timestamp="1478066197140" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/ChooseCommodityPage.js" timestamp="1472639899795">
         <mark key="[" line="66" column="0" />
@@ -1706,10 +1701,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>takeDelivery</text>
+        <text>getOper</text>
       </register>
       <register name="-" type="4">
-        <text>takeDelivery</text>
+        <text>getOper</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -1718,31 +1713,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIG5nLWJpbmQ9Im9yZGVyLmNvbXBsZXRlVGltZSB8IGRhdGUiPjwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">REVMRVRFIEZST00gc3RvY2tfaW5fb3JkZXIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">V0hFUkUgaWQgSU4gKDk3LDEwMCwxMDEsMTA0KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dEdG9zLnNvcnQoKG8xLCBvMikgLT4gbzIuZ2V0Q3JlYXRlZFRpbWUoKS5jb21wYXJlVG8obzEuZ2V0Q3JlYXRlZFRpbWUoKSkpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkYmkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRvcgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">REVMRVRFIEZST00gc3RvY2tfaW5fb3JkZXIK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlSGVscGUuZG8K</text>
+        <text encoding="base64">V0hFUkUgaWQgSU4gKDk3LDEwMCwxMDEsMTA0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dEdG9zLnNvcnQoKG8xLCBvMikgLT4gbzIuZ2V0Q3JlYXRlZFRpbWUoKS5jb21wYXJlVG8obzEuZ2V0Q3JlYXRlZFRpbWUoKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtT3BlcmF0ZS5nZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICYmIHJlY2VpcHRzT3JkZXIuZ2V0SW5PcmRlclR5cGUoKSAhPSBTdG9ja0luT3JkZXJUeXBlLkZpbGxSZWNlaXB0cy5nZXRWYWx1ZSgpKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBQYWdlSGVscGUuZG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
