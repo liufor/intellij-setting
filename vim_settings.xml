@@ -30,7 +30,7 @@
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/common/StatelessToken.java" timestamp="1477624190758">
         <mark key="[" line="95" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1478156170804">
+      <file name="/a.dummy" timestamp="1478162963978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/InventoryQtyOperate.java" timestamp="1476265483230">
@@ -117,11 +117,11 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/infoPartial.jsp" timestamp="1478158776133">
-        <mark key="[" line="110" column="25" />
-        <mark key="]" line="114" column="49" />
-        <mark key="^" line="114" column="49" />
-        <mark key="." line="114" column="49" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/infoPartial.jsp" timestamp="1478162436222">
+        <mark key="[" line="98" column="46" />
+        <mark key="]" line="98" column="33" />
+        <mark key="." line="98" column="33" />
+        <mark key="^" line="98" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockInOrderItemInspectStatus.java" timestamp="1477387957432">
         <mark key="[" line="6" column="11" />
@@ -439,11 +439,11 @@
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/entity/StockInReceiptOrderQueryEntity.java" timestamp="1477992500925">
         <mark key="[" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/ReceiptsInOrderCreation.java" timestamp="1478155374629">
-        <mark key="[" line="46" column="45" />
-        <mark key="]" line="46" column="89" />
-        <mark key="^" line="46" column="89" />
-        <mark key="." line="46" column="89" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/ReceiptsInOrderCreation.java" timestamp="1478161422855">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="50" column="26" />
+        <mark key="^" line="49" column="41" />
+        <mark key="." line="50" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/action/commodity.js" timestamp="1470827623969">
         <mark key="[" line="93" column="22" />
@@ -466,7 +466,7 @@
         <mark key="^" line="21" column="94" />
         <mark key="." line="21" column="94" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/wms/ReceiptsController.java" timestamp="1478159492362">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/wms/ReceiptsController.java" timestamp="1478162647509">
         <mark key="'" line="51" column="82" />
         <mark key="[" line="87" column="43" />
         <mark key="]" line="87" column="43" />
@@ -625,11 +625,11 @@
         <mark key="." line="59" column="39" />
         <mark key="^" line="59" column="39" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/list.jsp" timestamp="1478153913762">
-        <mark key="[" line="177" column="86" />
-        <mark key="]" line="177" column="87" />
-        <mark key="." line="177" column="87" />
-        <mark key="^" line="177" column="87" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/list.jsp" timestamp="1478161656330">
+        <mark key="[" line="172" column="72" />
+        <mark key="]" line="173" column="70" />
+        <mark key="." line="173" column="70" />
+        <mark key="^" line="173" column="70" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/static/style/component/slider-bar.css" timestamp="1472625985795">
         <mark key="[" line="7" column="13" />
@@ -685,7 +685,7 @@
       <file name="/Dummy.txt" timestamp="1478008232335">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/create.jsp" timestamp="1478155800981">
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/create.jsp" timestamp="1478161083857">
         <mark key="[" line="105" column="89" />
         <mark key="]" line="105" column="110" />
         <mark key="^" line="105" column="110" />
@@ -807,6 +807,7 @@
         <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/inventory/warehouseInventoryAdjustDetail.jsp" timestamp="1478147004323" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" timestamp="1478163037195" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/VisitType.java" timestamp="1478066197140" />
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/birthday/ChooseCommodityPage.js" timestamp="1472639899795">
         <mark key="[" line="66" column="0" />
@@ -1036,11 +1037,11 @@
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/fill.jsp" timestamp="1478159256770">
-        <mark key="[" line="88" column="82" />
-        <mark key="]" line="90" column="88" />
-        <mark key="^" line="90" column="88" />
-        <mark key="." line="90" column="88" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/fill.jsp" timestamp="1478162945532">
+        <mark key="[" line="114" column="49" />
+        <mark key="]" line="114" column="45" />
+        <mark key="^" line="114" column="45" />
+        <mark key="." line="114" column="45" />
       </file>
       <file name="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/component/Designer.js" timestamp="1471449587532">
         <mark key="[" line="4" column="50" />
@@ -1108,7 +1109,7 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1478142512638">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1478163298707">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1190,11 +1191,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/details.jsp" timestamp="1478154478755">
-        <mark key="[" line="126" column="42" />
-        <mark key="]" line="126" column="42" />
-        <mark key="." line="126" column="42" />
-        <mark key="^" line="127" column="46" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/details.jsp" timestamp="1478162932012">
+        <mark key="[" line="163" column="63" />
+        <mark key="]" line="163" column="69" />
+        <mark key="." line="163" column="69" />
+        <mark key="^" line="163" column="69" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/viewmodel/OrderItemSkuInspectionModel.java" timestamp="1477292208934">
         <mark key="[" line="9" column="0" />
@@ -1288,10 +1289,10 @@
         <mark key="^" line="109" column="20" />
         <mark key="." line="109" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_15.sql" timestamp="1478144517461">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_15.sql" timestamp="1478163228552">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/RentInOrderItemInspection.java" timestamp="1477913927855">
         <mark key="[" line="20" column="4" />
@@ -1541,11 +1542,11 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/ReceiptsService.java" timestamp="1478159596758">
-        <mark key="[" line="373" column="32" />
-        <mark key="]" line="373" column="32" />
-        <mark key="." line="373" column="32" />
-        <mark key="^" line="373" column="35" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/ReceiptsService.java" timestamp="1478163418276">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
+        <mark key="^" line="392" column="80" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-core/src/main/java/com/wanduoduo/core/io/ExcelDateHelper.java" timestamp="1474855519865">
         <mark key="[" line="18" column="47" />
@@ -1701,11 +1702,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>record</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbUVudGl0eS5zZXRTdGF0dXMoaXRlbVN0YXR1cy5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>record</text>
+        <text>StockInOrderType</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -1714,31 +1715,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBza3VRdGllcy5hZGQobmV3IFNrdVF0eShkYkl0ZW0uZ2V0U2t1SWQoKSxpdGVtT3BlcmF0ZS5nZXRRdWFudGl0eSgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2FyZWhvdXNlSWQ6ICRzY29wZS5pbk9yZGVyLndhcmVob3VzZUlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbUVudGl0eS5zZXRTdGF0dXMoaXRlbVN0YXR1cy5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">U0VMRUNUICoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdG9ja0luT3JkZXJJdGVtRHRvIGl0ZW1EdG8gOiByZXF1ZXN0LmdldEl0ZW1zKCkpIHsK</text>
+        <text encoding="base64">V0hFUkUgKCBpZCA9IDIxOSBhbmQgYHN0YXR1c2AgPSAxICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJbk9yZGVySXRlbU9wZXJhdGU+Cg==</text>
+        <text encoding="base64">RlJPTSBzdG9ja19pbl9vcmRlcl9pdGVtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5zZXRPcGUoZ2V0T3BlcigpKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtT3BlcmF0ZXMuc3RyZWFtKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCUtLTx0aD7lpIfms6g8L3RoPi0tJT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoZSAtPiBuZXcgU2t1UXR5KGUuKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCUtLTx0ZD4tLSU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCUtLTwvdGQ+LS0lPgo=</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
