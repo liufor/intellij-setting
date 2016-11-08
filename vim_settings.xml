@@ -10,7 +10,7 @@
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/common/StatelessToken.java" timestamp="1477624190758">
         <mark key="[" line="95" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1478588401108">
+      <file name="/a.dummy" timestamp="1478591233960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/docker-redis/entrypoint.sh" timestamp="1478582490055" />
@@ -191,6 +191,12 @@
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/SkuQty.java" timestamp="1477312184548">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/printer.jsp" timestamp="1478590342297">
+        <mark key="[" line="409" column="91" />
+        <mark key="]" line="434" column="121" />
+        <mark key="." line="434" column="121" />
+        <mark key="^" line="434" column="121" />
+      </file>
       <file name="/Dummy.txt" timestamp="1478432398658">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,16 +206,11 @@
         <mark key="^" line="64" column="70" />
         <mark key="." line="64" column="70" />
       </file>
-      <file name="$USER_HOME$/work/images/gzc_gitlab/Dockerfile" timestamp="1478589220781">
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="56" column="2" />
-        <mark key="." line="56" column="3" />
-        <mark key="^" line="56" column="2" />
-      </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/mapper/StockInRentOrderManualMapper.java" timestamp="1478499069042">
-        <mark key="]" line="42" column="1" />
-        <mark key="^" line="42" column="1" />
-        <mark key="." line="42" column="1" />
+      <file name="$USER_HOME$/work/images/gzc_gitlab/Dockerfile" timestamp="1478591528371">
+        <mark key="[" line="62" column="4" />
+        <mark key="]" line="58" column="1" />
+        <mark key="." line="58" column="1" />
+        <mark key="^" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/wms/PurchaseController.java" timestamp="1478588051201">
         <mark key="[" line="142" column="0" />
@@ -372,8 +373,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8U3VpZEV4cG9ydE1vZGVsPiBkYXRhID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
       <register name="-" type="4">
         <text>sameersbn</text>
@@ -382,34 +383,34 @@
         <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIGNobW9kIDc1NSAvc2Jpbi9lbnRyeXBvaW50LnNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YzppZiB0ZXN0PSIke29yZGVyLnJlZklkPjB9Ij7ooaXotKfljZUo5Y6f5Y2VSWQ6JHtvcmRlci5yZWZJZH0pPC9jOmlmPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8U3VpZEV4cG9ydE1vZGVsPiBkYXRhID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICYmIGFwdC1nZXQgdXBkYXRlIFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgRXhjZWxVdGlsLnJlbmRlclRvRXhjZWxCeUFubm90YXRpb24oKTsgCg==</text>
+        <text encoding="base64">IyBHaXRMYWIgY29uZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNrdUlkcy5pc0VtcHR5KCkpIHsK</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJFRElTX0hPU1Q9bG9jYWxob3N0IFwK</text>
+        <text encoding="base64">ICYmIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERCX0hPU1Q9bG9jYWxob3N0IFwK</text>
+        <text encoding="base64">ICYmIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
