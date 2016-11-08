@@ -4,27 +4,29 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-server/trunk/nature-server-servlet/src/main/java/com/nature/server/servlet/logic/rest/RestLogicExecutor.java" timestamp="1478455725798" />
-      <file name="$USER_HOME$/work/images/gzc_gitlab/Dockerfile2" timestamp="1478596230637">
-        <mark key="]" line="52" column="34" />
-        <mark key="^" line="52" column="34" />
-        <mark key="." line="52" column="34" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/StockInRentOrderQueryDto.java" timestamp="1478060015670">
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_9.sql" timestamp="1478596794465">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/gitlab/.gitignore" timestamp="1478608313652">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/common/StatelessToken.java" timestamp="1477624190758">
+        <mark key="[" line="95" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1478622656235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/docker-redis/entrypoint.sh" timestamp="1478582490055" />
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-server/trunk/nature-server-servlet/src/main/java/com/nature/server/servlet/NatureRestServlet.java" timestamp="1478452028580" />
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/mapper/manual/StockInPurchaseOrderMapper.xml" timestamp="1478604665163">
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-storage/trunk/nature-storage-jdbc/src/main/java/com/nature/storage/jdbc/datasource/DataSourceConfig.java" timestamp="1478450774299" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/entity/StockOutRentOrderEntity.java" timestamp="1476005420058">
+        <mark key="[" line="7" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-server/trunk/nature-server-servlet/src/main/java/com/nature/server/servlet/logic/rest/RestLogicRouter.java" timestamp="1478455782535" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9fa6ee5-d2e3-4c9d-aca1-2e7a4afa8562/console.sql" timestamp="1478440336507">
         <mark key="[" line="55" column="33" />
@@ -39,6 +41,9 @@
         <mark key="." line="150" column="42" />
         <mark key="^" line="150" column="42" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockInOrderItemInspectStatus.java" timestamp="1477387957432">
+        <mark key="[" line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/work/images/ubuntu1404/Dockerfile" timestamp="1478594119373">
         <mark key="[" line="4" column="75" />
         <mark key="]" line="1" column="27" />
@@ -46,10 +51,21 @@
         <mark key="." line="1" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-server/trunk/nature-server-servlet/src/main/java/com/nature/server/servlet/core/config/NatureServletConfig.java" timestamp="1478451079020" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e0f2be3-5c8f-4af6-8ce8-82e0c09fa38c/console_7.sql" timestamp="1476707929516">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/images/gzc_gitlab/redis_entrypoint.sh" timestamp="1478585884481" />
       <file name="$USER_HOME$/work/images/docker-gitlab/Dockerfile" timestamp="1478584127443" />
+      <file name="$USER_HOME$/work/code/wanmei-cis/cis-service/src/main/java/cn/wanmei/cis/service/exception/OutOrderError.java" timestamp="1476011850853">
+        <mark key="[" line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/work/images/docker-postgresql/Dockerfile" timestamp="1478584000028" />
       <file name="$USER_HOME$/work/images/gzc_gitlab/pg_entrypoint.sh" timestamp="1478583036196" />
+      <file name="$USER_HOME$/work/images/dockers/ubuntu16/Dockerfile" timestamp="1478625995499">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/gitlab/docker-compose.yml" timestamp="1478608560166">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="20" />
@@ -69,6 +85,13 @@
         <mark key="]" line="110" column="0" />
         <mark key="^" line="60" column="63" />
         <mark key="." line="110" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/oracle-jdk8/Dockerfile" timestamp="1478626159247">
+        <mark key="'" line="19" column="11" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/ubuntu14/Dockerfile" timestamp="1478597863154">
         <mark key="[" line="0" column="27" />
@@ -105,11 +128,20 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
+      <file name="/a.sql" timestamp="1478596781173">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/common/DefaultEmployeeHelper.java" timestamp="1477623078777">
+        <mark key="[" line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/gitlab/Dockerfile" timestamp="1478622263402">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8f63d04d-c68e-4d95-887b-53ddb2caeaf7/console_2.sql" timestamp="1477056684373">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/gzc_gitlab/docker-compose.yml" timestamp="1478586317020">
         <mark key="[" line="6" column="16" />
@@ -117,10 +149,16 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/oracle-jdk8/Makefile" timestamp="1478626211388">
+        <mark key="[" line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/SuidService.java" timestamp="1478588021065">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/java/com/wanduoduo/wuliu/api/controller/BaseController.java" timestamp="1478337320661">
+        <mark key="[" line="129" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc/youhuo/jzc-wechat/branches/release/src/main/java/com/jzc/wechat/logic/job/QueryLogic.java" timestamp="1478456154211" />
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-root/trunk/pom.xml" timestamp="1478429057260" />
@@ -128,6 +166,15 @@
         <mark key="[" line="172" column="89" />
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/InOrderFullInspect.java" timestamp="1477908043579">
+        <mark key="[" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/formbean/wms/StockInReceiptsOrderQueryForm.java" timestamp="1478153493036">
+        <mark key="[" line="7" column="81" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_12.sql" timestamp="1476785912221">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/gitlab/assets/runtime/functions" timestamp="1478611657620" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7e6a2b88-e1dc-40c3-b2ba-0e1464754b7b/console_7.sql" timestamp="1478597239462" />
@@ -149,12 +196,21 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/ComponentInspectionResult.java" timestamp="1476930872685">
+        <mark key="[" line="27" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/InventorySalesStatus.java" timestamp="1476183191030">
+        <mark key="[" line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/wms/ReceiptsRentReturnController.java" timestamp="1478490502398" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/src/main/resources/spring/root-context.xml" timestamp="1478491726654" />
       <file name="$USER_HOME$/work/images/dockers/gitlab/assets/build/install.sh" timestamp="1478604237141" />
       <file name="$USER_HOME$/work/images/dockers/gitlab/pg_entrypoint.sh" timestamp="1478612643267" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockInOrderStatus.java" timestamp="1478490078903" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/mapper/manual/ProductItemManualEntityMapper.xml" timestamp="1478492417061" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/user/detail.jsp" timestamp="1476708992104">
+        <mark key="[" line="504" column="50" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockKeeper/orderOnMap.jsp" timestamp="1478607085182">
         <mark key="[" line="91" column="77" />
         <mark key="]" line="91" column="78" />
@@ -179,6 +235,12 @@
         <mark key="." line="95" column="13" />
         <mark key="^" line="95" column="13" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockOut/stockOutPartial.jsp" timestamp="1477644013216">
+        <mark key="[" line="20" column="61" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/entity/StockInReceiptOrderQueryEntity.java" timestamp="1477992500925">
+        <mark key="[" line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/work/images/gzc_gitlab/Makefile" timestamp="1478586419303">
         <mark key="[" line="13" column="24" />
         <mark key="]" line="13" column="24" />
@@ -190,10 +252,19 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9fa6ee5-d2e3-4c9d-aca1-2e7a4afa8562/console_1.sql" timestamp="1478499710654">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/ubuntu16/Makefile" timestamp="1478625148897">
+        <mark key="[" line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/gitlab_base/Dockerfile" timestamp="1478622518568">
         <mark key="[" line="91" column="39" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/StockOutRentOrderDto.java" timestamp="1476004619174">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/gitlab/redis_entrypoint.sh" timestamp="1478612603753" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/wms/ReceiptsController.java" timestamp="1478487392314">
@@ -202,11 +273,17 @@
         <mark key="^" line="218" column="33" />
         <mark key="." line="214" column="86" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/formbean/wms/InOrderInspectionRequest.java" timestamp="1477317790047">
+        <mark key="[" line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/inventory/inventory_purchase_batch_import_view.jsp" timestamp="1478244860081">
         <mark key="[" line="125" column="64" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/SkuComponentInspectionResult.java" timestamp="1476873903729">
+        <mark key="[" line="2" column="41" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/mapper/manual/StockInReceiptsOrderMapper.xml" timestamp="1478249781803">
         <mark key="[" line="9" column="0" />
@@ -231,6 +308,15 @@
         <mark key="^" line="238" column="77" />
         <mark key="." line="238" column="77" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/formbean/wms/ComponentInspectionRequest.java" timestamp="1477318396892">
+        <mark key="[" line="8" column="27" />
+      </file>
+      <file name="/migration.sql" timestamp="1477120183367">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/SkuQty.java" timestamp="1477312184548">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1478438805726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -241,6 +327,9 @@
         <mark key="]" line="434" column="121" />
         <mark key="." line="434" column="121" />
         <mark key="^" line="434" column="121" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1478432398658">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/create.jsp" timestamp="1478604835520">
         <mark key="[" line="47" column="95" />
@@ -260,11 +349,6 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dao/manual/mapper/StockInRentOrderManualMapper.java" timestamp="1478499069042">
-        <mark key="]" line="42" column="1" />
-        <mark key="^" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/wms/PurchaseController.java" timestamp="1478588051201">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -277,6 +361,9 @@
         <mark key="]" line="440" column="46" />
         <mark key="." line="440" column="46" />
         <mark key="^" line="440" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-wuliu-api/pom.xml" timestamp="1476790783700">
+        <mark key="[" line="292" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature_config/wechat/dev/servlet_conf.xml" timestamp="1478451015716" />
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-server/trunk/nature-server-servlet/src/main/java/com/nature/server/servlet/core/NatureServlet.java" timestamp="1478455852949" />
@@ -297,9 +384,11 @@
         <mark key="^" line="8" column="40" />
         <mark key="." line="8" column="40" />
       </file>
+      <file name="/fragment.java" timestamp="1478455932039">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="138" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="143" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="271" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
@@ -399,6 +488,7 @@
       <jump line="39" column="82" filename="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/wms/ReceiptsController.java" />
       <jump line="10" column="117" filename="$USER_HOME$/work/images/gzc_gitlab/Dockerfile" />
       <jump line="114" column="16" filename="$USER_HOME$/work/images/dockers/gitlab/Dockerfile" />
+      <jump line="19" column="11" filename="$USER_HOME$/work/images/dockers/oracle-jdk8/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -441,11 +531,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Iwo=</text>
+      <register name="&quot;" type="4">
+        <text>dockerfile</text>
       </register>
       <register name="-" type="4">
-        <text>redis_entrypoint</text>
+        <text>dockerfile</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -454,31 +544,31 @@
         <text encoding="base64">bm9odXAgL3NiaW4vcmVkaXNfZW50cnlwb2ludC5zaCAmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICYmIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
+        <text encoding="base64">IEFERCByb290Ly5zY3JpcHRzIC9yb290Ly5zY3JpcHRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICYmIGFwdC1nZXQgdXBkYXRlIFwK</text>
+        <text encoding="base64">ICMgQWRkIGZpbGVzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICYmIGVjaG8gJ2RlYiBodHRwOi8vYXB0LnBvc3RncmVzcWwub3JnL3B1Yi9yZXBvcy9hcHQvIHRydXN0eS1wZ2RnIG1haW4nID4gL2V0Yy9hcHQvc291cmNlcy5saXN0LmQvcGdkZy5saXN0IFwK</text>
+        <text encoding="base64">IEFERCByb290Ly5naXRjb25maWcgL3Jvb3QvLmdpdGNvbmZpZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIHdnZXQgLS1xdWlldCAtTyAtIGh0dHBzOi8vd3d3LnBvc3RncmVzcWwub3JnL21lZGlhL2tleXMvQUNDQzRDRjguYXNjIHwgYXB0LWtleSBhZGQgLSBcCg==</text>
+        <text encoding="base64">ICAgc2VkIC1pICdzLyMgXCguKm11bHRpdmVyc2UkXCkvXDEvZycgL2V0Yy9hcHQvc291cmNlcy5saXN0ICYmIFwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICYmIGVjaG8gJ2RlYiBodHRwOi8vYXB0LnBvc3RncmVzcWwub3JnL3B1Yi9yZXBvcy9hcHQvIHRydXN0eS1wZ2RnIG1haW4nID4gL2V0Yy9hcHQvc291cmNlcy5saXN0LmQvcGdkZy5saXN0IFwK</text>
+        <text encoding="base64">ICYmIGFwdC1nZXQgdXBkYXRlIFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICYmIHdnZXQgLS1xdWlldCAtTyAtIGh0dHBzOi8vd3d3LnBvc3RncmVzcWwub3JnL21lZGlhL2tleXMvQUNDQzRDRjguYXNjIHwgYXB0LWtleSBhZGQgLSBcCg==</text>
+        <text encoding="base64">ICYmIERFQklBTl9GUk9OVEVORD1ub25pbnRlcmFjdGl2ZSBhcHQtZ2V0IGluc3RhbGwgLXkgdmltLnRpbnkgd2dldCBzdWRvIG5ldC10b29scyBjYS1jZXJ0aWZpY2F0ZXMgdW56aXAgXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICYmIGVjaG8gJ2RlYiBodHRwOi8vYXB0LnBvc3RncmVzcWwub3JnL3B1Yi9yZXBvcy9hcHQvIHRydXN0eS1wZ2RnIG1haW4nID4gL2V0Yy9hcHQvc291cmNlcy5saXN0LmQvcGdkZy5saXN0IFwK</text>
+        <text encoding="base64">ICYmIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
