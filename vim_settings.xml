@@ -61,7 +61,7 @@
       </file>
       <file name="$USER_HOME$/work/images/docker-postgresql/Dockerfile" timestamp="1478584000028" />
       <file name="$USER_HOME$/work/images/gzc_gitlab/pg_entrypoint.sh" timestamp="1478583036196" />
-      <file name="$USER_HOME$/work/images/dockers/ubuntu16/Dockerfile" timestamp="1478625995499">
+      <file name="$USER_HOME$/work/images/dockers/ubuntu16/Dockerfile" timestamp="1478626763340">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -149,7 +149,7 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/oracle-jdk8/Makefile" timestamp="1478626211388">
+      <file name="$USER_HOME$/work/images/dockers/oracle-jdk8/Makefile" timestamp="1478626800141">
         <mark key="[" line="4" column="37" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/SuidService.java" timestamp="1478588021065">
@@ -208,6 +208,7 @@
       <file name="$USER_HOME$/work/images/dockers/gitlab/pg_entrypoint.sh" timestamp="1478612643267" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/enums/StockInOrderStatus.java" timestamp="1478490078903" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/mapper/manual/ProductItemManualEntityMapper.xml" timestamp="1478492417061" />
+      <file name="$USER_HOME$/work/images/dockers/jenkins/Dockerfile" timestamp="1478627103797" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/user/detail.jsp" timestamp="1476708992104">
         <mark key="[" line="504" column="50" />
       </file>
@@ -293,6 +294,12 @@
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-configuration/trunk/nature-configuration-client/src/main/java/com/nature/configuration/client/NatureConfigProvider.java" timestamp="1478453218575" />
       <file name="$USER_HOME$/work/images/docker-gitlab/assets/runtime/functions" timestamp="1478613178370" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/sql/Connection.java" timestamp="1478503732662" />
+      <file name="$USER_HOME$/work/images/dockers/jenkins/docker-compose.yml" timestamp="1478627153187">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-commons/trunk/nature-commons-lang/src/main/java/com/nature/commons/lang/pool/ThreadLocalPool.java" timestamp="1478455988748" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7e6a2b88-e1dc-40c3-b2ba-0e1464754b7b/console_6.sql" timestamp="1478596735406">
         <mark key="[" line="2" column="14" />
@@ -389,8 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
-      <jump line="143" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="271" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="276" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="69" column="31" filename="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" />
@@ -489,6 +494,8 @@
       <jump line="10" column="117" filename="$USER_HOME$/work/images/gzc_gitlab/Dockerfile" />
       <jump line="114" column="16" filename="$USER_HOME$/work/images/dockers/gitlab/Dockerfile" />
       <jump line="19" column="11" filename="$USER_HOME$/work/images/dockers/oracle-jdk8/Dockerfile" />
+      <jump line="62" column="56" filename="$USER_HOME$/work/images/dockers/jenkins/Dockerfile" />
+      <jump line="55" column="0" filename="$USER_HOME$/work/images/dockers/jenkins/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
