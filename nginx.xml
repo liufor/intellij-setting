@@ -1,7 +1,7 @@
 <application>
   <component name="nginxServers">
     <NginxServerDescriptor>
-      <option name="configPath" value="/usr/local/etc/nginx/nginx.conf" />
+      <option name="configPath" value="$USER_HOME$/work/code/gzc/youhuo/subversion/test/proxy.conf" />
       <option name="errorLogPath" value="/usr/local/var/log/nginx/error.log" />
       <option name="executablePath" value="/usr/local/bin/nginx" />
       <option name="globals" value="" />
