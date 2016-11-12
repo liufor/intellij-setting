@@ -21,11 +21,11 @@
         <mark key="^" line="29" column="80" />
         <mark key="." line="29" column="80" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc/youhuo/jzc-wechat/branches/release/src/main/java/com/jzc/wechat/web/rest/JobResource.java" timestamp="1478884985066">
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="71" column="37" />
-        <mark key="^" line="71" column="37" />
-        <mark key="." line="71" column="37" />
+      <file name="$USER_HOME$/work/code/gzc/youhuo/jzc-wechat/branches/release/src/main/java/com/jzc/wechat/web/rest/JobResource.java" timestamp="1478928760388">
+        <mark key="[" line="84" column="102" />
+        <mark key="]" line="84" column="100" />
+        <mark key="^" line="84" column="100" />
+        <mark key="." line="84" column="100" />
       </file>
       <file name="/Clojure REPL" timestamp="1478860867773">
         <mark key="[" line="0" column="0" />
@@ -546,11 +546,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>authenticated</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -559,31 +559,31 @@
         <text encoding="base64">ICAgICAgICBhY3RpdmU6ICNzcHJpbmcucHJvZmlsZXMuYWN0aXZlIwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMuam9iU2VydmljZSA9IGpvYlNlcnZpY2U7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvYXBpIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">ICAgICAgIHRoaXMuam9iU2VydmljZSA9IGpvYlNlcnZpY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoQEF1dG93aXJlZCBKb2JTZXJ2aWNlIGpvYlNlcnZpY2Upewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTZXJ2aWNlLnF1ZXJ5Cg==</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gam9iUmVwb3NpdG9yeS5maW5kQnlKb2JUeXBlKHR5cGUsIG5ldyBQYWdlUmVxdWVzdCgxLCAxMikpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoQEF1dG93aXJlZCBKb2JTZXJ2aWNlIGpvYlNlcnZpY2Upewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTsK</text>
+        <text encoding="base64">ICAgICAgICBqb2JTZXJ2aWNlLnF1ZXJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBJbmplY3QK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gam9iUmVwb3NpdG9yeS5maW5kQnlKb2JUeXBlKHR5cGUsIG5ldyBQYWdlUmVxdWVzdCgxLCAxMikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
