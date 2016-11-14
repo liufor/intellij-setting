@@ -131,11 +131,11 @@
         <mark key="[" line="24" column="70" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/jenkins/plugins.sh" timestamp="1479110818956" />
-      <file name="$USER_HOME$/work/images/dockers/jenkins/Dockerfile" timestamp="1479111060231">
-        <mark key="[" line="74" column="35" />
-        <mark key="]" line="74" column="19" />
-        <mark key="^" line="74" column="19" />
-        <mark key="." line="74" column="19" />
+      <file name="$USER_HOME$/work/images/dockers/jenkins/Dockerfile" timestamp="1479113893351">
+        <mark key="[" line="75" column="163" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockKeeper/orderOnMap.jsp" timestamp="1478607085182">
         <mark key="[" line="91" column="77" />
@@ -232,7 +232,7 @@
         <mark key="^" line="136" column="58" />
       </file>
       <file name="$USER_HOME$/work/code/gzc/youhuo/jzc-wechat/branches/release/src/main/java/com/jzc/wechat/vo/ResumeStoreVo.java" timestamp="1478848737650" />
-      <file name="$USER_HOME$/work/images/dockers/jenkins/docker-compose-gzc.yml" timestamp="1479094522745">
+      <file name="$USER_HOME$/work/images/dockers/jenkins/docker-compose-gzc.yml" timestamp="1479113800637">
         <mark key="[" line="16" column="49" />
       </file>
       <file name="$USER_HOME$/work/code/jh_sim/src/main/resources/ehcache.xml" timestamp="1478938257331" />
@@ -257,8 +257,8 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/jenkins/install-plugins.sh" timestamp="1479111042613">
-        <mark key="[" line="169" column="40" />
+      <file name="$USER_HOME$/work/images/dockers/jenkins/install-plugins.sh" timestamp="1479113325802">
+        <mark key="[" line="69" column="55" />
         <mark key="]" line="48" column="18" />
         <mark key="^" line="48" column="18" />
         <mark key="." line="48" column="18" />
@@ -397,8 +397,8 @@
       <file name="$USER_HOME$/work/code/gzc/youhuo/jzc-wechat/branches/release/src/main/java/com/jzc/wechat/service/user/UserService.java" timestamp="1478859742631" />
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-console/dashboards/dashboard/performance-dashboard.json" timestamp="1478776307107" />
       <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/DispatcherType.java" timestamp="1478940058385" />
-      <file name="$USER_HOME$/work/images/dockers/jenkins/plugins.txt" timestamp="1479110684546">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/work/images/dockers/jenkins/plugins.txt" timestamp="1479113884630">
+        <mark key="[" line="12" column="0" />
         <mark key="]" line="1" column="9" />
         <mark key="^" line="11" column="18" />
         <mark key="." line="1" column="0" />
@@ -410,11 +410,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="31" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/jenkins/docker-compose.yml" timestamp="1479105113371">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
+      <file name="$USER_HOME$/work/images/dockers/jenkins/docker-compose.yml" timestamp="1479111830777">
+        <mark key="'" line="2" column="45" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/docker/tests/plugins/Dockerfile" timestamp="1479093057325" />
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-console/Dockerfile" timestamp="1478760341919">
@@ -449,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="276" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="69" column="31" filename="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" />
       <jump line="232" column="32" filename="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" />
@@ -549,6 +549,7 @@
       <jump line="19" column="11" filename="$USER_HOME$/work/images/dockers/oracle-jdk8/Dockerfile" />
       <jump line="62" column="56" filename="$USER_HOME$/work/images/dockers/jenkins/Dockerfile" />
       <jump line="55" column="0" filename="$USER_HOME$/work/images/dockers/jenkins/Dockerfile" />
+      <jump line="15" column="45" filename="$USER_HOME$/work/images/dockers/jenkins/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -591,8 +592,9 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2l0OjMuMC4wCg==</text>
+      <register name="&quot;" type="8">
+        <text>#
+#</text>
       </register>
       <register name="-" type="4">
         <text>gitlab</text>
@@ -603,32 +605,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tbmF0dXJlIGJlZ2luLS0+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Z2l0OjMuMC4wCg==</text>
+      <register name="1" type="8">
+        <text>#
+#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3NoLXNsYXZlczoxLjExCnRpbWVzdGFtcGVyOjEuOC43CnN1YnZlcnNpb246Mi43LjEK</text>
+        <text encoding="base64">ICBidWlsZDogLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YnVpbGQgdGltZW91dCBwbHVnaW4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2l0OjMuMC4wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoLXNsYXZlczoxLjExCnRpbWVzdGFtcGVyOjEuOC43CnN1YnZlcnNpb246Mi43LjEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">YnVpbGQgdGltZW91dCBwbHVnaW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RlJPTSBqaGlfcGVyc2lzdGVudF9hdWRpdF9ldmVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
