@@ -171,7 +171,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/gitlab_offical/docker-compose.yml" timestamp="1479144078788">
+      <file name="$USER_HOME$/work/images/dockers/gitlab_offical/docker-compose.yml" timestamp="1479145175125">
         <mark key="[" line="42" column="6" />
         <mark key="]" line="41" column="12" />
         <mark key="^" line="41" column="12" />
@@ -323,6 +323,12 @@
         <mark key="]" line="279" column="72" />
         <mark key="." line="279" column="72" />
         <mark key="^" line="279" column="72" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/docker-compose-2.yml" timestamp="1479145518985">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/list.jsp" timestamp="1478676681032">
         <mark key="[" line="187" column="61" />
@@ -567,11 +573,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>gitlab_redis</text>
       </register>
       <register name="-" type="4">
-        <text>gzc_gitlab_root</text>
+        <text>gitlab_redis</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -580,31 +586,31 @@
         <text encoding="base64">ICAgICAgICA8IS0tbmF0dXJlIGJlZ2luLS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFVuY29tbWVudCB0aGlzIHNlY3Rpb24gdG8gaGF2ZSBlbGFzdGljc2VhcmNoIGRhdGEgbG9hZGVkIGZyb20gYSB2b2x1bWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gUkVESVNfSE9TVD1yZWRpcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gUkVESVNfUE9SVD02Mzc5Cg==</text>
+        <text encoding="base64">ICAgIC0gUkVESVNfSE9TVD1yZWRpcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gL3Nydi9kb2NrZXIvZ2l0bGFiL2dpdGxhYjovaG9tZS9naXQvZGF0YTpaCg==</text>
+        <text encoding="base64">ICAgIC0gUkVESVNfUE9SVD02Mzc5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgIC0gL3Nydi9kb2NrZXIvZ2l0bGFiL2dpdGxhYjovaG9tZS9naXQvZGF0YTpaCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gL3Nydi9kb2NrZXIvZ2l0bGFiL3Bvc3RncmVzcWw6L3Zhci9saWIvcG9zdGdyZXNxbDpaCg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gL2RhdGEvZG9ja2VyL2dpdGxhYi9wb3N0Z3Jlc3FsOi92YXIvbGliL3Bvc3RncmVzcWw6Wgo=</text>
+        <text encoding="base64">ICAgIC0gL3Nydi9kb2NrZXIvZ2l0bGFiL3Bvc3RncmVzcWw6L3Zhci9saWIvcG9zdGdyZXNxbDpaCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gL2RhdGEvZG9ja2VyL2dpdGxhYi9yZWRpczovdmFyL2xpYi9yZWRpczpaCg==</text>
+        <text encoding="base64">ICAgIC0gL2RhdGEvZG9ja2VyL2dpdGxhYi9wb3N0Z3Jlc3FsOi92YXIvbGliL3Bvc3RncmVzcWw6Wgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gL3Nydi9kb2NrZXIvZ2l0bGFiL3JlZGlzOi92YXIvbGliL3JlZGlzOloK</text>
+        <text encoding="base64">ICAgIC0gL2RhdGEvZG9ja2VyL2dpdGxhYi9yZWRpczovdmFyL2xpYi9yZWRpczpaCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
