@@ -13,6 +13,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/docker-gitlab/docker-compose.yml" timestamp="1479141321528" />
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/Dockerfile" timestamp="1479198330380">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/mapper/manual/StockInPurchaseOrderMapper.xml" timestamp="1478748500979">
         <mark key="[" line="29" column="77" />
         <mark key="]" line="29" column="80" />
@@ -117,6 +122,9 @@
         <mark key="^" line="1242" column="34" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-logstash/conf/logstash.conf" timestamp="1479192797171" />
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/settting/logstash.yml" timestamp="1479198433785">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc/youhuo/jzc-wechat/branches/release/src/main/resources/config/application-prod.yml" timestamp="1478938427667">
         <mark key="[" line="21" column="44" />
         <mark key="]" line="21" column="53" />
@@ -219,6 +227,9 @@
       <file name="$USER_HOME$/work/code/gzc/youhuo/jzc-wechat/branches/release/src/main/java/com/jzc/wechat/logic/AuthenBaseLogic.java" timestamp="1478859651734">
         <mark key="[" line="35" column="45" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/conf/logstash-indexer.conf" timestamp="1479197706910">
+        <mark key="[" line="5" column="5" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/gitlab/entrypoint.sh" timestamp="1478662774175">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="11" column="8" />
@@ -295,7 +306,7 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/redis/docker-compose.yml" timestamp="1479191177278">
+      <file name="$USER_HOME$/work/images/dockers/redis/docker-compose.yml" timestamp="1479197840697">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -603,7 +614,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IGxvZ3N0YXNoIC1mIC9jb25mL2xvZ3N0YXNoLmNvbmYK</text>
+        <text encoding="base64">Q09QWSAK</text>
       </register>
       <register name="-" type="4">
         <text>jenkins_home</text>
@@ -615,31 +626,31 @@
         <text encoding="base64">ICAgICAgICA8IS0tbmF0dXJlIGJlZ2luLS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IGxvZ3N0YXNoIC1mIC9jb25mL2xvZ3N0YXNoLmNvbmYK</text>
+        <text encoding="base64">Q09QWSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Vk9MVU1FIFsiL2NvbmYiXQo=</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IGxvZ3N0YXNoIC1mIC9jb25mL2xvZ3N0YXNoLmNvbmYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Vk9MVU1FIFsiL2NvbmYiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgSkFWQV9PUFRTOiAiLURqYXZhLmF3dC5oZWFkbGVzcz10cnVlIC1YbXMzZyAtWG14M2ciCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gIjEwMDgxOjgwODAiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgSkFWQV9PUFRTOiAiLURqYXZhLmF3dC5oZWFkbGVzcz10cnVlIC1YbXMzZyAtWG14M2ciCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC0gIjEwMDgxOjgwODAiCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBkb2NrZXIgYnVpbGQgLS10YWc9bGl1Zm9yL3JlZGlzOiQoc2hlbGwgY2F0IFZFUlNJT04pIC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVsZWFzZTogYnVpbGQK</text>
+        <text encoding="base64">CUBkb2NrZXIgYnVpbGQgLS10YWc9bGl1Zm9yL3JlZGlzOiQoc2hlbGwgY2F0IFZFUlNJT04pIC4K</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
