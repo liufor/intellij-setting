@@ -159,6 +159,13 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/redis/redis.conf" timestamp="1479183292301">
+        <mark key="'" line="1051" column="32" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1051" column="32" />
+        <mark key="^" line="1051" column="32" />
+        <mark key="." line="1051" column="32" />
+      </file>
       <file name="$USER_HOME$/work/images/docker/docker-compose.yml" timestamp="1479092154129">
         <mark key="[" line="8" column="6" />
       </file>
@@ -314,6 +321,13 @@
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="52" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/jenkins/docker-compose.yml" timestamp="1479111830777">
+        <mark key="'" line="2" column="45" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/jenkins_offical/docker-compose-gzc.yml" timestamp="1479116883870">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="24" />
@@ -356,11 +370,11 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/redis/Dockerfile" timestamp="1479182466188">
+      <file name="$USER_HOME$/work/images/dockers/redis/Dockerfile" timestamp="1479183572763">
         <mark key="[" line="0" column="16" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/printer.jsp" timestamp="1478590342297">
         <mark key="[" line="409" column="91" />
@@ -445,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="12" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="69" column="31" filename="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" />
       <jump line="232" column="32" filename="$USER_HOME$/work/code/wanmei-party-ui/lib/backend_api.js" />
       <jump line="23" column="40" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
@@ -545,6 +558,7 @@
       <jump line="62" column="56" filename="$USER_HOME$/work/images/dockers/jenkins/Dockerfile" />
       <jump line="55" column="0" filename="$USER_HOME$/work/images/dockers/jenkins/Dockerfile" />
       <jump line="15" column="45" filename="$USER_HOME$/work/images/dockers/jenkins/docker-compose.yml" />
+      <jump line="1051" column="32" filename="$USER_HOME$/work/images/dockers/redis/redis.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
