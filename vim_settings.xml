@@ -16,11 +16,11 @@
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-elasticsearch/Makefile" timestamp="1479224656963">
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/Dockerfile" timestamp="1479223849224">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="3" column="49" />
-        <mark key="^" line="3" column="49" />
-        <mark key="." line="3" column="49" />
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/Dockerfile" timestamp="1479228020760">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/mapper/manual/StockInPurchaseOrderMapper.xml" timestamp="1478748500979">
         <mark key="[" line="29" column="77" />
@@ -113,8 +113,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/setting/jvm.options" timestamp="1479200206198">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/setting/jvm.options" timestamp="1479226569189">
+        <mark key="[" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/fill.jsp" timestamp="1478673385362">
         <mark key="[" line="109" column="66" />
@@ -184,15 +184,18 @@
       <file name="$USER_HOME$/work/images/docker/docker-compose.yml" timestamp="1479092154129">
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/jhipster-console/docker-compose.yml" timestamp="1479224793323">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="34" column="30" />
-        <mark key="." line="34" column="30" />
-        <mark key="^" line="34" column="30" />
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/docker-compose.yml" timestamp="1479229660496">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/superset/superset/viz.py" timestamp="1479219012982" />
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-root/trunk/pom.xml" timestamp="1478850124592">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/jh_sim/src/main/resources/config/application-dev.yml" timestamp="1479227347463">
+        <mark key="[" line="91" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9fa6ee5-d2e3-4c9d-aca1-2e7a4afa8562/console_2.sql" timestamp="1478848767552">
         <mark key="[" line="21" column="0" />
@@ -384,7 +387,7 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-console/Dockerfile" timestamp="1479119629791">
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-console/Dockerfile" timestamp="1479229039020">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="12" column="2" />
         <mark key="^" line="12" column="2" />
@@ -435,7 +438,7 @@
         <mark key="." line="142" column="0" />
         <mark key="^" line="136" column="58" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/jhipster-console/Makefile" timestamp="1479225263453">
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/Makefile" timestamp="1479228210634">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -444,9 +447,9 @@
       <file name="$USER_HOME$/work/images/dockers/jenkins/docker-compose-gzc.yml" timestamp="1479113800637">
         <mark key="[" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-logstash/Dockerfile" timestamp="1479203640842">
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-logstash/Dockerfile" timestamp="1479228009933">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="36" />
+        <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
@@ -633,44 +636,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-t liufor/elastic:latest</text>
       </register>
       <register name="-" type="4">
-        <text>logstash</text>
+        <text>-t liufor/elastic:latest</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09QWSBzZXR0aW5nL2p2bS5vcHRpb25zIC9ldGMvbG9nc3Rhc2gvCg==</text>
+        <text encoding="base64">Vk9MVU1FIFsiL2NvbmYiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBsaXVmb3IvZWxhc3RpYzpsYXRlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBkb2NrZXIgYnVpbGQgLS10YWc9bGl1Zm9yL2xvZ3N0YXNoOmxhdGVzdCAuCg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBsaXVmb3IvZWxhc3RpYzpsYXRlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmRzIDoK</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IGxvZ3N0YXNoIC0tcGF0aC5zZXR0aW5ncyAvZXRjL2xvZ3N0YXNoIC1mIC9ldGMvbG9nc3Rhc2gvY29uZi5kL2xvZ3N0YXNoLmNvbmYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAvZGF0YS9kb2NrZXIvZWxrL2xvZ3N0YXNoL2xvZ3MvOi92YXIvbG9nL2xvZ3N0YXNoCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAvZGF0YS9kb2NrZXIvZWxrL2xvZ3N0YXNoL2xvZ3MvOi92YXIvbG9nL2xvZ3N0YXNoCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAvZGF0YS9kb2NrZXIvZWxrL2xvZ3N0YXNoL2NvbmYvOi9jb25mCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CUBkb2NrZXIgYnVpbGQgLS10YWc9bGl1Zm9yL2xvZ3N0YXNoOmxhdGVzdCAuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbW1hbmRzIDoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLSAvZGF0YS9kb2NrZXIvZWxrL2xvZ3N0YXNoL2xvZ3MvOi92YXIvbG9nL2xvZ3N0YXNoCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LS1wYXRoLnNldHRpbmdzIC9ldGMvbG9nc3Rhc2ggLWYgL2V0Yy9sb2dzdGFzaC9jb25mLmQvbG9nc3Rhc2guY29uZgo=</text>
+        <text encoding="base64">ICAgICAgLSAvZGF0YS9kb2NrZXIvZWxrL2xvZ3N0YXNoL2xvZ3MvOi92YXIvbG9nL2xvZ3N0YXNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIOacrGxvZ3N0YXNo5L2c5Li6aW5kZXhlcuinkuiJsizku45SZWRpc+S4reaKveWPluaVsOaNruWIsEVT5LitCg==</text>
+        <text encoding="base64">ICAgICAgLSAvZGF0YS9kb2NrZXIvZWxrL2xvZ3N0YXNoL2NvbmYvOi9jb25mCg==</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
