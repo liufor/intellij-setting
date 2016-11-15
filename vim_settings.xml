@@ -13,10 +13,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/docker-gitlab/docker-compose.yml" timestamp="1479141321528" />
-      <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/Dockerfile" timestamp="1479200801604">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/Dockerfile" timestamp="1479202726294">
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/resources/mapper/manual/StockInPurchaseOrderMapper.xml" timestamp="1478748500979">
         <mark key="[" line="29" column="77" />
@@ -427,7 +428,7 @@
       <file name="$USER_HOME$/work/images/dockers/jenkins/docker-compose-gzc.yml" timestamp="1479113800637">
         <mark key="[" line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-logstash/Dockerfile" timestamp="1479196831289">
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-logstash/Dockerfile" timestamp="1479202474574">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
@@ -616,11 +617,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>--path.settings</text>
       </register>
       <register name="-" type="4">
-        <text>yml</text>
+        <text>--path.settings</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -632,28 +633,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09QWSBzZXR0aW5nL2xvZ3N0YXNoLnltbCAvZXRjL2xvZ3N0YXNoL2xvZ3N0YXNoLnltbAo=</text>
+        <text encoding="base64">Q09QWSBzZXR0aW5nL2p2bS5vcHRpb25zIC9ldGMvbG9nc3Rhc2gvanZtLm9wdGlvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSBzZXR0aW5nL2p2bS5vcHRpb25zIC9ldGMvbG9nc3Rhc2gvanZtLm9wdGlvbnMK</text>
+        <text encoding="base64">Q09QWSBzZXR0aW5nL2xvZ3N0YXNoLnltbCAvZXRjL2xvZ3N0YXNoL2xvZ3N0YXNoLnltbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09QWSBzZXR0aW5nL2xvZ3N0YXNoLnltbCAvZXRjL2xvZ3N0YXNoL2xvZ3N0YXNoLnltbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q09QWSBzZXR0aW5nL2p2bS5vcHRpb25zIC9ldGMvbG9nc3Rhc2gvanZtLm9wdGlvbnMK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Q09QWSBzZXR0aW5nL2xvZ3N0YXNoLnltbCAvZXRjL2xvZ3N0YXNoL2xvZ3N0YXNoLnltbAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Q09QWSBzZXR0aW5nL2p2bS5vcHRpb25zIC9ldGMvbG9nc3Rhc2gvanZtLm9wdGlvbnMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Q09QWSAK</text>
+        <text encoding="base64">Q09QWSBzZXR0aW5nL2xvZ3N0YXNoLnltbCAvZXRjL2xvZ3N0YXNoL2xvZ3N0YXNoLnltbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IGxvZ3N0YXNoIC1mIC9jb25mL2xvZ3N0YXNoLmNvbmYK</text>
+        <text encoding="base64">Q09QWSBzZXR0aW5nL2p2bS5vcHRpb25zIC9ldGMvbG9nc3Rhc2gvanZtLm9wdGlvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Vk9MVU1FIFsiL2NvbmYiXQo=</text>
+        <text encoding="base64">Q09QWSBzZXR0aW5nL2xvZ3N0YXNoLnltbCAvZXRjL2xvZ3N0YXNoL2xvZ3N0YXNoLnltbAo=</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
