@@ -116,6 +116,7 @@
         <mark key="." line="1242" column="34" />
         <mark key="^" line="1242" column="34" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-logstash/conf/logstash.conf" timestamp="1479192797171" />
       <file name="$USER_HOME$/work/code/gzc/youhuo/jzc-wechat/branches/release/src/main/resources/config/application-prod.yml" timestamp="1478938427667">
         <mark key="[" line="21" column="44" />
         <mark key="]" line="21" column="53" />
@@ -159,12 +160,8 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/redis/redis.conf" timestamp="1479183292301">
-        <mark key="'" line="1051" column="32" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1051" column="32" />
-        <mark key="^" line="1051" column="32" />
-        <mark key="." line="1051" column="32" />
+      <file name="$USER_HOME$/work/images/dockers/redis/redis.conf" timestamp="1479191514323">
+        <mark key="'" line="942" column="32" />
       </file>
       <file name="$USER_HOME$/work/images/docker/docker-compose.yml" timestamp="1479092154129">
         <mark key="[" line="8" column="6" />
@@ -222,12 +219,6 @@
         <mark key="]" line="11" column="8" />
         <mark key="." line="11" column="8" />
         <mark key="^" line="11" column="8" />
-      </file>
-      <file name="$USER_HOME$/work/images/dockers/redis/Makefile" timestamp="1479182524380">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/gzc/youhuo/jzc-wechat/branches/release/src/main/java/com/jzc/wechat/security/CustomPersistentRememberMeServices.java" timestamp="1478859607996">
         <mark key="[" line="4" column="25" />
@@ -299,6 +290,12 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/redis/docker-compose.yml" timestamp="1479191177278">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/resources/runEnvConfig/config-online.properties" timestamp="1479176429096" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/java/com/wanduoduo/manage/controller/wms/ReceiptsController.java" timestamp="1478487392314">
         <mark key="[" line="214" column="86" />
@@ -320,13 +317,6 @@
         <mark key="]" line="13" column="52" />
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="52" />
-      </file>
-      <file name="$USER_HOME$/work/images/dockers/jenkins/docker-compose.yml" timestamp="1479111830777">
-        <mark key="'" line="2" column="45" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/jenkins_offical/docker-compose-gzc.yml" timestamp="1479116883870">
         <mark key="[" line="5" column="19" />
@@ -601,11 +591,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ubuntu16</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgSkFWQV9PUFRTOiAiLURqYXZhLmF3dC5oZWFkbGVzcz10cnVlIC1YbXMzZyAtWG14M2ciCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ubuntu16</text>
+        <text>jenkins_home</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -614,34 +604,34 @@
         <text encoding="base64">ICAgICAgICA8IS0tbmF0dXJlIGJlZ2luLS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFVuY29tbWVudCB0aGlzIHNlY3Rpb24gdG8gaGF2ZSBlbGFzdGljc2VhcmNoIGRhdGEgbG9hZGVkIGZyb20gYSB2b2x1bWUK</text>
+        <text encoding="base64">ICAgICAgSkFWQV9PUFRTOiAiLURqYXZhLmF3dC5oZWFkbGVzcz10cnVlIC1YbXMzZyAtWG14M2ciCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gUkVESVNfSE9TVD1yZWRpcwo=</text>
+        <text encoding="base64">ICAgIC0gIjEwMDgxOjgwODAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gUkVESVNfUE9SVD02Mzc5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gL3Nydi9kb2NrZXIvZ2l0bGFiL2dpdGxhYjovaG9tZS9naXQvZGF0YTpaCg==</text>
+        <text encoding="base64">CUBkb2NrZXIgYnVpbGQgLS10YWc9bGl1Zm9yL3JlZGlzOiQoc2hlbGwgY2F0IFZFUlNJT04pIC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">cmVsZWFzZTogYnVpbGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gL3Nydi9kb2NrZXIvZ2l0bGFiL3Bvc3RncmVzcWw6L3Zhci9saWIvcG9zdGdyZXNxbDpaCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFVuY29tbWVudCB0aGlzIHNlY3Rpb24gdG8gaGF2ZSBlbGFzdGljc2VhcmNoIGRhdGEgbG9hZGVkIGZyb20gYSB2b2x1bWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gL2RhdGEvZG9ja2VyL2dpdGxhYi9wb3N0Z3Jlc3FsOi92YXIvbGliL3Bvc3RncmVzcWw6Wgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gL2RhdGEvZG9ja2VyL2dpdGxhYi9yZWRpczovdmFyL2xpYi9yZWRpczpaCg==</text>
+        <text encoding="base64">ICAgIC0gUkVESVNfSE9TVD1yZWRpcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>80</text>
       </register>
     </registers>
     <search>
@@ -677,7 +667,6 @@
         <entry>x</entry>
       </history-search>
       <history-cmd>
-        <entry>27</entry>
         <entry>7</entry>
         <entry>19</entry>
         <entry>10</entry>
@@ -697,6 +686,7 @@
         <entry>142d</entry>
         <entry>121</entry>
         <entry>wq</entry>
+        <entry>80</entry>
       </history-cmd>
       <history-expr />
       <history-input />
