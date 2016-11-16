@@ -12,6 +12,12 @@
       <file name="/a.dummy" timestamp="1479236360763">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/jh_sim/src/main/resources/logback-spring.xml" timestamp="1479239949017">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="71" column="34" />
+        <mark key="^" line="71" column="34" />
+        <mark key="." line="71" column="34" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-elasticsearch/Makefile" timestamp="1479224656963">
         <mark key="[" line="4" column="39" />
       </file>
@@ -33,6 +39,7 @@
         <mark key="^" line="84" column="100" />
         <mark key="." line="84" column="100" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/logstash.conf" timestamp="1479239444481" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/eac91acd-8594-42fb-b21b-b31c0d1260ef/console_3.sql" timestamp="1478938936639">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -184,11 +191,11 @@
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-root/trunk/pom.xml" timestamp="1478850124592">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/jh_sim/src/main/resources/config/application-dev.yml" timestamp="1479231774775">
-        <mark key="[" line="91" column="26" />
-        <mark key="]" line="90" column="13" />
-        <mark key="^" line="90" column="13" />
-        <mark key="." line="90" column="13" />
+      <file name="$USER_HOME$/work/code/gzc_code/jh_sim/src/main/resources/config/application-dev.yml" timestamp="1479239687301">
+        <mark key="[" line="91" column="25" />
+        <mark key="]" line="91" column="25" />
+        <mark key="^" line="91" column="25" />
+        <mark key="." line="91" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9fa6ee5-d2e3-4c9d-aca1-2e7a4afa8562/console_2.sql" timestamp="1478848767552">
         <mark key="[" line="21" column="0" />
@@ -352,6 +359,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/jh_sim/src/main/java/com/gzc/wechat/config/JHipsterProperties.java" timestamp="1479238438787" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/PurchaseService.java" timestamp="1478748610699">
         <mark key="[" line="291" column="60" />
         <mark key="]" line="279" column="72" />
@@ -388,6 +396,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/cwbase/logback-redis-appender/1.1.5/logback-redis-appender-1.1.5.jar!/com/cwbase/logback/RedisAppender.class" timestamp="1479238461405" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/receipts/printer.jsp" timestamp="1478590342297">
         <mark key="[" line="409" column="91" />
         <mark key="]" line="434" column="121" />
@@ -456,6 +465,11 @@
         <mark key="]" line="177" column="27" />
         <mark key="." line="177" column="27" />
         <mark key="^" line="177" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/jh_sim/pom.xml" timestamp="1479240128956">
+        <mark key="]" line="76" column="20" />
+        <mark key="^" line="76" column="20" />
+        <mark key="." line="76" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1478884705442">
         <mark key="[" line="0" column="0" />
@@ -619,11 +633,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text>production</text>
       </register>
       <register name="-" type="4">
-        <text>-t liufor/elastic:latest</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -632,31 +646,31 @@
         <text encoding="base64">Vk9MVU1FIFsiL2NvbmYiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dzdGFzaFJlZGkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBsaXVmb3IvZWxhc3RpYzpsYXRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBsaXVmb3IvZWxhc3RpYzpsYXRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
