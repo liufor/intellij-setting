@@ -33,6 +33,12 @@
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-elasticsearch/Makefile" timestamp="1479224656963">
         <mark key="[" line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/nodejs/Makefile" timestamp="1479412063857">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="4" column="36" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/Dockerfile" timestamp="1479228020760">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="21" />
@@ -129,7 +135,7 @@
         <mark key="^" line="88" column="25" />
         <mark key="." line="73" column="21" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/ubuntu16/Dockerfile" timestamp="1479363286721">
+      <file name="$USER_HOME$/work/images/dockers/ubuntu16/Dockerfile" timestamp="1479412040197">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -393,6 +399,7 @@
         <mark key="^" line="51" column="49" />
         <mark key="." line="51" column="16" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/ubuntu16/Makefile" timestamp="1479412019261" />
       <file name="$USER_HOME$/work/images/dockers/jenkins/plugins.txt" timestamp="1479113884630">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="1" column="9" />
@@ -563,8 +570,20 @@
         <mark key="^" line="224" column="57" />
         <mark key="." line="224" column="57" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/node/onbuild/Dockerfile" timestamp="1479412299404">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/work/code/myapplication/src/main/resources/config/application-dev.yml" timestamp="1478716498287">
         <mark key="[" line="84" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/nodejs/Dockerfile" timestamp="1479412029090">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/stockIn/purchase/list.jsp" timestamp="1478692754016">
         <mark key="[" line="177" column="36" />
@@ -735,11 +754,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIHN5c2N0bCB2bS5tYXhfbWFwX2NvdW50PTI2MjE0NAo=</text>
+      <register name="&quot;" type="4">
+        <text>ubuntu16</text>
       </register>
       <register name="-" type="4">
-        <text>, xenial, latest (xenial/Dockerfile)</text>
+        <text>ubuntu16</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
