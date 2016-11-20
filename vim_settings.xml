@@ -204,6 +204,12 @@
         <mark key="." line="102" column="47" />
         <mark key="^" line="102" column="47" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/elastic/entrypoint.sh" timestamp="1479637429761">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="8" />
+        <mark key="^" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/Makefile" timestamp="1479224606004">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="38" />
@@ -222,6 +228,12 @@
         <mark key="]" line="51" column="16" />
         <mark key="^" line="51" column="49" />
         <mark key="." line="51" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/elastic/config/elasticsearch.yml" timestamp="1479637201407">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/ubuntu16/Makefile" timestamp="1479412019261" />
       <file name="$USER_HOME$/work/code/logback-redis-appender/src/main/java/com/cwbase/logback/RedisAppender.java" timestamp="1479291588084" />
@@ -265,6 +277,7 @@
         <mark key="^" line="187" column="60" />
         <mark key="." line="187" column="60" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/elastic/docker-entrypoint.sh" timestamp="1479637789035" />
       <file name="$USER_HOME$/work/images/dockers/jenkins_offical/Makefile" timestamp="1479119695265">
         <mark key="[" line="7" column="39" />
         <mark key="]" line="7" column="37" />
@@ -370,11 +383,11 @@
         <mark key="^" line="45" column="7" />
         <mark key="." line="45" column="7" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/elastic/docker-compose.yml" timestamp="1479635136650">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="14" column="20" />
+      <file name="$USER_HOME$/work/images/dockers/elastic/docker-compose.yml" timestamp="1479637880054">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/jh_sim/src/main/java/com/gzc/wechat/web/rest/TestLoggingResource.java" timestamp="1479281696478">
         <mark key="[" line="19" column="19" />
@@ -516,11 +529,11 @@
       <file name="$USER_HOME$/work/code/gzc/youhuo/nature/nature-root/trunk/pom.xml" timestamp="1478850124592">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/elastic/Dockerfile" timestamp="1479636521086">
-        <mark key="[" line="53" column="71" />
-        <mark key="]" line="53" column="70" />
-        <mark key="^" line="53" column="70" />
-        <mark key="." line="53" column="70" />
+      <file name="$USER_HOME$/work/images/dockers/elastic/Dockerfile" timestamp="1479638172447">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="42" />
+        <mark key="^" line="57" column="41" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/logback-redis-appender/src/test/resources/logback-mdc.xml" timestamp="1479288039156">
         <mark key="[" line="5" column="9" />
@@ -635,6 +648,12 @@
         <mark key="]" line="3" column="42" />
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/elastic/config/logging.yml" timestamp="1479637172904">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="57" />
+        <mark key="^" line="14" column="57" />
+        <mark key="." line="14" column="57" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-logstash/Dockerfile" timestamp="1479228009933">
         <mark key="[" line="3" column="0" />
@@ -834,8 +853,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">UlVOIFsiY2htb2QiLCIreCIsICJkb2NrZXItZW50cnlwb2ludC5zaCJdCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -844,37 +863,37 @@
         <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Vk9MVU1FIC91c3Ivc2hhcmUvZWxhc3RpY3NlYXJjaC9kYXRhCg==</text>
+        <text encoding="base64">UlVOIFsiY2htb2QiLCIreCIsICJkb2NrZXItZW50cnlwb2ludC5zaCJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGNob3duIC1SIGVsYXN0aWNzZWFyY2g6ZWxhc3RpY3NlYXJjaCAvZG9ja2VyLWVudHJ5cG9pbnQuc2gK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gL2RhdGExL2F1dG9fdXBsaW5lLzovZGF0YTEvYXV0b191cGxpbmUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Q09QWSBlbnRyeXBvaW50LnNoIC9vcHQvZW50cnlwb2ludC5zaAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gL2RhdGExL2F1dG9fdXBsaW5lLzovZGF0YTEvYXV0b191cGxpbmUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Q09QWSBlbnRyeXBvaW50LnNoIC9vcHQvZW50cnlwb2ludC5zaAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">I0VOVFJZUE9JTlQgWyIvb3B0L2VudHJ5cG9pbnQuc2giXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU5WIE5PREVfRU5WICROT0RFX0VOVgo=</text>
+        <text encoding="base64">I0VOVFJZUE9JTlQgWyIvb3B0L2VudHJ5cG9pbnQuc2giXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVJHIE5PREVfRU5WCg==</text>
+        <text encoding="base64">RU5WIE5PREVfRU5WICROT0RFX0VOVgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC8qCg==</text>
+        <text encoding="base64">QVJHIE5PREVfRU5WCg==</text>
       </register>
       <register name=":" type="4">
-        <text>80</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -928,8 +947,8 @@
         <entry>384</entry>
         <entry>142d</entry>
         <entry>121</entry>
-        <entry>wq</entry>
         <entry>80</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
