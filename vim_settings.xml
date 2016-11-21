@@ -56,12 +56,24 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/dao/facade/PayBillDaoFacade.java" timestamp="1479724060278">
+        <mark key="[" line="181" column="47" />
+        <mark key="]" line="181" column="52" />
+        <mark key="." line="181" column="52" />
+        <mark key="^" line="181" column="52" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a2070a8-8f24-4a5b-8c5c-c2453475ff0d/console.sql" timestamp="1479654805533">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-manage-frontend/trunk/assets/js/commons/tabs.js" timestamp="1479719127573" />
       <file name="$USER_HOME$/work/images/dockers/jenkins_offical/docker-compose-2.yml" timestamp="1479119710395">
         <mark key="[" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/service/pay/PayBillService.java" timestamp="1479724053546">
+        <mark key="[" line="135" column="47" />
+        <mark key="]" line="135" column="52" />
+        <mark key="^" line="135" column="52" />
+        <mark key="." line="135" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9533c4e8-a4db-4bc9-a4f9-d2c646271206/console.sql" timestamp="1479717769165">
         <mark key="[" line="49" column="10" />
@@ -74,6 +86,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/dao/jdbc/PayBillDao.java" timestamp="1479724070009">
+        <mark key="[" line="77" column="44" />
+        <mark key="]" line="77" column="57" />
+        <mark key="^" line="77" column="57" />
+        <mark key="." line="77" column="57" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/ubuntu16/Dockerfile" timestamp="1479634671186">
         <mark key="[" line="0" column="27" />
@@ -227,8 +245,11 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/pay/order/EditLogic.java" timestamp="1479717050274" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/assets/js/bill/wages.js" timestamp="1479713145121" />
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/pay/order/SaveLogic.java" timestamp="1479718331797">
-        <mark key="[" line="62" column="8" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/pay/order/SaveLogic.java" timestamp="1479724235766">
+        <mark key="[" line="67" column="34" />
+        <mark key="]" line="67" column="33" />
+        <mark key="." line="67" column="33" />
+        <mark key="^" line="67" column="33" />
       </file>
       <file name="$USER_HOME$/work/images/elasticsearch-head/test/generators/twitter_feed.sh" timestamp="1479668660025" />
       <file name="$USER_HOME$/work/code/gzc_code/jh_sim/src/main/java/com/gzc/wechat/config/JHipsterProperties.java" timestamp="1479292683323">
@@ -299,10 +320,11 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9fa6ee5-d2e3-4c9d-aca1-2e7a4afa8562/console_3.sql" timestamp="1479722613468">
-        <mark key="]" line="22" column="8" />
-        <mark key="^" line="22" column="8" />
-        <mark key="." line="22" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9fa6ee5-d2e3-4c9d-aca1-2e7a4afa8562/console_3.sql" timestamp="1479722909826">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="66" column="16" />
+        <mark key="^" line="66" column="16" />
+        <mark key="." line="66" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1479662384187">
         <mark key="[" line="0" column="0" />
@@ -455,11 +477,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>刘俊红</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>刘俊红</text>
+        <text>Locng</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -468,31 +490,31 @@
         <text encoding="base64">ICAoJ2xpdWp1bmhvbmcnLCAnZTEwYWRjMzk0OWJhNTlhYmJlNTZlMDU3ZjIwZjg4M2UnLCAn5YiY5L+K57qiJywgMSwgNiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RlJPTSBwYXlfYmlsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KDEpCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CQkJCS5hbnlNYXRjaCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">T1JERVIgQlkgaWQgREVTQyA7Cg==</text>
+        <text encoding="base64">CQlmb3IgKCkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">T1JERVIgQlkgaWQgREVTQyA7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CQlTdHJpbmcgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">T1JERVIgQlkgaWQgREVTQyA7Cg==</text>
+        <text encoding="base64">RlJPTSBwYXlfYmlsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIHAK</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
