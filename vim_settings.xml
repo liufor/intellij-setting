@@ -140,7 +140,7 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search/src/main/java/com/gzc/search/domain/Job.java" timestamp="1479802475199">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search/src/main/java/com/gzc/search/domain/Job.java" timestamp="1479805634030">
         <mark key="[" line="694" column="21" />
         <mark key="]" line="781" column="34" />
         <mark key="^" line="206" column="21" />
@@ -278,11 +278,12 @@
         <mark key="." line="56" column="21" />
         <mark key="^" line="56" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search/src/main/java/com/gzc/search/domain/JobSearch.java" timestamp="1479802909675">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="59" />
-        <mark key="^" line="18" column="59" />
-        <mark key="." line="18" column="59" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search/src/main/java/com/gzc/search/domain/JobSearch.java" timestamp="1479805787071">
+        <mark key="'" line="31" column="24" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="31" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search/src/test/java/com/gzc/search/web/rest/JobResourceIntTest.java" timestamp="1479658620274">
         <mark key="[" line="539" column="40" />
@@ -390,7 +391,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.0.3.RELEASE/spring-data-elasticsearch-2.0.3.RELEASE-sources.jar!/org/springframework/data/elasticsearch/repository/support/ElasticsearchRepositoryFactoryBean.java" timestamp="1479660007519" />
     </filemarks>
     <jumps>
-      <jump line="23" column="40" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="346" column="0" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/index/IndexPage.js" />
       <jump line="55" column="25" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/DetailPage.js" />
@@ -490,6 +490,7 @@
       <jump line="1051" column="32" filename="$USER_HOME$/work/images/dockers/redis/redis.conf" />
       <jump line="50" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search/scripts/xx.js" />
       <jump line="175" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search/scripts/job_mapping.json" />
+      <jump line="31" column="24" filename="$USER_HOME$/work/code/gzc_code/gzc-search/src/main/java/com/gzc/search/domain/JobSearch.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -539,7 +540,7 @@
         <text>query</text>
       </register>
       <register name="/" type="4">
-        <text>x</text>
+        <text>Column</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PEpvYj4gcmVzdWx0ID0gam9iUmVwb3NpdG9yeS5maW5kQWxsKCk7Cg==</text>
@@ -572,21 +573,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICJmb3JtYXQiIDogInl5eXktTU0tZGQgSEg6bW06c3MiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>%s/Column/d</text>
       </register>
     </registers>
     <search>
-      <last-search>x</last-search>
+      <last-search>Column</last-search>
       <last-offset />
-      <last-pattern>x</last-pattern>
-      <last-replace>Group</last-replace>
-      <last-substitute>x</last-substitute>
+      <last-pattern>Column</last-pattern>
+      <last-replace>d</last-replace>
+      <last-substitute>Column</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SalesStockOutOrder</entry>
         <entry>sales</entry>
         <entry>Sales</entry>
         <entry>@</entry>
@@ -606,13 +606,9 @@
         <entry>ret.order</entry>
         <entry>current</entry>
         <entry>x</entry>
+        <entry>Column</entry>
       </history-search>
       <history-cmd>
-        <entry>7</entry>
-        <entry>19</entry>
-        <entry>10</entry>
-        <entry>49</entry>
-        <entry>262</entry>
         <entry>298</entry>
         <entry>222</entry>
         <entry>208</entry>
@@ -628,6 +624,11 @@
         <entry>121</entry>
         <entry>80</entry>
         <entry>wq</entry>
+        <entry>%s/Column/d</entry>
+        <entry>%v/Column/d</entry>
+        <entry>g/Column/d</entry>
+        <entry>%g/Column/g</entry>
+        <entry>%g/Column/d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
