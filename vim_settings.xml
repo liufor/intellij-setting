@@ -365,8 +365,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/config/DatabaseConfiguration.java" timestamp="1479886359100">
-        <mark key="[" line="31" column="3" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/config/DatabaseConfiguration.java" timestamp="1479889368640">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="50" />
+        <mark key="^" line="21" column="50" />
+        <mark key="." line="21" column="50" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/config/dic/DicManageConfig.java" timestamp="1479719760134" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/dao/po/JobPo.java" timestamp="1479785280669" />
@@ -426,6 +429,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/pom.xml" timestamp="1479889808797" />
       <file name="$USER_HOME$/work/images/dockers/node/run/Dockerfile" timestamp="1479488418134">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="11" column="21" />
@@ -601,13 +605,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>search.
-search.
-search.</text>
+      <register name="&quot;" type="4">
+        <text>pakage</text>
       </register>
       <register name="-" type="4">
-        <text>search</text>
+        <text>pakage</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -615,18 +617,21 @@ search.</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBWYWx1ZVRleHQoMSwiampqIikK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>search.
 search.
 search.</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA8L3BsdWdpbnM+Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>.search
 .search
 .search
@@ -634,22 +639,19 @@ search.</text>
 .search
 .search</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>common.
 common.
 common.</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBsamggb24gMTYvMTEvMjIuCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAg</text>
       </register>
       <register name=":" type="4">
         <text>%s/Column/d</text>
