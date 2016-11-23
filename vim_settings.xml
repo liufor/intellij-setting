@@ -287,11 +287,11 @@
         <mark key="^" line="41" column="43" />
         <mark key="." line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobCategoryService.java" timestamp="1479924250663">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="37" column="40" />
-        <mark key="^" line="37" column="40" />
-        <mark key="." line="37" column="40" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobCategoryService.java" timestamp="1479924955631">
+        <mark key="[" line="44" column="71" />
+        <mark key="]" line="44" column="53" />
+        <mark key="." line="44" column="53" />
+        <mark key="^" line="44" column="53" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-common/pom.xml" timestamp="1479883079861">
         <mark key="[" line="10" column="26" />
@@ -302,11 +302,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/repository/JobCategoryRepository.java" timestamp="1479923895301">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="71" />
-        <mark key="^" line="9" column="71" />
-        <mark key="." line="9" column="71" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/repository/JobCategoryRepository.java" timestamp="1479924950702">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="13" column="53" />
+        <mark key="." line="13" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search/src/test/java/com/gzc/search/api/web/rest/JobResourceIntTest.java" timestamp="1479654413356">
         <mark key="[" line="2" column="34" />
@@ -409,8 +409,11 @@
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/settting/logstash.yml" timestamp="1479198433785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/104bdef5-7ea9-4ca5-a2b4-ae54b2a806ca/console_1.sql" timestamp="1479895782401">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/104bdef5-7ea9-4ca5-a2b4-ae54b2a806ca/console_1.sql" timestamp="1479924580038">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobSearchService.java" timestamp="1479884751802">
         <mark key="[" line="2" column="23" />
@@ -593,6 +596,12 @@
         <mark key="^" line="98" column="16" />
         <mark key="." line="102" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/dto/TreeNode.java" timestamp="1479925004297">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="71" column="17" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/component/Party1.js" />
@@ -738,43 +747,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>places</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>places</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBWYWx1ZVRleHQoMSwiampqIikK</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiYXBwLmpvYl9jYXRlZ29yeS5xaWFuemhpX2lkOjEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGwuZ2V0KCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyB1aWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJ1aWQiKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyB1aWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBlbXBsb3llclR5cGU7Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJ1aWQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJlbXBsb3llcl90eXBlIikK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBlbXBsb3llclR5cGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QERvY3VtZW50KGluZGV4TmFtZSA9ICJqb2IiLHR5cGUgPSAiam9iIixjcmVhdGVJbmRleCA9IGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJlbXBsb3llcl90eXBlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgLCBMaXF1aWJhc2VQcm9wZXJ0aWVzLmNsYXNzCg==</text>
+        <text encoding="base64">QERvY3VtZW50KGluZGV4TmFtZSA9ICJqb2IiLHR5cGUgPSAiam9iIixjcmVhdGVJbmRleCA9IGZhbHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIDUwMDDmr6vnp5IgLT4gVDIgc3RhcnQgICAgVDIgZW5kLgo=</text>
+        <text encoding="base64">Ly8gICAgLCBMaXF1aWJhc2VQcm9wZXJ0aWVzLmNsYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Column/d</text>
