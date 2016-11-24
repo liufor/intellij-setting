@@ -100,11 +100,8 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-manage-frontend/trunk/assets/js/commons/c.js" timestamp="1479719653207" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/config/apidoc/PageableParameterBuilderPlugin.java" timestamp="1479884672479" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/resources/banner.txt" timestamp="1479918046828" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/vm/JobVm.java" timestamp="1479966112214">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="20" column="9" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/vm/JobVm.java" timestamp="1479983472948">
+        <mark key="[" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/dev/db_source.xml" timestamp="1479711108640" />
       <file name="$USER_HOME$/work/code/gzc_code/spring-boot-sample-data-elasticsearch/src/main/resources/application.properties" timestamp="1479656170253">
@@ -191,7 +188,7 @@
         <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/jzc_wechat/src/main/java/com/jzc/wechat/dao/jdbc/JobDao.java" timestamp="1479956372077" />
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/production/dic.xml" timestamp="1479980188974" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/production/dic.xml" timestamp="1479983546833" />
       <file name="$USER_HOME$/work/code/jhipster-sample-app2/.yo-rc.json" timestamp="1479977259687" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/76317167-e654-4da7-8973-8e950589ea01/console.sql" timestamp="1479898471426" />
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/common/geo/GeoPoint.java" timestamp="1479802052827" />
@@ -224,16 +221,6 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/bower.json" timestamp="1479975600600" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/webapp/app/app.constants.js" timestamp="1479976062314" />
-      <file name="$USER_HOME$/work/images/dockers/node/sample/app.js" timestamp="1479414671822">
-        <mark key="]" line="5" column="54" />
-        <mark key="^" line="5" column="54" />
-        <mark key="." line="5" column="54" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/jh_sim/pom.xml" timestamp="1479647582609">
-        <mark key="]" line="76" column="20" />
-        <mark key="^" line="76" column="20" />
-        <mark key="." line="76" column="20" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-build/pom.xml" timestamp="1479923452799">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="21" column="28" />
@@ -265,10 +252,11 @@
         <mark key="^" line="8" column="71" />
         <mark key="." line="8" column="71" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobService.java" timestamp="1479981731479">
-        <mark key="]" line="62" column="24" />
-        <mark key="^" line="62" column="24" />
-        <mark key="." line="62" column="24" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobService.java" timestamp="1479982731318">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="70" column="35" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/logstash.conf" timestamp="1479370182612">
         <mark key="[" line="7" column="26" />
@@ -276,11 +264,11 @@
         <mark key="^" line="41" column="43" />
         <mark key="." line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobCategoryService.java" timestamp="1479981456085">
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="61" column="55" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobCategoryService.java" timestamp="1479983346129">
+        <mark key="[" line="119" column="53" />
+        <mark key="]" line="118" column="56" />
+        <mark key="." line="118" column="56" />
+        <mark key="^" line="118" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.3/jackson-annotations-2.8.3-sources.jar!/com/fasterxml/jackson/annotation/JsonInclude.java" timestamp="1479974306768" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search/src/main/java/com/gzc/search/service/mapper/JobMapperDecorator.java" timestamp="1479810559986">
@@ -438,11 +426,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/Job.java" timestamp="1479980451874" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-envers/4.3.11.Final/hibernate-envers-4.3.11.Final-sources.jar!/org/hibernate/envers/Audited.java" timestamp="1479874451555" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search/target/classes/com/gzc/search/service/mapper/JobMapperImpl.class" timestamp="1479810388274" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/JobCategoryResource.java" timestamp="1479979425454">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="25" column="81" />
-        <mark key="^" line="25" column="81" />
-        <mark key="." line="25" column="81" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/JobCategoryResource.java" timestamp="1479983488240">
+        <mark key="[" line="121" column="25" />
+        <mark key="]" line="121" column="22" />
+        <mark key="." line="121" column="22" />
+        <mark key="^" line="121" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/104bdef5-7ea9-4ca5-a2b4-ae54b2a806ca/console.sql" timestamp="1479694765830">
         <mark key="[" line="56" column="17" />
@@ -471,11 +459,11 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/config/dic/DicManageConfig.java" timestamp="1479719760134" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/dao/po/JobPo.java" timestamp="1479785280669" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/repository/JobRepository.java" timestamp="1479981737530">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/repository/JobRepository.java" timestamp="1479981813034">
         <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="37" />
-        <mark key="^" line="16" column="37" />
-        <mark key="." line="16" column="37" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search/src/main/resources/config/application-dev.yml" timestamp="1479795825739">
         <mark key="[" line="101" column="25" />
@@ -726,10 +714,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBJCg==</text>
       </register>
       <register name="-" type="4">
-        <text>fullTimeTwoLevelCategories</text>
+        <text>collect</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -738,31 +726,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiYXBwLmpvYl9jYXRlZ29yeS5xaWFuemhpX2lkOjEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JjYQo=</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihqbykK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEpvYj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJlc3VsdC5nZXQoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgbWFwLmNvbXB1dGUoKSAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Column/d</text>
