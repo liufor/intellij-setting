@@ -121,6 +121,12 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/resources/logback-spring.xml" timestamp="1480020357041" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/config/apidoc/PageableParameterBuilderPlugin.java" timestamp="1479884672479" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/resources/banner.txt" timestamp="1479918046828" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/base/ResponseVm.java" timestamp="1480047079255">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/vm/JobVm.java" timestamp="1479983472948">
         <mark key="[" line="65" column="0" />
       </file>
@@ -491,11 +497,11 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/errors/ResponseTranslator.java" timestamp="1480046323557">
-        <mark key="[" line="29" column="11" />
-        <mark key="]" line="29" column="11" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="29" column="11" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/errors/ResponseTranslator.java" timestamp="1480047399526">
+        <mark key="[" line="42" column="70" />
+        <mark key="]" line="42" column="37" />
+        <mark key="^" line="42" column="37" />
+        <mark key="." line="42" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/104bdef5-7ea9-4ca5-a2b4-ae54b2a806ca/console.sql" timestamp="1479694765830">
         <mark key="[" line="56" column="17" />
@@ -802,34 +808,34 @@
         <text>Column</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1hcDxTdHJpbmcsSW50ZWdlcj4gY2l0eVNob3J0SWRNYXA9bmV3IENvbmN1cnJlbnRIYXNoTWFwPD4oMTAwKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZVZtPFQ+IHN1Y2Nlc3MoU3RyaW5nIG1lc3NhZ2UpIHsKICAgICAgICByZXR1cm4gY29kZSgwKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBob25lID0gcGhvbmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEVycm9yVk0oRXJyb3JDb25zdGFudHMuRVJSX0NPTkNVUlJFTkNZX0ZBSUxVUkUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29kZSgwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZVZtPFQ+IHN1Y2Nlc3MoKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qOAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlVm08VD4oKS4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZFNob3J0TWFwID0gc2hvcnRJZE1hcC4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Column/d</text>
