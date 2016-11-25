@@ -387,11 +387,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/Job.java" timestamp="1480046190305" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-envers/4.3.11.Final/hibernate-envers-4.3.11.Final-sources.jar!/org/hibernate/envers/Audited.java" timestamp="1479874451555" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search/target/classes/com/gzc/search/service/mapper/JobMapperImpl.class" timestamp="1479810388274" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/JobCategoryResource.java" timestamp="1480054522249">
-        <mark key="[" line="42" column="55" />
-        <mark key="]" line="42" column="54" />
-        <mark key="." line="42" column="54" />
-        <mark key="^" line="42" column="54" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/JobCategoryResource.java" timestamp="1480057033504">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="37" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/base/Response.java" timestamp="1480046311970">
         <mark key="[" line="2" column="21" />
@@ -440,7 +440,7 @@
       <file name="$USER_HOME$/work/images/dockers/node/run/Makefile" timestamp="1479467287479">
         <mark key="[" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/repository/JobRepository.java" timestamp="1480055386201">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/repository/JobRepository.java" timestamp="1480057439385">
         <mark key="[" line="19" column="63" />
         <mark key="]" line="20" column="22" />
         <mark key="^" line="20" column="22" />
@@ -652,10 +652,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAgICBKb2JDYXRlZ29yeVZtIGRhdGEgPSBuZXcgSm9iQ2F0ZWdvcnlWbSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>full_time</text>
+        <text>tree</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -664,31 +664,31 @@
         <text encoding="base64">ICAgIDxjYWNoZSBuYW1lPSJwYzphcGk6aG9tZTpqb2JzOnJlY29tbWVuZHM6ZnVsbF90aW1lIgogICAgICAgICAgIHRpbWVUb0xpdmVTZWNvbmRzPSIzNjAwIj4KICAgIDwvY2FjaGU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAgICBKb2JDYXRlZ29yeVZtIGRhdGEgPSBuZXcgSm9iQ2F0ZWdvcnlWbSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RlJPTSBqb2JfY2F0ZWdvcnkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V0hFUkUgcGFyZW50PTY4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IHRyZWUuZ2V0Q2hpbGRyZW4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXRyZWUuZ2V0Q2hpbGRyZW4oKS5pc0VtcHR5KCkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBKb2JDYXRlZ29yeVZtIHRyZWUgPSB0cmVlKGNhdGVnb3JpZXMsIGNpdHlJZCk7ZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">U0VMRUNUICoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigieHgiKTsK</text>
+        <text encoding="base64">RlJPTSBqb2JfY2F0ZWdvcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZVJlc3VsdDxKb2JWbT4K</text>
+        <text encoding="base64">V0hFUkUgcGFyZW50PTY4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Column/d</text>
