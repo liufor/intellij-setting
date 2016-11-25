@@ -122,10 +122,10 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/config/apidoc/PageableParameterBuilderPlugin.java" timestamp="1479884672479" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/resources/banner.txt" timestamp="1479918046828" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/base/ResponseVm.java" timestamp="1480047079255">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="34" />
-        <mark key="." line="25" column="34" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="27" column="34" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="27" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/vm/JobVm.java" timestamp="1479983472948">
         <mark key="[" line="65" column="0" />
@@ -239,6 +239,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/76317167-e654-4da7-8973-8e950589ea01/console.sql" timestamp="1479898471426" />
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/common/geo/GeoPoint.java" timestamp="1479802052827" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/pay/order/EditLogic.java" timestamp="1479717050274" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/base/ResponseResult.java" timestamp="1480048730938" />
       <file name="$USER_HOME$/work/images/elasticsearch-head/test/generators/twitter_feed.sh" timestamp="1479668660025" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.3.RELEASE/spring-data-commons-1.12.3.RELEASE-sources.jar!/org/springframework/data/repository/core/support/RepositoryFactorySupport.java" timestamp="1479659014806" />
       <file name="$USER_HOME$/work/images/dockers/node/run/docker-compose.yml" timestamp="1479488430235">
@@ -298,6 +299,7 @@
         <mark key="^" line="8" column="71" />
         <mark key="." line="8" column="71" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.3.RELEASE/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/JsonViewResponseBodyAdvice.java" timestamp="1480048154978" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobService.java" timestamp="1480020692610">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -341,6 +343,7 @@
         <mark key="^" line="67" column="3" />
         <mark key="." line="67" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.3/jackson-annotations-2.8.3-sources.jar!/com/fasterxml/jackson/annotation/JsonView.java" timestamp="1480048280308" />
       <file name="$USER_HOME$/work/code/gzc_conf/hosts/gzc/jzc-web-frontend.conf" timestamp="1479710017591">
         <mark key="[" line="14" column="40" />
       </file>
@@ -448,6 +451,11 @@
         <mark key="[" line="35" column="49" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature/nature-storage/trunk/nature-storage-jdbc/src/main/java/com/nature/storage/jdbc/sql/compiler/BatchInsertCompiler.java" timestamp="1479714235032" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/base/RestResultGenerator.java" timestamp="1480048812525">
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+      </file>
       <file name="$USER_HOME$/work/code/spring-data-elasticsearch/src/main/java/org/springframework/data/elasticsearch/core/convert/MappingElasticsearchConverter.java" timestamp="1479667439008" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/web/filter/CachingHttpHeadersFilter.java" timestamp="1479885690111">
         <mark key="[" line="2" column="24" />
@@ -799,10 +807,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ErrorVM</text>
+        <text>LOGGER</text>
       </register>
       <register name="-" type="4">
-        <text>ErrorVM</text>
+        <text>LOGGER</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -811,31 +819,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZVZtPFQ+IHN1Y2Nlc3MoU3RyaW5nIG1lc3NhZ2UpIHsKICAgICAgICByZXR1cm4gY29kZSgwKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0TWVzc2FnZShtZXNzYWdlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0RGF0YShkYXRhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEVycm9yVk0oRXJyb3JDb25zdGFudHMuRVJSX0NPTkNVUlJFTkNZX0ZBSUxVUkUpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29kZSgwKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZVZtPFQ+IHN1Y2Nlc3MoKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEVycm9yVk0oRXJyb3JDb25zdGFudHMuRVJSX0NPTkNVUlJFTkNZX0ZBSUxVUkUpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlVm08VD4oKS4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29kZSgwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZVZtPFQ+IHN1Y2Nlc3MoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Column/d</text>
