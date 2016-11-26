@@ -35,6 +35,12 @@
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-elasticsearch/Makefile" timestamp="1479224656963">
         <mark key="[" line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/JobSearch.java" timestamp="1480131313005">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="45" column="26" />
+        <mark key="^" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+      </file>
       <file name="$USER_HOME$/work/code/jh-demo2/src/main/java/com/gongzuochong/pc/api/config/apidoc/SwaggerConfiguration.java" timestamp="1480041716149" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/errors/ExceptionTranslator.java" timestamp="1480045688039" />
       <file name="$USER_HOME$/work/code/jhipster-sample-app-dto/pom.xml" timestamp="1479975506595" />
@@ -105,6 +111,7 @@
         <mark key="^" line="111" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/jh-demo3/src/main/java/com/gongzuochong/pc/api/domain/Authority.java" timestamp="1480058224183" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.0.3.RELEASE/spring-data-elasticsearch-2.0.3.RELEASE-sources.jar!/org/springframework/data/elasticsearch/repository/support/ElasticsearchRepositoryFactory.java" timestamp="1480129580478" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/ApplicationWebXml.java" timestamp="1480095558057">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="28" />
@@ -275,6 +282,15 @@
         <mark key="." line="82" column="32" />
         <mark key="^" line="82" column="32" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/dto/ValueText.java" timestamp="1480129656674">
+        <mark key="[" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/create_job_index.sh" timestamp="1480130508247">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/DisrictService.java" timestamp="1479984042431">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="13" column="14" />
@@ -300,6 +316,12 @@
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/util/CityMap.java" timestamp="1480130277134">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="14" />
+        <mark key="^" line="36" column="14" />
+        <mark key="." line="36" column="14" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/mapper/JobMapperDecorator.java" timestamp="1479884782417">
         <mark key="[" line="3" column="23" />
@@ -429,6 +451,12 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1480131283452">
+        <mark key="[" line="41" column="63" />
+        <mark key="]" line="151" column="28" />
+        <mark key="." line="151" column="28" />
+        <mark key="^" line="151" column="28" />
+      </file>
       <file name="/fragment.java" timestamp="1480097775530">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -449,11 +477,11 @@
       <file name="$USER_HOME$/work/images/dockers/elastic/docker-compose.yml" timestamp="1479915416195">
         <mark key="[" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/web/rest/JobResource.java" timestamp="1480127850373">
-        <mark key="[" line="156" column="59" />
-        <mark key="]" line="156" column="59" />
-        <mark key="^" line="156" column="59" />
-        <mark key="." line="156" column="59" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/web/rest/JobResource.java" timestamp="1480129073728">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="163" column="65" />
+        <mark key="^" line="163" column="65" />
+        <mark key="." line="163" column="65" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search/src/main/java/com/gzc/search/repository/search/JobSearchRepository.java" timestamp="1479806673595">
         <mark key="[" line="8" column="72" />
@@ -474,6 +502,7 @@
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.0.3.RELEASE/spring-data-elasticsearch-2.0.3.RELEASE-sources.jar!/org/springframework/data/elasticsearch/repository/support/SimpleElasticsearchRepository.java" timestamp="1480129393850" />
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/logstash-indexer/logstash.conf" timestamp="1479370182612">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="41" column="43" />
@@ -1088,10 +1117,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>keyword</text>
+        <text>chongqing</text>
       </register>
       <register name="-" type="4">
-        <text>keyword</text>
+        <text>chongqing</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -1100,38 +1129,31 @@
         <text encoding="base64">ICAgICAgICAgICAgLmFudE1hdGNoZXJzKCIvYXBpLyoqIikuYXV0aGVudGljYXRlZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtIFN0cmluZyB0YWcsCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdJbmRleE91dE9mQm91bmRzRXhjZXB0aW9uIGluZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtIGludCBzaXplLAo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBPcFN0cmluZyBzaCA9IENpdHlNYXAuZ2V0U2hvcnQoY2l0eUlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtIGludCBwYWdlLAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtIFN0cmluZyBzb3J0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oImNpdHlJZOWSjCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3AK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2l0eUlkID0gU3RyaW5ncy5pc051bGxPckVtcHR5KGNpdHkpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb25nenVvY2hvbmcud2ViLmJhc2Uud2ViLnJlc3QudXRpbC5IZWFkZXJVdGlsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQYWdlYWJsZSBwYWdlYWJsZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tRVMtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtIFN0cmluZyB0YWcsCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>web.base
-web.base
-web.base
-web.base</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtIGludCBzaXplLAo=</text>
       </register>
-      <register name="9" type="8">
-        <text>web.base.
-web.base.
-web.base.
-web.base.
-web.base.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtIGludCBwYWdlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Column/d</text>
