@@ -283,11 +283,11 @@
       <file name="$USER_HOME$/work/images/dockers/elastic/docker-compose.yml" timestamp="1479915416195">
         <mark key="[" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/web/rest/JobResource.java" timestamp="1480156361259">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
-        <mark key="^" line="171" column="117" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/web/rest/JobResource.java" timestamp="1480158048979">
+        <mark key="[" line="57" column="71" />
+        <mark key="]" line="57" column="67" />
+        <mark key="." line="57" column="67" />
+        <mark key="^" line="57" column="67" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.3.RELEASE/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/JsonViewResponseBodyAdvice.java" timestamp="1480048154978" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobService.java" timestamp="1480052565926">
@@ -561,10 +561,10 @@
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-elasticsearch/Makefile" timestamp="1479224656963">
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/JobSearch.java" timestamp="1480156849118">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/JobSearch.java" timestamp="1480157291926">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/jh-demo2/src/main/java/com/gongzuochong/pc/api/config/apidoc/SwaggerConfiguration.java" timestamp="1480041716149" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/errors/ExceptionTranslator.java" timestamp="1480045688039" />
@@ -795,6 +795,12 @@
         <mark key="^" line="57" column="31" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-model/src/main/java/com/gongzuochong/search/JobSearchBase.java" timestamp="1480157244063">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="13" />
+      </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/assets/wanduoduo/inventory/onsaleInventoryList.js" timestamp="1479277330333">
         <mark key="[" line="132" column="34" />
         <mark key="]" line="133" column="42" />
@@ -807,13 +813,13 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/bower.json" timestamp="1479975600600" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/webapp/app/app.constants.js" timestamp="1479976062314" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-build/pom.xml" timestamp="1480098452586">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="30" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-build/pom.xml" timestamp="1480157330204">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1480155689594">
+      <file name="/fragment.java" timestamp="1480157072681">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -1225,11 +1231,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+      <register name="&quot;" type="4">
+        <text>JobSearchBase</text>
       </register>
       <register name="-" type="4">
-        <text>domain</text>
+        <text>JobSearchBase</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
