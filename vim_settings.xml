@@ -257,11 +257,11 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1480165816232">
-        <mark key="[" line="168" column="40" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
-        <mark key="^" line="178" column="67" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1480260916657">
+        <mark key="[" line="188" column="39" />
+        <mark key="]" line="188" column="38" />
+        <mark key="." line="188" column="38" />
+        <mark key="^" line="188" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/OnsaleInventoryAdjustItemDto.java" timestamp="1479277382701">
         <mark key="[" line="45" column="8" />
@@ -554,6 +554,7 @@
         <mark key="^" line="111" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.0.3.RELEASE/spring-data-elasticsearch-2.0.3.RELEASE-sources.jar!/org/springframework/data/elasticsearch/repository/support/ElasticsearchRepositoryFactory.java" timestamp="1480129580478" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/job_mapping.json" timestamp="1480260761989" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/ApplicationWebXml.java" timestamp="1480095558057">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="28" />
@@ -784,6 +785,7 @@
         <mark key="." line="106" column="65" />
         <mark key="^" line="106" column="65" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/query.json" timestamp="1480260500872" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-manage-frontend/trunk/assets/js/commons/tabs.js" timestamp="1479719127573" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/dao/jdbc/PayBillDao.java" timestamp="1479780315716">
         <mark key="[" line="77" column="30" />
@@ -1116,7 +1118,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUXVlcnlCdWlsZGVycy5ib29sUXVlcnkoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>ativeSearchQueryBuilder</text>
@@ -1128,31 +1130,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUXVlcnlCdWlsZGVycy5ib29sUXVlcnkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci53aXRoUXVlcnkoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLndpdGhQYWdlYWJsZShwYWdlYWJsZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci53aXRoUGFnZWFibGUocGFnZWFibGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZU5vdEZvdW5kRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLmphdmFmeC50b29scy5yZXNvdXJjZS5EZXBsb3lSZXNvdXJjZS5UeXBlLmRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlIGRhdGFbXSA9IC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwVXRpbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBOYXRpdmVTZWFyY2hRdWVyeSBuYXRpdmVTZWFyY2hRdWVyeT0gYnVpbGQK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZU5vdEZvdW5kRXhjZXB0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>114</text>
