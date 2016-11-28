@@ -257,11 +257,11 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1480262328820">
-        <mark key="[" line="180" column="83" />
-        <mark key="]" line="180" column="83" />
-        <mark key="." line="180" column="83" />
-        <mark key="^" line="178" column="68" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1480300873412">
+        <mark key="[" line="185" column="96" />
+        <mark key="]" line="185" column="94" />
+        <mark key="." line="185" column="94" />
+        <mark key="^" line="185" column="94" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/OnsaleInventoryAdjustItemDto.java" timestamp="1479277382701">
         <mark key="[" line="45" column="8" />
@@ -269,11 +269,11 @@
         <mark key="^" line="45" column="7" />
         <mark key="." line="45" column="7" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/web/rest/JobResource.java" timestamp="1480299517955">
-        <mark key="[" line="92" column="8" />
-        <mark key="]" line="95" column="109" />
-        <mark key="." line="95" column="109" />
-        <mark key="^" line="95" column="109" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/web/rest/JobResource.java" timestamp="1480300653518">
+        <mark key="[" line="94" column="56" />
+        <mark key="]" line="94" column="24" />
+        <mark key="." line="94" column="24" />
+        <mark key="^" line="94" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.3.RELEASE/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/JsonViewResponseBodyAdvice.java" timestamp="1480048154978" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobService.java" timestamp="1480052565926">
@@ -900,7 +900,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/web/rest/base/RestExceptionHandler.java" timestamp="1480159002930">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/web/rest/base/RestExceptionHandler.java" timestamp="1480300344939">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="34" column="41" />
         <mark key="^" line="34" column="41" />
@@ -1117,11 +1117,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QERlY29yYXRlZFdpdGgoSm9iTWFwcGVyRGVjb3JhdG9yLmNsYXNzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>cityId</text>
       </register>
       <register name="-" type="4">
-        <text>districtId</text>
+        <text>cityId</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
