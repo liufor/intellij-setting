@@ -203,6 +203,12 @@
         <mark key="]" line="1" column="17" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/util/search/GzcEsProperties.java" timestamp="1480391017213">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/web/rest/base/RestResultGenerator.java" timestamp="1480161226409">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="11" column="36" />
@@ -370,11 +376,9 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/util/CityMap.java" timestamp="1480130277134">
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="14" />
-        <mark key="^" line="36" column="14" />
-        <mark key="." line="36" column="14" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/util/CityMap.java" timestamp="1480390645905">
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/mapper/JobMapperDecorator.java" timestamp="1479884782417">
         <mark key="[" line="3" column="23" />
@@ -449,10 +453,11 @@
         <mark key="." line="109" column="12" />
         <mark key="^" line="109" column="12" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/mapper/JobMapperDecorator.java" timestamp="1480338423863">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/mapper/JobMapperDecorator.java" timestamp="1480390285479">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="62" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="104" column="57" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1480338650780">
         <mark key="[" line="93" column="9" />
@@ -625,6 +630,7 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/JHipsterProperties.java" timestamp="1480390883535" />
       <file name="$USER_HOME$/work/code/gzc_conf/hosts/gzc/jzc-web-frontend.conf" timestamp="1479710017591">
         <mark key="[" line="14" column="40" />
       </file>
@@ -687,17 +693,20 @@
         <mark key="." line="118" column="38" />
         <mark key="^" line="118" column="38" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/util/IndicesManager.java" timestamp="1480390785635">
+        <mark key="[" line="5" column="29" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/dao/jdbc/PayBillDao.java" timestamp="1479780315716">
         <mark key="[" line="77" column="30" />
         <mark key="]" line="77" column="26" />
         <mark key="^" line="77" column="26" />
         <mark key="." line="77" column="26" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/resources/config/application-dev.yml" timestamp="1480389011018">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/resources/config/application-dev.yml" timestamp="1480390499575">
         <mark key="[" line="57" column="27" />
-        <mark key="]" line="58" column="31" />
-        <mark key="^" line="58" column="31" />
-        <mark key="." line="58" column="31" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="14" column="12" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/ScheduledTasks.java" timestamp="1479921582612">
         <mark key="[" line="15" column="7" />
@@ -1266,10 +1275,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>cateFullpathArr</text>
+        <text>gongzuochong</text>
       </register>
       <register name="-" type="4">
-        <text>cateFullpathArr</text>
+        <text>gongzuochong</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -1278,31 +1287,31 @@
         <text encoding="base64">ICAgICAgICAgICAga2V5d29yZEJvb2xRdWVyeUJ1aWxkZXIuc2hvdWxkKGNhdGVGdWxscGF0aEFycik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUXVlcnlCdWlsZGVycy5tYXRjaFF1ZXJ5KCIiKQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEpIaXBzdGVyUHJvcGVydGllcyB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWRTaG9ydE1hcC5nZXQoMTEwMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGJqKCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW50RW1wLnNldFR5cGUoam9iLmdldEVtcGxveWVyVHlwZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbGpoIG9uIDE2LzExLzI4LgogKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcEVtcC5nZXRBbGlhc05hbWUocGVyc29uYWwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUXVlcnlCdWlsZGVycy5tYXRjaFF1ZXJ5KCIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRQYXJlbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>114</text>
