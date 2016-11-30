@@ -207,6 +207,7 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/googlecode/log4jdbc/log4jdbc/1.2/log4jdbc-1.2.pom" timestamp="1480478788912" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/Page.java" timestamp="1480153836719">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="11" column="26" />
@@ -246,6 +247,9 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/logback-spring.xml" timestamp="1480479453354">
+        <mark key="[" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/gitlab_offical/docker-compose.yml" timestamp="1479468903203">
         <mark key="[" line="76" column="46" />
         <mark key="]" line="76" column="0" />
@@ -277,6 +281,11 @@
         <mark key="." line="15" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.3.RELEASE/spring-data-commons-1.12.3.RELEASE-sources.jar!/org/springframework/data/mapping/model/BasicPersistentEntity.java" timestamp="1480408103283" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1480480159438">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/repository/IdentEntRepository.java" timestamp="1480475499016">
         <mark key="[" line="8" column="45" />
         <mark key="]" line="8" column="57" />
@@ -624,6 +633,7 @@
         <mark key="^" line="41" column="43" />
         <mark key="." line="41" column="43" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-parent/pom.xml" timestamp="1480478981173" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search/src/main/java/com/gzc/search/service/mapper/JobMapperDecorator.java" timestamp="1479810559986">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="16" column="0" />
@@ -708,10 +718,6 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/resources/config/application.yml" timestamp="1480473336751">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/service/pay/PayBillService.java" timestamp="1479730910632">
         <mark key="[" line="136" column="11" />
         <mark key="]" line="118" column="38" />
@@ -733,6 +739,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/resources/logback.xml" timestamp="1480479439287" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/fulltext.json" timestamp="1480349089125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="0" />
@@ -858,6 +865,7 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="14" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.jar!/com/mysql/jdbc/Driver.class" timestamp="1480480119298" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/base/Response.java" timestamp="1480046311970">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="17" />
@@ -877,6 +885,7 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/resources/runEnvConfig/config-qa.properties" timestamp="1480480046405" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/104bdef5-7ea9-4ca5-a2b4-ae54b2a806ca/console.sql" timestamp="1479694765830">
         <mark key="[" line="56" column="17" />
         <mark key="]" line="57" column="0" />
@@ -907,7 +916,7 @@
         <mark key="^" line="21" column="50" />
         <mark key="." line="21" column="50" />
       </file>
-      <file name="$USER_HOME$/work/code/wdd/wanduoduo-parent/pom.xml" timestamp="1480478427832" />
+      <file name="$USER_HOME$/work/code/wdd/wanduoduo-parent/pom.xml" timestamp="1480479084580" />
       <file name="$USER_HOME$/work/images/dockers/spring-boot-alone/Makefile" timestamp="1480025215034">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="37" />
@@ -1263,11 +1272,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0Q29udGVudCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>log4jdbc</text>
       </register>
       <register name="-" type="4">
-        <text>distinct</text>
+        <text>log4jdbc</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -1276,31 +1285,31 @@
         <text encoding="base64">ICAgIEBRdWVyeSgic2VsZWN0IGQgZnJvbSBEaXN0cmljdCBkIHdoZXJlIGQuZGlzYWJsZWQgPSAwICIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0Q29udGVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLWNsYXNzLW5hbWU6IGNvbS5teXNxbC5qZGJjLkRyaXZlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxvZzRqZGJjLnZlcnNpb24+MS4yPC9sb2c0amRiYy52ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJPTSBkaTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtsb2c0amRiYy52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5ib290LmF1dG9jb25maWd1cmUubGlxdWliYXNlLkxpcXVpYmFzZVByb3BlcnRpZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgLCBIaWJlcm5hdGVKcGFBdXRvQ29uZmlndXJhdGlvbi5jbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgLERhdGFTb3VyY2VBdXRvQ29uZmlndXJhdGlvbi5jbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlY29kZS5sb2c0amRiYzwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5sb2c0amRiYzwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICwgRWxhc3RpY3NlYXJjaEF1dG9Db25maWd1cmF0aW9uLmNsYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tbG9nZ2luZyBlbmQtLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5ib290LmF1dG9jb25maWd1cmUubGlxdWliYXNlLkxpcXVpYmFzZVByb3BlcnRpZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGxvZzRqZGJjIOS4uuS6huafpeeci+acgOe7iOaJp+ihjOeahFNRTOivreWPpSDpnIDopoHlnKhkcml2ZXLlkoxsb2dnZXLkuK3pop3lpJbphY3nva4gLS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>114</text>
