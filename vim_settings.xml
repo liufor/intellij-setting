@@ -320,11 +320,11 @@
         <mark key="." line="15" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.3.RELEASE/spring-data-commons-1.12.3.RELEASE-sources.jar!/org/springframework/data/mapping/model/BasicPersistentEntity.java" timestamp="1480408103283" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1480488246706">
-        <mark key="[" line="74" column="33" />
-        <mark key="]" line="42" column="56" />
-        <mark key="." line="42" column="56" />
-        <mark key="^" line="42" column="56" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1480571867114">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="27" />
+        <mark key="." line="59" column="27" />
+        <mark key="^" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/repository/IdentEntRepository.java" timestamp="1480475499016">
         <mark key="[" line="8" column="45" />
@@ -525,6 +525,9 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/elastic/docker-entrypoint.sh" timestamp="1480571066205">
+        <mark key="[" line="13" column="70" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/SyncSearchTasks.java" timestamp="1480504472927">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="23" column="33" />
@@ -654,6 +657,9 @@
         <mark key="]" line="33" column="32" />
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/elastic/docker-compose.yml" timestamp="1480570739622">
+        <mark key="[" line="14" column="58" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/web/rest/JobResource.java" timestamp="1480509442451">
         <mark key="[" line="80" column="11" />
@@ -933,7 +939,7 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/elastic/Dockerfile" timestamp="1479916087555">
+      <file name="$USER_HOME$/work/images/dockers/elastic/Dockerfile" timestamp="1480570735490">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
@@ -963,11 +969,6 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="39" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobIndexService.java" timestamp="1480551784473">
-        <mark key="[" line="107" column="9" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/service/pay/PayOrderService.java" timestamp="1479717523215">
         <mark key="[" line="434" column="4" />
@@ -1156,7 +1157,7 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/create_job_index2.sh" timestamp="1480569242291">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/create_job_index2.sh" timestamp="1480571638728">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="10" column="31" />
         <mark key="^" line="10" column="31" />
@@ -1419,7 +1420,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2x1c3Rlci1ub2RlczogNjAuMjA1LjE1MS4xODM6MTkzMDAK</text>
       </register>
       <register name="-" type="4">
         <text>getFromFullPath</text>
@@ -1428,7 +1429,7 @@
         <text>Column</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbGlkUXVzLmZvckVhY2goZS0+Y2FjaGUucHV0SWZBYnNlbnQoZS5nZXRWYWx1ZSgpLGUpKTsgLy/nvJPlrZjljLoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2x1c3Rlci1ub2RlczogNjAuMjA1LjE1MS4xODM6MTkzMDAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U0VMRUNUICoK</text>
