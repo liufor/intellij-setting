@@ -39,7 +39,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1480572576661">
+      <file name="/a.sql" timestamp="1480582885106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="0" column="0" />
@@ -200,11 +200,11 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1480572995380">
-        <mark key="[" line="347" column="35" />
-        <mark key="l" line="334" column="25" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1480582987163">
+        <mark key="[" line="314" column="55" />
+        <mark key="l" line="335" column="25" />
+        <mark key="]" line="346" column="0" />
+        <mark key="." line="346" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/config/application-dev.yml" timestamp="1480472129617">
         <mark key="[" line="64" column="15" />
@@ -252,7 +252,8 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/JHipsterProperties.java" timestamp="1480414182355">
         <mark key="[" line="620" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/104bdef5-7ea9-4ca5-a2b4-ae54b2a806ca/console_4.sql" timestamp="1480564306471">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/104bdef5-7ea9-4ca5-a2b4-ae54b2a806ca/console_4.sql" timestamp="1480582900315">
+        <mark key="'" line="13" column="32" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -353,10 +354,10 @@
         <mark key="." line="15" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-parent/pom.xml" timestamp="1480479084580" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/reindex.sh" timestamp="1480580883046">
-        <mark key="[" line="107" column="22" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/reindex.sh" timestamp="1480582404593">
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="49" column="17" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/PersistentToken.java" timestamp="1480094422456">
         <mark key="[" line="14" column="0" />
@@ -364,7 +365,7 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/config/district/DistrictConfig.java" timestamp="1480476220468" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/resources/config/application.yml" timestamp="1480473121945">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/resources/config/application.yml" timestamp="1480581705876">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="3" column="29" />
         <mark key="." line="3" column="29" />
@@ -411,7 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="26" filename="$USER_HOME$/work/code/redux/examples/counter/compenents2/Counter.js" />
       <jump line="33" column="17" filename="$USER_HOME$/work/code/redux/examples/counter/components/Counter2.js" />
       <jump line="1" column="0" filename="$USER_HOME$/work/code/redux/examples/todos2/actions/index.js" />
       <jump line="1" column="41" filename="$USER_HOME$/work/code/redux/examples/todos2/reducers/visibilityFilter.js" />
@@ -511,6 +511,7 @@
       <jump line="716" column="8" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/JobSearchBase.java" />
       <jump line="13" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/resources/config/application-prod.yml" />
       <jump line="3954" column="90" filename="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/order/production/district.xml" />
+      <jump line="13" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/104bdef5-7ea9-4ca5-a2b4-ae54b2a806ca/console_4.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -554,43 +555,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAke21zZ19jb25maWd9Cg==</text>
+        <text encoding="base64">bmV3X2luZGV4X3BhdHRlcm4K</text>
       </register>
       <register name="-" type="4">
-        <text>new_version</text>
+        <text>msg_show_config</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bmV3X3ZlcnNpb246IiR7bmV3X3Z9Igo=</text>
+        <text encoding="base64">bXNnX3Nob3dfY29uZmlnPSIgc2hvd19jb25maWcgICAgICAgICAgICAgLSBEaXNwbGF5cyB0aGUgY29uZmlnLumFjee9ri4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAke21zZ19jb25maWd9Cg==</text>
+        <text encoding="base64">bmV3X2luZGV4X3BhdHRlcm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAn6ICB54mI5pysOicke29sZF92fSctLT7mlrDniYjmnKw6JyR7bmV3X3Z9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Igo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNpdHk9JDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bXNnX2NvbmZpZz0iCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gbmV3X2luZGV4X3BhdHRlcm4oKXsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAke21zZ19jb25maWd9Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gbmV3X2luZGV4X3BhdHRlcm4oKXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBleGVjICIkQCIK</text>
+        <text encoding="base64">ICAgIHJldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X2lfbmFtZT1gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAke21zZ19jb25maWd9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
