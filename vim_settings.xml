@@ -23,7 +23,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1481100121659">
+      <file name="/a.dummy" timestamp="1481100333434">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="21" />
       </file>
@@ -68,10 +68,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/JHipsterProperties.java" timestamp="1480414182355">
         <mark key="[" line="620" column="5" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/DozerConvertUtil.java" timestamp="1481099881819">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/DozerConvertUtil.java" timestamp="1481101954978">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="78" />
+        <mark key="^" line="54" column="78" />
+        <mark key="." line="54" column="78" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/exception/GzcRuntimeException.java" timestamp="1481025974674" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/vm/FullTimeRecommends.java" timestamp="1480065658226">
@@ -438,6 +439,12 @@
         <mark key="^" line="116" column="17" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/paging/Page.java" timestamp="1481101266473">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="15" column="56" />
+        <mark key="^" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/ResponseErrorEnum.java" timestamp="1481024439109" />
       <file name="$USER_HOME$/work/images/dockers/java-alone/docker-compose-search-api-prod.yml" timestamp="1480675535309">
         <mark key="[" line="6" column="31" />
@@ -487,6 +494,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/paging/PageDex.java" timestamp="1481100376880" />
       <file name="$USER_HOME$/work/images/dockers/elastic/docker-entrypoint.sh" timestamp="1480571066205">
         <mark key="[" line="13" column="70" />
       </file>
@@ -569,7 +577,7 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="17" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1481099625072">
+      <file name="/fragment.java" timestamp="1481100938719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/ResponseResult.java" timestamp="1481024109175">
@@ -723,10 +731,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIucGFnZWhlbHBlci5QYWdlSW5mbzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -735,31 +743,31 @@
         <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi6aaW6aG15YWo6IGM5o6o6I2Q6IGM5L2NIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIucGFnZWhlbHBlci5QYWdlSW5mbzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBwYzI5Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBwdWJsaWMgUmVzcG9uc2U8Sm9iPiBnZXQoQFBhdGhWYXJpYWJsZSBmaW5hbCBMb25nIGpvYklkKSB7Cj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VTb3VyY2UuZ2V0VG90YWxFbGVtZW50cygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBwYzI5Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYWdlPFQ+IHJlc3VsdCA9IG5ldyBQYWdlPFQ+KGNvbnRlbnQsIHBhZ2VTb3VyY2UuZ2V0TnVtYmVyKCksIHBhZ2VTb3VyY2UuZ2V0U2l6ZSgpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PFQ+IGNvbnRlbnQgPSBEb3plckNvbnZlcnRVdGlsLmNvbnZlcnRMaXN0KHBhZ2VTb3VyY2UuZ2V0Q29udGVudCgpLCBkZXN0aW5hdGlvbkNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBwYzI5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb25nenVvY2hvbmcuZG9tYWluLmVudGl0eS5Kb2I7PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBsb25nIHRvdGFsID0gcGFnZVNvdXJjZS5nZXRUb3RhbCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>353</text>
