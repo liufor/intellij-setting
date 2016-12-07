@@ -220,6 +220,12 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/pc/api/web/rest/vm/JobVm.java" timestamp="1480054853310">
         <mark key="[" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1481087489149">
+        <mark key="[" line="100" column="58" />
+        <mark key="]" line="100" column="58" />
+        <mark key="^" line="100" column="78" />
+        <mark key="." line="100" column="58" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1480350601050">
         <mark key="[" line="0" column="3" />
       </file>
@@ -243,6 +249,12 @@
         <mark key="^" line="54" column="17" />
         <mark key="." line="54" column="17" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/CommonController.java" timestamp="1481087844477">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+        <mark key="." line="4" column="51" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/exception/ApiExceptionHandlerAdvice.java" timestamp="1481026300456">
         <mark key="[" line="168" column="61" />
         <mark key="]" line="168" column="61" />
@@ -260,8 +272,8 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/repository/JobRepository.java" timestamp="1481013059568">
-        <mark key="[" line="68" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/repository/JobRepository.java" timestamp="1481087423221">
+        <mark key="[" line="23" column="49" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
@@ -683,11 +695,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>workRepositoryfindFullTimeRecommendJobs</text>
       </register>
       <register name="-" type="4">
-        <text>one1</text>
+        <text>workRepositoryfindFullTimeRecommendJobs</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
