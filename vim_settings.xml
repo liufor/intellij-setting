@@ -137,8 +137,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1480350601050">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" timestamp="1481029589024">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" timestamp="1481273245573">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gongzuochong/gzc-parent/2.0.0-SNAPSHOT/gzc-parent-2.0.0-SNAPSHOT.pom" timestamp="1480644738052">
         <mark key="[" line="12" column="27" />
@@ -151,9 +154,6 @@
         <mark key="]" line="156" column="84" />
         <mark key="." line="156" column="84" />
         <mark key="^" line="167" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1481261808866">
-        <mark key="[" line="109" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/repository/IdentEntRepository.java" timestamp="1480694663574">
         <mark key="[" line="9" column="17" />
@@ -218,11 +218,11 @@
         <mark key="^" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobManaController.java" timestamp="1481266879175">
-        <mark key="[" line="281" column="32" />
-        <mark key="]" line="293" column="21" />
-        <mark key="." line="293" column="21" />
-        <mark key="^" line="293" column="21" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobManaController.java" timestamp="1481273302245">
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="295" column="21" />
+        <mark key="." line="295" column="21" />
+        <mark key="^" line="295" column="21" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/web/rest/base/ResponseErrorEnum.java" timestamp="1480936510115">
         <mark key="[" line="9" column="4" />
@@ -478,9 +478,9 @@
         <mark key="[" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/ScheduledTasks.java" timestamp="1480736611608">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/ubuntu16/Dockerfile" timestamp="1481250061851">
         <mark key="[" line="28" column="15" />
@@ -533,11 +533,6 @@
         <mark key="]" line="15" column="28" />
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1481261866887">
-        <mark key="[" line="108" column="24" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/service/UserService.java" timestamp="1480941986690">
         <mark key="[" line="48" column="8" />
@@ -697,7 +692,6 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/repository/SmsScheduleRepository.java" timestamp="1481254410448">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1481259981127" />
       <file name="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/utils/EnumHelper.java" timestamp="1481088074985" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/exception/ApiErrorEnum.java" timestamp="1481026309951">
         <mark key="[" line="17" column="17" />
@@ -916,11 +910,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VUICA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>15801243226</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>15801243226</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
