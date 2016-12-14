@@ -283,8 +283,8 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1481601499357">
-        <mark key="[" line="220" column="1" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1481706627304">
+        <mark key="[" line="86" column="0" />
         <mark key="]" line="84" column="27" />
         <mark key="." line="84" column="27" />
         <mark key="^" line="84" column="27" />
@@ -337,6 +337,12 @@
         <mark key="." line="60" column="12" />
         <mark key="^" line="60" column="12" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/lbs/baidu/PoiService.java" timestamp="1481704956772">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/response/JobDetailResponse.java" timestamp="1481625557242">
         <mark key="[" line="54" column="35" />
         <mark key="]" line="54" column="34" />
@@ -354,6 +360,11 @@
         <mark key="]" line="156" column="84" />
         <mark key="." line="156" column="84" />
         <mark key="^" line="167" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1481706600981">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/repository/IdentEntRepository.java" timestamp="1481688799043">
         <mark key="[" line="12" column="40" />
@@ -544,6 +555,7 @@
         <mark key="^" line="15" column="56" />
         <mark key="." line="15" column="56" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/lbs/baidu/BaiduLbsCons.java" timestamp="1481706622631" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/IdentEntService.java" timestamp="1481608727099">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -590,6 +602,12 @@
         <mark key="]" line="37" column="20" />
         <mark key="^" line="37" column="20" />
         <mark key="." line="37" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/config/BaiduLbsProperties.java" timestamp="1481706183449">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="45" />
+        <mark key="." line="16" column="45" />
+        <mark key="^" line="16" column="45" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/exception/ApiErrorEnum.java" timestamp="1481026309951">
         <mark key="[" line="17" column="17" />
@@ -747,6 +765,9 @@
         <mark key="^" line="75" column="39" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1481705431358">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="86" column="34" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/group/component/Title.js" />
@@ -883,10 +904,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0Sm9ic0NvdW50KGpvYlNlcnZpY2UuZ2V0Sm9ic0NvdW50KGpvYi5nZXRVaWQoKSkpOwo=</text>
+        <text encoding="base64">YmFpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>userInfo</text>
+        <text>struct</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -895,31 +916,31 @@
         <text encoding="base64">ICAgICAqIEByZXR1cm4g5a6M5oiQ55qEVVJMLOaIluiAhU5VTEwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0Sm9ic0NvdW50KGpvYlNlcnZpY2UuZ2V0Sm9ic0NvdW50KGpvYi5nZXRVaWQoKSkpOwo=</text>
+        <text encoding="base64">YmFpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3QK</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJqb2IiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHZW9UYWJsICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0Sm9ic0NvdW50KGpvYlNlcnZpY2UuZ2V0Sm9ic0NvdW50KGpvYi5nZXRVaWQoKSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnZlcnRIdHRwc0lmTmVzc2FyeShpY29uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBVc2VySW5mb0VudGl0eSB1c2VySW5mbyA9IHVzZXJTZXJ2aWNlLmdldFVzZXJJbmZvKHVpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>265</text>
