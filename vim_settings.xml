@@ -60,7 +60,11 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/mysql/my.cnf" timestamp="1482227311310" />
+      <file name="$USER_HOME$/work/images/dockers/mysql/my.cnf" timestamp="1482235852760">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/response/IdentPersonalResponse.java" timestamp="1481958849139">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="2" column="57" />
@@ -148,7 +152,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/mysql5.6/Dockerfile" timestamp="1482234429099">
+      <file name="$USER_HOME$/work/images/dockers/mysql5.6/Dockerfile" timestamp="1482235832863">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="26" />
         <mark key="^" line="15" column="26" />
@@ -1037,10 +1041,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>binlog</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>binlog</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
