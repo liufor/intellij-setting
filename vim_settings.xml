@@ -9,6 +9,13 @@
         <mark key="." line="223" column="43" />
         <mark key="^" line="223" column="43" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" timestamp="1482303013146">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="431" />
+        <mark key="^" line="0" column="6" />
+      </file>
       <file name="/a.dummy" timestamp="1482292546268">
         <mark key="[" line="0" column="0" />
       </file>
@@ -235,6 +242,11 @@
         <mark key="." line="60" column="43" />
         <mark key="^" line="60" column="43" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/mq.log" timestamp="1482302763968">
+        <mark key="'" line="0" column="54" />
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="54" column="54" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console_8.sql" timestamp="1481281816279">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -316,12 +328,12 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" timestamp="1482291095079">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" timestamp="1482302243962">
         <mark key="'" line="77" column="12" />
-        <mark key="[" line="868" column="0" />
-        <mark key="]" line="867" column="56" />
-        <mark key="^" line="867" column="56" />
-        <mark key="." line="867" column="56" />
+        <mark key="[" line="468" column="52" />
+        <mark key="]" line="468" column="52" />
+        <mark key="^" line="465" column="8" />
+        <mark key="." line="468" column="52" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/paging/Page.java" timestamp="1481164291863">
         <mark key="[" line="5" column="17" />
@@ -781,11 +793,11 @@
         <mark key="^" line="75" column="14" />
         <mark key="." line="75" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console_12.sql" timestamp="1482224595896">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console_12.sql" timestamp="1482301460395">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="2" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="12" column="2" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/response/IdentResponse.java" timestamp="1481603111206">
         <mark key="[" line="5" column="28" />
@@ -978,10 +990,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/work/code/wanmei-party-ui/view/reducer/groupOrder.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/work/code/wanmei-party-ui/view/action/groupOrder.js" />
-      <jump line="37" column="10" filename="$USER_HOME$/work/code/wanmei-party-ui/view/action/order.js" />
-      <jump line="75" column="53" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" />
       <jump line="293" column="27" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/CheckoutPage.js" />
       <jump line="194" column="26" filename="$USER_HOME$/work/code/wanmei-party-ui/view/route/index.js" />
       <jump line="18" column="26" filename="$USER_HOME$/work/code/wanmei-party-ui/view/page/order/group/UnpaidOrderDetailPage.js" />
@@ -1078,6 +1086,10 @@
       <jump line="181" column="7" filename="$USER_HOME$/work/images/dockers/jenkins/x.html" />
       <jump line="1" column="53" filename="$USER_HOME$/work/images/dockers/jenkins/mq.log" />
       <jump line="85" column="12" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" />
+      <jump line="0" column="54" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/mq.log" />
+      <jump line="54" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
+      <jump line="26" column="6" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1111,44 +1123,152 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWNjZXNzX2xvZyAgIC9kYXRhL2xvZy9uZ2lueC9zdGF0aWMuZ29uZ3p1b2Nob25nLmNuLmFjY2Vzcy5sb2cgIG1haW47CmVycm9yX2xvZyAgICAvZGF0YS9sb2cvbmdpbngvc3RhdGljLmdvbmd6dW9jaG9uZy5jbi5lcnJvci5sb2cgZXJyb3I7Cg==</text>
+      <register name="&quot;" type="8">
+        <text>103829
+144177
+116639
+167065
+103560
+104733
+104789
+117098
+144205
+181170
+116826
+162056
+166461
+167199
+183301
+178492
+188428
+219094
+143968
+162058
+144000
+161402
+116871
+143982
+102730
+126429
+117114
+144055
+144223
+101773
+104109
+126404
+126402
+102166
+103032
+144208
+101612
+144000
+117065
+161450
+122291
+104331
+103778
+104434
+161600
+104111
+163147
+161631
+104482
+126403
+104516
+163206
+161674
+161365
+104302</text>
       </register>
       <register name="-" type="4">
-        <text>byIdIn</text>
+        <text>RequestParam</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAtIC9wcml2YXRlL2RvY2tlci9teXNxbC9kYXRhOi9kYXRhL3NlcnZpY2UvbXlzcWwvZGF0YQo=</text>
+      <register name="0" type="8">
+        <text>103829
+144177
+116639
+167065
+103560
+104733
+104789
+117098
+144205
+181170
+116826
+162056
+166461
+167199
+183301
+178492
+188428
+219094
+143968
+162058
+144000
+161402
+116871
+143982
+102730
+126429
+117114
+144055
+144223
+101773
+104109
+126404
+126402
+102166
+103032
+144208
+101612
+144000
+117065
+161450
+122291
+104331
+103778
+104434
+161600
+104111
+163147
+161631
+104482
+126403
+104516
+163206
+161674
+161365
+104302</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWNjZXNzX2xvZyAgIC9kYXRhL2xvZy9uZ2lueC9zdGF0aWMuZ29uZ3p1b2Nob25nLmNuLmFjY2Vzcy5sb2cgIG1haW47CmVycm9yX2xvZyAgICAvZGF0YS9sb2cvbmdpbngvc3RhdGljLmdvbmd6dW9jaG9uZy5jbi5lcnJvci5sb2cgZXJyb3I7Cg==</text>
+        <text encoding="base64">MTAzODI5ICwxNDQxNzcgLDExNjYzOSAsMTY3MDY1ICwxMDM1NjAgLDEwNDczMyAsMTA0Nzg5ICwxMTcwOTggLDE0NDIwNSAsMTgxMTcwICwxMTY4MjYgLDE2MjA1NiAsMTY2NDYxICwxNjcxOTkgLDE4MzMwMSAsMTc4NDkyICwxODg0MjggLDIxOTA5NCAsMTQzOTY4ICwxNjIwNTggLDE0NDAwMCAsMTYxNDAyICwxMTY4NzEgLDE0Mzk4MiAsMTAyNzMwICwxMjY0MjkgLDExNzExNCAsMTQ0MDU1ICwxNDQyMjMgLDEwMTc3MyAsMTA0MTA5ICwxMjY0MDQgLDEyNjQwMiAsMTAyMTY2ICwxMDMwMzIgLDE0NDIwOCAsMTAxNjEyICwxNDQwMDAgLDExNzA2NSAsMTYxNDUwICwxMjIyOTEgLDEwNDMzMSAsMTAzNzc4ICwxMDQ0MzQgLDE2MTYwMCAsMTA0MTExICwxNjMxNDcgLDE2MTYzMSAsMTA0NDgyICwxMjY0MDMgLDEwNDUxNiAsMTYzMjA2ICwxNjE2NzQgLDE2MTM2NSAsMTA0MzAyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">MTAzODI5ICwxNDQxNzcgLDExNjYzOSAsMTY3MDY1ICwxMDM1NjAgLDEwNDczMyAsMTA0Nzg5ICwxMTcwOTggLDE0NDIwNSAsMTgxMTcwICwxMTY4MjYgLDE2MjA1NiAsMTY2NDYxICwxNjcxOTkgLDE4MzMwMSAsMTc4NDkyICwxODg0MjggLDIxOTA5NCAsMTQzOTY4ICwxNjIwNTggLDE0NDAwMCAsMTYxNDAyICwxMTY4NzEgLDE0Mzk4MiAsMTAyNzMwICwxMjY0MjkgLDExNzExNCAsMTQ0MDU1ICwxNDQyMjMgLDEwMTc3MyAsMTA0MTA5ICwxMjY0MDQgLDEyNjQwMiAsMTAyMTY2ICwxMDMwMzIgLDE0NDIwOCAsMTAxNjEyICwxNDQwMDAgLDExNzA2NSAsMTYxNDUwICwxMjIyOTEgLDEwNDMzMSAsMTAzNzc4ICwxMDQ0MzQgLDE2MTYwMCAsMTA0MTExICwxNjMxNDcgLDE2MTYzMSAsMTA0NDgyICwxMjY0MDMgLDEwNDUxNiAsMTYzMjA2ICwxNjE2NzQgLDE2MTM2NSAsMTA0MzAyCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDwhLS08c2VjdGlvbiBjbGFzcz0iaW54X3NlYyI+CiAgICAgICAgPGRpdiBjbGFzcz0ibWluZ3FpX3RpdGxlIj4KICAgICAgICAgICAgPGxhYmVsPueUn+a0u+acjeWKoTwvbGFiZWw+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHVsIGNsYXNzPSJvZl9jcHlfbGlzdCI+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL3l1LnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICA8L3VsPgogICAgPC9zZWN0aW9uPi0tPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL2JlbGwucG5nIi8+PC9zcGFuPjwvYT48L2xpPi0tPgo=</text>
+        <text encoding="base64">V0hFUkUgOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICA8IS0tPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIvaHkucG5nIi8+PC9zcGFuPjwvYT48L2xpPgogICAgICAgICAgPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIvZ3lyLnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgIDxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL2dhcC5wbmciLz48L3NwYW4+PC9hPjwvbGk+LS0+</text>
+      <register name="6" type="2">
+        <text encoding="base64">YWNjZXNzX2xvZyAgIC9kYXRhL2xvZy9uZ2lueC9zdGF0aWMuZ29uZ3p1b2Nob25nLmNuLmFjY2Vzcy5sb2cgIG1haW47CmVycm9yX2xvZyAgICAvZGF0YS9sb2cvbmdpbngvc3RhdGljLmdvbmd6dW9jaG9uZy5jbi5lcnJvci5sb2cgZXJyb3I7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IDwhLS08bGk+PGEgaHJlZj0iIyMjIj48c3BhbiBjbGFzcz0id19hdXRvIj48aW1nIHNyYz0iL2Fzc2V0cy9pbWFnZXMvbXFsaXN0X2Jhbm5lci9saGxoLnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIvaGx4LnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIvZWxlNzExLnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIveGJrLnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIvbXQucG5nIi8+PC9zcGFuPjwvYT48L2xpPi0tPg==</text>
+        <text encoding="base64">IDwhLS08c2VjdGlvbiBjbGFzcz0iaW54X3NlYyI+CiAgICAgICAgPGRpdiBjbGFzcz0ibWluZ3FpX3RpdGxlIj4KICAgICAgICAgICAgPGxhYmVsPueUn+a0u+acjeWKoTwvbGFiZWw+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHVsIGNsYXNzPSJvZl9jcHlfbGlzdCI+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL3l1LnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICA8L3VsPgogICAgPC9zZWN0aW9uPi0tPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL3htY2oucG5nIi8+PC9zcGFuPjwvYT48L2xpPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL2JlbGwucG5nIi8+PC9zcGFuPjwvYT48L2xpPi0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>571</text>
