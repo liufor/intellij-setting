@@ -198,11 +198,6 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/logback-spring.xml" timestamp="1482118916550">
-        <mark key="]" line="44" column="76" />
-        <mark key="^" line="44" column="76" />
-        <mark key="." line="44" column="76" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/exception/ApiExceptionHandlerAdvice.java" timestamp="1481202877201">
         <mark key="[" line="156" column="84" />
         <mark key="]" line="156" column="84" />
@@ -364,11 +359,6 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="33" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/mysql5.6/entrypoint.sh" timestamp="1482250788570">
-        <mark key="]" line="1" column="77" />
-        <mark key="." line="1" column="77" />
-        <mark key="^" line="1" column="77" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/core/DefaultOSSOperator.java" timestamp="1481357733123">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -386,6 +376,9 @@
         <mark key="]" line="35" column="37" />
         <mark key="." line="35" column="37" />
         <mark key="^" line="35" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/production/hosts/production/static.server" timestamp="1482293657154">
+        <mark key="[" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/response/JobManaDetailResponse.java" timestamp="1481166608734">
         <mark key="[" line="4" column="12" />
@@ -488,6 +481,11 @@
         <mark key="]" line="9" column="2" />
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/mysql/my.cnf" timestamp="1482235852760">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/response/IdentPersonalResponse.java" timestamp="1481958849139">
         <mark key="[" line="8" column="0" />
@@ -604,8 +602,8 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/production/nginx.conf" timestamp="1482219821172">
-        <mark key="[" line="0" column="42" />
+      <file name="$USER_HOME$/work/images/dockers/production/nginx.conf" timestamp="1482293829410">
+        <mark key="[" line="51" column="48" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/ImgResponse.java" timestamp="1481535469817">
         <mark key="[" line="3" column="2" />
@@ -624,6 +622,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="14" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/production/hosts/production/static.location" timestamp="1482293690418">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/core/DefaultImageOperator.java" timestamp="1481357058477">
         <mark key="[" line="68" column="28" />
@@ -1107,8 +1110,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>byIdIn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWNjZXNzX2xvZyAgIC9kYXRhL2xvZy9uZ2lueC9zdGF0aWMuZ29uZ3p1b2Nob25nLmNuLmFjY2Vzcy5sb2cgIG1haW47CmVycm9yX2xvZyAgICAvZGF0YS9sb2cvbmdpbngvc3RhdGljLmdvbmd6dW9jaG9uZy5jbi5lcnJvci5sb2cgZXJyb3I7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>byIdIn</text>
@@ -1120,31 +1123,31 @@
         <text encoding="base64">ICAtIC9wcml2YXRlL2RvY2tlci9teXNxbC9kYXRhOi9kYXRhL3NlcnZpY2UvbXlzcWwvZGF0YQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">YWNjZXNzX2xvZyAgIC9kYXRhL2xvZy9uZ2lueC9zdGF0aWMuZ29uZ3p1b2Nob25nLmNuLmFjY2Vzcy5sb2cgIG1haW47CmVycm9yX2xvZyAgICAvZGF0YS9sb2cvbmdpbngvc3RhdGljLmdvbmd6dW9jaG9uZy5jbi5lcnJvci5sb2cgZXJyb3I7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IDwhLS08c2VjdGlvbiBjbGFzcz0iaW54X3NlYyI+CiAgICAgICAgPGRpdiBjbGFzcz0ibWluZ3FpX3RpdGxlIj4KICAgICAgICAgICAgPGxhYmVsPueUn+a0u+acjeWKoTwvbGFiZWw+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHVsIGNsYXNzPSJvZl9jcHlfbGlzdCI+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL3l1LnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICA8L3VsPgogICAgPC9zZWN0aW9uPi0tPg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPCEtLTxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL2JlbGwucG5nIi8+PC9zcGFuPjwvYT48L2xpPi0tPgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICA8IS0tPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIvaHkucG5nIi8+PC9zcGFuPjwvYT48L2xpPgogICAgICAgICAgPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIvZ3lyLnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgIDxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL2dhcC5wbmciLz48L3NwYW4+PC9hPjwvbGk+LS0+</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IDwhLS08bGk+PGEgaHJlZj0iIyMjIj48c3BhbiBjbGFzcz0id19hdXRvIj48aW1nIHNyYz0iL2Fzc2V0cy9pbWFnZXMvbXFsaXN0X2Jhbm5lci9saGxoLnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIvaGx4LnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIvZWxlNzExLnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIveGJrLnBuZyIvPjwvc3Bhbj48L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMjIyI+PHNwYW4+PGltZyBzcmM9Ii9hc3NldHMvaW1hZ2VzL21xbGlzdF9iYW5uZXIvbXQucG5nIi8+PC9zcGFuPjwvYT48L2xpPi0tPg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL3htY2oucG5nIi8+PC9zcGFuPjwvYT48L2xpPi0tPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL2pmcy5wbmciLz48L3NwYW4+PC9hPjwvbGk+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxsaT48YSBocmVmPSIjIyMiPjxzcGFuPjxpbWcgc3JjPSIvYXNzZXRzL2ltYWdlcy9tcWxpc3RfYmFubmVyL3htY2oucG5nIi8+PC9zcGFuPjwvYT48L2xpPi0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>571</text>
