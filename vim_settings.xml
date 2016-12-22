@@ -30,11 +30,11 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/resources/config/application-prod.yml" timestamp="1482393581984">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/resources/config/application-prod.yml" timestamp="1482401120749">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/java-alone/docker-compose-pc-api-prod.yml" timestamp="1481250875494">
         <mark key="[" line="11" column="14" />
@@ -311,10 +311,10 @@
         <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobManaController.java" timestamp="1482224716630">
-        <mark key="[" line="701" column="44" />
-        <mark key="]" line="701" column="43" />
-        <mark key="." line="701" column="43" />
-        <mark key="^" line="701" column="43" />
+        <mark key="[" line="700" column="44" />
+        <mark key="]" line="700" column="43" />
+        <mark key="." line="700" column="43" />
+        <mark key="^" line="700" column="43" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/web/rest/base/ResponseErrorEnum.java" timestamp="1480936510115">
         <mark key="[" line="9" column="4" />
@@ -383,13 +383,13 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1482224713295">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="71" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1482399731450">
+        <mark key="[" line="83" column="59" />
+        <mark key="]" line="95" column="41" />
+        <mark key="^" line="95" column="41" />
+        <mark key="." line="95" column="41" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/resources/config/application-dev.yml" timestamp="1482345648622">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/resources/config/application-dev.yml" timestamp="1482401114394">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="3" />
         <mark key="." line="4" column="3" />
@@ -974,7 +974,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/exception/ApiErrorEnum.java" timestamp="1481026309951">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/exception/ApiErrorEnum.java" timestamp="1482401028019">
         <mark key="[" line="17" column="17" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="7" />
@@ -1206,10 +1206,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>nullable = true</text>
+        <text>validQuIds</text>
       </register>
       <register name="-" type="4">
-        <text>nullable = true</text>
+        <text>validQuIds</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
