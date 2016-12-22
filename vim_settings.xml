@@ -240,11 +240,11 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/IdentEntController.java" timestamp="1481966747332">
-        <mark key="[" line="65" column="8" />
-        <mark key="]" line="60" column="43" />
-        <mark key="." line="60" column="43" />
-        <mark key="^" line="60" column="43" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/IdentEntController.java" timestamp="1482381704831">
+        <mark key="[" line="81" column="44" />
+        <mark key="]" line="81" column="52" />
+        <mark key="." line="81" column="52" />
+        <mark key="^" line="81" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console_8.sql" timestamp="1481281816279">
         <mark key="[" line="17" column="0" />
@@ -346,6 +346,12 @@
         <mark key="]" line="15" column="56" />
         <mark key="^" line="15" column="56" />
         <mark key="." line="15" column="56" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/request/IdentEntRequest.java" timestamp="1482381723077">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/production/dic.xml" timestamp="1482139132668">
         <mark key="[" line="116" column="86" />
@@ -626,11 +632,11 @@
         <mark key="." line="11" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/SchedulingConfigurer.java" timestamp="1482320683450" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/IdentController.java" timestamp="1481958951654">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="80" column="55" />
-        <mark key="^" line="80" column="55" />
-        <mark key="." line="80" column="55" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/IdentController.java" timestamp="1482381018530">
+        <mark key="[" line="84" column="91" />
+        <mark key="]" line="84" column="102" />
+        <mark key="." line="84" column="102" />
+        <mark key="^" line="84" column="102" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/ubuntu16/Dockerfile" timestamp="1482305223813">
         <mark key="[" line="28" column="15" />
@@ -841,11 +847,11 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/response/IdentEntResponse.java" timestamp="1481958859713">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="12" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/response/IdentEntResponse.java" timestamp="1482380674929">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/enums/EnumHelper.java" timestamp="1481089240904">
         <mark key="[" line="143" column="0" />
@@ -1201,10 +1207,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>FROM</text>
+        <text>getUserId</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -1213,28 +1219,28 @@
         <text encoding="base64">ICAgICAgICB1cmw6IGpkYmM6bG9nNGpkYmM6bXlzcWw6Ly8xMC4yNC4xOTUuMTI5OjMzMDYvd2VjaGF0P3VzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz11dGY4JnVzZVNTTD1mYWxzZSZhdXRvUmVjb25uZWN0PXRydWUmZmFpbE92ZXJSZWFkT25seT1mYWxzZSZtYXhSZWNvbm5lY3RzPTEwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3TGljZW5zZVBpY0FyciA9IHJlcXVlc3QuZ2V0TGljZW5zZVBpYygpLnNwbGl0KCJcXHwiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VVBEQVRFIGpvYgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V0hFUkUgdWlkPTEwMDI0OTMyMTQ5OTg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNFVCB0aXRsZT1jb25jYXQoJ+W3peS9nCcsaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REVTQyBqb2I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
