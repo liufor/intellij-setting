@@ -211,11 +211,11 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/dev/db_source.xml" timestamp="1482473985385" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1482508502204">
-        <mark key="[" line="367" column="66" />
-        <mark key="]" line="366" column="64" />
-        <mark key="^" line="366" column="64" />
-        <mark key="." line="366" column="64" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1482509720522">
+        <mark key="[" line="371" column="5" />
+        <mark key="]" line="367" column="57" />
+        <mark key="^" line="367" column="57" />
+        <mark key="." line="367" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" timestamp="1481280060829">
         <mark key="[" line="2" column="0" />
@@ -332,11 +332,11 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobManaController.java" timestamp="1482508487220">
-        <mark key="[" line="514" column="18" />
-        <mark key="]" line="512" column="46" />
-        <mark key="." line="512" column="46" />
-        <mark key="^" line="512" column="46" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobManaController.java" timestamp="1482510602222">
+        <mark key="[" line="494" column="25" />
+        <mark key="]" line="493" column="24" />
+        <mark key="^" line="493" column="24" />
+        <mark key="." line="493" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/web/rest/base/ResponseErrorEnum.java" timestamp="1480936510115">
         <mark key="[" line="9" column="4" />
@@ -831,10 +831,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/repository/JobRepository.java" timestamp="1482497084465">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/repository/JobRepository.java" timestamp="1482508843758">
+        <mark key="[" line="100" column="92" />
+        <mark key="]" line="100" column="90" />
+        <mark key="." line="100" column="90" />
+        <mark key="^" line="100" column="90" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/mysql_linux/Dockerfile" timestamp="1482287894369">
         <mark key="[" line="61" column="12" />
@@ -1273,43 +1274,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJlY0NvbigyMiwgMiksLy8xMDAJ5pyN5Yqh5ZGYCWZ1d3V5dWFuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>limit</text>
+        <text>zhanhuiType</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGltZW91dDogMjg4MDAgIyBpbiBzZWNvbmRzLCA4aCxUT0RPIFNwcmluZ1Nlc3Npb27ml6DlhbMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJlY0NvbigyMiwgMiksLy8xMDAJ5pyN5Yqh5ZGYCWZ1d3V5dWFuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIDI1CeWutuaVmQlqemppYWppYW9sYW9zaGkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIDE5CeivneWKoeWuouacjQlqemh1YXd1a2VmdQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">Ly8gICAgICAgIDE4CeS8oOWNlea0vuWPkQlqemNodWFuZGFucGFpZmEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJPTSBqbzsK</text>
+        <text encoding="base64">ICAgICAgICAvLzE1CeS/g+mUgOWvvOi0rQlqemN1eGlhb2Rhb2dvdQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgaWRlbnRfcGVyc29uYWwKICAgIEFERCBDT0xVTU4gZGVnZWUgOwoKCkRFU0MgaWRlbnRfcGVyc29uYWw7CgoKU0VMRUNUICoKRlJPTSBkaXN0cmljdApXSEVSRSB2YWx1ZT0xMTAxOwoKCjExMDEKLDMxMDEKLDQ0MDEKLDQ0MDMKLDEyMDEKLDUwMDEKLDQyMDEKLDUxMDEKLDMzMDEKLDQxMDEKLDM3MDEKLDYxMDEKCgpTRUxFQ1QgKgpGUk9NIDsKClVQREFURSBkaXN0cmljdApTRVQgdGV4dCA9ICfmtY7ljZfluIInCldIRVJFIHZhbHVlPTM3MDE7CgpVUERBVEUgZGlzdHJpY3QKU0VUIHRleHQgPSAn6YeN5bqG5biCJwpXSEVSRSB2YWx1ZT0zNzAxOwpVUERBVEUgZGlzdHJpY3QKU0VUIHRleHQgPSAn5rWO5Y2X5biCJwpXSEVSRSB2YWx1ZT0zNzAxOwoKCiJ2YWx1ZSIgOiAzNzAxLAoidGV4dCIgOiAi5rWO5Y2X5biCIiwKInNOYW1lIiA6ICJqbiIKfSwgewoidmFsdWUiIDogNTAwMSwKInRleHQiIDogIumHjeW6huW4giIsCiJzTmFtZSIgOiAiY3EiCn0sIHsKInZhbHVlIiA6IDEyMDEsCiJ0ZXh0IiA6ICLlpKnmtKXluIIiLAoic05hbWUiIDogInRqIgp9LCB7CiJ2YWx1ZSIgOiA2MTAxLAoidGV4dCIgOiAi6KW/5a6J5biCIiwKInNOYW1lIiA6ICJ4YSIKfSwgewoidmFsdWUiIDogMzMwMSwKInRleHQiIDogIuadreW3nuW4giIsCiJzTmFtZSIgOiAiaHoiCn0sIHsKInZhbHVlIiA6IDUxMDEsCiJ0ZXh0IiA6ICLmiJDpg73luIIiLAoic05hbWUiIDogImNkIgp9IF07CgoKVVBEQVRFIGRpc3RyaWN0IFNFVCB0ZXh0ID0gcmVwbGFjZSh0ZXh0LCfluIInLCcnKSBXSEVSRSB2YWx1ZSBJTiAoIDExMDEgLDMxMDEgLDQ0MDEgLDQ0MDMgLDEyMDEgLDUwMDEgLDQyMDEgLDUxMDEgLDMzMDEgLDQxMDEgLDM3MDEgLDYxMDEgKTsKClVQREFURSBkaXN0cmljdCBTRVQgdGV4dCA9IHJlcGxhY2UodGV4dCwn5Z+O5Yy6JywnJykgV0hFUkUgVkFMVUUgSU4gKCAxMTAxICwzMTAxICw0NDAxICw0NDAzICwxMjAxICw1MDAxICw0MjAxICw1MTAxICwzMzAxICw0MTAxICwzNzAxICw2MTAxICk7CgoKc2VsZWN0ICogZnJvbSBkaXN0cmljdCB3aGVyZSBwYXJlbnQ9MTEwMSBhbmQgZGlzYWJsZWQ9MDsKCgpTRUxFQ1QgKgpGUk9NIGRpc3RyaWN0CldIRVJFIGxlbmd0aCh2YWx1ZSk9ODsKCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImxzIl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZGlzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEpvYlR5cGVBbmRSZWNKb2JJZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGltZW91dDogMjg4MDAgIyBpbiBzZWNvbmRzLCA4aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGp6Sm9icyAhPSBudWxsICYmICFqekpvYnMuaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>102</text>
