@@ -160,11 +160,12 @@
         <mark key="^" line="28" column="36" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/SyncSearchTasks.java" timestamp="1483436540511" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1483441905186">
-        <mark key="[" line="43" column="27" />
-        <mark key="]" line="43" column="55" />
-        <mark key="^" line="43" column="55" />
-        <mark key="." line="43" column="121" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1483443025372">
+        <mark key="'" line="133" column="15" />
+        <mark key="[" line="49" column="143" />
+        <mark key="]" line="49" column="142" />
+        <mark key="." line="132" column="56" />
+        <mark key="^" line="49" column="142" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/production/hosts/production/static.server" timestamp="1482293657154">
         <mark key="[" line="2" column="35" />
@@ -198,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="28" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" />
       <jump line="1117" column="0" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/InventoryService.java" />
       <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_10.sql" />
       <jump line="14" column="47" filename="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/order/detail.jsp" />
@@ -298,95 +298,66 @@
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
       <jump line="46" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
+      <jump line="133" column="15" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <keys>
-          <key char="73" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+        <text>j3Jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAgICA8L3RhYmxlPgo=</text>
       </register>
       <register name="-" type="4">
         <text>employee</text>
       </register>
       <register name="/" type="4">
-        <text>Column</text>
+        <text encoding="base64">Ij4gPGdlbmU=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgYmFzZVZpZXdDb3VudEtleSA9IGdldEJhc2VWaWV3Q291bnRLZXkoam9iLmdldElkKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAgICA8L3RhYmxlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdlbmVyYXRlZEtleSBjb2x1bW49ImlkIiBzcWxTdGF0ZW1lbnQ9Ik15c3FsIiBpZGVudGl0eT0idHJ1ZSIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUIGpvYl90eXBlLGNvdW50KDEpCkZST00gam9iCkdST1VQIEJZIGpvYl90eXBlCk9SREVSIEJZIGNvdW50KDEpOwoKVVBEQVRFIGpvYiBTRVQgdmlld19jb3VudCA9IHZpZXdfY291bnQgKzEgV0hFUkUgaWQ9MTsKCgpTRUxFQ1QgY2l0eSx2aWV3X2NvdW50CkZST00gam9iCldIRVJFIGlkPTE5OTQ2NTsKCgoKU0hPVyBUQUJMRVMgOwoKCgo=</text>
+        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJkaXN0cmljdF9iY2siIGRvbWFpbk9iamVjdE5hbWU9ImRpc3RyaWN0X2JjayI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmFwcF9zY2FuX2hpc3RvcnkKYXR0ZW50aW9uCmJvbnVzX3JlY29yZApjaGVja2luCmRlcGFydG1lbnQKZGljdApkaXN0cmljdApkaXN0cmljdF9iY2sKZW1wbG95ZWUKZW1wbG95ZWVfcm9sZQpleHBlcmllbmNlCmlkZW50X2VudAppZGVudF9wZXJzb25hbAppbWFnZV9saW5rCmludml0YXRpb24Kam9iCmpvYl9jYXRlZ29yeQpqb2JfY2xpY2tfaGlzdG9yeQptYW5hZ2VfdXNlcgptZXNzYWdlCnBheV9iaWxsCnBheV9oaXN0b3J5CnBheV9vcmRlcgpwZXJtaXNzaW9uCnJlcXVlc3RfbG9nCnJlc3VtZQpyZXN1bWVfZGlhbF9zdGF0CnJlc3VtZV9mYXZvcml0ZQpyZXN1bWVfc3RvcmUKcmVzdW1lX3RlbApyb2xlCnJvbGVfcGVybWlzc2lvbgpzZXJ2aWNlX2FsaXZlCnNtcwpzbXNfc2NoZWR1bGUKdGVtcF9wd2QKdHJhZGVfaGlzdG9yeQp0cmFkZV9sb2cKdXNlcgp1c2VyX2FjY291bnQKdXNlcl9hY3Rpdml0eV9yZXdhcmQKdXNlcl9hZHZpY2UKdXNlcl9iaW5kCnVzZXJfaW5mbwp1c2VyX2ludml0ZQp1c2VyX2xvZ2luX2xvZwp3b3JrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">U0VMRUNUIGpvYl90eXBlLGNvdW50KDEpCkZST00gam9iCkdST1VQIEJZIGpvYl90eXBlCk9SREVSIEJZIGNvdW50KDEpOwoKVVBEQVRFIGpvYiBTRVQgdmlld19jb3VudCA9IHZpZXdfY291bnQgKzEgV0hFUkUgaWQ9MTsKCgpTRUxFQ1QgY2l0eSx2aWV3X2NvdW50CkZST00gam9iCldIRVJFIGlkPTE5OTQ2NTsKCgoKU0hPVyBUQUJMRVMgOwoKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">CmFwcF9zY2FuX2hpc3RvcnkKYXR0ZW50aW9uCmJvbnVzX3JlY29yZApjaGVja2luCmRlcGFydG1lbnQKZGljdApkaXN0cmljdApkaXN0cmljdF9iY2sKZW1wbG95ZWUKZW1wbG95ZWVfcm9sZQpleHBlcmllbmNlCmlkZW50X2VudAppZGVudF9wZXJzb25hbAppbWFnZV9saW5rCmludml0YXRpb24Kam9iCmpvYl9jYXRlZ29yeQpqb2JfY2xpY2tfaGlzdG9yeQptYW5hZ2VfdXNlcgptZXNzYWdlCnBheV9iaWxsCnBheV9oaXN0b3J5CnBheV9vcmRlcgpwZXJtaXNzaW9uCnJlcXVlc3RfbG9nCnJlc3VtZQpyZXN1bWVfZGlhbF9zdGF0CnJlc3VtZV9mYXZvcml0ZQpyZXN1bWVfc3RvcmUKcmVzdW1lX3RlbApyb2xlCnJvbGVfcGVybWlzc2lvbgpzZXJ2aWNlX2FsaXZlCnNtcwpzbXNfc2NoZWR1bGUKdGVtcF9wd2QKdHJhZGVfaGlzdG9yeQp0cmFkZV9sb2cKdXNlcgp1c2VyX2FjY291bnQKdXNlcl9hY3Rpdml0eV9yZXdhcmQKdXNlcl9hZHZpY2UKdXNlcl9iaW5kCnVzZXJfaW5mbwp1c2VyX2ludml0ZQp1c2VyX2xvZ2luX2xvZwp3b3JrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RlJPTSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>93</text>
+        <text encoding="base64">JXMvIj4gPGdlbmUvRW50aXR5Ij4gPGdlbmUv</text>
       </register>
     </registers>
     <search>
-      <last-search>Column</last-search>
+      <last-search encoding="base64">Ij4gPGdlbmU=</last-search>
       <last-offset />
-      <last-pattern>Column</last-pattern>
-      <last-replace>d</last-replace>
-      <last-substitute>Column</last-substitute>
+      <last-pattern encoding="base64">Ij4gPGdlbmU=</last-pattern>
+      <last-replace encoding="base64">RW50aXR5Ij4gPGdlbmU=</last-replace>
+      <last-substitute encoding="base64">Ij4gPGdlbmU=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sales</entry>
-        <entry>Sales</entry>
         <entry>@</entry>
         <entry>@NotNull</entry>
         <entry>@NotBlank</entry>
@@ -405,10 +376,10 @@
         <entry>current</entry>
         <entry>x</entry>
         <entry>Column</entry>
+        <entry encoding="base64">Ij5cclxuPGdlbmU=</entry>
+        <entry encoding="base64">Ij4gPGdlbmU=</entry>
       </history-search>
       <history-cmd>
-        <entry>353</entry>
-        <entry>231</entry>
         <entry>170</entry>
         <entry>174</entry>
         <entry>164</entry>
@@ -427,6 +398,8 @@
         <entry>569</entry>
         <entry>44</entry>
         <entry>93</entry>
+        <entry encoding="base64">JXMvIj5cclxuPGdlbmUvRW50aXR5Ij5cclxuPGdlbmUv</entry>
+        <entry encoding="base64">JXMvIj4gPGdlbmUvRW50aXR5Ij4gPGdlbmUv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
