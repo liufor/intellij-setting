@@ -70,7 +70,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.1.RELEASE/spring-boot-dependencies-1.4.1.RELEASE.pom" timestamp="1483082171767" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a33890c9-55f2-4269-bb3e-86e8106add35/console.sql" timestamp="1483091342871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -250,11 +249,11 @@
         <mark key="]" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1483423387462">
-        <mark key="[" line="470" column="32" />
-        <mark key="]" line="470" column="63" />
-        <mark key="^" line="470" column="63" />
-        <mark key="." line="470" column="63" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1483424670940">
+        <mark key="[" line="437" column="12" />
+        <mark key="]" line="437" column="12" />
+        <mark key="^" line="436" column="7" />
+        <mark key="." line="437" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console_16.sql" timestamp="1483003962554">
         <mark key="[" line="4" column="0" />
@@ -504,17 +503,23 @@
         <mark key="^" line="67" column="17" />
         <mark key="." line="67" column="17" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RedisConfiguration.java" timestamp="1482756216806">
-        <mark key="[" line="16" column="79" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="78" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RedisConfiguration.java" timestamp="1483424078325">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="29" column="46" />
+        <mark key="^" line="29" column="46" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/resources/config/spring-shiro-web.xml" timestamp="1482983959219">
         <mark key="[" line="82" column="47" />
         <mark key="]" line="13" column="106" />
         <mark key="." line="13" column="106" />
         <mark key="^" line="13" column="106" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/StringKeyRedisService.java" timestamp="1483424524564">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DepartmentService.java" timestamp="1482822929311">
         <mark key="[" line="44" column="4" />
@@ -541,11 +546,6 @@
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/pom.xml" timestamp="1483082396720">
-        <mark key="[" line="411" column="0" />
-        <mark key="]" line="411" column="0" />
-        <mark key="." line="411" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1483087966576">
         <mark key="[" line="0" column="0" />
@@ -735,10 +735,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text>viewCount</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>viewCount</text>
       </register>
       <register name="/" type="4">
         <text>Column</text>
@@ -747,31 +747,31 @@
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic3RhcnQgc3luY1RvRGIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZGlzVGVtcGxhdGUuZ2V0U3RyaW5nU2VyaWFsaXplcigpLnNlcmlhbGl6ZShwYXR0ZXJuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIi0tc3RhcnQtLSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBsb25nIHZpZXdDb3VudCA9IHJlZGlzU2VydmljZS5pbmNyKGdldFZpZXdDb3VudEtleShqb2JJZCksIExvbmcuTUFYX1ZBTFVFKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVkaXNUZW1wbGF0ZTxTdHJpbmcsU2U+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImtleTp7fSBubyB2YWx1ZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9iU2VydmljZS5nZXRWaWV3Q291bnQoam9iLmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmdTZXJpYWxpemFibGVSZWRpc1RlbXBsYXRlLnNldERlZmF1bHRTZXJpYWxpemVyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
