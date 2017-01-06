@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/resources/config/application.yml" timestamp="1482997528555">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/resources/config/application.yml" timestamp="1483694686458">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/tomcat/Dockerfile" timestamp="1483466220313">
         <mark key="[" line="12" column="11" />
@@ -60,7 +61,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.1.RELEASE/spring-boot-dependencies-1.4.1.RELEASE.pom" timestamp="1483691601232">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.1.RELEASE/spring-boot-dependencies-1.4.1.RELEASE.pom" timestamp="1483694546901">
         <mark key="'" line="2277" column="48" />
         <mark key="[" line="661" column="25" />
         <mark key="]" line="1038" column="48" />
@@ -399,7 +400,12 @@
       <file name="/Dummy.txt" timestamp="1483693328532">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/pom.xml" timestamp="1483693251648" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/pom.xml" timestamp="1483694650731">
+        <mark key="[" line="106" column="26" />
+        <mark key="]" line="106" column="11" />
+        <mark key="^" line="106" column="11" />
+        <mark key="." line="106" column="25" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/home.jsp" timestamp="1482829442854">
         <mark key="[" line="7" column="16" />
       </file>
@@ -443,7 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e7f924ed-65d0-49d7-8897-0419d9c05752/console_10.sql" />
       <jump line="14" column="47" filename="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/order/detail.jsp" />
       <jump line="451" column="0" filename="$USER_HOME$/work/code/wdd/wanduoduo-manage/src/main/webapp/WEB-INF/views/order/detail.jsp" />
       <jump line="9" column="4" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/wms/StockInRentOrderQueryDto.java" />
@@ -543,13 +548,14 @@
       <jump line="46" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
       <jump line="133" column="15" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" />
       <jump line="2277" column="48" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.1.RELEASE/spring-boot-dependencies-1.4.1.RELEASE.pom" />
+      <jump line="10" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/resources/config/application.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j3Jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLWVzIHN0YXJ0LS0+Cg==</text>
+        <text encoding="base64">ICAgIHZlcnNpb246IDAuMC4xCg==</text>
       </register>
       <register name="-" type="4">
         <text>version</text>
@@ -561,31 +567,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPCEtLWVzIHN0YXJ0LS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb246IDAuMC4xCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiBHemNQY0FwaSBBUEkgZG9jdW1lbnRhdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlOiBHemNQY0FwaSBBUEkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPmx1Y2VuZS1qb2luPC9leGNsdXNpb24+Cg==</text>
+        <text encoding="base64">ICBzd2FnZ2VyOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmcuYXBhY2hlLmx1Y2VuZTpsdWNlbmUtam9pbjo1LjUuMgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7fTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xNzwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPmx1Y2VuZS1qb2luPC9leGNsdXNpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmcuYXBhY2hlLmx1Y2VuZTpsdWNlbmUtam9pbjo1LjUuMgo=</text>
       </register>
       <register name=":" type="4">
         <text>160</text>
