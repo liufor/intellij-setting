@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/resources/config/application.yml" timestamp="1483694686458">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/work/images/dockers/tomcat/Dockerfile" timestamp="1483466220313">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="12" />
@@ -156,6 +150,7 @@
       <file name="$USER_HOME$/work/images/dockers/mysql5.6/test/docker-compose.yml" timestamp="1482238706005">
         <mark key="[" line="1" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/index/query/QueryBuilders.java" timestamp="1483707676403" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1483702180398">
         <mark key="[" line="160" column="47" />
       </file>
@@ -185,11 +180,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/GzcManageAppp.java" timestamp="1482842401415">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" timestamp="1483702607930">
-        <mark key="[" line="520" column="38" />
-        <mark key="]" line="521" column="24" />
-        <mark key="^" line="521" column="24" />
-        <mark key="." line="521" column="24" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" timestamp="1483708262404">
+        <mark key="[" line="529" column="15" />
+        <mark key="]" line="529" column="15" />
+        <mark key="." line="529" column="15" />
+        <mark key="^" line="529" column="22" />
       </file>
       <file name="$USER_HOME$/work/code/wdd_new/wanduoduo-parent/pom.xml" timestamp="1483004581453">
         <mark key="[" line="290" column="8" />
@@ -303,11 +298,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a33890c9-55f2-4269-bb3e-86e8106add35/console_1.sql" timestamp="1483439217411">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1483702857014">
-        <mark key="[" line="281" column="30" />
-        <mark key="]" line="281" column="30" />
-        <mark key="^" line="281" column="52" />
-        <mark key="." line="281" column="30" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1483708081723">
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
+        <mark key="^" line="268" column="21" />
       </file>
       <file name="/gzc-core-effective-pom.xml" timestamp="1483686832225" />
       <file name="/fragment.java" timestamp="1483701054434">
@@ -427,10 +422,10 @@
         <text>j3Jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>QueryStringQueryBuilder</text>
+        <text>strings</text>
       </register>
       <register name="-" type="4">
-        <text>QueryStringQueryBuilder</text>
+        <text>strings</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWlsXD4=</text>
@@ -439,19 +434,19 @@
         <text encoding="base64">ICAgICAgICAgICAgPCEtLWVzIHN0YXJ0LS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbGFzdGljc2VhcmNoVGVtcGxhdGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmF0aXZlUXVlcnkgPSB0cnVlKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSh2YWx1ZSA9ICJzZWxlY3QgKiBmcm9tIGpvYiB3aGVyZSBjYXRlX2ZpcnN0PTY4IGFuZCBjaXR5PT8xIGFuZCBzdGF0ZT0xIGFuZCByZWNvbW1lbmRfcGxhY2U9MSBsaW1pdCA5IiwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBqb2JTZWFyY2hTZXJ2aWNlLmRlbGV0ZSg0NDAxLCApOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvYkVudGl0eU1hcHBlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -460,10 +455,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sUXVlcnlCdWlsZGVyLm11c3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSh2YWx1ZSA9ICIsbmF0aXZlUXVlcnkgPSB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBUZXJtUXVlcnlCdWlsZGVyIGNpdHkgPSBRdWVyeUJ1aWxkZXJzLnRlcm1RdWVyeSgiY2l0eSIsIDQ0MDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>73</text>
