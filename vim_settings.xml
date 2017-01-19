@@ -79,8 +79,10 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.2.2.RELEASE/spring-session-1.2.2.RELEASE-sources.jar!/org/springframework/session/data/redis/config/annotation/web/http/RedisHttpSessionConfiguration.java" timestamp="1484222864093" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/target/classes/com/gongzuochong/core/enums/ValueText.class" timestamp="1484626079530" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/request/QzJobCreationRequest.java" timestamp="1484799690769">
-        <mark key="[" line="12" column="34" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/request/QzJobCreationRequest.java" timestamp="1484806837327">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.2.2.RELEASE/spring-session-1.2.2.RELEASE-sources.jar!/org/springframework/session/data/redis/config/annotation/web/http/EnableRedisHttpSession.java" timestamp="1484219092756" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/cache/RedisCacheKey.java" timestamp="1484213026578" />
@@ -98,9 +100,7 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/service/LegacyWechatLoginService.java" timestamp="1484804297169">
         <mark key="[" line="65" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="67" column="21" />
-        <mark key="." line="68" column="0" />
+        <mark key="^" line="66" column="21" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1484547257660">
         <mark key="[" line="443" column="32" />
@@ -141,6 +141,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1484737288165">
         <mark key="[" line="248" column="27" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/UserService.java" timestamp="1484285234108">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/production/commons/ssl-static.gongzuochong.cn.common" timestamp="1483932021104">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="57" />
@@ -157,6 +162,11 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/upstream.server" timestamp="1484552493262">
         <mark key="[" line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/UserService.java" timestamp="1484740805453">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/bonusRecord/list.jsp" timestamp="1484276637155" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/AuthenBaseLogic.java" timestamp="1484295993121" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobManaController.java" timestamp="1484800020824">
@@ -167,6 +177,11 @@
         <mark key="]" line="192" column="0" />
         <mark key="^" line="187" column="66" />
         <mark key="." line="192" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console.sql" timestamp="1484737540134">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1484225194366">
         <mark key="[" line="134" column="66" />
@@ -186,11 +201,10 @@
         <mark key="^" line="155" column="60" />
         <mark key="." line="155" column="60" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1484805640246">
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="49" column="47" />
-        <mark key="^" line="49" column="47" />
-        <mark key="." line="49" column="47" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1484807234158">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/service/WechatLoginService.java" timestamp="1484290135130">
         <mark key="[" line="13" column="19" />
@@ -266,6 +280,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/pom.xml" timestamp="1484630491332" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/encrypt/EncryptBase.java" timestamp="1484287772445">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobCategoryManualMapper.java" timestamp="1484208360509" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-build/pom.xml" timestamp="1484624561805" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/cache/RedisCache.java" timestamp="1484213245278" />
@@ -317,6 +336,11 @@
         <mark key="]" line="5" column="51" />
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/request/MeicaiLogin.java" timestamp="1484796002545">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/TestController.java" timestamp="1483698468012">
         <mark key="[" line="52" column="26" />
@@ -502,6 +526,11 @@
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/MeicaiQzJobCreationRequest.java" timestamp="1484806691623">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="49" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/wdd_new/wanduoduo-parent/pom.xml" timestamp="1484568583381">
         <mark key="[" line="290" column="8" />
@@ -746,11 +775,11 @@
       <register name="a" type="4">
         <text>j3Jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>State0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>State0</text>
+        <text>qzJobCreationRequest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWlsXD4=</text>
@@ -762,28 +791,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldERpc3RyaWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3Sm9iTWFuYUNvbnRyb2xsZXIuY3JlYXRlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldERpc3RyaWN0KHF6LmdldERpc3RyaWN0KCkpOwo=</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocXouZ2V0Q2l0eSgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTWluOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocXopCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxJbnRlZ2VyPiB0YWdzQXJyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHBheVF6Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldAo=</text>
+        <text encoding="base64">ICAgIEBNaW4oMCkK</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
