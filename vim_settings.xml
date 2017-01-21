@@ -153,11 +153,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/controller/JobController.java" timestamp="1484882066692">
-        <mark key="[" line="153" column="14" />
-        <mark key="]" line="153" column="14" />
-        <mark key="^" line="153" column="14" />
-        <mark key="." line="153" column="14" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/controller/JobController.java" timestamp="1484972061970">
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="84" column="62" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/JobSimpleResponse.java" timestamp="1484830456981">
         <mark key="[" line="22" column="25" />
@@ -195,10 +195,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" timestamp="1484893058542">
-        <mark key="[" line="9" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" timestamp="1484972510836">
+        <mark key="[" line="12" column="15" />
         <mark key="]" line="9" column="0" />
-        <mark key="^" line="18" column="21" />
+        <mark key="^" line="19" column="21" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-build/get_abs_filename.sh" timestamp="1484570629076">
@@ -249,6 +249,9 @@
         <mark key="]" line="6" column="19" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-model/pom.xml" timestamp="1484972345625">
+        <mark key="[" line="16" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/service/LegacyWechatLoginService.java" timestamp="1484810024303">
         <mark key="[" line="68" column="0" />
@@ -314,7 +317,7 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobIndexService.java" timestamp="1484881867234">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobIndexService.java" timestamp="1484971720521">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="13" column="43" />
         <mark key="." line="13" column="43" />
@@ -768,10 +771,10 @@
         <text>j3Jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>jobsToJobSearchs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWlsXD4=</text>
@@ -780,31 +783,31 @@
         <text encoding="base64">ICAgIEluVmFsaWQoMiwi5peg5pWIIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">MTAwMjQ5MzIxOTUzMAkxMDAyNDkzMjEzNTUwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VUIHVzZXJfdHlwZSA9IDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VVBEQVRFIHVzZXIK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBKb2JTZWFyY2ggZGF0YSA9IGpvYlNlYXJjaFNlcnZpY2UuZmluZE9uZShqb2JJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V0hFUkUgaWQ9MTAwMjQ5MzIxOTUzMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIAo=</text>
+        <text encoding="base64">ICAgICAgICBqb2JzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
