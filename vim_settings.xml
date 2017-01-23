@@ -208,11 +208,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" timestamp="1485151352542">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="35" column="13" />
-        <mark key="." line="35" column="13" />
-        <mark key="^" line="35" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" timestamp="1485165232350">
+        <mark key="'" line="35" column="13" />
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="53" column="7" />
+        <mark key="." line="53" column="7" />
+        <mark key="^" line="53" column="7" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-build/get_abs_filename.sh" timestamp="1484570629076">
         <mark key="[" line="0" column="19" />
@@ -277,12 +278,6 @@
         <mark key="]" line="68" column="0" />
         <mark key="^" line="68" column="88" />
         <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1485161539254">
-        <mark key="[" line="1048" column="35" />
-        <mark key="]" line="1049" column="58" />
-        <mark key="^" line="1049" column="58" />
-        <mark key="." line="1049" column="58" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobManualMapper.java" timestamp="1484191674356">
         <mark key="[" line="22" column="24" />
@@ -723,7 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="17" filename="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/BaseController.java" />
       <jump line="63" column="4" filename="$USER_HOME$/work/code/wanmei-party-api/src/main/java/cn/wanmei/party/api/controller/BaseController.java" />
       <jump line="210" column="8" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
       <jump line="846" column="4" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" />
@@ -823,6 +817,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/test.json" />
       <jump line="12" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/test.json" />
       <jump line="10" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/set_default_value.sh" />
+      <jump line="35" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
