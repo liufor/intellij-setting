@@ -75,6 +75,9 @@
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/IdentEntDetailResponse.java" timestamp="1485150164640">
+        <mark key="[" line="8" column="65" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/TestController.java" timestamp="1483698468012">
         <mark key="[" line="52" column="26" />
         <mark key="]" line="52" column="26" />
@@ -451,11 +454,11 @@
         <mark key="^" line="5" column="6" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/vo/JobVo.java" timestamp="1485139647423" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" timestamp="1485148139339">
-        <mark key="[" line="665" column="33" />
-        <mark key="]" line="665" column="35" />
-        <mark key="^" line="665" column="35" />
-        <mark key="." line="665" column="35" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" timestamp="1485150555567">
+        <mark key="[" line="631" column="0" />
+        <mark key="]" line="631" column="0" />
+        <mark key="^" line="1097" column="33" />
+        <mark key="." line="631" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1484832497236">
         <mark key="[" line="48" column="48" />
@@ -465,9 +468,9 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/IdentEntService.java" timestamp="1484804993211">
         <mark key="[" line="42" column="5" />
-        <mark key="]" line="99" column="51" />
-        <mark key="^" line="99" column="51" />
-        <mark key="." line="99" column="51" />
+        <mark key="]" line="113" column="51" />
+        <mark key="^" line="113" column="51" />
+        <mark key="." line="113" column="51" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/service/WechatLoginService.java" timestamp="1484290135130">
         <mark key="[" line="13" column="19" />
@@ -517,6 +520,7 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="86" column="63" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/response/EmployerInfoResponse.java" timestamp="1485150038811" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1484968902894">
         <mark key="[" line="210" column="5" />
         <mark key="]" line="213" column="76" />
@@ -658,10 +662,10 @@
         <mark key="." line="12" column="40" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/WorkService.java" timestamp="1484817440490">
-        <mark key="[" line="615" column="43" />
-        <mark key="]" line="615" column="32" />
-        <mark key="^" line="615" column="32" />
-        <mark key="." line="615" column="32" />
+        <mark key="[" line="618" column="43" />
+        <mark key="]" line="618" column="32" />
+        <mark key="^" line="618" column="32" />
+        <mark key="." line="618" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/config/CacheConfiguration.java" timestamp="1484226407490">
         <mark key="[" line="28" column="0" />
@@ -815,44 +819,44 @@
       <register name="a" type="4">
         <text>j3Jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>byUidAndState</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBKUEEtTXliYXRpcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>byUidAndState</text>
+        <text>IdentEntDetailResponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWlsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICBtc2dfYWRkX25ld19maWVsZD0iIGFkZF9uZXdfZmllbGQgICAgICAtIGFkZCBuZXcgZmllbGQgZm9yIG5ldyBpbmRleC7kuLrogIHntKLlvJXlop7liqDmlrDlrZfmrrUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyaXRlcmlhLmFuZENhdGVGaXJzdEVxdWFsVG8oZ3pjUHJvcGVydGllcy5nZXRCaXpDb25zdGFudHMoKS5nZXRDYXRlZ29yeSgpLmdldFF6Um9vdElkKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTZWFyY2hTZXJ2aWNlCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBKUEEtTXliYXRpcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZGVudEVudFNlcnZpYwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBKUEEtTXliYXRpcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VybCAtWERFTEVURSAke2VzfS8ke2N1cl9vbGRfaW5kZXh9L19hbGlhcy8ke2N1cl9hbGlhc19pbmRleH0gO2VjaG8K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VybCAtWFBVVCAgJHtlc30vJHtjdXJfbmV3X2luZGV4fS9fYWxpYXMvJHtjdXJfYWxpYXNfaW5kZXh9IDtlY2hvCg==</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvaG90VG9wcyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3VybCAtWFBVVCAnMTI3LjAuMC4xOjkyMDAvY2l0eS1vdGhlcnMtdjEvX21hcHBpbmcvam9iJyAtZCAnCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fScK</text>
+        <text encoding="base64">Pj4+Pj4+PiBKUEEtTXliYXRpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImluZGV4IjogIm5vdF9hbmFseXplZCIK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>945</text>
