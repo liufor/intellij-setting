@@ -180,12 +180,9 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" timestamp="1485256222354">
-        <mark key="'" line="38" column="7" />
-        <mark key="[" line="65" column="97" />
-        <mark key="]" line="65" column="97" />
-        <mark key="." line="65" column="97" />
-        <mark key="^" line="65" column="110" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" timestamp="1485675729571">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="70" column="29" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-build/get_abs_filename.sh" timestamp="1484570629076">
         <mark key="[" line="0" column="19" />
@@ -669,7 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="8" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
       <jump line="846" column="4" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockInService.java" />
       <jump line="10" column="23" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
@@ -769,16 +765,17 @@
       <jump line="10" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/set_default_value.sh" />
       <jump line="35" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" />
       <jump line="38" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" />
+      <jump line="41" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j3Jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>category_major</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>category_major</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWlsXD4=</text>
@@ -790,28 +787,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RlJPTSAgam9iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5tSm9iQ29udHJvbGxlci5nZXRRekluZHVzdHJ5Sm9icyhpbmR1c3RyeSwgZ2V0Q2l0eUlkKGNpdHkpLCBwYWdlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEb3plckNsYXNzTG9hZGVyCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTZWFyY2hlcy5nZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gam9iU2VhcmNoZXMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5tSm9iQ29udHJvbGxlci5nZXRRekluZHVzdHJ5Sm9icyhpbmR1c3RyeSwgZ2V0Q2l0eUlkKGNpdHkpLCBwYWdlKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBEb3plckNsYXNzTG9hZGVyCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+iAgemAu+i+keWcqAogICAgICAgIC8vY29tLmdvbmd6dW9jaG9uZy5hcGkubWFwaS5jb250cm9sbGVyLkpvYkNvbnRyb2xsZXIuZ2V0UXpJbmR1c3RyeUpvYnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBqb2JTZWFyY2hlcy5nZQo=</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
