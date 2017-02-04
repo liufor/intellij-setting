@@ -166,11 +166,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/controller/JobController.java" timestamp="1484972624142">
-        <mark key="[" line="75" column="23" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="84" column="62" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/java/com/gongzuochong/search/controller/JobController.java" timestamp="1486212738023">
+        <mark key="[" line="108" column="32" />
+        <mark key="]" line="108" column="32" />
+        <mark key="^" line="108" column="31" />
+        <mark key="." line="108" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/JobSimpleResponse.java" timestamp="1484830456981">
         <mark key="[" line="22" column="25" />
@@ -681,7 +681,12 @@
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1486199704844" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1486213070001">
+        <mark key="[" line="222" column="41" />
+        <mark key="]" line="220" column="0" />
+        <mark key="^" line="219" column="61" />
+        <mark key="." line="220" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1485227331592">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -708,7 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="37" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
       <jump line="615" column="0" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
       <jump line="49" column="21" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/service/inventory/StockOutService.java" />
       <jump line="8" column="29" filename="$USER_HOME$/work/code/wdd/wanduoduo-domain/src/main/java/com/wanduoduo/domain/dto/OrderSkuInspectionRequestDto.java" />
@@ -808,16 +812,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/2zpj.sh" />
       <jump line="5" column="21" filename="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/2zpj.sh" />
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" />
+      <jump line="391" column="36" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>j3Jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>new Date()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Date()</text>
+        <text encoding="base64">IEBSZXF1ZXN0UGFyYW0ocmVxdWlyZWQgPSBmYWxzZSkgZmluYWwgSW50ZWdlciBjaXR5SWQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWlsXD4=</text>
@@ -829,28 +834,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIGNpdHlSZWFsSW5kZXhOYW1lID0gaW5kZXhOYW1lTWFuYWdlci5nZXRDaXR5QWxpYXNJbmRleE5hbWUoY2l0eUlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TElNSVQgNTAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yIG4gaW4gezEuLjEwfTtkbyBlY2hvICRuLHN0YXJ0OyBteXNxbDMzMDYgLWUgIlVQREFURSBqb2IgU0VUIHBvc3RfdGltZSA9IGRhdGVfYWRkKHBvc3RfdGltZSxJTlRFUlZBTCA3IERBWSksIGluZGV4ZWQgPSAwLCB1cGRhdGVfdGltZSA9IG5vdygpIFdIRVJFIHN0YXRlPTEgQU5EIHBvc3RfdGltZSBCRVRXRUVOICcyMDE3LTAxLTIyJyBBTkQgJzIwMTctMDEtMjMnIE9SREVSIEJZIHBvc3RfdGltZSBMSU1JVCAxMDA7IiAtRCB3ZWNoYXQgO2RvbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0hFUkUgOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">TElNSVQgNTAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIG4gaW4gezEuLjEwfTtkbyBlY2hvICRuLHN0YXJ0OyBteXNxbDMzMDYgLWUgIlVQREFURSBqb2IgU0VUIHBvc3RfdGltZSA9IGRhdGVfYWRkKHBvc3RfdGltZSxJTlRFUlZBTCA3IERBWSksIGluZGV4ZWQgPSAwLCB1cGRhdGVfdGltZSA9IG5vdygpIFdIRVJFIHN0YXRlPTEgQU5EIHBvc3RfdGltZSBCRVRXRUVOICcyMDE3LTAxLTIyJyBBTkQgJzIwMTctMDEtMjMnIE9SREVSIEJZIHBvc3RfdGltZSBMSU1JVCAxMDA7IiAtRCB3ZWNoYXQgO2RvbmUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
