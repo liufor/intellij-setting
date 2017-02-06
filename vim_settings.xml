@@ -35,7 +35,7 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Comparator.java" timestamp="1485830704186" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/job/RestoreLogic.java" timestamp="1486099994782" />
-      <file name="$USER_HOME$/work/images/dockers/node/onlybuild/docker-compose.yml" timestamp="1486379644251">
+      <file name="$USER_HOME$/work/images/dockers/node/onlybuild/docker-compose.yml" timestamp="1486382483961">
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="44" />
         <mark key="." line="10" column="44" />
@@ -139,6 +139,12 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/node/onlybuild/Dockerfile" timestamp="1486382220583">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/LbsSyncHandler.java" timestamp="1484117639907">
         <mark key="[" line="61" column="4" />
         <mark key="]" line="4" column="51" />
@@ -187,6 +193,7 @@
         <mark key="^" line="257" column="21" />
         <mark key="." line="257" column="21" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/node/onlybuild/Makefile" timestamp="1486382489074" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/ResumeController.java" timestamp="1484151345567">
         <mark key="[" line="19" column="30" />
         <mark key="]" line="19" column="44" />
@@ -814,10 +821,10 @@
         <text>j3Jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>pc_ui_server</text>
+        <text>supervisord</text>
       </register>
       <register name="-" type="4">
-        <text>pc_ui_server</text>
+        <text>supervisord</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWlsXD4=</text>
@@ -826,31 +833,31 @@
         <text encoding="base64">ICAgICAgICB1c2VyU2VydmljZS5nZW5lcmF0ZUZha2VNb2JpbGVJZk5lY2Vzc2FyeSgxMDAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">IyDkv53or4Fub2RlX2NvZGXnm67lvZXkuIvmmK9ub2Rl56iL5bqPCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSm9iUmVmcmVzaFNlcnZpY2Ugam9iUmVmcmVzaFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSBzdXBlcnZpc29yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3UmVjb3JkLnNldFN0YXRlKEZha2VNb2JpbGVTdGF0ZS5VbnVzZWQuZ2V0VmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSm9iUmVmcmVzaFNlcnZpY2Ugam9iUmVmcmVzaFNlcnZpY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmFrZU1vYmlsZUVudGl0eSBuZXdSZWNvcmQ9bmV3IEZha2VNb2JpbGVFbnRpdHkoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsKyBpMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3UmVjb3JkLnNldFN0YXRlKEZha2VNb2JpbGVTdGF0ZS5VbnVzZWQuZ2V0VmFsdWUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBsYXRlc3RGYWtlTW9iaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmFrZU1vYmlsZUVudGl0eSBuZXdSZWNvcmQ9bmV3IEZha2VNb2JpbGVFbnRpdHkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
