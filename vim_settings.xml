@@ -266,7 +266,7 @@
       <file name="$USER_HOME$/work/code/crm-impr/GZC_B/Content/crm_fix/WebUI/include/ICWebsocket.js" timestamp="1486636027537">
         <mark key="[" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1486640070403">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1486652265953">
         <mark key="[" line="250" column="27" />
         <mark key="]" line="250" column="11" />
         <mark key="^" line="250" column="11" />
@@ -283,6 +283,12 @@
         <mark key="]" line="48" column="10" />
         <mark key="." line="48" column="10" />
         <mark key="^" line="48" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/percona/Dockerfile" timestamp="1486651705082">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="63" />
+        <mark key="^" line="3" column="63" />
+        <mark key="." line="3" column="63" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/encrypt/AESUtil.java" timestamp="1484287700231">
         <mark key="[" line="65" column="105" />
@@ -412,6 +418,12 @@
         <mark key="^" line="8" column="44" />
         <mark key="." line="75" column="27" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/percona/Makefile" timestamp="1486651215686">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1486638831914">
         <mark key="[" line="77" column="82" />
       </file>
@@ -508,6 +520,7 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/work/images/dockers/ubuntu16/Makefile" timestamp="1486650709534" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/set_default_value.json" timestamp="1485085801937">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="6" />
@@ -525,6 +538,12 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/resources/config/application-prod.yml" timestamp="1486357609586">
         <mark key="[" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/images/dockers/percona/docker-compose.yml" timestamp="1486651259489">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1484832497236">
         <mark key="[" line="48" column="48" />
@@ -937,10 +956,10 @@
         <text>j3Jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>window</text>
+        <text>jenkins</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWlsXD4=</text>
@@ -949,31 +968,31 @@
         <text encoding="base64">QFJlc3RDb250cm9sbGVyCkBSZXF1ZXN0TWFwcGluZygiL3dhcGkvY21zIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gIjYzODA6NjM4MCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICMtIC9kYXRhMS9kb2NrZXIvcmVkaXMvY29uZjovdXNyL2xvY2FsL2V0Yy9yZWRpcyAs5Zyo5ZCv5Yqo5pe277yM5a6/5Li75py65rKh5pyJcmVkaXMuY29uZuaWh+S7tu+8jOS9hmltYWdl5pyJ77yM5q2k5pe25a6/5Li75py65oqKaW1hZ2XkuK3nmoTmlofku7bpga7olL3kuobvvIzmiqXplJkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gL2RhdGExL2RvY2tlci9yZWRpcy9kYXRhOi9kYXRhLwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
