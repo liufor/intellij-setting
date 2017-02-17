@@ -36,7 +36,7 @@
         <mark key="." line="10" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/test/hosts/test/order.server" timestamp="1487163151130" />
-      <file name="$USER_HOME$/work/images/dockers/mysql_linux/entrypoint.sh" timestamp="1487312215757" />
+      <file name="$USER_HOME$/work/images/dockers/mysql_linux/entrypoint.sh" timestamp="1487331615043" />
       <file name="$USER_HOME$/work/code/crm-impr/GZC_B/Content/crm_fix/WebUI/src/ICCore.js" timestamp="1487141498663" />
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.1.1/pagehelper-4.1.1-sources.jar!/com/github/pagehelper/SqlUtil.java" timestamp="1487153451954" />
       <file name="$USER_HOME$/work/images/dockers/mysql_linux/fix_permissions.sh" timestamp="1487265874270">
@@ -72,6 +72,12 @@
         <mark key="." line="7" column="41" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/mysql5.6/Dockerfile" timestamp="1487054277954" />
+      <file name="$USER_HOME$/work/code/gzc_scripts/mysql_backup/backup.sh" timestamp="1487326385954">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="33" column="8" />
+        <mark key="^" line="33" column="8" />
+        <mark key="." line="33" column="8" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/javax/servlet/ServletRequest.java" timestamp="1487151492727" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-model/src/main/java/com/gongzuochong/search/model/JobSearchVm.java" timestamp="1487218202606" />
       <file name="$USER_HOME$/work/code/crm-impr/GZC_B/Content/crm_fix/WebUI/include/ICWebsocket.js" timestamp="1487147340671">
@@ -93,12 +99,30 @@
         <mark key="." line="724" column="51" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/mysql_linux/Dockerfile" timestamp="1487244457432" />
-      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1487313784043" />
+      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1487316620694" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/reindex.sh" timestamp="1487318386199">
+        <mark key="[" line="187" column="14" />
+        <mark key="]" line="189" column="13" />
+        <mark key="." line="189" column="13" />
+        <mark key="^" line="189" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_scripts/mysql_backup/restore.sh" timestamp="1487331497571">
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/test/hosts/test/wechat.location" timestamp="1487163505838">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
         <mark key="^" line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_scripts/mysql_backup/1.sh" timestamp="1487317967164">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/mysql_auto_bak/Dockerfile" timestamp="1487267159556">
         <mark key="[" line="5" column="12" />
@@ -220,46 +244,46 @@
         <text>j3Jj</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb21tYW5kOiAvZGF0YS9zZXJ2aWNlL215c3FsL2Jpbi9teXNxbGRfc2FmZSAtLWRlZmF1bHRzLWZpbGU9L2RhdGEvc2VydmljZS9teXNxbC9teS5jbmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>backups=`find . -mindepth 1 -maxdepth 1 -type d |sort -nr`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWlsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWtkaXIgLXAgL2RhdGExL2RvY2tlci9teXNxbF93ZWNoYXRfcy9sb2dzCg==</text>
+        <text encoding="base64">ICAgIGZvciAoKCBqID0gaW5jX2Jha19jb3VudC0xOyBqPj0gMDsgai0tICkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb21tYW5kOiAvZGF0YS9zZXJ2aWNlL215c3FsL2Jpbi9teXNxbGRfc2FmZSAtLWRlZmF1bHRzLWZpbGU9L2RhdGEvc2VydmljZS9teXNxbC9teS5jbmYK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAj56ys5LiA5qyh6L+Q6KGM55qE5pe25YCZLOmcgOimgeaKiuS4i+mdoueahOazqOmHiuaOiQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyAgLSAvZGF0YTEvZG9ja2VyL215c3FsX3dlY2hhdF9zL2JpbmxvZy86L2RhdGEvc2VydmljZS9teXNxbC9iaW5sb2cvCiMgIC0gL2RhdGExL2RvY2tlci9teXNxbF93ZWNoYXRfcy9sb2dzLzovZGF0YS9zZXJ2aWNlL215c3FsL2xvZ3MvCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVjaG8gaW5jX2Jha19jb3VudDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIuS7pXt9Igo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">I30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICByb290IC9kYXRhL3NlcnZpY2UvZ3pjLWg1LzsK</text>
+        <text encoding="base64">ZmkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICBvcGVuX2ZpbGVfY2FjaGUgb2ZmOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICBhZGRfaGVhZGVyIENhY2hlLUNvbnRyb2wgbm8tc3RvcmU7Cg==</text>
+        <text encoding="base64">SUZTPSIkT0xEX0lGUyI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICBhZGRfaGVhZGVyIENhY2hlLUNvbnRyb2wgbm8tY2FjaGU7Cg==</text>
+        <text encoding="base64">YmFrX2Fycj0oJHtiYWNrdXBzfSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>37</text>
       </register>
     </registers>
     <search>
@@ -295,7 +319,6 @@
         <entry encoding="base64">XDx0YWlsXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>571</entry>
         <entry>97</entry>
         <entry>569</entry>
         <entry>44</entry>
@@ -315,6 +338,7 @@
         <entry>230</entry>
         <entry>204</entry>
         <entry>wq</entry>
+        <entry>37</entry>
       </history-cmd>
       <history-expr />
       <history-input />
