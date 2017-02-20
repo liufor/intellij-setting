@@ -57,12 +57,12 @@
       <file name="$USER_HOME$/work/code/crm-impr/GZC_B/Content/crm_fix/ruanbo.js" timestamp="1487149949243">
         <mark key="[" line="49" column="104" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" timestamp="1487563389713">
-        <mark key="'" line="2" column="12" />
-        <mark key="[" line="153" column="7" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" timestamp="1487570880547">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+        <mark key="^" line="7" column="40" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/mysql_linux/fix_permissions.sh" timestamp="1487265874270">
         <mark key="[" line="35" column="19" />
@@ -160,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search/scripts/query.json" />
-      <jump line="158" column="41" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/service/JobCategoryService.java" />
       <jump line="4" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/.gitignore" />
       <jump line="716" column="8" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/JobSearchBase.java" />
       <jump line="13" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search-api/src/main/resources/config/application-prod.yml" />
@@ -258,15 +256,26 @@
       <jump line="157" column="12" filename="$USER_HOME$/work/code/myapplication/src/main/java/me/liufor/myapp/config/11.css" />
       <jump line="9" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
       <jump line="150" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
       <jump line="2" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
+      <jump line="13" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
+      <jump line="11" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>j3Jj</text>
+        <keys>
+          <key char="65" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIAo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -278,41 +287,31 @@
         <text encoding="base64">ICAgIGZvciAoKCBqID0gaW5jX2Jha19jb3VudC0xOyBqPj0gMDsgai0tICkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KTsK</text>
       </register>
-      <register name="5" type="8">
-        <text>)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb2wgSU5UIE5PVCBOVUxMCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIENSRUFURSBUQUJMRSBuZXdfdGFibGUgKAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDSEFSIFNFVCAndXRmOG1iNCcK</text>
       </register>
       <register name=":" type="4">
         <text>%s/  /\n/g</text>
