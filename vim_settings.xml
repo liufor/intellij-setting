@@ -49,6 +49,7 @@
       </file>
       <file name="$USER_HOME$/work/code/vue_offical_doc/my-project/dist/build.js" timestamp="1487734242227" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/index.js" timestamp="1487669845290" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/ReponsiveImg.vue" timestamp="1487868368351" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/demo/IndexXxx.vue" timestamp="1487832249412">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -56,8 +57,14 @@
         <mark key="^" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/work/code/vux/src/demos/XImg.vue" timestamp="1487851511776" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/ResponsiveImg.vue" timestamp="1487870270952">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="17" column="2686" />
+        <mark key="^" line="17" column="2686" />
+        <mark key="." line="17" column="2686" />
+      </file>
       <file name="$USER_HOME$/work/code/vux/src/demos/Pullup.vue" timestamp="1487823448403" />
-      <file name="$USER_HOME$/work/code/gzc-h5/node_modules/vue-lazyload/src/lazy.js" timestamp="1487853585133" />
+      <file name="$USER_HOME$/work/code/gzc-h5/node_modules/vue-lazyload/src/lazy.js" timestamp="1487870164080" />
       <file name="$USER_HOME$/work/code/gzc_scripts/mysql_backup/backup.sh" timestamp="1487386226380">
         <mark key="[" line="35" column="9" />
         <mark key="]" line="33" column="8" />
@@ -96,11 +103,11 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/build/webpack.base.conf.js" timestamp="1487834496369" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/LazyImg.vue" timestamp="1487854405412">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/LazyImg.vue" timestamp="1487868273519">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="43" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/crm-impr/GZC_B/Content/crm_fix/WebUI/include/ICWebsocket.js" timestamp="1487147340671">
         <mark key="[" line="910" column="21" />
@@ -300,17 +307,17 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="/a.regexp" timestamp="1487851273598">
+      <file name="/a.regexp" timestamp="1487867988180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/vue_offical_doc/1.html" timestamp="1487753170389">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/JobList.vue" timestamp="1487854444982">
-        <mark key="[" line="84" column="2" />
-        <mark key="]" line="84" column="1" />
-        <mark key="." line="84" column="1" />
-        <mark key="^" line="84" column="1" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/JobList.vue" timestamp="1487868445439">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="10" />
+        <mark key="." line="39" column="10" />
+        <mark key="^" line="39" column="10" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1487837859416">
         <mark key="[" line="77" column="37" />
@@ -458,7 +465,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>w</text>
@@ -470,31 +477,31 @@
         <text encoding="base64">ICBpbXBvcnQgU3Bpbm5lciBmcm9tICd2dXgvc3JjL2NvbXBvbmVudHMvc3Bpbm5lcicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx4LWltZyA6c3JjPSJzcmMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx4LWltZyA6c3JjPSJzcmMiCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/  /\n/g</text>
