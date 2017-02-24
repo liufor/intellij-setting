@@ -95,17 +95,17 @@
       <file name="$USER_HOME$/work/images/dockers/mysql_linux/docker-compose-init-after-cp.yml" timestamp="1487574857067" />
       <file name="$USER_HOME$/work/code/gzc-h5/package.json" timestamp="1487938033324" />
       <file name="$USER_HOME$/work/code/gzc-h5/node_modules/vux/src/filters/friendly-time.js" timestamp="1487848819307" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/SortPopup.vue" timestamp="1487951155307">
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/SortPopup.vue" timestamp="1487952804555">
+        <mark key="[" line="6" column="76" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="8" column="17" />
-        <mark key="." line="33" column="0" />
+        <mark key="." line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/CategoryPopup.vue" timestamp="1487950168624">
-        <mark key="[" line="19" column="66" />
-        <mark key="]" line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-        <mark key="." line="19" column="65" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/CategoryPopup.vue" timestamp="1487952842674">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/work/code/vue_offical_doc/xiaoshu_hmr/webpack.config.js" timestamp="1487739404609">
         <mark key="[" line="4" column="19" />
@@ -185,11 +185,10 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/SlotPopupPicker.vue" timestamp="1487951913724">
-        <mark key="[" line="112" column="7" />
-        <mark key="]" line="111" column="7" />
-        <mark key="." line="111" column="7" />
-        <mark key="^" line="111" column="7" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/SlotPopupPicker.vue" timestamp="1487953378265">
+        <mark key="]" line="53" column="44" />
+        <mark key="." line="53" column="44" />
+        <mark key="^" line="53" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/vue_offical_doc/xiaoshu_hmr/output/index.html" timestamp="1487739395602" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_3.sql" timestamp="1487843895532">
@@ -291,6 +290,7 @@
         <mark key="." line="79" column="15" />
         <mark key="^" line="79" column="15" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/node_modules/vux/src/filters/value2name.js" timestamp="1487953204903" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" timestamp="1487661384148">
         <mark key="[" line="177" column="31" />
         <mark key="]" line="180" column="31" />
@@ -504,43 +504,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>getNameValues</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbXBvcnQgUG9wdXBQaWNrZXIgZnJvbSAndnV4L3NyYy9jb21wb25lbnRzL3BvcHVwLXBpY2tlcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOmRlZmF1bHRUaXRsZT0i5YiG57G7Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiBCb29sZWFuLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiB0cnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0NlbGw6IHsK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiBCb29sZWFuLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW5saW5lRGVzYzogW1N0cmluZywgTnVtYmVyLCBBcnJheSwgT2JqZWN0LCBCb29sZWFuXSwK</text>
+        <text encoding="base64">ICAgICAgc2hvd0NlbGw6IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGxhY2Vob2xkZXI6IFN0cmluZywK</text>
+        <text encoding="base64">ICAgICAgaW5saW5lRGVzYzogW1N0cmluZywgTnVtYmVyLCBBcnJheSwgT2JqZWN0LCBCb29sZWFuXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FuY2VsVGV4dDogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgcGxhY2Vob2xkZXI6IFN0cmluZywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlybVRleHQ6IFN0cmluZywK</text>
+        <text encoding="base64">ICAgICAgY2FuY2VsVGV4dDogU3RyaW5nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgY29uZmlybVRleHQ6IFN0cmluZywK</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
