@@ -32,6 +32,7 @@
       </file>
       <file name="$USER_HOME$/work/code/vux/src/demos/Pullup.vue" timestamp="1487823448403" />
       <file name="$USER_HOME$/work/code/gzc-h5/node_modules/vue-lazyload/src/lazy.js" timestamp="1487871642779" />
+      <file name="$USER_HOME$/work/code/gzc-h5/node_modules/vux/index.js" timestamp="1487907515381" />
       <file name="$USER_HOME$/work/images/dockers/ubuntu16/Dockerfile" timestamp="1487661470729" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/JobState.java" timestamp="1487842996931" />
       <file name="$USER_HOME$/work/images/dockers/mysql_linux/docker-compose-init-after-cp.yml" timestamp="1487574857067" />
@@ -39,6 +40,12 @@
         <mark key="[" line="49" column="104" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/node_modules/vux/src/filters/friendly-time.js" timestamp="1487848819307" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/CategoryPopup.vue" timestamp="1487910869792">
+        <mark key="[" line="123" column="35" />
+        <mark key="]" line="123" column="33" />
+        <mark key="^" line="123" column="33" />
+        <mark key="." line="123" column="33" />
+      </file>
       <file name="$USER_HOME$/work/code/vue_offical_doc/xiaoshu_hmr/webpack.config.js" timestamp="1487739404609">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="28" />
@@ -58,6 +65,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="43" column="24" />
       </file>
+      <file name="$USER_HOME$/work/code/vux/src/components/popup-picker/index.vue" timestamp="1487907862199" />
       <file name="$USER_HOME$/work/code/vux/src/demos/PulldownPullup.vue" timestamp="1487825005067" />
       <file name="$USER_HOME$/work/code/vue_offical_doc/index.html" timestamp="1487678584722">
         <mark key="[" line="171" column="9" />
@@ -66,6 +74,12 @@
         <mark key="^" line="170" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1487567834946" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/DistrictArea.vue" timestamp="1487908598877">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/work/code/vue_offical_doc/xiaoshu_hmr/output/index.html" timestamp="1487739395602" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1487563017676">
         <mark key="[" line="250" column="51" />
@@ -76,19 +90,33 @@
       <file name="$USER_HOME$/work/images/dockers/mysql_linux/Dockerfile" timestamp="1487575386491" />
       <file name="$USER_HOME$/work/code/vux/src/demos/Scroller.vue" timestamp="1487821782916" />
       <file name="$USER_HOME$/work/code/vux/src/demos/Pulldown.vue" timestamp="1487817740435" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/Address.vue" timestamp="1487908481199">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobList.vue" timestamp="1487838836855">
         <mark key="[" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/work/code/vue_offical_doc/my-project/webpack.config.js" timestamp="1487734326332" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/components/IndexJobList.vue" timestamp="1487849324961">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/components/IndexJobList.vue" timestamp="1487909947248">
         <mark key="[" line="54" column="47" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/vux/src/components/x-address/index.vue" timestamp="1487906344912" />
+      <file name="$USER_HOME$/work/code/vux/src/components/x-address/index.vue" timestamp="1487907785284" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobManaController.java" timestamp="1487564476204">
         <mark key="[" line="570" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_conf/hosts/gzc/wechat.conf" timestamp="1487661684557">
+        <mark key="'" line="100" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="100" column="1" />
+        <mark key="^" line="100" column="1" />
+        <mark key="." line="100" column="1" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/demo/child.vue" timestamp="1487753756667">
         <mark key="[" line="1" column="1" />
@@ -146,12 +174,15 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="41" column="16" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1487837859416">
-        <mark key="[" line="77" column="37" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1487910481185">
+        <mark key="[" line="65" column="1" />
       </file>
       <file name="$USER_HOME$/work/code/vue_offical_doc/xiaoshu/bundle.js" timestamp="1487735763618" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/Demo2.vue" timestamp="1487907047734">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/Demo2.vue" timestamp="1487907442923">
         <mark key="[" line="9" column="4" />
+        <mark key="]" line="5" column="80" />
+        <mark key="^" line="5" column="80" />
+        <mark key="." line="5" column="80" />
       </file>
       <file name="$USER_HOME$/work/code/crm-impr/GZC_B/Content/crm_fix/WebUI/src/ICCoreLite.js" timestamp="1486976768593">
         <mark key="[" line="1610" column="31" />
@@ -162,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="21" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" />
       <jump line="13" column="64" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/xx.js" />
       <jump line="9" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/xx.js" />
       <jump line="10" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/xx.js" />
@@ -262,6 +292,7 @@
       <jump line="3" column="1" filename="$USER_HOME$/work/code/vue_offical_doc/b.css" />
       <jump line="5" column="7" filename="$USER_HOME$/work/code/vue_offical_doc/xiaoshu/main.html" />
       <jump line="9" column="13" filename="$USER_HOME$/work/code/gzc-h5/src/pages/demo/ListXxx.vue" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/code/gzc-h5/src/components/Address.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -276,44 +307,44 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>src</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>mounted</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbXBvcnQgU3Bpbm5lciBmcm9tICd2dXgvc3JjL2NvbXBvbmVudHMvc3Bpbm5lcicK</text>
+        <text encoding="base64">ICAgICAgLi4ubWFwQWN0aW9ucyhbJ2dldENhdGVnb3J5J10pLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5tb2RlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/  /\n/g</text>
