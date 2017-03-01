@@ -46,6 +46,9 @@
         <mark key="^" line="41" column="92" />
         <mark key="." line="41" column="92" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/components/QzJobs.vue" timestamp="1488366530745">
+        <mark key="[" line="5" column="125" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/mysql_auto_bak/Makefile" timestamp="1487266247643">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="7" column="41" />
@@ -232,12 +235,7 @@
       </file>
       <file name="$USER_HOME$/work/code/vux/src/demos/Scroller.vue" timestamp="1488274017233" />
       <file name="$USER_HOME$/work/code/vux/src/demos/Toast.vue" timestamp="1488351939560" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobList.vue" timestamp="1488364205639">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="191" column="28" />
-        <mark key="." line="191" column="28" />
-        <mark key="^" line="191" column="28" />
-      </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobList.vue" timestamp="1488366328032" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1488019274464">
         <mark key="[" line="434" column="19" />
         <mark key="]" line="434" column="28" />
@@ -405,10 +403,10 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/JobList.vue" timestamp="1488363911705">
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="37" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/JobList.vue" timestamp="1488365820850">
+        <mark key="]" line="114" column="17" />
+        <mark key="." line="114" column="17" />
+        <mark key="^" line="114" column="17" />
       </file>
       <file name="/a.regexp" timestamp="1488351474616">
         <mark key="[" line="0" column="0" />
@@ -569,11 +567,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBDTEVBTl9EQVRBX0VWRU5UID0gJ2NsZWFuLWRhdGEnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>RESET_JOB_LIST_EVENT</text>
       </register>
       <register name="-" type="4">
-        <text>beforeMount</text>
+        <text>RESET_JOB_LIST_EVENT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
