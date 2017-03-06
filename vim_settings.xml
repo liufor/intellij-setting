@@ -192,7 +192,7 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/Enter.vue" timestamp="1488197090902" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/assets/js/index/index.js" timestamp="1488599290944" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1488790381182">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1488790845941">
         <mark key="[" line="126" column="5" />
         <mark key="]" line="241" column="29" />
         <mark key="^" line="241" column="29" />
@@ -203,6 +203,12 @@
         <mark key="]" line="23" column="13" />
         <mark key="^" line="23" column="13" />
         <mark key="." line="23" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator2/generatorConfig.xml" timestamp="1488791234449">
+        <mark key="[" line="46" column="58" />
+        <mark key="]" line="46" column="58" />
+        <mark key="^" line="46" column="37" />
+        <mark key="." line="46" column="58" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/yyyy.css" timestamp="1487416934973">
         <mark key="[" line="0" column="0" />
@@ -277,7 +283,7 @@
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1488789830985">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1488790809471">
         <mark key="[" line="127" column="4" />
         <mark key="]" line="250" column="83" />
         <mark key="^" line="250" column="83" />
@@ -370,7 +376,12 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat.server" timestamp="1488537163060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator2/generator.properties" timestamp="1488789691283" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator2/generator.properties" timestamp="1488792139129">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+      </file>
       <file name="$USER_HOME$/work/code/vue_offical_doc/ninja/index6.html" timestamp="1488614976857">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="20" column="24" />
@@ -446,6 +457,7 @@
         <mark key="^" line="49" column="24" />
         <mark key="." line="49" column="24" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1488791673803" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/test/hosts/test/wechat.server" timestamp="1488537156621">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="30" />
@@ -473,6 +485,9 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/myComponent.vue" timestamp="1487936367892">
         <mark key="[" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/pom.xml" timestamp="1488791917185">
+        <mark key="[" line="330" column="78" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/BaseController.java" timestamp="1488507035281">
         <mark key="[" line="240" column="21" />
@@ -684,11 +699,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc29tZURhdGEgPSByCg==</text>
+      <register name="&quot;" type="4">
+        <text>EmployeeEntity</text>
       </register>
       <register name="-" type="4">
-        <text>Cache</text>
+        <text>EmployeeEntity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -697,31 +712,31 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnF6LnBhZ2UgPSB0aGlzLnF6LnBhZ2UgKyAxOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc29tZURhdGEgPSByCg==</text>
+        <text encoding="base64">dGFyZ2V0UmVzb3VyY2VzUHJvamVjdD0ke2Jhc2VkaXJ9L3NyYy9tYWluL3Jlc291cmNlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBSZXF1ZXN0LSR7d2luZG93LnJlcXVlc3RJZH0sJHtwcm9wZXJ0eX0sJHtKU09OLnN0cmluZ2lmeShwYXJhbXNDbG9uZSl9YCkK</text>
+        <text encoding="base64">ICAgIHRoaXMuc29tZURhdGEgPSByCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBSZXF1ZXN0LSR7d2luZG93LnJlcXVlc3RJZH0sJHtwcm9wZXJ0eX0sJHtKU09OLnN0cmluZ2lmeShwYXJhbXNDbG9uZSl9YCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRNb3JlUXooKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSW50OEFycmF5Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRNb3JlUXooKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgCg==</text>
+        <text encoding="base64">ICAgICAgSW50OEFycmF5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICB2YXIgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnh4eHg7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBOaW5qYS5wcm90b3R5cGUuaGFoYWg9ZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnh4eHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
