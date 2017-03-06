@@ -160,11 +160,11 @@
         <mark key="^" line="4" column="36" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/modules/home.js" timestamp="1488278924168" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/ResumeGrabService.java" timestamp="1488813908207">
-        <mark key="[" line="23" column="60" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="26" column="24" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/ResumeGrabService.java" timestamp="1488815398795">
+        <mark key="[" line="313" column="5" />
+        <mark key="]" line="227" column="65" />
+        <mark key="." line="227" column="65" />
+        <mark key="^" line="227" column="65" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/demo/ListXxx.vue" timestamp="1487836015742">
         <mark key="[" line="36" column="14" />
@@ -207,7 +207,7 @@
         <mark key="^" line="23" column="13" />
         <mark key="." line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator2/generatorConfig.xml" timestamp="1488813987674">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator2/generatorConfig.xml" timestamp="1488814041443">
         <mark key="[" line="73" column="60" />
         <mark key="]" line="73" column="60" />
         <mark key="^" line="73" column="74" />
@@ -263,7 +263,7 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/detail.vue" timestamp="1488189698380" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/main.js" timestamp="1488443917309" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/logback-spring.xml" timestamp="1488459176898" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/Type/FindJobType.java" timestamp="1488803252990" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/Type/FindJobType.java" timestamp="1488814287748" />
       <file name="$USER_HOME$/work/code/vue_offical_doc/xiaoshu/a.js" timestamp="1487736439899">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="8" />
@@ -526,6 +526,12 @@
         <mark key="." line="9" column="94" />
       </file>
       <file name="$USER_HOME$/work/code/vux/src/demos/Sticky.vue" timestamp="1488161345674" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/ResumeSourceType.java" timestamp="1488815309523">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_scripts/mysql_backup/1.sh" timestamp="1487317967164">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="8" column="17" />
@@ -592,7 +598,7 @@
         <mark key="^" line="55" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/vue-hackernews-2.0/src/components/Comment.vue" timestamp="1488443108986" />
-      <file name="/fragment.java" timestamp="1488789331393">
+      <file name="/fragment.java" timestamp="1488815275511">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -712,10 +718,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>FindjobPostWorkExperienceEntity</text>
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>FindjobPostWorkExperienceEntity</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -724,28 +730,28 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1hcDxTdHJpbmcsIEpvYkNhdGVUeXBlPiBqb2JDYXRlTWFwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JDYXRlVHlwZS4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGFtcGxlLmNyZWF0ZUNyaXRlcmlhKCkK</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2F0ZWdvcnlNYWphcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKb2JDYXRlVHlwZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBleGFtcGxlLmNyZWF0ZUNyaXRlcmlhKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JDYXRlVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
