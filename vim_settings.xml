@@ -174,11 +174,11 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/ResumeGrabService.java" timestamp="1488886795651">
-        <mark key="[" line="61" column="23" />
-        <mark key="]" line="61" column="22" />
-        <mark key="." line="61" column="22" />
-        <mark key="^" line="61" column="22" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/ResumeGrabService.java" timestamp="1488888839266">
+        <mark key="[" line="187" column="27" />
+        <mark key="]" line="181" column="65" />
+        <mark key="." line="181" column="65" />
+        <mark key="^" line="181" column="65" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/demo/ListXxx.vue" timestamp="1487836015742">
         <mark key="[" line="36" column="14" />
@@ -460,6 +460,7 @@
         <mark key="." line="79" column="15" />
         <mark key="^" line="79" column="15" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Enum.java" timestamp="1488888742617" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" timestamp="1487661384148">
         <mark key="[" line="177" column="31" />
         <mark key="]" line="180" column="31" />
@@ -475,7 +476,10 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/JobDataItem.vue" timestamp="1488346875135">
         <mark key="[" line="36" column="49" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" timestamp="1488867643635" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" timestamp="1488887830215">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="44" column="26" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_scripts/mysql_backup/restore.sh" timestamp="1487331497571">
         <mark key="[" line="44" column="9" />
         <mark key="]" line="80" column="0" />
@@ -578,11 +582,12 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1488370250963">
         <mark key="[" line="65" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_1.sql" timestamp="1488886529932">
-        <mark key="[" line="171" column="8" />
-        <mark key="]" line="177" column="25" />
-        <mark key="." line="177" column="25" />
-        <mark key="^" line="177" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_1.sql" timestamp="1488889910403">
+        <mark key="'" line="603" column="0" />
+        <mark key="[" line="573" column="14" />
+        <mark key="]" line="574" column="0" />
+        <mark key="^" line="574" column="0" />
+        <mark key="." line="574" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/mysql5.6/docker-compose.yml" timestamp="1487238091881">
         <mark key="[" line="10" column="10" />
@@ -625,8 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="92" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobManaController.java" />
-      <jump line="36" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
       <jump line="38" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
       <jump line="38" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console_7.sql" />
       <jump line="30" column="63" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console_8.sql" />
@@ -725,6 +728,8 @@
       <jump line="0" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_4.sql" />
       <jump line="80" column="92" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console.sql" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_6.sql" />
+      <jump line="182" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_1.sql" />
+      <jump line="600" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_1.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -739,44 +744,71 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      <register name="&quot;" type="4">
+        <text>animals</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>animals</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDQVRFR09SWV9NQUpPUl9DQUNIRV9OQU1FID0gImRhb3J1X2NhdGVnb3J5X21ham9yIjsK</text>
+      <register name="0" type="8">
+        <text>bj&quot;
+sh&quot;
+gz&quot;
+sz&quot;
+tj&quot;
+cq&quot;
+wh&quot;
+cd&quot;
+hz&quot;
+zz&quot;
+jn&quot;
+xa&quot;
+dl&quot;
+fz&quot;
+nn&quot;
+dg&quot;
+xm&quot;
+wx&quot;
+qd&quot;
+ty&quot;
+sjz
+nj&quot;
+hf&quot;
+su&quot;
+cc&quot;
+cs&quot;
+hrb
+sy&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtICBEZFN0YXRlewogICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICDjgIEqKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmQuc2V0TWFqb3JDYXRlZ29yeShjYXRlZ29yeUlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUIAo=</text>
+        <text encoding="base64">ICAgICAgICAvKjgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBXSEVSRSBmaW5kam9iX2NhdGVnb3J5PSAxMwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGpuOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZGpvYlBvc3QuCg==</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIGJqOwo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
