@@ -139,12 +139,12 @@
         <mark key="^" line="221" column="57" />
         <mark key="." line="221" column="57" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_scripts/findjob_post_load/load_1_city.sh" timestamp="1489493889107">
-        <mark key="[" line="99" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_scripts/findjob_post_load/load_1_city.sh" timestamp="1489563485081">
+        <mark key="[" line="101" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1489459070234">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1489562627116">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/logback-spring.xml" timestamp="1488855451385">
@@ -196,11 +196,12 @@
         <mark key="^" line="49" column="15" />
         <mark key="." line="49" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_2.sql" timestamp="1489549251556">
-        <mark key="[" line="30" column="29" />
-        <mark key="]" line="40" column="36" />
-        <mark key="^" line="40" column="36" />
-        <mark key="." line="40" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_2.sql" timestamp="1489563178726">
+        <mark key="'" line="56" column="3" />
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="86" column="1" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_7.sql" timestamp="1489150532388">
         <mark key="[" line="15" column="20" />
@@ -705,6 +706,13 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_1.sql" timestamp="1488960454168">
+        <mark key="'" line="669" column="0" />
+        <mark key="[" line="370" column="41" />
+        <mark key="]" line="370" column="41" />
+        <mark key="." line="370" column="24" />
+        <mark key="^" line="370" column="41" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/mysql5.6/docker-compose.yml" timestamp="1487238091881">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="11" column="20" />
@@ -739,8 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="63" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console_8.sql" />
-      <jump line="153" column="4" filename="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/StringUtil.java" />
       <jump line="271" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" />
       <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console_11.sql" />
       <jump line="68" column="61" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/PoiService.java" />
@@ -839,25 +845,23 @@
       <jump line="600" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_1.sql" />
       <jump line="147" column="11" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" />
       <jump line="97" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_9.sql" />
+      <jump line="58" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_2.sql" />
+      <jump line="56" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_2.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
           <key char="65" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>finjob_period</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JycK</text>
       </register>
       <register name="-" type="4">
-        <text>finjob_period</text>
+        <text>where</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -866,15 +870,27 @@
         <text encoding="base64">ICAgIEFERCBDT0xVTU4gY29tbW9kaXR5X3BhY2thZ2VfaWQgSU5UIE5PVCBOVUxMIENPTU1FTlQgJ2NvbW1vZGl0eV9wYWNrYWdlLmlkJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFdIRU4gOSBUSEVOIAo=</text>
+        <text encoding="base64">JycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JycK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">b3IK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">R1JPVVAgQlkgZmluZGpvYl9mdWxsdGltZV91cmw7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFdIRU4gOSBUSEVOIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICwK</text>
       </register>
-      <register name="4" type="8">
+      <register name="8" type="8">
         <text>, 0);//
 , 0);//
 , 5);//
@@ -886,7 +902,7 @@
 , 1);//
 , 0);//</text>
       </register>
-      <register name="5" type="8">
+      <register name="9" type="8">
         <text>put(
 put(
 put(
@@ -897,27 +913,6 @@ put(
 put(
 put(
 put(</text>
-      </register>
-      <register name="6" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIENBU0UgcDFFIHAxCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmV3cml0ZSAvICAgICAgIC92Mi9pbmRleC5odG1sIHBlcm1hbmVudDsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">cmV3cml0ZSAvICAgICAgIC92Mi9pbmRleC5odG1sIHBlcm1hbmVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
