@@ -9,6 +9,7 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/search/SearchService.java" timestamp="1489651571012" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/city_category.map" timestamp="1489491834679">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="0" />
@@ -702,7 +703,7 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="/a.regexp" timestamp="1489636061543">
+      <file name="/a.regexp" timestamp="1489651338158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/mysql_auto_bak/Dockerfile" timestamp="1487267159556">
@@ -750,11 +751,16 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/VerifyController.java" timestamp="1489061995777">
         <mark key="[" line="128" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.0.3.RELEASE/spring-data-elasticsearch-2.0.3.RELEASE-sources.jar!/org/springframework/data/elasticsearch/core/ElasticsearchTemplate.java" timestamp="1489652006936" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/mutation-types.js" timestamp="1489220329783">
         <mark key="[" line="47" column="56" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1489646622768">
-        <mark key="[" line="225" column="5" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1489652706538">
+        <mark key="'" line="280" column="35" />
+        <mark key="[" line="351" column="56" />
+        <mark key="]" line="351" column="13" />
+        <mark key="." line="351" column="13" />
+        <mark key="^" line="351" column="13" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/CrmFixController.java" timestamp="1486987405449">
         <mark key="[" line="52" column="48" />
@@ -767,7 +773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" />
       <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console_11.sql" />
       <jump line="68" column="61" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/PoiService.java" />
       <jump line="12" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
@@ -867,6 +872,7 @@
       <jump line="97" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_9.sql" />
       <jump line="58" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_2.sql" />
       <jump line="56" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_2.sql" />
+      <jump line="280" column="35" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -878,10 +884,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB7cGF0aDogJ2xpbGkvcGFnZScsIG5hbWU6ICdsaWxpUGFnZScsY29tcG9uZW50OiBQYWdlU2xpZGVyfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhc1JlY29yZHMK</text>
       </register>
       <register name="-" type="4">
-        <text>jobDetail</text>
+        <text>hasRecords</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -890,31 +896,31 @@
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii4vanMvUGFnZVNsaWRlci5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7cGF0aDogJ2xpbGkvcGFnZScsIG5hbWU6ICdsaWxpUGFnZScsY29tcG9uZW50OiBQYWdlU2xpZGVyfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhc1JlY29yZHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAnLi8uLi9hc3NldHMvUGFnZVNsaWRlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGhhc1JlY29yZHMgPSB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS93ZWl4aW4vUGFnZVNsaWRlci9tYXN0ZXIvc3JjL3plcHRvLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIGVhcmNoVGVtcGxhdGUuZGVsZXRlKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlci5zZXQK</text>
+        <text encoding="base64">ICB7cGF0aDogJ2xpbGkvcGFnZScsIG5hbWU6ICdsaWxpUGFnZScsY29tcG9uZW50OiBQYWdlU2xpZGVyfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCAnLi8uLi9hc3NldHMvUGFnZVNsaWRlcic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS93ZWl4aW4vUGFnZVNsaWRlci9tYXN0ZXIvc3JjL3plcHRvLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlci5zZXQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
