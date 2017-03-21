@@ -85,7 +85,7 @@
         <mark key="." line="5" column="46" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/components/IndexJobList.vue" timestamp="1490087288438">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/components/IndexJobList.vue" timestamp="1490088394836">
         <mark key="[" line="16" column="50" />
         <mark key="]" line="158" column="20" />
         <mark key="^" line="158" column="20" />
@@ -131,7 +131,12 @@
       <file name="/a.regexp" timestamp="1490013789120">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/JobList.vue" timestamp="1490086395277" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/JobList.vue" timestamp="1490088426060">
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="25" column="54" />
+        <mark key="^" line="25" column="65" />
+        <mark key="." line="25" column="54" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.0.3.RELEASE/spring-data-elasticsearch-2.0.3.RELEASE-sources.jar!/org/springframework/data/elasticsearch/core/ElasticsearchTemplate.java" timestamp="1489652006936" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/mutation-types.js" timestamp="1489220329783">
         <mark key="[" line="47" column="56" />
@@ -383,11 +388,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuYWJsZUxvYWRpbmc6dHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>selectedQz</text>
       </register>
       <register name="-" type="4">
-        <text>jz.enableLoading</text>
+        <text>selectedQz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
