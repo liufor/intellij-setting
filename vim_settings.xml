@@ -111,6 +111,7 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/category/catePage.html" timestamp="1489662103524">
         <mark key="[" line="63" column="60" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/BaseController.java" timestamp="1490260949582" />
       <file name="/JobSearchService.java" timestamp="1490013365263" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1490065615585" />
       <file name="$USER_HOME$/work/code/vue_offical_doc/ninja/assert.css" timestamp="1488523138840">
@@ -131,11 +132,11 @@
       <file name="/Dummy.txt" timestamp="1489377293557">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/common/mvc/SearchFilterBuilder.java" timestamp="1490259593192">
-        <mark key="[" line="487" column="64" />
-        <mark key="]" line="487" column="64" />
-        <mark key="^" line="487" column="71" />
-        <mark key="." line="487" column="64" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/common/mvc/SearchFilterBuilder.java" timestamp="1490263059333">
+        <mark key="[" line="528" column="0" />
+        <mark key="]" line="533" column="11" />
+        <mark key="^" line="533" column="11" />
+        <mark key="." line="533" column="11" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/contract/createOrder.jsp" timestamp="1490000017460">
         <mark key="[" line="454" column="72" />
@@ -151,7 +152,7 @@
         <mark key="^" line="9" column="94" />
         <mark key="." line="9" column="94" />
       </file>
-      <file name="/a.regexp" timestamp="1490260236493">
+      <file name="/a.regexp" timestamp="1490262230541">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/JobList.vue" timestamp="1490236848917">
@@ -165,7 +166,7 @@
         <mark key="[" line="47" column="56" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/node_modules/vue-infinite-loading/src/components/InfiniteLoading.vue" timestamp="1490180393037" />
-      <file name="/fragment.java" timestamp="1490066446383">
+      <file name="/fragment.java" timestamp="1490262972371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/index.html" timestamp="1489662126605">
@@ -202,6 +203,7 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/map/index.html" timestamp="1489662091287">
         <mark key="[" line="299" column="77" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/config/ShiroConfiguration.java" timestamp="1490262654702" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/common/mvc/method/annotation/SearchModelConfig.java" timestamp="1489472055401">
         <mark key="[" line="66" column="42" />
       </file>
@@ -274,7 +276,7 @@
       </file>
       <file name="$USER_HOME$/work/images/dockers/jhipster-console/jhipster-console/dashboards/visualization/error-count.json" timestamp="1490011335725" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobBaseController.java" timestamp="1489656041422" />
-      <file name="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/security/shiro/filter/AppAnyRolesFilter.java" timestamp="1490260289880" />
+      <file name="$USER_HOME$/work/code/wanmei-party-management/src/main/java/cn/wanmei/party/management/security/shiro/filter/AppAnyRolesFilter.java" timestamp="1490261963809" />
       <file name="$USER_HOME$/conf/nginx/hosts/production/wechat.server" timestamp="1489980411234">
         <mark key="[" line="91" column="5" />
         <mark key="]" line="15" column="33" />
@@ -294,6 +296,9 @@
         <mark key="]" line="1124" column="74" />
         <mark key="." line="1124" column="74" />
         <mark key="^" line="1124" column="74" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/manage/HomeController.java" timestamp="1490262220340">
+        <mark key="[" line="35" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/CommodityPackagesDto.java" timestamp="1490015496010" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_10.sql" timestamp="1490242213185">
@@ -441,10 +446,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getEmployeeIds</text>
+        <text>final</text>
       </register>
       <register name="-" type="4">
-        <text>getEmployeeIds</text>
+        <text>final</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
