@@ -34,7 +34,7 @@
         <entry key="automake" value="1.15" />
         <entry key="automat" value="0.5.0" />
         <entry key="azure" value="1.0.2" />
-        <entry key="babel" value="2.3.4" />
+        <entry key="babel" value="2.4.0" />
         <entry key="backports" value="1.0" />
         <entry key="backports_abc" value="0.5" />
         <entry key="basemap" value="1.0.7" />
@@ -60,7 +60,7 @@
         <entry key="bootstrap_static" value="3.3.1" />
         <entry key="boto" value="2.46.1" />
         <entry key="boto3" value="1.4.4" />
-        <entry key="botocore" value="1.5.26" />
+        <entry key="botocore" value="1.5.31" />
         <entry key="bottlechest" value="0.7.1" />
         <entry key="bottleneck" value="1.2.0" />
         <entry key="bsddb" value="1.0" />
@@ -106,7 +106,7 @@
         <entry key="configobj" value="5.0.6" />
         <entry key="configparser" value="3.5.0" />
         <entry key="constantly" value="15.1.0" />
-        <entry key="constructor" value="1.5.4" />
+        <entry key="constructor" value="1.5.5" />
         <entry key="contextlib2" value="0.5.4" />
         <entry key="continuum-docs" value="2.0.8" />
         <entry key="cookies" value="2.2.1" />
@@ -289,6 +289,7 @@
         <entry key="libtiff" value="4.0.6" />
         <entry key="libtool" value="2.4.2" />
         <entry key="libwebp" value="0.5.0" />
+        <entry key="libxgboost" value="0.60" />
         <entry key="libxml2" value="2.9.4" />
         <entry key="libxslt" value="1.1.29" />
         <entry key="lighttpd" value="1.4.39" />
@@ -306,7 +307,7 @@
         <entry key="lzo" value="2.06" />
         <entry key="m4" value="1.4.17" />
         <entry key="mako" value="1.0.6" />
-        <entry key="markdown" value="2.6.7" />
+        <entry key="markdown" value="2.6.8" />
         <entry key="markdown2" value="2.3.3" />
         <entry key="markupsafe" value="0.23" />
         <entry key="mathjax" value="2.2" />
@@ -435,6 +436,7 @@
         <entry key="psycopg2" value="2.7.1" />
         <entry key="ptyprocess" value="0.5.1" />
         <entry key="py" value="1.4.33" />
+        <entry key="py-xgboost" value="0.60" />
         <entry key="pyamg" value="2.2.1" />
         <entry key="pyasn1" value="0.2.3" />
         <entry key="pyasn1-modules" value="0.0.8" />
@@ -497,7 +499,8 @@
         <entry key="python-snappy" value="0.5" />
         <entry key="python-sybase" value="0.40" />
         <entry key="python.app" value="1.2" />
-        <entry key="pytz" value="2016.10" />
+        <entry key="pytz" value="2017.2" />
+        <entry key="pywavelets" value="0.5.2" />
         <entry key="pywget" value="2.2" />
         <entry key="pyyaml" value="3.12" />
         <entry key="pyzmq" value="16.0.2" />
@@ -527,7 +530,7 @@
         <entry key="sas7bdat" value="2.0.7" />
         <entry key="scandir" value="1.5" />
         <entry key="scikit-bio" value="0.5.1" />
-        <entry key="scikit-image" value="0.12.3" />
+        <entry key="scikit-image" value="0.13.0" />
         <entry key="scikit-learn" value="0.18.1" />
         <entry key="scikit-rf" value="0.14.3" />
         <entry key="scikits-image" value="0.7.1" />
@@ -615,7 +618,7 @@
         <entry key="visvis" value="1.8" />
         <entry key="vtk" value="6.3.0" />
         <entry key="w3lib" value="1.17.0" />
-        <entry key="waitress" value="0.9.0" />
+        <entry key="waitress" value="1.0.2" />
         <entry key="wakaridata" value="1.0" />
         <entry key="wcwidth" value="0.1.7" />
         <entry key="webob" value="1.6.1" />
@@ -1058,6 +1061,7 @@
               <option value="2.3.3" />
               <option value="2.1.1" />
               <option value="2.3.4" />
+              <option value="2.4.0" />
             </list>
           </value>
         </entry>
@@ -1416,6 +1420,7 @@
               <option value="1.4.90" />
               <option value="1.5.19" />
               <option value="1.5.26" />
+              <option value="1.5.31" />
             </list>
           </value>
         </entry>
@@ -2081,6 +2086,7 @@
               <option value="1.5.2" />
               <option value="1.5.3" />
               <option value="1.5.4" />
+              <option value="1.5.5" />
             </list>
           </value>
         </entry>
@@ -3921,6 +3927,13 @@
             </list>
           </value>
         </entry>
+        <entry key="libxgboost">
+          <value>
+            <list>
+              <option value="0.60" />
+            </list>
+          </value>
+        </entry>
         <entry key="libxml2">
           <value>
             <list>
@@ -4128,6 +4141,7 @@
               <option value="2.4" />
               <option value="2.6" />
               <option value="2.6.7" />
+              <option value="2.6.8" />
             </list>
           </value>
         </entry>
@@ -5537,6 +5551,13 @@
             </list>
           </value>
         </entry>
+        <entry key="py-xgboost">
+          <value>
+            <list>
+              <option value="0.60" />
+            </list>
+          </value>
+        </entry>
         <entry key="pyamg">
           <value>
             <list>
@@ -6169,6 +6190,14 @@
               <option value="2016.6.1" />
               <option value="2016.7" />
               <option value="2016.10" />
+              <option value="2017.2" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pywavelets">
+          <value>
+            <list>
+              <option value="0.5.2" />
             </list>
           </value>
         </entry>
@@ -6504,6 +6533,7 @@
               <option value="0.7.2" />
               <option value="0.8.0" />
               <option value="0.9.1" />
+              <option value="0.13.0" />
             </list>
           </value>
         </entry>
@@ -7484,6 +7514,7 @@
             <list>
               <option value="0.8.9" />
               <option value="0.9.0" />
+              <option value="1.0.2" />
             </list>
           </value>
         </entry>
@@ -7868,6 +7899,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1490844156523" />
+    <option name="LAST_TIME_CHECKED" value="1490950680050" />
   </component>
 </application>
