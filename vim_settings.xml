@@ -350,10 +350,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/assets/angular-ui/ui-bootstrap-tpls.min.js" timestamp="1489999303239">
         <mark key="[" line="9" column="22702" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_mp/vendor/gzc/index.js" timestamp="1491037542206">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_mp/vendor/gzc/index.js" timestamp="1491042619814">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/resources/js/mod/map/addMarker.js" timestamp="1488599251633">
         <mark key="[" line="121" column="125" />
@@ -414,10 +415,6 @@
         <mark key="]" line="123" column="25" />
         <mark key="^" line="123" column="25" />
         <mark key="." line="123" column="25" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc-pc/package.json" timestamp="1490607055319">
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="28" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/LeaderAuditState.java" timestamp="1489579003711">
         <mark key="[" line="13" column="27" />
@@ -583,6 +580,12 @@
         <mark key="]" line="40" column="45" />
         <mark key="." line="40" column="45" />
         <mark key="^" line="40" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_mp/vendor/gzc/api.js" timestamp="1491042732916">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat.server" timestamp="1489647400060">
         <mark key="[" line="0" column="0" />
@@ -1027,11 +1030,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>this.isMeicai(job.getJobSource())</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -1040,31 +1043,39 @@
         <text encoding="base64">ICAgICAgICAgICAgZGFucGlucy5hZGQoYzEwMjMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBsamggb24gMTcvNC8xLgo=</text>
+      <register name="2" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Y29uc3QgbG9naW49IHJlcXUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHRleHQ+cGFnZXMvam9ibGlzdC9kZXRhaWwud3htbDwvdGV4dD4K</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8aW5wdXQgdi1tb2RlbD0icGFyZW50TXNnIj4K</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBsamggb24gMTcvNC8xLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8YnI+Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8Y2hpbGQgdi1iaW5kOm15LW1lc3NhZ2U9InBhcmVudE1zZyI+PC9jaGlsZD4K</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBsamggb24gMTcvNC8xLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>1259</text>
