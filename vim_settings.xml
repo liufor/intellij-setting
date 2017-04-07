@@ -50,6 +50,7 @@
       <file name="$USER_HOME$/work/code/gzc-h5/build/webpack.base.conf.js" timestamp="1489636955692">
         <mark key="[" line="57" column="11" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/resume_mapping.json" timestamp="1491533406171" />
       <file name="/a.sql" timestamp="1490326575175">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,8 +203,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1489373524414">
         <mark key="[" line="126" column="5" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/jhipster-console/docker-compose.yml" timestamp="1491484407069">
+      <file name="$USER_HOME$/work/images/dockers/jhipster-console/docker-compose.yml" timestamp="1491533184491">
         <mark key="[" line="57" column="40" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/activity/jobs/det_gap.html" timestamp="1489662059984">
         <mark key="[" line="200" column="77" />
@@ -217,11 +221,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-model/src/main/java/com/gongzuochong/search/model/EmployerInfo.java" timestamp="1491473925147" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1491381398176" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/LoginInterceptor.java" timestamp="1491374663688" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/reindex.sh" timestamp="1491475244492">
-        <mark key="[" line="187" column="14" />
-        <mark key="]" line="189" column="13" />
-        <mark key="." line="189" column="13" />
-        <mark key="^" line="189" column="13" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/reindex.sh" timestamp="1491534966924">
+        <mark key="[" line="221" column="32" />
+        <mark key="]" line="94" column="25" />
+        <mark key="^" line="94" column="25" />
+        <mark key="." line="94" column="25" />
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/wechat.server" timestamp="1491395781597">
         <mark key="[" line="11" column="4" />
@@ -376,7 +380,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb25nenVvY2hvbmcud2ViLmJhc2UuR3pjUmVxdWVzdE1hcHBpbmdIYW5kbGVyTWFwcGluZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VybCAtWFBVVCAgJHtlc30vJHt0X2NpdHl9L19hbGlhcy8ke2FfY2l0eX0gO2VjaG8K</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -388,31 +392,31 @@
         <text encoding="base64">ICAgIFRTX05BTUU6VFNfVkFMVUUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb25nenVvY2hvbmcud2ViLmJhc2UuR3pjUmVxdWVzdE1hcHBpbmdIYW5kbGVyTWFwcGluZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VybCAtWFBVVCAgJHtlc30vJHt0X2NpdHl9L19hbGlhcy8ke2FfY2l0eX0gO2VjaG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi5TdHJpbmdzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VybCAtWFBVVCAke2VzfS8ke3RfY2l0eX0gO2VjaG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBAey0xfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VybCAtWFBVVCAke2VzfS8ke3RfY2l0eX0gO2VjaG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb25nenVvY2hvbmcud2ViLmJhc2UuR3pjUmVxdWVzdE1hcHBpbmdIYW5kbGVyTWFwcGluZzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi5TdHJpbmdzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAg5a6e546w57uG6IqCOuWmguaenOaYr29iamVjdCzliJnku6XvvJ3lj7fov57mjqVrZXnjgIF2YWx1ZeOAguWQpuiAhUpTT04uc3RyaW5naWZ5Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBAey0xfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAg5bCG5pe26Ze05oiz5ZKM5ZOI5biM57uT5p6c6YCa6L+HaGVhZGVy5Lyg6YCB5Yiw5ZCO5Y+wCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAg5pe26Ze05oiz44CBY29uZmlnLnVybCtjb25maWcucGFyYW1z44CBc2FsdCDku6UgJiDov57mjqXlkI4gc2hhMjU2IOWTiOW4jC4K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgbWFwaeWKoOWvhi4K</text>
+        <text encoding="base64">ICAg5a6e546w57uG6IqCOuWmguaenOaYr29iamVjdCzliJnku6XvvJ3lj7fov57mjqVrZXnjgIF2YWx1ZeOAguWQpuiAhUpTT04uc3RyaW5naWZ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1259</text>
