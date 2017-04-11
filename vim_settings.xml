@@ -57,6 +57,9 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="37" column="14" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/test/hosts/test/wechat.rewrite" timestamp="1491906564156">
+        <mark key="[" line="11" column="33" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/package.json" timestamp="1490604014578">
         <mark key="[" line="24" column="24" />
       </file>
@@ -142,6 +145,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1490359602434">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/config/WebConfigurer.java" timestamp="1491906203018">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/activity/jobs/det_gap.html" timestamp="1489662059984">
         <mark key="[" line="200" column="77" />
       </file>
@@ -157,11 +165,12 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2db9d6ba-9e40-45a5-9c5d-27b696028e6e/console.sql" timestamp="1491900838010">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="25" />
-        <mark key="^" line="33" column="25" />
-        <mark key="." line="33" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2db9d6ba-9e40-45a5-9c5d-27b696028e6e/console.sql" timestamp="1491905539921">
+        <mark key="'" line="141" column="13" />
+        <mark key="[" line="96" column="85" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="91" column="34" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/SearchIndexed.java" timestamp="1491644284608">
         <mark key="[" line="9" column="52" />
@@ -243,8 +252,8 @@
       <file name="$USER_HOME$/work/code/vue_offical_doc/ninja/assert.css" timestamp="1488523138840">
         <mark key="[" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat.rewrite" timestamp="1490179136426">
-        <mark key="[" line="10" column="45" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat.rewrite" timestamp="1491906595890">
+        <mark key="[" line="9" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/post/postQz.vue" timestamp="1491893791866">
         <mark key="[" line="275" column="0" />
@@ -252,7 +261,7 @@
         <mark key="^" line="132" column="42" />
         <mark key="." line="275" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1490326589163">
+      <file name="/dummy.sql" timestamp="1491904205817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/myComponent.vue" timestamp="1487936367892">
@@ -299,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="61" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/PoiService.java" />
       <jump line="12" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
       <jump line="27" column="26" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" />
       <jump line="0" column="7" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" />
@@ -399,6 +407,7 @@
       <jump line="56" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4cbeeb25-8011-4722-9858-90a6c8e9eaa4/console_2.sql" />
       <jump line="280" column="35" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" />
       <jump line="80" column="45" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DepartmentService.java" />
+      <jump line="79" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2db9d6ba-9e40-45a5-9c5d-27b696028e6e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -410,43 +419,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIAo=</text>
+        <text encoding="base64">ICB1cGRhdGVfdGltZSBEQVRFVElNRSBOT1QgTlVMTCBDT01NRU5UICfmm7TmlrDml7bpl7QnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>city</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbXBvcnQgZGljUG9wdXAgZnJvbSAnLi9jb21wb25lbnRzL2RpY1BvcHVwLnZ1ZScK</text>
+        <text encoding="base64">ICBjaXR5IElOVCg4KSBOT1QgTlVMTCBDT01NRU5UICfln47luIInLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIAo=</text>
+        <text encoding="base64">ICB1cGRhdGVfdGltZSBEQVRFVElNRSBOT1QgTlVMTCBDT01NRU5UICfmm7TmlrDml7bpl7QnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICBjcmVhdGVfdGltZSBEQVRFVElNRSBOT1QgTlVMTCBDT01NRU5UICfliJvlu7rml7bpl7QnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICBkaXN0cmljdF9mdWxscGF0aCBWQVJDSEFSKDUwKSBOT1QgTlVMTCBDT01NRU5UICflnLDljLrlhajot6/lvoTvvIzpgJflj7fliIblibLvvIjvvIzvvIknLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICBjYXRlX2Z1bGxwYXRoIFZBUkNIQVIoNTApIE5PVCBOVUxMIENPTU1FTlQgJ+WIhuexu+WFqOi3r+W+hO+8jOmAl+WPt+WIhuWJsu+8iO+8jO+8iScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYXRlX2Z1bGxwYXRoIFZBUkNIQVIoNTApIE5PVCBOVUxMIENPTU1FTlQgJ+WIhuexu+WFqOi3r+W+hO+8jOmAl+WPt+WIhuWJsu+8iO+8jO+8iScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTSB0b25namkucHZfMjAxN18wNF8xMDsK</text>
+        <text encoding="base64">ICBjYXRlX2ZpcnN0IElOVCg0KSBOT1QgTlVMTCBDT01NRU5UICfkuIDnuqfliIbnsbsnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUIAo=</text>
+        <text encoding="base64">ICBqb2JfdHlwZSBJTlQoNCkgTk9UIE5VTEwgQ09NTUVOVCAn5bel5L2c57G75Z6LJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">Q1JFQVRFIElOREVYIGlkeF9jaXR5IE9OIGpvYiAoY2l0eSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RlJPTSB0b25namkuOwo=</text>
+        <text encoding="base64">RU5HSU5FPUlubm9EQiBERUZBVUxUIENIQVJTRVQ9dXRmOG1iNCA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1259</text>
