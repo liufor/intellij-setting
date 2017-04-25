@@ -43,11 +43,11 @@
       <file name="$USER_HOME$/work/code/mongo-python-driver/pymongo/mongo_replica_set_client.py" timestamp="1492585107355" />
       <file name="$USER_HOME$/work/code/pacific/src/conf/db.py" timestamp="1492572401645" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/DecryptPassport.java" timestamp="1493088896526" />
-      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_dag2.py" timestamp="1493120480024">
-        <mark key="[" line="98" column="26" />
-        <mark key="]" line="109" column="9" />
-        <mark key="^" line="109" column="9" />
-        <mark key="." line="109" column="9" />
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_dag2.py" timestamp="1493123368215">
+        <mark key="[" line="199" column="7" />
+        <mark key="]" line="198" column="42" />
+        <mark key="^" line="198" column="42" />
+        <mark key="." line="198" column="42" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/HomeHeader.vue" timestamp="1492586618192" />
       <file name="$USER_HOME$/work/code/pacific/src/utils/list.py" timestamp="1492677645350">
@@ -109,9 +109,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/UserImageService.java" timestamp="1493119300288">
         <mark key="[" line="154" column="104" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1fd7bb-f090-427f-bbe9-172a2a48869c/console.sql" timestamp="1493121025853">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1fd7bb-f090-427f-bbe9-172a2a48869c/console.sql" timestamp="1493123725206">
         <mark key="'" line="251" column="16" />
-        <mark key="[" line="377" column="5" />
+        <mark key="]" line="412" column="6" />
+        <mark key="^" line="412" column="6" />
+        <mark key="." line="412" column="6" />
       </file>
       <file name="$USER_HOME$/work/code/mongo-python-driver/test/__init__.py" timestamp="1492594977132" />
       <file name="$USER_HOME$/work/code/pacific/src/models/tongji_models.py" timestamp="1492683872563">
@@ -344,43 +346,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>user_id</text>
+        <text>uid_uuid</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>uid_uuid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q0hVTktfU0laRV9MT0dPTl8xXzEgPSAxMDAK</text>
+        <text encoding="base64">ICAgIDHkuKp1dWlk5LiK55m76ZmG5aSa5Liq6LSm5Y+3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q0hVTktfU0laRV9MT0dPTl9tX24gPSAxMDAK</text>
+        <text encoding="base64">ICAgIHVpZDp1dWlkID0gMTpOCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q0hVTktfU0laRV9MT0dPTl8xX24gPSAxMDAK</text>
+        <text encoding="base64">ICAgIDHkuKp1aWTlnKjlpJrkuKp1dWlk5LiK55m76ZmG44CCCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIOWkmuS4quacuuWZqOeZu+mZhgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBBUyB0Cg==</text>
+        <text encoding="base64">Q0hVTktfU0laRV9MT0dPTl9tX24gPSAxMDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICApCg==</text>
+        <text encoding="base64">Q0hVTktfU0laRV9MT0dPTl8xX24gPSAxMDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUIHV1aWQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RlJPTSAoCg==</text>
+        <text encoding="base64">ICBBUyB0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgY291bnQoRElTVElOQ1QgKHVzZXJfaWQpKSBBUyAgICAgY291bnRfdWlkLAo=</text>
+        <text encoding="base64">ICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgY291bnQoKQo=</text>
+        <text encoding="base64">U0VMRUNUIHV1aWQK</text>
       </register>
       <register name=":" type="4">
         <text>3,5t.</text>
