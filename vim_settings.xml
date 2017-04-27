@@ -61,11 +61,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/common/mvc/method/annotation/SearchModelConfig.java" timestamp="1489472055401">
         <mark key="[" line="66" column="42" />
       </file>
-      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_dag2.py" timestamp="1493276344506">
-        <mark key="[" line="599" column="14" />
-        <mark key="]" line="605" column="4" />
-        <mark key="^" line="605" column="4" />
-        <mark key="." line="605" column="4" />
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_dag2.py" timestamp="1493278462451">
+        <mark key="[" line="547" column="5" />
+        <mark key="]" line="547" column="6" />
+        <mark key="^" line="547" column="6" />
+        <mark key="." line="547" column="6" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1488351486296">
         <mark key="[" line="13" column="31" />
@@ -82,12 +82,14 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/anaconda/lib/python2.7/site-packages/airflow/example_dags/example_skip_dag.py" timestamp="1493277777483" />
       <file name="$USER_HOME$/work/code/pacific/src/config/mysql.py" timestamp="1492567698767">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.txt" timestamp="1492673299690">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/example_python_operator.py" timestamp="1493278048642" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/test/hosts/test/wechat.rewrite" timestamp="1493101124441">
         <mark key="[" line="21" column="43" />
         <mark key="]" line="20" column="65" />
@@ -160,6 +162,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/assets/angular-ui/ui-bootstrap-tpls.min.js" timestamp="1489999303239">
         <mark key="[" line="9" column="22702" />
       </file>
+      <file name="$USER_HOME$/anaconda/lib/python2.7/site-packages/airflow/example_dags/example_passing_params_via_test_command.py" timestamp="1493277882446" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/UserImageService.java" timestamp="1493119300288">
         <mark key="[" line="154" column="104" />
       </file>
@@ -455,43 +458,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>insert_many</text>
+        <text>split_tasks</text>
       </register>
       <register name="-" type="4">
-        <text>insert_many</text>
+        <text>split_tasks</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzX3V1aWRzID0gW3B2Wyd1dWlkJ10gZm9yIHB2IGluIHRoaXNfcHZzXQo=</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGlvbl9kYXRlID0ga3dhcmdzWydleGVjdXRpb25fZGF0ZSddCiAgICBwcmludCB1J3N0YXJ0IHRhc2tzLGV4ZWN1dGlvbl9kYXRlOnt9Jy5mb3JtYXQoZXhlY3V0aW9uX2RhdGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICdkdCcsIHR5cGUoZHQpLCBkdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBfaWQK</text>
+        <text encoding="base64">ICAgIGR0ID0gZGF5c19hZ29fZnJvbShleGVjdXRpb25fZGF0ZSwgMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGlvbl9kYXRlID0ga3dhcmdzWydleGVjdXRpb25fZGF0ZSddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR0ID0gZGF5c19hZ29fZnJvbShleGVjdXRpb25fZGF0ZSwgMSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRvbmdqaV9lbmdpbmUuZXhlY3V0ZSgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZvciBfaWQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b25nX2lkcyA9IFtvYmpbJ2lkJ10gZm9yIG9iaiBpbiBfZ19saXN0XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>3,5t.</text>
