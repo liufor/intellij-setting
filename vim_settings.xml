@@ -118,14 +118,15 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="/Python Console" timestamp="1493351290343">
+      <file name="/Python Console" timestamp="1493352985302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1493351949037">
+      <file name="/fragment.py" timestamp="1493352809771">
+        <mark key="'" line="1" column="16" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="41" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/work/code/pacific/src/utils/__init__.py" timestamp="1493270986878">
         <mark key="[" line="0" column="0" />
@@ -176,11 +177,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/UserImageService.java" timestamp="1493119300288">
         <mark key="[" line="154" column="104" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1fd7bb-f090-427f-bbe9-172a2a48869c/console.sql" timestamp="1493351568493">
-        <mark key="[" line="460" column="12" />
-        <mark key="]" line="460" column="12" />
-        <mark key="." line="460" column="12" />
-        <mark key="^" line="460" column="51" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c1fd7bb-f090-427f-bbe9-172a2a48869c/console.sql" timestamp="1493352760404">
+        <mark key="[" line="468" column="128" />
+        <mark key="]" line="468" column="128" />
+        <mark key="." line="468" column="128" />
+        <mark key="^" line="468" column="128" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1493315400764">
         <mark key="[" line="0" column="0" />
@@ -337,11 +338,11 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1493210860197">
         <mark key="[" line="330" column="1" />
       </file>
-      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_dag.py" timestamp="1493351944753">
-        <mark key="[" line="519" column="0" />
-        <mark key="]" line="519" column="0" />
-        <mark key="^" line="526" column="73" />
-        <mark key="." line="519" column="0" />
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_dag.py" timestamp="1493353008034">
+        <mark key="[" line="175" column="30" />
+        <mark key="]" line="175" column="23" />
+        <mark key="^" line="175" column="23" />
+        <mark key="." line="175" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/pacific/src/user_dag/__init__.py" timestamp="1493283732114">
         <mark key="[" line="5" column="0" />
@@ -365,7 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="53" filename="$USER_HOME$/work/images/dockers/jenkins/mq.log" />
       <jump line="85" column="12" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" />
       <jump line="0" column="54" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/mq.log" />
       <jump line="54" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
@@ -465,6 +465,7 @@
       <jump line="10" column="35" filename="$USER_HOME$/work/code/pacific/src/utils/dates.py" />
       <jump line="203" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2c1fd7bb-f090-427f-bbe9-172a2a48869c/console.sql" />
       <jump line="447" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2c1fd7bb-f090-427f-bbe9-172a2a48869c/console.sql" />
+      <jump line="1" column="16" filename="/fragment.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -476,10 +477,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>{k: list(_gb_pvs) for (k, _gb_pvs) in group</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>{k: list(_gb_pvs) for (k, _gb_pvs) in group</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
