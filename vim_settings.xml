@@ -487,11 +487,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBjX29mZnNldF9tcz1Db29raWUuZ2V0KF9OX09GRlNFVF9NUyx7cGF0aDonLyd9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>server_timestamp</text>
       </register>
       <register name="-" type="4">
-        <text>c_offset_ms</text>
+        <text>server_timestamp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
