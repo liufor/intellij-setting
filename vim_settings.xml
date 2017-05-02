@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/work/images/dockers/restart_demo/Dockerfile" timestamp="1489747665446">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1493706389798">
+      <file name="/a.dummy" timestamp="1493729108185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/XAddress.vue" timestamp="1487918112147">
@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/map/index.html" timestamp="1489662091287">
         <mark key="[" line="299" column="77" />
       </file>
-      <file name="$USER_HOME$/work/code/pacific/src/user_dag/wd_user.py" timestamp="1493725843007">
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/wd_user.py" timestamp="1493728389896">
         <mark key="[" line="336" column="40" />
       </file>
       <file name="$USER_HOME$/anaconda/lib/python2.7/site-packages/sqlalchemy/engine/base.py" timestamp="1493286188866" />
@@ -176,6 +176,11 @@
         <mark key="^" line="16" column="39" />
         <mark key="." line="16" column="39" />
       </file>
+      <file name="$USER_HOME$/work/code/pacific/src/main_dag.py" timestamp="1493728595068">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/assets/angular-ui/ui-bootstrap-tpls.min.js" timestamp="1489999303239">
         <mark key="[" line="9" column="22702" />
       </file>
@@ -262,11 +267,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/pacific/src/utils/numbers.py" timestamp="1493362357790" />
-      <file name="$USER_HOME$/work/code/pacific/requirements.txt" timestamp="1493281202343">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/wechat.server" timestamp="1492999628200">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="4" />
@@ -325,11 +325,10 @@
         <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/SmsScheduleService.java" timestamp="1493693650026" />
-      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_behavior_dag.py" timestamp="1493727585392">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="98" column="61" />
-        <mark key="." line="98" column="61" />
-        <mark key="^" line="98" column="61" />
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_behavior_dag.py" timestamp="1493730199149">
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="298" column="0" />
+        <mark key="." line="298" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/ViewCountTasks.java" timestamp="1490768263819">
         <mark key="[" line="43" column="5" />
@@ -375,16 +374,17 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1493210860197">
         <mark key="[" line="330" column="1" />
       </file>
-      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_dag.py" timestamp="1493727469182">
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_dag.py" timestamp="1493729763782">
         <mark key="[" line="575" column="30" />
         <mark key="]" line="183" column="6" />
         <mark key="^" line="183" column="6" />
         <mark key="." line="183" column="6" />
       </file>
-      <file name="$USER_HOME$/work/code/pacific/src/user_dag/__init__.py" timestamp="1493725819936">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/__init__.py" timestamp="1493728560473">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/UserManualMapper.java" timestamp="1493692082008" />
       <file name="$USER_HOME$/work/code/gzc-pc/src/views/home/Home.vue" timestamp="1490607011615">
@@ -401,7 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="54" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/mq.log" />
       <jump line="54" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
       <jump line="26" column="6" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
@@ -501,6 +500,7 @@
       <jump line="447" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2c1fd7bb-f090-427f-bbe9-172a2a48869c/console.sql" />
       <jump line="1" column="16" filename="/fragment.py" />
       <jump line="24" column="18" filename="$USER_HOME$/work/images/dockers/mongo/mongod.conf" />
+      <jump line="3" column="31" filename="$USER_HOME$/work/code/pacific/src/main_dag.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -512,10 +512,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHVzZXJfZGFnCg==</text>
+        <text encoding="base64">dF9maW5pc2guc2V0X3Vwc3RyZWFtKHRfbG9hZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>= '43:resume:查看简历电话']</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -524,31 +524,31 @@
         <text encoding="base64">ICAgICdob3N0JzogJzEwLjMwLjE0Mi4yMjknLCAjNDcuOTMuMTYwLjExNQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHVzZXJfZGFnCg==</text>
+        <text encoding="base64">dF9maW5pc2guc2V0X3Vwc3RyZWFtKHRfbG9hZCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICYmIGFwdC1nZXQgcHVyZ2UgLXkgLS1hdXRvLXJlbW92ZSB3Z2V0Cg==</text>
+        <text encoding="base64">dF9sb2FkLnNldF91cHN0cmVhbSh0X2RlcHMpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAj56ys5LiA5qyh6L+Q6KGM55qE5pe25YCZLOmcgOimgeaKiuS4i+mdoueahOazqOmHiuaOiQo=</text>
+        <text encoding="base64">dF9kZXBzLml0ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgY29tbWFuZDogL2RhdGEvc2VydmljZS9teXNxbC9iaW4vbXlzcWxkX3NhZmUgLS1kZWZhdWx0cy1maWxlPS9kYXRhL3NlcnZpY2UvbXlzcWwvbXkuY25mCg==</text>
+        <text encoding="base64">dF9maW5pc2guc2V0X3Vwc3RyZWFtKHRfbG9hZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIC9kYXRhMS9kb2NrZXIvbXlzcWwvcmVsYXlsb2cvOi9kYXRhL3NlcnZpY2UvbXlzcWwvcmVsYXlsb2cvCg==</text>
+        <text encoding="base64">ICAgIHRfZGVwLnNldF9kb3duc3RyZWFtKHRfbG9hZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIC9kYXRhMS9kb2NrZXIvbXlzcWwvbG9ncy86L2RhdGEvc2VydmljZS9teXNxbC9sb2dzLwo=</text>
+        <text encoding="base64">RXh0ZXJuYWxUYXNrU2Vuc29yKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIC9kYXRhMS9kb2NrZXIvbXlzcWwvYmlubG9nLzovZGF0YS9zZXJ2aWNlL215c3FsL2JpbmxvZy8K</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
