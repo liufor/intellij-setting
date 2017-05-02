@@ -57,6 +57,9 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/map/index.html" timestamp="1489662091287">
         <mark key="[" line="299" column="77" />
       </file>
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/wd_user.py" timestamp="1493725843007">
+        <mark key="[" line="336" column="40" />
+      </file>
       <file name="$USER_HOME$/anaconda/lib/python2.7/site-packages/sqlalchemy/engine/base.py" timestamp="1493286188866" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/common/mvc/method/annotation/SearchModelConfig.java" timestamp="1489472055401">
         <mark key="[" line="66" column="42" />
@@ -259,6 +262,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/pacific/src/utils/numbers.py" timestamp="1493362357790" />
+      <file name="$USER_HOME$/work/code/pacific/requirements.txt" timestamp="1493281202343">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/wechat.server" timestamp="1492999628200">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="4" />
@@ -372,6 +380,11 @@
         <mark key="]" line="183" column="6" />
         <mark key="^" line="183" column="6" />
         <mark key="." line="183" column="6" />
+      </file>
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/__init__.py" timestamp="1493725819936">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/UserManualMapper.java" timestamp="1493692082008" />
       <file name="$USER_HOME$/work/code/gzc-pc/src/views/home/Home.vue" timestamp="1490607011615">
@@ -499,7 +512,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdob3N0JzogJzEwLjMwLjE0Mi4yMjknLCAjNDcuOTMuMTYwLjExNQo=</text>
+        <text encoding="base64">aW1wb3J0IHVzZXJfZGFnCg==</text>
       </register>
       <register name="-" type="4">
         <text>= '43:resume:查看简历电话']</text>
@@ -511,31 +524,31 @@
         <text encoding="base64">ICAgICdob3N0JzogJzEwLjMwLjE0Mi4yMjknLCAjNDcuOTMuMTYwLjExNQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHVzZXJfZGFnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICYmIGFwdC1nZXQgcHVyZ2UgLXkgLS1hdXRvLXJlbW92ZSB3Z2V0Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICYmIGFwdC1nZXQgcHVyZ2UgLXkgLS1hdXRvLXJlbW92ZSB3Z2V0Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAj56ys5LiA5qyh6L+Q6KGM55qE5pe25YCZLOmcgOimgeaKiuS4i+mdoueahOazqOmHiuaOiQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgY29tbWFuZDogL2RhdGEvc2VydmljZS9teXNxbC9iaW4vbXlzcWxkX3NhZmUgLS1kZWZhdWx0cy1maWxlPS9kYXRhL3NlcnZpY2UvbXlzcWwvbXkuY25mCg==</text>
+        <text encoding="base64">ICAj56ys5LiA5qyh6L+Q6KGM55qE5pe25YCZLOmcgOimgeaKiuS4i+mdoueahOazqOmHiuaOiQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIC9kYXRhMS9kb2NrZXIvbXlzcWwvcmVsYXlsb2cvOi9kYXRhL3NlcnZpY2UvbXlzcWwvcmVsYXlsb2cvCg==</text>
+        <text encoding="base64">IyAgY29tbWFuZDogL2RhdGEvc2VydmljZS9teXNxbC9iaW4vbXlzcWxkX3NhZmUgLS1kZWZhdWx0cy1maWxlPS9kYXRhL3NlcnZpY2UvbXlzcWwvbXkuY25mCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIC9kYXRhMS9kb2NrZXIvbXlzcWwvbG9ncy86L2RhdGEvc2VydmljZS9teXNxbC9sb2dzLwo=</text>
+        <text encoding="base64">ICAtIC9kYXRhMS9kb2NrZXIvbXlzcWwvcmVsYXlsb2cvOi9kYXRhL3NlcnZpY2UvbXlzcWwvcmVsYXlsb2cvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIC9kYXRhMS9kb2NrZXIvbXlzcWwvYmlubG9nLzovZGF0YS9zZXJ2aWNlL215c3FsL2JpbmxvZy8K</text>
+        <text encoding="base64">ICAtIC9kYXRhMS9kb2NrZXIvbXlzcWwvbG9ncy86L2RhdGEvc2VydmljZS9teXNxbC9sb2dzLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIC9kYXRhMS9kb2NrZXIvbXlzcWwvZGF0YS86L2RhdGEvc2VydmljZS9teXNxbC9kYXRhLwo=</text>
+        <text encoding="base64">ICAtIC9kYXRhMS9kb2NrZXIvbXlzcWwvYmlubG9nLzovZGF0YS9zZXJ2aWNlL215c3FsL2JpbmxvZy8K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
