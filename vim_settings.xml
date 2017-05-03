@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/work/images/dockers/restart_demo/Dockerfile" timestamp="1489747665446">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1493729108185">
+      <file name="/a.dummy" timestamp="1493778339460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/XAddress.vue" timestamp="1487918112147">
@@ -76,6 +76,7 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/ResponsiveImg.vue" timestamp="1493003184638">
         <mark key="[" line="8" column="72" />
       </file>
+      <file name="$USER_HOME$/anaconda/lib/python2.7/site-packages/airflow/utils/decorators.py" timestamp="1493779209448" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/log4jdbc.properties" timestamp="1493179002200">
         <mark key="[" line="3" column="29" />
       </file>
@@ -116,10 +117,10 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="/Python Console" timestamp="1493719706325">
+      <file name="/Python Console" timestamp="1493779655709">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1493373936555">
+      <file name="/fragment.py" timestamp="1493779663325">
         <mark key="'" line="1" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
@@ -170,16 +171,17 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1493697587833">
         <mark key="[" line="141" column="63" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/mongo/docker-compose.yml" timestamp="1493714226856">
+      <file name="$USER_HOME$/work/images/dockers/mongo/docker-compose.yml" timestamp="1493777690410">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="16" column="39" />
         <mark key="^" line="16" column="39" />
         <mark key="." line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/work/code/pacific/src/main_dag.py" timestamp="1493728595068">
+      <file name="$USER_HOME$/work/code/pacific/src/main_dag.py" timestamp="1493777170183">
         <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+        <mark key="^" line="6" column="8" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/assets/angular-ui/ui-bootstrap-tpls.min.js" timestamp="1489999303239">
         <mark key="[" line="9" column="22702" />
@@ -325,10 +327,11 @@
         <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/SmsScheduleService.java" timestamp="1493693650026" />
-      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_behavior_dag.py" timestamp="1493730199149">
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="298" column="0" />
-        <mark key="." line="298" column="0" />
+      <file name="$USER_HOME$/work/code/pacific/src/user_dag/basic_user_behavior_dag.py" timestamp="1493779695238">
+        <mark key="[" line="290" column="31" />
+        <mark key="]" line="290" column="43" />
+        <mark key="." line="290" column="43" />
+        <mark key="^" line="290" column="43" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/ViewCountTasks.java" timestamp="1490768263819">
         <mark key="[" line="43" column="5" />
@@ -390,6 +393,7 @@
       <file name="$USER_HOME$/work/code/gzc-pc/src/views/home/Home.vue" timestamp="1490607011615">
         <mark key="[" line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/anaconda/lib/python2.7/site-packages/airflow/operators/sensors.py" timestamp="1493779571604" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/mutation-types.js" timestamp="1489220329783">
         <mark key="[" line="47" column="56" />
       </file>
@@ -511,11 +515,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dF9maW5pc2guc2V0X3Vwc3RyZWFtKHRfbG9hZCkK</text>
+      <register name="&quot;" type="4">
+        <text>external_task_id</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>external_task_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
