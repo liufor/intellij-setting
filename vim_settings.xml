@@ -7,7 +7,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/lib/cookie.js" timestamp="1493808817488" />
-      <file name="/a.dummy" timestamp="1494389764942">
+      <file name="/a.dummy" timestamp="1494475455247">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/XAddress.vue" timestamp="1487918112147">
@@ -261,6 +261,7 @@
       <file name="$USER_HOME$/work/code/weui-wxss/dist/example/searchbar/searchbar.wxml" timestamp="1491639087167">
         <mark key="[" line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/amap/lazy-amap-loader.js" timestamp="1494475526643" />
       <file name="$USER_HOME$/work/code/pacific/src/user_dag/demo.py" timestamp="1492683150589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -366,8 +367,8 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/ViewCountTasks.java" timestamp="1490768263819">
         <mark key="[" line="43" column="5" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1494417857498">
-        <mark key="[" line="236" column="23" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1494475346677">
+        <mark key="[" line="239" column="16" />
         <mark key="]" line="230" column="22" />
         <mark key="^" line="230" column="22" />
         <mark key="." line="230" column="22" />
@@ -450,11 +451,11 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/mutation-types.js" timestamp="1489220329783">
         <mark key="[" line="47" column="56" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_12.sql" timestamp="1494473860021">
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_12.sql" timestamp="1494475312722">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/ApiConfig.java" timestamp="1494419921350" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/index.html" timestamp="1489662126605">
@@ -572,11 +573,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0eXBlIElOVCgxMSkgTk9UIE5VTEwgQ09NTUVOVCAndHlwZS4gMCcsCiAgdGltZSBJTlQoMTEpIE5PVCBOVUxMIENPTU1FTlQgJ3RpbWUs5Y+R6YCB5pe26Ze0JywK</text>
+      <register name="&quot;" type="4">
+        <text>INT</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>INT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -585,28 +586,28 @@
         <text encoding="base64">ICAgICAgICByNC5zZXRCZWdEYXRlKERhdGVVdGlsLmZvcm1hdERhdGUobmV3IERhdGUoKSwieXl5eU1NZGQiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0eXBlIElOVCgxMSkgTk9UIE5VTEwgQ09NTUVOVCAndHlwZS4gMCcsCiAgdGltZSBJTlQoMTEpIE5PVCBOVUxMIENPTU1FTlQgJ3RpbWUs5Y+R6YCB5pe26Ze0JywK</text>
+        <text encoding="base64">ICBjcmVhdGVfdGltZSBkYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0eXBlIElOVCgxMSkgTk9UIE5VTEwgQ09NTUVOVCAndHlwZS4gMCcsCiAgdGltZSBJTlQoMTEpIE5PVCBOVUxMIENPTU1FTlQgJ3RpbWUs5Y+R6YCB5pe26Ze0JywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyB1aWQgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyB1aWQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTwvc3lzdGVtUGF0aD4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzeXN0ZW1QYXRoPiR7cHJvamVjdC5iYXNlZGlyfS9saWIvdGFvYmFvLXNkay1qYXZhLWF1dG9fMTQ4OTEyNzc5Mjg0NC0yMDE3MDUwOS5qYXItLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTwvc3lzdGVtUGF0aD4tLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzY29wZT5zeXN0ZW08L3Njb3BlPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzeXN0ZW1QYXRoPiR7cHJvamVjdC5iYXNlZGlyfS9saWIvdGFvYmFvLXNkay1qYXZhLWF1dG9fMTQ4OTEyNzc5Mjg0NC0yMDE3MDUwOS5qYXItLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzY29wZT5zeXN0ZW08L3Njb3BlPi0tPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
