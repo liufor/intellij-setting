@@ -125,6 +125,12 @@
       <file name="/Python Console" timestamp="1493869716061">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcUserService.java" timestamp="1494479622261">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="29" />
+      </file>
       <file name="$USER_HOME$/work/code/pacific/src/utils/__init__.py" timestamp="1493270986878">
         <mark key="[" line="0" column="0" />
       </file>
@@ -337,11 +343,11 @@
       <file name="$USER_HOME$/work/code/gzc-pc/src/App.vue" timestamp="1490606825907">
         <mark key="[" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BcController.java" timestamp="1494473378808">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="20" column="11" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BcController.java" timestamp="1494480567834">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="28" column="21" />
       </file>
       <file name="$USER_HOME$/work/code/crm-impr/GZC_B/Content/crm_fix/WebUI/src/ICCoreFix.js" timestamp="1490430698664">
         <mark key="[" line="1064" column="35" />
@@ -439,6 +445,12 @@
         <mark key="^" line="19" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taobao/openapi/1.0/openapi-1.0.jar!/com/taobao/api/DefaultTaobaoClient.class" timestamp="1494471746870" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/BcUserEntity.java" timestamp="1494479908338">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="49" column="25" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-pc/src/views/home/Home.vue" timestamp="1490607011615">
         <mark key="[" line="1" column="7" />
       </file>
@@ -573,11 +585,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>INT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>INT</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -586,31 +598,31 @@
         <text encoding="base64">ICAgICAgICByNC5zZXRCZWdEYXRlKERhdGVVdGlsLmZvcm1hdERhdGUobmV3IERhdGUoKSwieXl5eU1NZGQiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjcmVhdGVfdGltZSBkYQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB0eXBlIElOVCgxMSkgTk9UIE5VTEwgQ09NTUVOVCAndHlwZS4gMCcsCiAgdGltZSBJTlQoMTEpIE5PVCBOVUxMIENPTU1FTlQgJ3RpbWUs5Y+R6YCB5pe26Ze0JywK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyB1aWQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTwvc3lzdGVtUGF0aD4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzeXN0ZW1QYXRoPiR7cHJvamVjdC5iYXNlZGlyfS9saWIvdGFvYmFvLXNkay1qYXZhLWF1dG9fMTQ4OTEyNzc5Mjg0NC0yMDE3MDUwOS5qYXItLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzY29wZT5zeXN0ZW08L3Njb3BlPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
