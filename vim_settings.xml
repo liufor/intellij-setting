@@ -416,7 +416,7 @@
       <file name="$USER_HOME$/work/code/gzc-pc/src/App.vue" timestamp="1490606825907">
         <mark key="[" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BcController.java" timestamp="1495107137629">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BcController.java" timestamp="1495107830658">
         <mark key="[" line="196" column="78" />
         <mark key="]" line="196" column="15" />
         <mark key="." line="196" column="15" />
@@ -507,11 +507,11 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1495106682791">
-        <mark key="[" line="411" column="69" />
-        <mark key="]" line="411" column="35" />
-        <mark key="^" line="411" column="35" />
-        <mark key="." line="411" column="35" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1495108337935">
+        <mark key="[" line="302" column="39" />
+        <mark key="]" line="303" column="38" />
+        <mark key="." line="303" column="38" />
+        <mark key="^" line="303" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-pc/src/views/home/Home.vue" timestamp="1490607011615">
         <mark key="[" line="1" column="7" />
@@ -525,12 +525,7 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/mutation-types.js" timestamp="1489220329783">
         <mark key="[" line="47" column="56" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_12.sql" timestamp="1495107642210">
-        <mark key="[" line="157" column="51" />
-        <mark key="]" line="156" column="65" />
-        <mark key="." line="156" column="65" />
-        <mark key="^" line="156" column="65" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_12.sql" timestamp="1495107876744" />
       <file name="/fragment.java" timestamp="1495017788560">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
@@ -652,10 +647,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QUREIENPTFVNTiBjcmVhdGVkX3RpbWUgREFURVRJTUUgTk9UIE5VTEwgQ09NTUVOVCAn5Yib5bu65pe26Ze0JzsK</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmQK</text>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>setSystemAsCreator</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -664,31 +659,31 @@
         <text encoding="base64">U0VMRUNUICpGUk9NIGJjX21lc3NhZ2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QUREIENPTFVNTiBjcmVhdGVkX3RpbWUgREFURVRJTUUgTk9UIE5VTEwgQ09NTUVOVCAn5Yib5bu65pe26Ze0JzsK</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICpGUk9NIGJjX21lc3NhZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVCY1VzZXJJZk5vdEV4aXN0KGd6Y1Byb3BlcnRpZXMuZ2V0VGhpcmRQYXJ0eSgpLmdldFRhb2JhbygpLmdldE9mZmljaWFsVXNlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBNb2RpZkgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">NQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RpZnlNb2RlbCBtb2RpZnlNb2RlbD1uZXcgTW9kaWZ5TW9kZWwoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RpZnlNb2RlbC5nZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodG9waWMpCg==</text>
+        <text encoding="base64">QUREIENPTFVNTiBjcmVhdGVkX3RpbWUgREFURVRJTUUgTk9UIE5VTEwgQ09NTUVOVCAn5Yib5bu65pe26Ze0JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgQmNNZXNzYWdlVG9waWNFbnRpdHkgdG9waWMgPSBiY01lc3NhZ2VTZXJ2aWNlLmdldFRvcGljKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICpGUk9NIGJjX21lc3NhZ2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
