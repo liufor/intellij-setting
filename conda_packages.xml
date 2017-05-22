@@ -15,7 +15,7 @@
         <entry key="anaconda-clean" value="1.1.0" />
         <entry key="anaconda-client" value="1.6.3" />
         <entry key="anaconda-navigator" value="1.5.2" />
-        <entry key="anaconda-project" value="0.4.1" />
+        <entry key="anaconda-project" value="0.6.0" />
         <entry key="anaconda-verify" value="1.3.6" />
         <entry key="ansi2html" value="1.1.1" />
         <entry key="anyqt" value="0.0.8" />
@@ -50,6 +50,7 @@
         <entry key="bison" value="3.0.4" />
         <entry key="bitarray" value="0.8.1" />
         <entry key="bitey" value="0.0" />
+        <entry key="bkcharts" value="0.1" />
         <entry key="blaze" value="0.10.1" />
         <entry key="blaze-core" value="0.9.0" />
         <entry key="bleach" value="1.5.0" />
@@ -872,6 +873,7 @@
           <value>
             <list>
               <option value="0.4.1" />
+              <option value="0.6.0" />
             </list>
           </value>
         </entry>
@@ -1247,6 +1249,13 @@
           <value>
             <list>
               <option value="0.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="bkcharts">
+          <value>
+            <list>
+              <option value="0.1" />
             </list>
           </value>
         </entry>
@@ -8129,6 +8138,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1495204682437" />
+    <option name="LAST_TIME_CHECKED" value="1495423036831" />
   </component>
 </application>
