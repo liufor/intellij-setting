@@ -130,11 +130,11 @@
         <mark key="^" line="20" column="65" />
         <mark key="." line="20" column="65" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1495100023469">
-        <mark key="[" line="1363" column="76" />
-        <mark key="]" line="1438" column="15" />
-        <mark key="^" line="1438" column="15" />
-        <mark key="." line="1438" column="15" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1495440291487">
+        <mark key="[" line="1363" column="92" />
+        <mark key="]" line="1447" column="15" />
+        <mark key="^" line="1447" column="15" />
+        <mark key="." line="1447" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/MessageService.java" timestamp="1495006140344">
         <mark key="[" line="61" column="9" />
@@ -184,6 +184,7 @@
         <mark key="." line="194" column="40" />
         <mark key="^" line="194" column="40" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1495440497057" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/qianniu/user_info.jsp" timestamp="1495110836738">
         <mark key="[" line="13" column="71" />
         <mark key="]" line="13" column="70" />
@@ -299,11 +300,10 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1495108337935">
-        <mark key="[" line="302" column="39" />
-        <mark key="]" line="303" column="38" />
-        <mark key="." line="303" column="38" />
-        <mark key="^" line="303" column="38" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1495441017582">
+        <mark key="[" line="385" column="0" />
+        <mark key="]" line="385" column="0" />
+        <mark key="." line="385" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/utils.js" timestamp="1493962030048">
         <mark key="[" line="190" column="0" />
@@ -452,11 +452,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ALTER TABLE wechat.bc_relation ADD unread_msg_count INT DEFAULT 0 COMMENT '未读消息数,不精确' NOT NULL AFTER latest_topic_id;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbnRpdHkxLnNldCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ALTER TABLE wechat.bc_relation ADD unread_msg_count INT DEFAULT 0 COMMENT '未读消息数,不精确' NOT NULL AFTER latest_topic_id;</text>
+        <text>setLatestMessage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -465,31 +465,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZTxCb29sZWFuPiBzdG9wVG9waWMoQFJlcXVlc3RQYXJhbSgidG9CY1VpZCIpIGZpbmFsIFN0cmluZyB0b0JjVWlkKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNvCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHkxLnNldCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNvCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKICAgICAgICBmb3IgKGludCBpPTA7aTwxNjtpKyspewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplQnlDYXRlCg==</text>
+        <text encoding="base64">CgoKICAgICAgICBmb3IgKGludCBpPTA7aTwxNjtpKyspewo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
