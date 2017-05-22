@@ -220,6 +220,9 @@
         <mark key="^" line="327" column="80" />
         <mark key="." line="327" column="80" />
       </file>
+      <file name="/a.sql" timestamp="1495439583758">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/aliapm.properties" timestamp="1494930481746">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="17" column="29" />
@@ -249,6 +252,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="^" line="33" column="30" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1495439583959">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/mongo/add_mongo_common_user.sh" timestamp="1493717444333">
         <mark key="[" line="1" column="22" />
@@ -323,11 +329,11 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_12.sql" timestamp="1495109300990">
-        <mark key="[" line="185" column="57" />
-        <mark key="]" line="188" column="54" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_12.sql" timestamp="1495439711315">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
         <mark key="^" line="188" column="54" />
-        <mark key="." line="188" column="54" />
+        <mark key="." line="192" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1495109811831">
         <mark key="[" line="0" column="0" />
@@ -447,10 +453,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>stopTopic1</text>
+        <text>ALTER TABLE wechat.bc_relation ADD unread_msg_count INT DEFAULT 0 COMMENT '未读消息数,不精确' NOT NULL AFTER latest_topic_id;</text>
       </register>
       <register name="-" type="4">
-        <text>stopTopic1</text>
+        <text>ALTER TABLE wechat.bc_relation ADD unread_msg_count INT DEFAULT 0 COMMENT '未读消息数,不精确' NOT NULL AFTER latest_topic_id;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
