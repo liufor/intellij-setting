@@ -21,11 +21,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/BcMessageTj.java" timestamp="1495513476827">
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="34" />
-        <mark key="." line="33" column="34" />
-        <mark key="^" line="33" column="34" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/BcMessageTj.java" timestamp="1495517541411">
+        <mark key="[" line="102" column="22" />
+        <mark key="]" line="102" column="21" />
+        <mark key="." line="102" column="21" />
+        <mark key="^" line="102" column="21" />
       </file>
       <file name="$USER_HOME$/work/code/pacific/src/models/create_models" timestamp="1495509471332">
         <mark key="[" line="0" column="85" />
@@ -317,11 +317,11 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1495512353730">
-        <mark key="[" line="447" column="41" />
-        <mark key="]" line="449" column="0" />
-        <mark key="." line="449" column="0" />
-        <mark key="^" line="449" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1495517473975">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="151" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/utils.js" timestamp="1493962030048">
         <mark key="[" line="190" column="0" />
@@ -468,11 +468,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQmNSZWxhdGlvbkVudGl0eSBiY1JlbGF0aW9uMTsK</text>
+      <register name="&quot;" type="4">
+        <text>setLastToMessage</text>
       </register>
       <register name="-" type="4">
-        <text>uRelation</text>
+        <text>setLastToMessage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -484,10 +484,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -496,16 +496,16 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uSGVscGVyLnNldExvZ2luVXNlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICBTZXNzaW9uSGVscGVyLnNldExvZ2luVXNlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
