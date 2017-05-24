@@ -246,11 +246,12 @@
         <mark key="^" line="221" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobBaseController.java" timestamp="1495609509771" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/QianniuController.java" timestamp="1495626445807">
-        <mark key="[" line="243" column="24" />
-        <mark key="]" line="244" column="32" />
-        <mark key="^" line="244" column="32" />
-        <mark key="." line="244" column="32" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/QianniuController.java" timestamp="1495627567724">
+        <mark key="'" line="213" column="45" />
+        <mark key="[" line="247" column="13" />
+        <mark key="]" line="246" column="69" />
+        <mark key="." line="246" column="69" />
+        <mark key="^" line="246" column="69" />
       </file>
       <file name="$USER_HOME$/work/code/pacific/src/user_dag/demo.py" timestamp="1492683150589">
         <mark key="[" line="0" column="0" />
@@ -434,7 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
       <jump line="26" column="6" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
       <jump line="74" column="0" filename="$USER_HOME$/work/images/dockers/mysql_linux/1.log" />
@@ -534,6 +534,7 @@
       <jump line="1" column="16" filename="/fragment.py" />
       <jump line="24" column="18" filename="$USER_HOME$/work/images/dockers/mongo/mongod.conf" />
       <jump line="3" column="31" filename="$USER_HOME$/work/code/pacific/src/main_dag.py" />
+      <jump line="215" column="45" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/QianniuController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -548,40 +549,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>B_SEND_JOBUnknwn</text>
+        <text>getEntName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHRyYS5wdXQoIuWtl+autTEiLCJ2YWx1ZTEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmEucHV0KCJCX+S8geS4miIsIGIuZ2V0RW50TmFtZSgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmEucHV0KCJDX+WtpueUnyIsKSAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmEucHV0KCJCX1R5cGUiLCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEd6Y1J1bnRpbWVFeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgicmVxdWVzdC5x5peg5rOV5o6l6Kej5p6QLiVzIiwgcmVxdWVzdC50b1N0cmluZygpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3BwQlR5cAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
