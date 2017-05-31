@@ -289,10 +289,12 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="66" column="3" />
       </file>
-      <file name="$USER_HOME$/conf/nginx/hosts/production/wechat.server" timestamp="1495868400446">
-        <mark key="[" line="25" column="48" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/InformationService.java" timestamp="1496198248736">
+        <mark key="[" line="130" column="40" />
+        <mark key="]" line="130" column="39" />
+        <mark key="." line="130" column="39" />
+        <mark key="^" line="130" column="39" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/InformationService.java" timestamp="1496126866306" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1495511067222">
         <mark key="[" line="1364" column="50" />
         <mark key="]" line="1364" column="45" />
@@ -335,6 +337,7 @@
         <mark key="^" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RedisConfiguration.java" timestamp="1496196169397" />
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1495868406287">
         <mark key="[" line="21" column="4" />
       </file>
@@ -365,7 +368,7 @@
       <file name="/dummy.sql" timestamp="1495681484613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/ehcache.xml" timestamp="1496126947853">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/ehcache.xml" timestamp="1496196434757">
         <mark key="[" line="102" column="31" />
         <mark key="]" line="102" column="30" />
         <mark key="^" line="102" column="30" />
@@ -413,11 +416,11 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1496126466605">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1496196023518">
         <mark key="[" line="559" column="47" />
-        <mark key="]" line="106" column="11" />
-        <mark key="^" line="106" column="11" />
-        <mark key="." line="106" column="11" />
+        <mark key="]" line="185" column="24" />
+        <mark key="^" line="185" column="24" />
+        <mark key="." line="185" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/URelation.java" timestamp="1495693124631">
         <mark key="[" line="27" column="39" />
@@ -555,11 +558,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>messageInformations</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>messageInformations</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -568,31 +571,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvcm1hdGlvbi5zZXREZXNjcmlwdGlvbih0ai5nZXRMYXN0TWVzc2FnZSgpLmdldENvbnRlbnQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9ybWF0aW9ucy5hZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1UmVsYXRpb24uZ2V0bAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE8gQmNNZXNzYWdlVGog5pyJQlVHCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZWFibGUoImRvbWFpbjppbmZvcm1hdGlvbjp1bnJlYWRfbXNnX2NvdW50IikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB1UmVsYXRpb24uZ2V0bAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMb25nIHVpZCA9IGN1cnJlbnRVc2VyLmdldElkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE8gQmNNZXNzYWdlVGog5pyJQlVHCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
