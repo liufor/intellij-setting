@@ -289,11 +289,12 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="66" column="3" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/InformationService.java" timestamp="1496201292244">
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="34" />
-        <mark key="." line="54" column="34" />
-        <mark key="^" line="54" column="37" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/InformationService.java" timestamp="1496202892770">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="54" column="39" />
+        <mark key="]" line="54" column="39" />
+        <mark key="." line="54" column="39" />
+        <mark key="^" line="54" column="43" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1495511067222">
         <mark key="[" line="1364" column="50" />
@@ -337,11 +338,11 @@
         <mark key="^" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RedisConfiguration.java" timestamp="1496201027596">
-        <mark key="[" line="65" column="122" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="65" column="62" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RedisConfiguration.java" timestamp="1496202740896">
+        <mark key="[" line="88" column="48" />
+        <mark key="]" line="88" column="48" />
+        <mark key="^" line="83" column="61" />
+        <mark key="." line="88" column="48" />
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1495868406287">
         <mark key="[" line="21" column="4" />
@@ -453,8 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
-      <jump line="26" column="6" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/1.log" />
       <jump line="74" column="0" filename="$USER_HOME$/work/images/dockers/mysql_linux/1.log" />
       <jump line="16" column="5" filename="$USER_HOME$/work/images/dockers/mysql_linux/1.log" />
       <jump line="0" column="0" filename="$USER_HOME$/work/images/dockers/mysql_linux/1.log" />
@@ -553,6 +552,8 @@
       <jump line="24" column="18" filename="$USER_HOME$/work/images/dockers/mongo/mongod.conf" />
       <jump line="3" column="31" filename="$USER_HOME$/work/code/pacific/src/main_dag.py" />
       <jump line="215" column="45" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/QianniuController.java" />
+      <jump line="54" column="50" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/InformationService.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/InformationService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -564,10 +565,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Serializable</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>Serializable</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
