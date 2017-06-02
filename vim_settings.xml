@@ -244,11 +244,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/work/code/pacific/src/job_dag/basic_job.py" timestamp="1496401764335">
-        <mark key="[" line="266" column="32" />
-        <mark key="]" line="267" column="24" />
+      <file name="$USER_HOME$/work/code/pacific/src/job_dag/basic_job.py" timestamp="1496404340471">
+        <mark key="'" line="266" column="29" />
+        <mark key="[" line="266" column="27" />
+        <mark key="]" line="266" column="27" />
         <mark key="^" line="267" column="24" />
-        <mark key="." line="267" column="24" />
+        <mark key="." line="266" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/MessageTopicType.java" timestamp="1496395444560">
         <mark key="[" line="15" column="14" />
@@ -525,7 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/work/images/dockers/mysql_linux/1.log" />
       <jump line="16" column="5" filename="$USER_HOME$/work/images/dockers/mysql_linux/1.log" />
       <jump line="0" column="0" filename="$USER_HOME$/work/images/dockers/mysql_linux/1.log" />
       <jump line="51" column="0" filename="$USER_HOME$/work/images/dockers/mysql_linux/1.log" />
@@ -625,6 +625,7 @@
       <jump line="215" column="45" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/QianniuController.java" />
       <jump line="54" column="50" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/InformationService.java" />
       <jump line="46" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/InformationService.java" />
+      <jump line="266" column="29" filename="$USER_HOME$/work/code/pacific/src/job_dag/basic_job.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -635,11 +636,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1heF9hY3RpdmVfcnVucwo=</text>
+      <register name="&quot;" type="4">
+        <text>utcnow</text>
       </register>
       <register name="-" type="4">
-        <text>TO_GZC_YY</text>
+        <text>utcnow</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
