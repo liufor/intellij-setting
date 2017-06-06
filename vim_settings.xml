@@ -92,11 +92,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/AntiAttackAspect.java" timestamp="1496734814838">
-        <mark key="[" line="67" column="49" />
-        <mark key="]" line="67" column="56" />
-        <mark key="^" line="67" column="56" />
-        <mark key="." line="67" column="56" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/AntiAttackAspect.java" timestamp="1496736087949">
+        <mark key="[" line="69" column="45" />
+        <mark key="]" line="54" column="52" />
+        <mark key="^" line="54" column="52" />
+        <mark key="." line="54" column="52" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1496126839845" />
       <file name="$USER_HOME$/work/code/pacific/src/user_dag/example_python_operator.py" timestamp="1493281399966">
@@ -564,11 +564,11 @@
         <mark key="." line="334" column="4" />
         <mark key="^" line="334" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1496728716502">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="10" />
+      <file name="/fragment.java" timestamp="1496735910161">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+        <mark key="^" line="0" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -682,11 +682,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>toString</text>
       </register>
       <register name="-" type="4">
-        <text>BAD_REQUEST</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -695,31 +695,31 @@
         <text encoding="base64">ICAgIEBBbnRpQXR0YWNrQnlJcChsaW1pdFNlY29uZCA9IDYwLHRpbWVzSW5MaW1pdFNlY29uZCA9IDYwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubWFwKE9iamVjdDo6dG9TdHJpbmcpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgam9pblBvaW50LmdldEFyZ3MoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBbnRpQXR0YWNrQnlJcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgam9pblBvaW50LmdldEFyZ3MoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBbnRpQXR0YWNrQnlJcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldENvbnRlbnQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9ybWF0aW9uLnNldERlc2NyaXB0aW9uKHJlbGF0aW9uLmdldExhdGVzdE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldENvbnRlbnQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9ybWF0aW9uLnNldERlc2NyaXB0aW9uKHJlbGF0aW9uLmdldExhdGVzdE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlvkvaDmlLbliLDkuobkuIDkuKrogYzkvY1dIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlvkvaDmlLbliLDkuobkuIDkuKrogYzkvY1dIjsK</text>
       </register>
       <register name=":" type="4">
         <text>259</text>
