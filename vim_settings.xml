@@ -229,6 +229,11 @@
         <mark key="." line="530" column="29" />
         <mark key="^" line="530" column="29" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_13.sql" timestamp="1496498813513">
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1496398889386">
         <mark key="[" line="0" column="0" />
       </file>
@@ -331,6 +336,11 @@
         <mark key="^" line="6" column="69" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_2.sql" timestamp="1496717306420">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/pacific/src/user_dag/demo.py" timestamp="1492683150589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -428,11 +438,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BcController.java" timestamp="1496654714760">
-        <mark key="[" line="167" column="27" />
-        <mark key="]" line="168" column="27" />
-        <mark key="." line="168" column="27" />
-        <mark key="^" line="168" column="27" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BcController.java" timestamp="1496717607589">
+        <mark key="[" line="361" column="27" />
+        <mark key="]" line="361" column="23" />
+        <mark key="." line="361" column="23" />
+        <mark key="^" line="361" column="23" />
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1495868406287">
         <mark key="[" line="21" column="4" />
@@ -695,7 +705,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldENvbnRlbnQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>job_category</text>
@@ -707,31 +717,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvcm1hdGlvbi5zZXREZXNjcmlwdGlvbihiY01lc3NhZ2VTZXJ2aWNlLnByZXR0eU1lc3NhZ2VDb250ZW50KHJlbGF0aW9uLmdldExhdGVzdE1lc3NhZ2UoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldENvbnRlbnQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9ybWF0aW9uLnNldERlc2NyaXB0aW9uKHJlbGF0aW9uLmdldExhdGVzdE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldENvbnRlbnQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9ybWF0aW9uLnNldERlc2NyaXB0aW9uKHJlbGF0aW9uLmdldExhdGVzdE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlvkvaDmlLbliLDkuobkuIDkuKrogYzkvY1dIjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlvkvaDlj5HpgIHkuobkuIDkuKrogYzkvY1dIjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyhtZXNzYWdlLmdldEZyb21CY1VpZCgpLCBiY1VpZCkpIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlvkvaDmlLbliLDkuobkuIDkuKrogYzkvY1dIjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlvkvaDlj5HpgIHkuobkuIDkuKrogYzkvY1dIjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyhtZXNzYWdlLmdldEZyb21CY1VpZCgpLCBiY1VpZCkpIHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlvkvaDmlLbliLDkuobkuIDku73nroDljoZdIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>259</text>
