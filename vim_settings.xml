@@ -92,7 +92,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/AntiAttackAspect.java" timestamp="1496729244400" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/AntiAttackAspect.java" timestamp="1496734814838">
+        <mark key="[" line="67" column="49" />
+        <mark key="]" line="67" column="56" />
+        <mark key="^" line="67" column="56" />
+        <mark key="." line="67" column="56" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1496126839845" />
       <file name="$USER_HOME$/work/code/pacific/src/user_dag/example_python_operator.py" timestamp="1493281399966">
         <mark key="[" line="41" column="51" />
@@ -227,11 +232,6 @@
         <mark key="." line="530" column="29" />
         <mark key="^" line="530" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_13.sql" timestamp="1496498813513">
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1496398889386">
         <mark key="[" line="0" column="0" />
       </file>
@@ -319,7 +319,8 @@
         <mark key="^" line="6" column="69" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_2.sql" timestamp="1496717306420">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_2.sql" timestamp="1496734951528">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -330,11 +331,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1496733210648">
-        <mark key="[" line="215" column="69" />
-        <mark key="]" line="251" column="18" />
-        <mark key="." line="251" column="18" />
-        <mark key="^" line="251" column="18" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1496734083981">
+        <mark key="[" line="300" column="33" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
+        <mark key="^" line="213" column="60" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/common.map" timestamp="1496400269525">
         <mark key="[" line="3" column="1" />
@@ -421,7 +422,7 @@
         <mark key="." line="361" column="23" />
         <mark key="^" line="361" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1496733258230">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1496733940409">
         <mark key="[" line="278" column="4" />
         <mark key="]" line="278" column="4" />
         <mark key="^" line="278" column="4" />
@@ -681,8 +682,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>BAD_REQUEST</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>BAD_REQUEST</text>
@@ -691,34 +692,34 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvcm1hdGlvbi5zZXREZXNjcmlwdGlvbihiY01lc3NhZ2VTZXJ2aWNlLnByZXR0eU1lc3NhZ2VDb250ZW50KHJlbGF0aW9uLmdldExhdGVzdE1lc3NhZ2UoKSkpOwo=</text>
+        <text encoding="base64">ICAgIEBBbnRpQXR0YWNrQnlJcChsaW1pdFNlY29uZCA9IDYwLHRpbWVzSW5MaW1pdFNlY29uZCA9IDYwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldENvbnRlbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgam9pblBvaW50LmdldEFyZ3MoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9ybWF0aW9uLnNldERlc2NyaXB0aW9uKHJlbGF0aW9uLmdldExhdGVzdE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBBbnRpQXR0YWNrQnlJcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlvkvaDmlLbliLDkuobkuIDkuKrogYzkvY1dIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldENvbnRlbnQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9ybWF0aW9uLnNldERlc2NyaXB0aW9uKHJlbGF0aW9uLmdldExhdGVzdE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlvkvaDlj5HpgIHkuobkuIDkuKrogYzkvY1dIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyhtZXNzYWdlLmdldEZyb21CY1VpZCgpLCBiY1VpZCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlvkvaDmlLbliLDkuobkuIDkuKrogYzkvY1dIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>259</text>
