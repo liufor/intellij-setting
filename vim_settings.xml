@@ -245,11 +245,11 @@
         <mark key="." line="530" column="29" />
         <mark key="^" line="530" column="29" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1496830716189">
-        <mark key="[" line="1142" column="7" />
-        <mark key="]" line="1140" column="58" />
-        <mark key="^" line="1140" column="58" />
-        <mark key="." line="1140" column="58" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1496832173027">
+        <mark key="[" line="1149" column="58" />
+        <mark key="]" line="1148" column="58" />
+        <mark key="^" line="1148" column="58" />
+        <mark key="." line="1148" column="58" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobManualMapper.java" timestamp="1496827995010">
         <mark key="[" line="40" column="127" />
@@ -447,6 +447,7 @@
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1497405609729">
         <mark key="[" line="21" column="4" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobRefreshService.java" timestamp="1496832118829" />
       <file name="$USER_HOME$/work/code/pacific/src/base/conf.py" timestamp="1495779669635">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="18" />
@@ -459,11 +460,10 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1496827374489">
-        <mark key="[" line="113" column="70" />
-        <mark key="]" line="113" column="36" />
-        <mark key="^" line="113" column="36" />
-        <mark key="." line="113" column="36" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1496831704110">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/test/hosts/test/wechat.server" timestamp="1496660642239">
         <mark key="[" line="6" column="32" />
@@ -718,11 +718,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>interaction</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L3RhYmxlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>interaction</text>
+        <text>JobArchiveEntity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -731,31 +731,31 @@
         <text encoding="base64">ICAgIEFERCBDT0xVTU4gc2NvcmUgSU5UIE5PVCBOVUxMIERFRkFVTFQgMCBDT01NRU5UICfliIblgLwnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFERCBDT0xVTU4gc2NvcmUgSU5UIE5PVCBOVUxMIERFRkFVTFQgMCBDT01NRU5UICfliIblgLwuJzsK</text>
+        <text encoding="base64">ICAgICAgICA8L3RhYmxlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU5TRVJUIGBqb2JfIGFyY2hpdmVfMjAxNzA2MDRgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdlbmVyYXRlZEtleSBjb2x1bW49ImlkIiBzcWxTdGF0ZW1lbnQ9Ik15c3FsIiBpZGVudGl0eT0idHJ1ZSIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVCAqCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJqb2JfYXJjaGl2ZV8yMDE3MDYyNF8iIGRvbWFpbk9iamVjdE5hbWU9IiI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEZST00gam9iCg==</text>
+        <text encoding="base64">ICAgIEFERCBDT0xVTU4gc2NvcmUgSU5UIE5PVCBOVUxMIERFRkFVTFQgMCBDT01NRU5UICfliIblgLwuJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">V0hFUkUgaWQgSU4gOwo=</text>
+        <text encoding="base64">SU5TRVJUIGBqb2JfIGFyY2hpdmVfMjAxNzA2MDRgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kYnlzdGEK</text>
+        <text encoding="base64">ICAgIFNFTEVDVCAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgIEZST00gam9iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">V0hFUkUgaWQgSU4gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5kYnlzdGEK</text>
       </register>
       <register name=":" type="4">
         <text>259</text>
