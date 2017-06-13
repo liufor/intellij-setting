@@ -199,7 +199,7 @@
         <mark key="^" line="102" column="36" />
         <mark key="." line="102" column="36" />
       </file>
-      <file name="/a.sql" timestamp="1497336786812">
+      <file name="/a.sql" timestamp="1497338549816">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/aliapm.properties" timestamp="1494930481746">
@@ -313,11 +313,11 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/PersonalIdentState.java" timestamp="1497260236192" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/JobTag.java" timestamp="1497261487728" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobIndexService.java" timestamp="1497336598368">
-        <mark key="[" line="369" column="0" />
-        <mark key="]" line="369" column="0" />
-        <mark key="." line="369" column="0" />
-        <mark key="^" line="365" column="54" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobIndexService.java" timestamp="1497338209774">
+        <mark key="[" line="378" column="43" />
+        <mark key="]" line="378" column="43" />
+        <mark key="." line="378" column="43" />
+        <mark key="^" line="378" column="46" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/QianniuSetProfileResponse.java" timestamp="1495606461987">
         <mark key="[" line="3" column="12" />
@@ -345,6 +345,12 @@
         <mark key="]" line="499" column="29" />
         <mark key="^" line="499" column="29" />
         <mark key="." line="499" column="29" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_15.sql" timestamp="1497338659458">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/dialoguePage.vue" timestamp="1496309374720">
         <mark key="[" line="187" column="24" />
@@ -656,12 +662,6 @@
         <mark key="." line="334" column="4" />
         <mark key="^" line="334" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1497337055144">
-        <mark key="[" line="1332" column="52" />
-        <mark key="]" line="1324" column="0" />
-        <mark key="^" line="1325" column="27" />
-        <mark key="." line="1324" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/QzSalaryType.java" timestamp="1497260757255">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="22" column="27" />
@@ -787,10 +787,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRBY3RpdmF0ZWRFcXVhbFRvKEpvYkFjdGl2YXRlZC5Vbmtub3duLmdldFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="-" type="4">
-        <text>LastOwnerException</text>
+        <text>createTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -799,31 +799,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDQUxDX1NDT1JFX0NPUk5fU1RSID0gIjAgMCAyICogKiA/IjsgLy/mr4/ml6Xlh4zmmagy54K5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRBY3RpdmF0ZWRFcXVhbFRvKEpvYkFjdGl2YXRlZC5Vbmtub3duLmdldFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RlJPTSA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRBY3RpdmF0ZWRFcXVhbFRvKEpvYkFjdGl2YXRlZC5Vbmtub3duLmdldFZhbHVlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/lhYjliKDpmaTjgILlm6DkuLrln47luILmm7TmlLnkuobvvIzkuI3nn6XpgZPnjrDlnKjov5nkuKppZOWcqOmCo+S4quWfjuW4gumHjO+8jOaJgOS7peWcqOaJgOaciWpvYiB0eXBl5Lit5Yig6ZmkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTZWFyY2guc2V0U2NvcmUoc2NvcmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/lhYjliKDpmaTjgILlm6DkuLrln47luILmm7TmlLnkuobvvIzkuI3nn6XpgZPnjrDlnKjov5nkuKppZOWcqOmCo+S4quWfjuW4gumHjO+8jOaJgOS7peWcqOaJgOaciWpvYiB0eXBl5Lit5Yig6ZmkLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgZGVsZXRlQmF0Y2hTaXplID0gZ3pjUHJvcGVydGllcy5nZXRTZWFyY2goKS5nZXRTeW5jKCkuZ2V0RGVsZXRlQmF0Y2hTaXplKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvYlNlcnZpY2UuaGFzSW5kZXhlZChqb2JJZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBqb2JTZWFyY2guc2V0U2NvcmUoc2NvcmUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgZGVsZXRlQmF0Y2hTaXplID0gZ3pjUHJvcGVydGllcy5nZXRTZWFyY2goKS5nZXRTeW5jKCkuZ2V0RGVsZXRlQmF0Y2hTaXplKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>259</text>
