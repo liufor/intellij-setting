@@ -118,9 +118,6 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/JobSimpleResponse.java" timestamp="1495609308415">
         <mark key="[" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/opportunity/serve.jsp" timestamp="1497954592134">
-        <mark key="[" line="160" column="92" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/JobState.java" timestamp="1497960254401" />
       <file name="$USER_HOME$/work/code/pacific/src/base/mongo.py" timestamp="1493718402463">
         <mark key="[" line="10" column="30" />
@@ -140,7 +137,11 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="159" column="123" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/WorkManaController.java" timestamp="1497943760438" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/WorkManaController.java" timestamp="1497961309748">
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e2692f1c-f57b-46bf-9202-2780cf441607/console.sql" timestamp="1496492411391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -293,12 +294,6 @@
         <mark key="^" line="272" column="17" />
         <mark key="." line="272" column="17" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobIndexService.java" timestamp="1497870629258">
-        <mark key="[" line="585" column="77" />
-        <mark key="]" line="618" column="49" />
-        <mark key="^" line="618" column="49" />
-        <mark key="." line="618" column="49" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/QianniuSetProfileResponse.java" timestamp="1495606461987">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="12" />
@@ -316,11 +311,6 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1496991847334">
         <mark key="[" line="164" column="29" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/opportunity/user_detile.jsp" timestamp="1497956590716">
-        <mark key="[" line="615" column="61" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="53" column="91" />
       </file>
       <file name="$USER_HOME$/work/code/pacific/src/models/create_models" timestamp="1495509471332">
         <mark key="[" line="0" column="85" />
@@ -379,6 +369,9 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1497961676488">
+        <mark key="[" line="25" column="10" />
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/mgmt.server" timestamp="1497924442864">
         <mark key="[" line="26" column="5" />
@@ -477,9 +470,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/template/default_layout.jsp" timestamp="1497954207280">
-        <mark key="[" line="299" column="0" />
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1497409669339">
         <mark key="[" line="20" column="4" />
@@ -777,7 +767,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhbGxJbnRlcm5hbCA9IGN1cldpbi50b3Aud2luZG93LkFjdGlvbk91dGRpYWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>opp_user_call</text>
@@ -789,31 +779,31 @@
         <text encoding="base64">ICAgICAgICAgIGFsZXJ0KDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhbGxJbnRlcm5hbCA9IGN1cldpbi50b3Aud2luZG93LkFjdGlvbk91dGRpYWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8v6LCD55SodG9w55qE5pa55rOVCg==</text>
+        <text encoding="base64">ICAgIGNhbGxJbnRlcm5hbCA9IGN1cldpbi50b3Aud2luZG93LkFjdGlvbk91dGRpYWw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIC8v6LCD55SodG9w55qE5pa55rOVCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>259</text>
