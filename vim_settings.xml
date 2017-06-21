@@ -18,9 +18,9 @@
         <mark key="[" line="67" column="59" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeStoreManaController.java" timestamp="1498039624830">
-        <mark key="]" line="101" column="58" />
-        <mark key="^" line="101" column="58" />
-        <mark key="." line="101" column="58" />
+        <mark key="]" line="86" column="58" />
+        <mark key="^" line="86" column="58" />
+        <mark key="." line="86" column="58" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/airflow/default_user.py" timestamp="1496659477191">
         <mark key="[" line="7" column="22" />
@@ -51,11 +51,6 @@
       </file>
       <file name="/fragment.py" timestamp="1496384371452">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/WorkManaController.java" timestamp="1497961309748">
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/QianniuGetProfileRequest.java" timestamp="1495606011918">
         <mark key="[" line="2" column="39" />
@@ -150,12 +145,6 @@
         <mark key="]" line="106" column="80" />
         <mark key="." line="106" column="80" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1498039488006">
-        <mark key="[" line="141" column="8" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/ViewCountTasks.java" timestamp="1497336870339">
         <mark key="[" line="52" column="93" />
       </file>
@@ -200,6 +189,12 @@
         <mark key="[" line="56" column="48" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/components/dialogueFrame.vue" timestamp="1498036889584" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1498040396795">
+        <mark key="[" line="521" column="71" />
+        <mark key="]" line="521" column="68" />
+        <mark key="^" line="521" column="68" />
+        <mark key="." line="521" column="68" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="71" column="0" filename="$USER_HOME$/work/images/dockers/mysql_linux/1.log" />
@@ -313,10 +308,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>seleccwltRowBounds</text>
+        <text>postTime</text>
       </register>
       <register name="-" type="4">
-        <text>seleccwltRowBounds</text>
+        <text>postTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -353,7 +348,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRJbmRleGVkRXF1YWxUbygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>113</text>
+        <text>331</text>
       </register>
     </registers>
     <search>
@@ -389,7 +384,6 @@
         <entry encoding="base64">ICA=</entry>
       </history-search>
       <history-cmd>
-        <entry>204</entry>
         <entry>37</entry>
         <entry>%s/  /\n/g</entry>
         <entry>84</entry>
@@ -409,6 +403,7 @@
         <entry>167</entry>
         <entry>259</entry>
         <entry>113</entry>
+        <entry>331</entry>
       </history-cmd>
       <history-expr />
       <history-input />
