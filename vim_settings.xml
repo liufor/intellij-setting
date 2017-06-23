@@ -53,7 +53,7 @@
       <file name="$USER_HOME$/work/code/gzc-pc/src/views/job/components/jobListFilter.vue" timestamp="1495716799993">
         <mark key="[" line="202" column="56" />
       </file>
-      <file name="/a.sql" timestamp="1497858330703">
+      <file name="/a.sql" timestamp="1498194111332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/crm-impr/GZC_B/Content/crm_fix/WebUI/include/ICWebsocket.js" timestamp="1497928089445" />
@@ -131,11 +131,11 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" timestamp="1498192266410">
-        <mark key="[" line="997" column="28" />
-        <mark key="]" line="997" column="28" />
-        <mark key="." line="997" column="28" />
-        <mark key="^" line="997" column="33" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" timestamp="1498193878406">
+        <mark key="[" line="1058" column="39" />
+        <mark key="]" line="1058" column="39" />
+        <mark key="." line="1058" column="39" />
+        <mark key="^" line="1058" column="39" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1497426048429">
         <mark key="]" line="368" column="39" />
@@ -314,17 +314,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLndpdGhUeXBlcygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>jobSearchService.getJobsCount(uid,job.getCity())</text>
       </register>
       <register name="-" type="4">
-        <text>withFilter</text>
+        <text>jobSearchService.getJobsCount(uid,job.getCity())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KDEpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0Sm9ic0NvdW50KGpvYlNlYXJjaFNlcnZpY2UuZ2V0Sm9ic0NvdW50KHVpZCxqb2IuZ2V0Q2l0eSgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBidWlsZGVyLndpdGhUeXBlcygpCg==</text>
