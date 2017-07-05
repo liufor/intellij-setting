@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-model/src/main/java/com/gongzuochong/search/model/EmployerInfo.java" timestamp="1497335246481">
         <mark key="[" line="8" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1499245863320">
+      <file name="/a.dummy" timestamp="1499254398763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat.location" timestamp="1498034844044">
@@ -67,11 +67,11 @@
       <file name="$USER_HOME$/conf/nginx/hosts/production/vue_demo.server" timestamp="1496992322585">
         <mark key="[" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1499247159838">
-        <mark key="[" line="48" column="52" />
-        <mark key="]" line="37" column="66" />
-        <mark key="^" line="37" column="66" />
-        <mark key="." line="37" column="66" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1499255111477">
+        <mark key="[" line="98" column="69" />
+        <mark key="]" line="110" column="26" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="108" column="27" />
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/wechat.server" timestamp="1498530980673">
         <mark key="[" line="186" column="118" />
@@ -141,7 +141,12 @@
       <file name="$USER_HOME$/conf/nginx/hosts/production/www.server" timestamp="1498474850141">
         <mark key="[" line="2" column="118" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/store/modules/user.js" timestamp="1499245874136" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/modules/user.js" timestamp="1499253474208">
+        <mark key="[" line="161" column="18" />
+        <mark key="]" line="162" column="21" />
+        <mark key="^" line="162" column="21" />
+        <mark key="." line="162" column="21" />
+      </file>
       <file name="/dummy.sql" timestamp="1497849960925">
         <mark key="[" line="0" column="0" />
       </file>
@@ -160,8 +165,8 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/messageList.vue" timestamp="1499162828230">
         <mark key="[" line="147" column="18" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/BcRelationManualMapper.java" timestamp="1499246813160">
-        <mark key="[" line="25" column="15" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/BcRelationManualMapper.java" timestamp="1499249009740">
+        <mark key="[" line="23" column="50" />
         <mark key="]" line="25" column="15" />
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="15" />
@@ -181,12 +186,17 @@
       <file name="/a.regexp" timestamp="1498036987369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1499243264216" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1499246558914">
-        <mark key="[" line="797" column="9" />
-        <mark key="]" line="796" column="67" />
-        <mark key="." line="796" column="67" />
-        <mark key="^" line="796" column="67" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1499254998332">
+        <mark key="[" line="566" column="65" />
+        <mark key="]" line="566" column="58" />
+        <mark key="^" line="566" column="58" />
+        <mark key="." line="566" column="58" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1499254374536">
+        <mark key="[" line="111" column="13" />
+        <mark key="]" line="800" column="67" />
+        <mark key="." line="800" column="67" />
+        <mark key="^" line="800" column="67" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_scripts/statistics.py" timestamp="1496740124983">
         <mark key="[" line="56" column="48" />
@@ -194,6 +204,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e2692f1c-f57b-46bf-9202-2780cf441607/console_2.sql" timestamp="1496499023316">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/Footer.vue" timestamp="1499252698508">
+        <mark key="[" line="62" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/utils.js" timestamp="1499249704920" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/TopicCreationRequest.java" timestamp="1495527342149">
         <mark key="[" line="2" column="35" />
       </file>
@@ -318,49 +332,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>stringBigDecimalEntry</text>
+        <text>unreadMsgCount</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>stringBigDecimalEntry</text>
+        <text>unreadMsgCount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUT1RBTF9LRVkgPSAidW5yZWFkTXNnQ291bnQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RoaXMuc3luY01zZ3MoKSAgICAgICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL+iBiuWkqea2iOaBrwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtYXAuZ2V0KCJ1bnJlYWRfY291bnQiKSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGluZm8ucmVjZWl2ZWRUaW1lVHM9IG5ldyBEYXRlKGluZm8ucmVjZWl2ZWRUaW1lLnJlcGxhY2UoIiswODAwIiwgIiswODowMCIpLmdldFRpbWUoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>601</text>
+        <text>114</text>
       </register>
     </registers>
     <search>
@@ -396,8 +410,6 @@
         <entry encoding="base64">ICA=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/  /\n/g</entry>
-        <entry>84</entry>
         <entry>97</entry>
         <entry>25</entry>
         <entry>9</entry>
@@ -416,6 +428,8 @@
         <entry>331</entry>
         <entry>113</entry>
         <entry>601</entry>
+        <entry>133</entry>
+        <entry>114</entry>
       </history-cmd>
       <history-expr />
       <history-input />
