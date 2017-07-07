@@ -24,6 +24,9 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat.location" timestamp="1498034844044">
         <mark key="[" line="120" column="1" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1499397727696">
+        <mark key="[" line="48" column="50" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/newMsgList.vue" timestamp="1499135522185">
         <mark key="[" line="200" column="12" />
         <mark key="]" line="201" column="15" />
@@ -66,8 +69,8 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/job_mapping.json" timestamp="1499055400114">
         <mark key="[" line="212" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_16.sql" timestamp="1499396152725">
-        <mark key="[" line="64" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_16.sql" timestamp="1499396869500">
+        <mark key="[" line="66" column="27" />
       </file>
       <file name="/Python Console" timestamp="1496384866894">
         <mark key="[" line="0" column="0" />
@@ -90,7 +93,7 @@
       <file name="$USER_HOME$/work/code/gzc-pc/src/views/job/components/jobListFilter.vue" timestamp="1495716799993">
         <mark key="[" line="202" column="56" />
       </file>
-      <file name="/a.sql" timestamp="1499394880944">
+      <file name="/a.sql" timestamp="1499398212894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/UserImageService.java" timestamp="1499330435902">
@@ -99,12 +102,13 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="53" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1499237761958">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1499396864580">
         <mark key="[" line="179" column="16" />
         <mark key="]" line="277" column="10" />
         <mark key="." line="277" column="10" />
         <mark key="^" line="277" column="11" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/UserImageService.java" timestamp="1499397674094" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/messageList.vue" timestamp="1499162828230">
         <mark key="[" line="147" column="18" />
       </file>
@@ -113,6 +117,12 @@
         <mark key="]" line="25" column="15" />
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/AliImageService.java" timestamp="1499397991654">
+        <mark key="[" line="73" column="39" />
+        <mark key="]" line="73" column="39" />
+        <mark key="^" line="71" column="22" />
+        <mark key="." line="73" column="39" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobManualMapper.java" timestamp="1498017906207">
         <mark key="[" line="4" column="50" />
@@ -131,6 +141,7 @@
         <mark key="[" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/OSSImage.java" timestamp="1499332961559" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1499396798995" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-model/src/main/java/com/gongzuochong/search/model/EmployerInfo.java" timestamp="1497335246481">
         <mark key="[" line="8" column="27" />
       </file>
@@ -259,7 +270,7 @@
         <mark key="^" line="162" column="21" />
         <mark key="." line="162" column="21" />
       </file>
-      <file name="/dummy.sql" timestamp="1499327022213">
+      <file name="/dummy.sql" timestamp="1499397158824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/ehcache.xml" timestamp="1499246947720">
@@ -449,13 +460,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>fil</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>fil</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
