@@ -165,9 +165,6 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1500358900254">
         <mark key="[" line="148" column="41" />
-        <mark key="]" line="213" column="21" />
-        <mark key="^" line="213" column="21" />
-        <mark key="." line="213" column="21" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/nio/channels/SelectableChannel.java" timestamp="1499855406310" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.13.Final/netty-all-4.0.13.Final-sources.jar!/io/netty/buffer/ByteBufAllocator.java" timestamp="1499927974251" />
@@ -189,17 +186,17 @@
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/nio/ch/SelectorImpl.java" timestamp="1499854846560" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.13.Final/netty-all-4.0.13.Final-sources.jar!/io/netty/channel/ChannelHandlerAdapter.java" timestamp="1499915311474" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.13.Final/netty-all-4.0.13.Final-sources.jar!/io/netty/channel/ChannelInboundHandler.java" timestamp="1499914088487" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1500351181068">
-        <mark key="[" line="549" column="33" />
-        <mark key="]" line="549" column="32" />
-        <mark key="^" line="549" column="32" />
-        <mark key="." line="549" column="32" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1500434821746">
+        <mark key="[" line="288" column="71" />
+        <mark key="]" line="280" column="14" />
+        <mark key="^" line="280" column="14" />
+        <mark key="." line="280" column="14" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobManualMapper.java" timestamp="1498017906207">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="49" />
-        <mark key="^" line="4" column="49" />
-        <mark key="." line="4" column="49" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobManualMapper.java" timestamp="1500435234862">
+        <mark key="[" line="51" column="45" />
+        <mark key="]" line="51" column="44" />
+        <mark key="^" line="51" column="44" />
+        <mark key="." line="51" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1496398889386">
         <mark key="[" line="0" column="0" />
@@ -318,7 +315,12 @@
       <file name="$USER_HOME$/conf/nginx/hosts/production/mgmt.server" timestamp="1497924442864">
         <mark key="[" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1500295572431" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1500434483535">
+        <mark key="[" line="601" column="19" />
+        <mark key="]" line="601" column="18" />
+        <mark key="." line="601" column="18" />
+        <mark key="^" line="601" column="18" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/common.map" timestamp="1499673849650">
         <mark key="[" line="14" column="0" />
       </file>
@@ -462,7 +464,7 @@
         <mark key="[" line="0" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.13.Final/netty-all-4.0.13.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java" timestamp="1499913249610" />
-      <file name="/a.regexp" timestamp="1500358698336">
+      <file name="/a.regexp" timestamp="1500432882318">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1499306687874">
@@ -639,14 +641,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VkFMVUVTICgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>findJobsFromIDLimit</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>findJobsFromIDLimit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
@@ -655,31 +657,31 @@
         <text encoding="base64">ICAgICAgICAgICAgX3RoaXMuc3luY01zZ3MoKSAgICAgICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VkFMVUVTICgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBqb2JTZWFyY2hTZXJ2aWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gam9iCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4g5aaC5p6c6L+U5ZueTlVMTO+8jOihqOekuuayoeaciemcgOimgee7p+e7reWkhOeQhueahOOAguWQpuiAhe+8jOi/lOWbnui/measoeWkhOeQhueahOacgOWQjuS4gOS4qmpvYklkLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFZBTFVFIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ClNFTEVDVCAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gam9icy5nZXQoam9icy5zaXplKCkgLSAxKS5nZXRJZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RlJPTSBqb2I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoSm9iRW50aXR5OjpnZXRJZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGpvYklkcyA9IGpvYnMuc3RyZWFtKCkK</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
