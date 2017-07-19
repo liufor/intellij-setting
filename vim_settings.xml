@@ -36,11 +36,11 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/SocketAddress.java" timestamp="1499857278908" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.13.Final/netty-all-4.0.13.Final-sources.jar!/io/netty/bootstrap/ChannelFactory.java" timestamp="1499913195288" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/JobSearch.java" timestamp="1500427820083">
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="69" column="32" />
-        <mark key="^" line="69" column="32" />
-        <mark key="." line="69" column="32" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/JobSearch.java" timestamp="1500457498924">
+        <mark key="[" line="98" column="62" />
+        <mark key="]" line="97" column="24" />
+        <mark key="^" line="97" column="24" />
+        <mark key="." line="97" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/cluster/routing/allocation/allocator/ShardsAllocator.java" timestamp="1500292134297" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/service/user/UserService.java" timestamp="1500034990433" />
@@ -231,6 +231,11 @@
         <mark key="]" line="22" column="56" />
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobIndexService.java" timestamp="1500457222929">
+        <mark key="[" line="630" column="0" />
+        <mark key="]" line="630" column="0" />
+        <mark key="." line="630" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-model/src/main/java/com/gongzuochong/search/model/EmployerInfo.java" timestamp="1497335246481">
         <mark key="[" line="8" column="27" />
@@ -659,7 +664,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">SU5TRVJUIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -674,31 +679,31 @@
         <text encoding="base64">ICAgICAgICAgICAgX3RoaXMuc3luY01zZ3MoKSAgICAgICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SU5TRVJUIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU5TRVJUIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZihiYWlkdUxhdCA9PSBudWxsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0ibGJzX3N5bmNfdGltZSIgamRiY1R5cGU9IlRJTUVTVEFNUCIgcHJvcGVydHk9Imxic1N5bmNUaW1lIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iU2VhcmNoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGJzX3N5bmNfdGltZSA9ICN7cmVjb3JkLmxic1N5bmNUaW1lLGpkYmNUeXBlPVRJTUVTVEFNUH0sCg==</text>
+        <text encoding="base64">SU5TRVJUIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTZWFyY2hTZXJ2aWNlCg==</text>
+        <text encoding="base64">SU5TRVJUIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4g5aaC5p6c6L+U5ZueTlVMTO+8jOihqOekuuayoeaciemcgOimgee7p+e7reWkhOeQhueahOOAguWQpuiAhe+8jOi/lOWbnui/measoeWkhOeQhueahOacgOWQjuS4gOS4qmpvYklkLgo=</text>
+        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0ibGJzX3N5bmNfdGltZSIgamRiY1R5cGU9IlRJTUVTVEFNUCIgcHJvcGVydHk9Imxic1N5bmNUaW1lIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGJzX3N5bmNfdGltZSA9ICN7cmVjb3JkLmxic1N5bmNUaW1lLGpkYmNUeXBlPVRJTUVTVEFNUH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JTZWFyY2hTZXJ2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4g5aaC5p6c6L+U5ZueTlVMTO+8jOihqOekuuayoeaciemcgOimgee7p+e7reWkhOeQhueahOOAguWQpuiAhe+8jOi/lOWbnui/measoeWkhOeQhueahOacgOWQjuS4gOS4qmpvYklkLgo=</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
