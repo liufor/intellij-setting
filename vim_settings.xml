@@ -37,10 +37,8 @@
         <mark key="." line="218" column="4" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/Striped64.java" timestamp="1501660464641" />
-      <file name="$USER_HOME$/work/code/exercise/src/main/java/com/liufor/exercise/ObjectMonitor.java" timestamp="1501665394385">
-        <mark key="]" line="55" column="16" />
-        <mark key="." line="55" column="16" />
-        <mark key="^" line="55" column="16" />
+      <file name="$USER_HOME$/work/code/exercise/src/main/java/com/liufor/exercise/ObjectMonitor.java" timestamp="1501668719717">
+        <mark key="^" line="65" column="42" />
       </file>
       <file name="$USER_HOME$/work/code/lab/server/gzc-pc-api/src/main/java/com/gongzuochong/api/controller/CommonController.java" timestamp="1501477494963">
         <mark key="[" line="36" column="0" />
@@ -48,13 +46,19 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/exercise/src/main/java/com/liufor/exercise/LockCondition.java" timestamp="1501668352045">
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="58" column="36" />
+        <mark key="^" line="58" column="36" />
+        <mark key="." line="58" column="36" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1501209826914">
         <mark key="[" line="313" column="0" />
         <mark key="]" line="325" column="0" />
         <mark key="." line="325" column="0" />
         <mark key="^" line="325" column="19" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java" timestamp="1501660755372" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java" timestamp="1501669524127" />
       <file name="$USER_HOME$/work/code/lab/server/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1501347630789">
         <mark key="[" line="281" column="26" />
         <mark key="]" line="281" column="26" />
@@ -349,47 +353,47 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIFAxIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ReenwtrantLock</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>before</text>
+        <text>ReenwtrantLock</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVmb3JlIFAxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaW4gQzEgMSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIFAxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICh0aGlzLmxvY2spIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVmb3JlIFAxIik7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIFAxIik7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBQMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVmb3JlIFAxIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYWZ0ZXIgQzEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIFAxIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVmb3JlIEMxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBQMSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYWZ0ZXIgQzEiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVmb3JlIEMxIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>58</text>
