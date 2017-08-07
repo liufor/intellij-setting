@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/helper/CookieHelper.java" timestamp="1502097244621">
+        <mark key="[" line="109" column="45" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/headhunter/HeadHunterQz.vue" timestamp="1502090612889" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1502089774628" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1502097416635" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/headhunter/components/SelfAppraisal.vue" timestamp="1502091417439" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/macosx/classes/java/util/prefs/MacOSXPreferencesFile.java" timestamp="1501843479484">
         <mark key="[" line="355" column="60" />
@@ -24,8 +27,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_5.sql" timestamp="1502094347124">
-        <mark key="[" line="25" column="5" />
+      <file name="$MAVEN_REPOSITORY$/com/taobao/openapi/1.0/openapi-1.0.jar!/com/taobao/api/request/OpenimCustmsgPushRequest.class" timestamp="1502096468252" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1502096398451" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_5.sql" timestamp="1502097142507">
+        <mark key="[" line="24" column="15" />
         <mark key="]" line="23" column="10" />
         <mark key="^" line="23" column="10" />
         <mark key="." line="23" column="10" />
@@ -71,7 +76,7 @@
         <mark key="^" line="202" column="55" />
         <mark key="." line="202" column="55" />
       </file>
-      <file name="/a.regexp" timestamp="1502095032373">
+      <file name="/a.regexp" timestamp="1502096442833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/service/pay/WxpayService.java" timestamp="1502086485075" />
@@ -204,14 +209,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuaW5Qcm9jZXNzID0gZmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>getHostName</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>isLogin</text>
+        <text>getHostName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
@@ -220,31 +225,31 @@
         <text encoding="base64">ICAgICAgICAgIHRoaXMuaW5Qcm9jZXNzID0gZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICh0aGlzLmxvY2spIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIFAxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICh0aGlzLmxvY2spIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVmb3JlIFAxIik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIFAxIik7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmVmb3JlIFAxIik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBQMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFmdGVyIFAxIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYWZ0ZXIgQzEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBQMSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>922</text>
