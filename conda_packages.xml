@@ -42,6 +42,7 @@
         <entry key="azure" value="1.0.2" />
         <entry key="babel" value="2.4.0" />
         <entry key="backports" value="1.0" />
+        <entry key="backports.weakref" value="1.0rc1" />
         <entry key="backports_abc" value="0.5" />
         <entry key="basemap" value="1.0.7" />
         <entry key="bazel" value="0.4.5" />
@@ -244,7 +245,7 @@
         <entry key="headers_workaround" value="0.18" />
         <entry key="heapdict" value="1.0.0" />
         <entry key="holoviews" value="1.8.1" />
-        <entry key="html5lib" value="0.999" />
+        <entry key="html5lib" value="0.9999999" />
         <entry key="httpretty" value="0.8.14" />
         <entry key="humanize" value="0.5.1" />
         <entry key="hyde" value="0.8.5" />
@@ -286,6 +287,7 @@
         <entry key="jupyter_client" value="5.1.0" />
         <entry key="jupyter_console" value="5.1.0" />
         <entry key="jupyter_core" value="4.3.0" />
+        <entry key="jupyter_dashboards_bundlers" value="0.9.1" />
         <entry key="kealib" value="1.4.6" />
         <entry key="keyring" value="9.3.1" />
         <entry key="kiwisolver" value="0.1.3" />
@@ -306,7 +308,7 @@
         <entry key="libgd" value="2.1.1" />
         <entry key="libgdal" value="2.1.0" />
         <entry key="libgfortran" value="3.0.0" />
-        <entry key="libgpuarray" value="0.6.8" />
+        <entry key="libgpuarray" value="0.6.9" />
         <entry key="libiconv" value="1.14" />
         <entry key="libnetcdf" value="4.4.1" />
         <entry key="libnvvm" value="1.0" />
@@ -496,7 +498,7 @@
         <entry key="pyface" value="5.1.0" />
         <entry key="pyflakes" value="1.5.0" />
         <entry key="pygments" value="2.2.0" />
-        <entry key="pygpu" value="0.6.8" />
+        <entry key="pygpu" value="0.6.9" />
         <entry key="pykerberos" value="1.1.14" />
         <entry key="pykit" value="0.2.0" />
         <entry key="pylearn2" value="0.6.stable.201601.18.g517dc87" />
@@ -511,6 +513,7 @@
         <entry key="pyopengl-accelerate" value="3.1.1a1" />
         <entry key="pyopenssl" value="17.0.0" />
         <entry key="pyparsing" value="2.2.0" />
+        <entry key="pyprof2calltree" value="1.4.3" />
         <entry key="pyproj" value="1.9.5.1" />
         <entry key="pyqt" value="5.6.0" />
         <entry key="pyqtgraph" value="0.10.0" />
@@ -527,7 +530,7 @@
         <entry key="pysnmp" value="4.3.2" />
         <entry key="pysocks" value="1.6.6" />
         <entry key="pystan" value="2.14.0.0" />
-        <entry key="pytables" value="3.3.0" />
+        <entry key="pytables" value="3.4.2" />
         <entry key="pytest" value="3.1.3" />
         <entry key="pytest-asyncio" value="0.6.0" />
         <entry key="pytest-cache" value="1.0" />
@@ -558,6 +561,7 @@
         <entry key="pywget" value="2.2" />
         <entry key="pyyaml" value="3.12" />
         <entry key="pyzmq" value="16.0.2" />
+        <entry key="qcachegrind" value="0.7.4" />
         <entry key="qgrid" value="0.3.3" />
         <entry key="qt" value="5.6.2" />
         <entry key="qtawesome" value="0.4.4" />
@@ -1199,6 +1203,13 @@
           <value>
             <list>
               <option value="1.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="backports.weakref">
+          <value>
+            <list>
+              <option value="1.0rc1" />
             </list>
           </value>
         </entry>
@@ -3582,6 +3593,7 @@
           <value>
             <list>
               <option value="0.999" />
+              <option value="0.9999999" />
             </list>
           </value>
         </entry>
@@ -4043,6 +4055,13 @@
             </list>
           </value>
         </entry>
+        <entry key="jupyter_dashboards_bundlers">
+          <value>
+            <list>
+              <option value="0.9.1" />
+            </list>
+          </value>
+        </entry>
         <entry key="kealib">
           <value>
             <list>
@@ -4230,6 +4249,7 @@
               <option value="0.6.2" />
               <option value="0.6.4" />
               <option value="0.6.8" />
+              <option value="0.6.9" />
             </list>
           </value>
         </entry>
@@ -6282,6 +6302,7 @@
               <option value="0.6.2" />
               <option value="0.6.4" />
               <option value="0.6.8" />
+              <option value="0.6.9" />
             </list>
           </value>
         </entry>
@@ -6416,6 +6437,13 @@
               <option value="2.1.1" />
               <option value="2.1.4" />
               <option value="2.2.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pyprof2calltree">
+          <value>
+            <list>
+              <option value="1.4.3" />
             </list>
           </value>
         </entry>
@@ -6564,6 +6592,7 @@
               <option value="3.2.0" />
               <option value="3.2.3.1" />
               <option value="3.3.0" />
+              <option value="3.4.2" />
             </list>
           </value>
         </entry>
@@ -6890,6 +6919,13 @@
               <option value="16.0.1" />
               <option value="16.0.0" />
               <option value="16.0.2" />
+            </list>
+          </value>
+        </entry>
+        <entry key="qcachegrind">
+          <value>
+            <list>
+              <option value="0.7.4" />
             </list>
           </value>
         </entry>
@@ -8706,6 +8742,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1502085023123" />
+    <option name="LAST_TIME_CHECKED" value="1502181752335" />
   </component>
 </application>
