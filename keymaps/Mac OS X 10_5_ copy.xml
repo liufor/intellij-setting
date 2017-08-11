@@ -17,6 +17,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
@@ -31,7 +32,11 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="shift meta back_space" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="ParameterInfo" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -61,4 +66,5 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
