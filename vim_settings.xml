@@ -25,6 +25,11 @@
         <mark key="[" line="238" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-core/src/main/java/com/beta/core/utils/ConvertUtil.java" timestamp="1502440453309" />
+      <file name="$USER_HOME$/work/code/beta/beta-core/src/main/java/com/beta/core/annotation/EnableCountCache.java" timestamp="1502441214503">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/concurrent/threadpool/QueuableCachedThreadPool.java" timestamp="1502437283598" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/ServletConfiguration.java" timestamp="1502449411346">
         <mark key="[" line="9" column="0" />
@@ -54,11 +59,10 @@
       <file name="$USER_HOME$/homework/springside4/modules/utils/src/main/java/org/springside/modules/utils/base/SystemPropertiesUtil.java" timestamp="1502433004842" />
       <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/concurrent/ThreadDumpper.java" timestamp="1502436761240" />
       <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/concurrent/threadpool/ThreadPoolBuilder.java" timestamp="1502437312239" />
-      <file name="$USER_HOME$/work/code/beta/beta-core/src/main/java/com/beta/core/resources/PropertiesLoader.java" timestamp="1502618936755">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="22" column="7" />
-        <mark key="^" line="22" column="7" />
-        <mark key="." line="22" column="7" />
+      <file name="$USER_HOME$/work/code/beta/beta-core/src/main/java/com/beta/core/resources/PropertiesLoader.java" timestamp="1502621357439">
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/apidoc/SwaggerConfiguration.java" timestamp="1502457146377">
         <mark key="[" line="3" column="25" />
@@ -118,11 +122,21 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/util/PropertyPlaceholderHelper.java" timestamp="1502606121308" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/factory/config/PreferencesPlaceholderConfigurer.java" timestamp="1502612975273" />
+      <file name="$USER_HOME$/work/code/beta/beta-core/pom.xml" timestamp="1502443445255">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/mapper/JsonMapper.java" timestamp="1502437915601">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-core/src/main/java/com/beta/core/resources/CacheKey.java" timestamp="1502618753285">
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="27" column="15" />
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="28" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/core/env/ConfigurablePropertyResolver.java" timestamp="1502606052558" />
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/aop/EnableCountCacheAspect.java" timestamp="1502441491719">
@@ -148,6 +162,11 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/cpm/res/xml/config.xml" timestamp="1502336686542">
         <mark key="[" line="118" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/common/mvc/AntiAttackAspect.java" timestamp="1502448965924">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/security/util/AuthResources_zh_CN.java" timestamp="1502616648456" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc/res/xml/config.xml" timestamp="1502346752054">
@@ -238,11 +257,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/VerifyController.java" timestamp="1502100891139">
         <mark key="[" line="122" column="48" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/App.java" timestamp="1502618542283">
-        <mark key="[" line="34" column="59" />
-        <mark key="]" line="34" column="59" />
-        <mark key="." line="34" column="59" />
-        <mark key="^" line="38" column="26" />
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/App.java" timestamp="1502621379425">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="44" column="85" />
+        <mark key="." line="44" column="85" />
+        <mark key="^" line="44" column="85" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/core/io/support/PropertiesLoaderSupport.java" timestamp="1502616677113" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/resources/res/ui/ui_CBC.properties" timestamp="1502610995107">
@@ -251,7 +270,7 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1502617973840">
+      <file name="/fragment.java" timestamp="1502620777477">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -371,38 +390,38 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>file</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>es/organization/organization_CBC</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNvdXJjZSByMSA9IGxvYWRlci5nZXRSZXNvdXJjZSgiY2xhc3NwYXRoOnJlcy9vcmdhbml6YXRpb24vb3JnYW5pemF0aW9uX0NCQy5wcm9wZXJ0aWVzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlTmFtZXMuYWRkKCJvcmdhbml6YXRpb25fQ0JDLnByb3BlcnRpZXMiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGxvY2F0aW9uID0gZmlsZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZU5hbWUuc3BsaXQoIi8iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByXwo=</text>
+        <text encoding="base64">ICAgICAgICBQcm9wZXJ0aWVzIHBzMiA9IG5ldyBQcm9wZXJ0aWVzKCk7CiAgICAgICAgcHMyLmxvYWQobmV3IElucHV0U3RyZWFtUmVhZGVyKHJfaWNiYy5nZXRJbnB1dFN0cmVhbSgpLCAiVVRGLTgiKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZS5nZXRwYQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzTWFwLnB1dChjYWNoZUtleXMpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -411,7 +430,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYWNoZUtleSBpY2JjID0gbmV3IENhY2hlS2V5KCJvcmdhbml6YXRpb24iLCAiSUNCQyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>922</text>
