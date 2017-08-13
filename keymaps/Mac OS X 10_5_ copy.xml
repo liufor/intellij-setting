@@ -32,11 +32,7 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="shift meta back_space" />
   </action>
-  <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="meta p" />
-  </action>
   <action id="MinimizeCurrentWindow" />
-  <action id="ParameterInfo" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
