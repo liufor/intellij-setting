@@ -11,12 +11,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/util/ClassUtils.java" timestamp="1502679587480" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1502622912200" />
-      <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/reflect/StringUtil.java" timestamp="1502690193238">
-        <mark key="'" line="93" column="66" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="43" column="11" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/reflect/StringUtil.java" timestamp="1502691652025">
+        <mark key="'" line="92" column="66" />
+        <mark key="[" line="82" column="45" />
+        <mark key="]" line="82" column="43" />
+        <mark key="^" line="82" column="43" />
+        <mark key="." line="82" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java" timestamp="1502615954597" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-parent/pom.xml" timestamp="1502459402188" />
@@ -94,6 +94,7 @@
         <mark key="^" line="185" column="13" />
         <mark key="." line="185" column="6" />
       </file>
+      <file name="$USER_HOME$/work/code/SourceCode/beta-parent/beta-core/src/main/java/com/beta/fa/chat/web/controller/ChatLogController.java" timestamp="1502691923930" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/CacheConfiguration.java" timestamp="1502445443702" />
       <file name="$USER_HOME$/work/code/beta/beta-core/src/main/java/com/beta/core/entitysearch/ExampleBuilder.java" timestamp="1502439226737" />
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/dao/manual/mapper/LabTestManualMapper.java" timestamp="1502459701897">
@@ -153,6 +154,7 @@
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/config/RedisConfiguration.java" timestamp="1502442853234" />
       <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/io/ResourceUtil.java" timestamp="1502618271112" />
+      <file name="$USER_HOME$/work/code/SourceCode/AI/brainai/src/main/java/com/beta/web/controller/base/BaseController.java" timestamp="1502692066341" />
       <file name="$USER_HOME$/work/code/beta/beta-core/src/main/java/com/beta/App.java" timestamp="1502424215086">
         <mark key="]" line="8" column="73" />
         <mark key="^" line="8" column="19" />
@@ -204,7 +206,7 @@
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/io/Resources.java" timestamp="1502612354349" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/util/SystemPropertyUtils.java" timestamp="1502624155339" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/SpaceTest.java" timestamp="1502641799071" />
-      <file name="/a.regexp" timestamp="1502626292615">
+      <file name="/a.regexp" timestamp="1502692025218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/Protocol.java" timestamp="1502438482801" />
@@ -346,14 +348,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>RuntimeException</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>RuntimeException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
@@ -362,31 +364,31 @@
         <text encoding="base64">ICAgICAgICBtYXA2LnB1dCgiMSIscDYxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPYmplY3RbXSBtb2RpZmllZEFycmF5ID0gbmV3IE9iamVjdFtwcm9wZXJ0eUFycmF5Lmxlbmd0aF07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFwLkVudHJ5IGVudHJ5ID0gKE1hcC5FbnRyeSkgbzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFwLkVudHJ5IGVudHJ5ID0gKE1hcC5FbnRyeSkgbzsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcHBlcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcHBlcgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKChNYXAuRW50cnkpIG8pLnNldFZhbHVlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW50cnkuZ2V0S2V5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKChNYXAuRW50cnkpIG8pLnNldFZhbHVlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>922</text>
