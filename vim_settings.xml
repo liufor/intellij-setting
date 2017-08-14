@@ -11,10 +11,16 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1502459469308">
+      <file name="/a.dummy" timestamp="1502642239616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1502622912200" />
+      <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/reflect/StringUtil.java" timestamp="1502677132087">
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="176" column="0" />
+        <mark key="^" line="175" column="12" />
+        <mark key="." line="176" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/common/exception/ApiErrorEnum.java" timestamp="1502431869772">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -134,11 +140,11 @@
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-core/src/main/java/com/beta/core/resources/MessageFormatter.java" timestamp="1502641053105">
-        <mark key="[" line="98" column="28" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/work/code/beta/beta-core/src/main/java/com/beta/core/resources/MessageFormatter.java" timestamp="1502643637606">
+        <mark key="[" line="105" column="27" />
+        <mark key="]" line="92" column="15" />
+        <mark key="^" line="92" column="15" />
+        <mark key="." line="92" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/core/env/ConfigurablePropertyResolver.java" timestamp="1502606052558" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/LoggingConfiguration.java" timestamp="1502457706903">
@@ -159,6 +165,7 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/cpm/res/xml/config.xml" timestamp="1502336686542">
         <mark key="[" line="118" column="31" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1502642427981" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/security/util/AuthResources_zh_CN.java" timestamp="1502616648456" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc/res/xml/config.xml" timestamp="1502346752054">
         <mark key="[" line="134" column="65" />
@@ -223,6 +230,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/io/Resources.java" timestamp="1502612354349" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/util/SystemPropertyUtils.java" timestamp="1502624155339" />
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/SpaceTest.java" timestamp="1502641799071" />
       <file name="/a.regexp" timestamp="1502626292615">
         <mark key="[" line="0" column="0" />
       </file>
@@ -232,11 +240,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/VerifyController.java" timestamp="1502100891139">
         <mark key="[" line="122" column="48" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/App.java" timestamp="1502640943212">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="48" column="50" />
-        <mark key="." line="48" column="50" />
-        <mark key="^" line="48" column="50" />
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/App.java" timestamp="1502677070719">
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="69" column="28" />
+        <mark key="." line="69" column="28" />
+        <mark key="^" line="69" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/core/io/support/PropertiesLoaderSupport.java" timestamp="1502616677113" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/resources/res/ui/ui_CBC.properties" timestamp="1502610995107">
@@ -245,7 +253,7 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1502640585524">
+      <file name="/fragment.java" timestamp="1502645578511">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -366,46 +374,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3M8Pz4gY2xhenogPSAoUGFyYW1ldGVyaXplZFR5cGUpb2JqLmdldENsYXNzKCkuZ2V0R2VuZXJpY1N1cGVyY2xhc3MoKS5nZXRBY3R1YWxUeXBlQXJndW1lbnRzKClbMF07Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>getActualTypeArguments</text>
+        <text>new Person(&quot;${org.name}&quot;,&quot;${org.desc}&quot;,1,3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3M8Pz4gY2xhenogPSAoUGFyYW1ldGVyaXplZFR5cGUpb2JqLmdldENsYXNzKCkuZ2V0R2VuZXJpY1N1cGVyY2xhc3MoKS5nZXRBY3R1YWxUeXBlQXJndW1lbnRzKClbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICBQZXJzb24gcDEgPSBuZXcgUGVyc29uKCIke29yZy5uYW1lfSIsICIke29yZy5kZXNjfSIsIDEsIDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhhc1N0ciA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjbGF6ego=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gaGFzU3RyID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gaGFzQ29tcGxleFR5cGUgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhhc0NvbXBsZXhUeXBlID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENsYXNzPD8+IHJldHVyblR5cGUgPSBnZXR0ZXIuZ2V0UmV0dXJuVHlwZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>922</text>
