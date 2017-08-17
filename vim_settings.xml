@@ -23,6 +23,11 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat.location" timestamp="1502966964217" />
+      <file name="$USER_HOME$/work/code/beta/beta-core/src/main/java/App.java" timestamp="1502969975438">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/beta_op/nginx/online/m.conf" timestamp="1502967214797">
         <mark key="[" line="6" column="49" />
       </file>
@@ -172,12 +177,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/resources/res/content_en_US.properties" timestamp="1502601018441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-parent/pom.xml" timestamp="1502540222123">
-        <mark key="[" line="193" column="20" />
-        <mark key="]" line="192" column="26" />
-        <mark key="^" line="192" column="26" />
-        <mark key="." line="192" column="26" />
-      </file>
+      <file name="$USER_HOME$/work/code/beta/beta-parent/pom.xml" timestamp="1502969765995" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1502798305373">
         <mark key="[" line="242" column="30" />
       </file>
@@ -220,11 +220,7 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/gzc_58wrzp/res/values/strings.xml" timestamp="1502879480916">
         <mark key="[" line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-core/pom.xml" timestamp="1502443445255">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
+      <file name="$USER_HOME$/work/code/beta/beta-core/pom.xml" timestamp="1502969917991" />
       <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/mapper/JsonMapper.java" timestamp="1502437915601">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
@@ -288,6 +284,7 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-core/src/main/resources/lib/crypt1.6.jar!/com/icbc/crypto/utils/Base64.class" timestamp="1502969935314" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/ApiApp.java" timestamp="1502458301709">
         <mark key="[" line="24" column="14" />
         <mark key="]" line="31" column="24" />
@@ -367,6 +364,7 @@
         <mark key="." line="34" column="12" />
         <mark key="^" line="34" column="12" />
       </file>
+      <file name="$USER_HOME$/work/code/SourceCode/beta-parent/beta-base/pom.xml" timestamp="1502969267838" />
       <file name="/Dummy.txt" timestamp="1502458907312">
         <mark key="[" line="0" column="0" />
       </file>
@@ -564,13 +562,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXNlcnZlciAxMjcuMC4wLjE6ODA4MDsK</text>
+        <text encoding="base64">ICAgICAgICBjb20uaWNiYy5jcnlwdG8udXRpbHMudHUK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>wechat</text>
+        <text>src/main/resources/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
@@ -579,31 +577,31 @@
         <text encoding="base64">CXNlcnZlciAxMC4xOC4wLjEwOjgwODA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXNlcnZlciAxMjcuMC4wLjE6ODA4MDsK</text>
+        <text encoding="base64">ICAgICAgICBjb20uaWNiYy5jcnlwdG8udXRpbHMudHUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXNlcnZlciAxMjcuMC4wLjE6ODA4MDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciAxMC4yNi43OS4wOjgwODA7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciAxMC4yNy4yMTguNTY6ODA4MDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXBzdHJlYW0gdXBzdHJlYW1fcHJvZHVjdGlvbl93d3cgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyMgbmV3d3d3KG5vZGUpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNlcnZlciAxMC4yNi43OS4wOjgwODA7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNlcnZlciAxMC4yNy4yMTguNTY6ODA4MDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXBzdHJlYW0gdXBzdHJlYW1fcHJvZHVjdGlvbl93d3cgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyMgbmV3d3d3KG5vZGUpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>466</text>
