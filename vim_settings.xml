@@ -29,6 +29,9 @@
       <file name="$USER_HOME$/work/images/dockers/beta/java-alone/docker-compose-pc-api-prod.yml" timestamp="1502954495379">
         <mark key="[" line="12" column="12" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1503541898262">
+        <mark key="[" line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/ProxyFactoryBean.java" timestamp="1503472606772" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/apidoc/SwaggerConfiguration.java" timestamp="1502457146377">
         <mark key="[" line="3" column="25" />
@@ -66,11 +69,11 @@
         <mark key="[" line="257" column="17" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/MethodBeforeAdvice.java" timestamp="1503467520732" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1503481775628">
-        <mark key="[" line="1193" column="21" />
-        <mark key="]" line="1193" column="19" />
-        <mark key="." line="1193" column="19" />
-        <mark key="^" line="1193" column="19" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1503541557781">
+        <mark key="[" line="96" column="80" />
+        <mark key="]" line="96" column="79" />
+        <mark key="." line="96" column="79" />
+        <mark key="^" line="96" column="79" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/pom.xml" timestamp="1502949507741">
         <mark key="[" line="7" column="16" />
@@ -130,11 +133,11 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/DicPopup.vue" timestamp="1503484193341" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/Pointcuts.java" timestamp="1503470923294" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1503492692375">
-        <mark key="[" line="413" column="56" />
-        <mark key="]" line="413" column="54" />
-        <mark key="." line="413" column="54" />
-        <mark key="^" line="413" column="54" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1503541279281">
+        <mark key="[" line="407" column="45" />
+        <mark key="]" line="407" column="44" />
+        <mark key="^" line="407" column="44" />
+        <mark key="." line="407" column="44" />
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1502768074010">
         <mark key="[" line="23" column="1" />
@@ -148,8 +151,8 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/post/postQz.vue" timestamp="1502770011843">
         <mark key="[" line="226" column="16" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/ehcache.xml" timestamp="1503469997879">
-        <mark key="[" line="24" column="36" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/ehcache.xml" timestamp="1503541663075">
+        <mark key="[" line="39" column="12" />
         <mark key="]" line="24" column="34" />
         <mark key="^" line="24" column="34" />
         <mark key="." line="24" column="34" />
@@ -300,14 +303,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6dXJsKCIuLi8uLi9hc3NldHMvaW1nL3Jlc3VtZS94aWEucG5nIikgI2ZmMTQwMCA2NCUgY2VudGVyIG5vLXJlcGVhdDsK</text>
+      <register name="&quot;" type="4">
+        <text>part_time</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>part_time</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
@@ -316,31 +319,31 @@
         <text encoding="base64">ICAgIGJhY2tncm91bmQ6dXJsKCIuLi8uLi9hc3NldHMvaW1nL3Jlc3VtZS94aWEucG5nIikgI2ZmMTQwMCA2NCUgY2VudGVyIG5vLXJlcGVhdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHgxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iQ2F0ZWdvcnlTZXJ2aWNlLmZpbihjYXRlZ29yeUlkKS52YXIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBERUZBVUxUX01PREUgPSAicXoiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iQ2F0ZWdvcnlTZXJ2aWNlLmZpbmRvKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBNT0RFUyA9IFsnYWxsJywgJ3F6JywgJ2p6J107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iU2VydmljCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHgxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBERUZBVUxUX01PREUgPSAicXoiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
