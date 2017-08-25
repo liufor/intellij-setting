@@ -33,6 +33,12 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1503463723788" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/CglibAopProxy.java" timestamp="1503473161005" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractBeanDefinition.java" timestamp="1503462975094" />
+      <file name="$USER_HOME$/work/code/exercise/src/main/java/com/liufor/exercise/gc/ConstPoolOOM.java" timestamp="1503663127190">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+      </file>
       <file name="$USER_HOME$/work/code/exercise/src/main/java/com/liufor/exercise/gc/PutInEden.java" timestamp="1503656571704">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="13" column="10" />
@@ -388,7 +394,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzcy5jbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYmlnU3RyMT0gbmV3IFN0cmluZyhiaWdCeXRlQXJyKTsK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -400,7 +406,7 @@
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiND1uZXcgYnl0ZVsxMDI0KjEwMjRdOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYmlnU3RyMT0gbmV3IFN0cmluZyhiaWdCeXRlQXJyKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBDbGFzcy5jbGFzcwo=</text>
