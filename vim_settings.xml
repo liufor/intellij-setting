@@ -134,6 +134,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" timestamp="1503576248712" />
+      <file name="$USER_HOME$/work/code/exercise/src/main/java/com/liufor/exercise/gc/FinalizerEscapeGc.java" timestamp="1503662306588">
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc/res/values/strings.xml" timestamp="1502346760382">
         <mark key="[" line="2" column="52" />
       </file>
@@ -204,6 +208,7 @@
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/AbstractRegexpMethodPointcut.java" timestamp="1503471231497" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/BeforeAdvice.java" timestamp="1503457079669" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/reflect/GenericDeclaration.java" timestamp="1503662049337" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/post/postQz.vue" timestamp="1502770011843">
         <mark key="[" line="226" column="16" />
       </file>
@@ -236,6 +241,12 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/TrueMethodMatcher.java" timestamp="1503468847537" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1503484777828" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/components/ListFilter.vue" timestamp="1503482289419" />
+      <file name="$USER_HOME$/work/code/exercise/src/main/java/com/liufor/exercise/gc/CircleRef.java" timestamp="1503659773781">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/FullCategoryPopup.vue" timestamp="1503484132955" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/pay.server" timestamp="1503587195941">
         <mark key="[" line="5" column="0" />
@@ -377,13 +388,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiND1uZXcgYnl0ZVsxMDI0KjEwMjRdOwo=</text>
+        <text encoding="base64">ICAgICAgICBDbGFzcy5jbGFzcwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>activeCount</text>
+        <text>finalier</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
@@ -392,31 +403,31 @@
         <text encoding="base64">ICAgICAgICBiND1uZXcgYnl0ZVsxMDI0KjEwMjRdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzcy5jbGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIngiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIngiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhvdENpdHkpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhvdENpdHkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9iQ2F0ZWdvcnlTZXJ2aWNlLmZpbihjYXRlZ29yeUlkKS52YXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iQ2F0ZWdvcnlTZXJ2aWNlLmZpbihjYXRlZ29yeUlkKS52YXIK</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
