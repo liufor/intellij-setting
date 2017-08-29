@@ -149,6 +149,9 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/config/GanjiDic.java" timestamp="1504006257854">
+        <mark key="[" line="17" column="29" />
+      </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1502768074010">
         <mark key="[" line="23" column="1" />
       </file>
@@ -158,6 +161,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/resources/res/content_en_US.properties" timestamp="1502601018441">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" timestamp="1504006177696" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RpoPro.vue" timestamp="1503912213737">
         <mark key="[" line="11" column="99" />
       </file>
@@ -173,7 +177,8 @@
       <file name="$USER_HOME$/work/images/dockers/beta/java-alone/docker-compose-beta-api-prod-1.yml" timestamp="1503893276674">
         <mark key="[" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/entity/mongo/WubaJobBase.java" timestamp="1504004366146" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/entity/mongo/WubaJobBase.java" timestamp="1504004971267" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/config/WubaDic.java" timestamp="1504006255626" />
       <file name="$USER_HOME$/work/images/dockers/beta/node/Makefile" timestamp="1502875852377">
         <mark key="[" line="4" column="30" />
       </file>
@@ -240,12 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="25" filename="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/GzcManageApp.java" />
-      <jump line="21" column="36" filename="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/GzcManageApp.java" />
-      <jump line="17" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
-      <jump line="16" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
-      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
       <jump line="46" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/533d6272-f2b0-493f-b373-83397b23abe4/console.sql" />
       <jump line="133" column="15" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" />
@@ -340,6 +339,12 @@
       <jump line="81" column="101" filename="$USER_HOME$/work/code/gzc-h5/src/router/index.js" />
       <jump line="91" column="55" filename="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" />
       <jump line="27" column="10" filename="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" />
+      <jump line="433" column="36" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
+      <jump line="1" column="1" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
+      <jump line="5" column="5" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
+      <jump line="12" column="31" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
+      <jump line="13" column="32" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -355,64 +360,63 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvY29tbW9uIikK</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
+        <text>scray</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJveHkuZ2V0Q2xhc3MoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvY29tbW9uIikK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvY29tbW9uIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXJ2ZXJcPg==</last-search>
+      <last-search>scray</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJ2ZXJcPg==</last-pattern>
+      <last-pattern>scray</last-pattern>
       <last-replace>\n</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGFuXD4=</entry>
         <entry>LIST</entry>
         <entry>BIRTHDAY</entry>
         <entry>Birthday</entry>
@@ -432,9 +436,9 @@
         <entry encoding="base64">XDx0YWlsXD4=</entry>
         <entry encoding="base64">ICA=</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
+        <entry>scray</entry>
       </history-search>
       <history-cmd>
-        <entry>85</entry>
         <entry>129</entry>
         <entry>104</entry>
         <entry>23</entry>
@@ -454,6 +458,7 @@
         <entry>detailRecommend</entry>
         <entry>466</entry>
         <entry>95</entry>
+        <entry>!g/scray/d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
