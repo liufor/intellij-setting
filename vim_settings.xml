@@ -60,6 +60,12 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/BrandPro.vue" timestamp="1503912204939">
         <mark key="[" line="11" column="98" />
       </file>
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/components/Message.vue" timestamp="1504339927550">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/MemberPro.vue" timestamp="1503912179145">
         <mark key="[" line="11" column="101" />
       </file>
@@ -138,8 +144,8 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1504325647095">
-        <mark key="[" line="58" column="40" />
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1504339836873">
+        <mark key="[" line="58" column="42" />
         <mark key="]" line="58" column="41" />
         <mark key="^" line="58" column="41" />
         <mark key="." line="58" column="41" />
@@ -169,6 +175,12 @@
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/UrlsTextAnswerContent.java" timestamp="1504166435830">
         <mark key="[" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageItemV3.vue" timestamp="1504340563154">
+        <mark key="[" line="257" column="12" />
+        <mark key="]" line="257" column="23" />
+        <mark key="^" line="257" column="23" />
+        <mark key="." line="257" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/redis/3.2/redis.conf" timestamp="1504096860364">
         <mark key="[" line="60" column="14" />
@@ -278,11 +290,11 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="22" column="44" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/components/Q.vue" timestamp="1504338445618">
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/components/Q.vue" timestamp="1504338827446">
         <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="13" />
-        <mark key="^" line="16" column="13" />
-        <mark key="." line="16" column="13" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="14" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/ZengzhiPro.vue" timestamp="1503912197594">
         <mark key="[" line="11" column="98" />
@@ -606,13 +618,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>PureText</text>
+        <text>innerData</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -621,31 +633,31 @@
         <text encoding="base64">ICBpbXBvcnQge0NIQVRfQ09OVEFOVFN9IGZyb20gIlB1cmVUZXh0LnZ1ZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gPFB1cmVUZXh0IGlubmVyLWRhdGE9Im1lc3NhZ2UiPjwvUHVyZVRleHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gPFB1cmVUZXh0IGlubmVyLWRhdGE9Im1lc3NhZ2UiPjwvUHVyZVRleHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNoYXRfY29udGFudHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TU9ERVM9IHsKICBoaXN0b3J5OiAiaGlzdG9yeSIsCiAgICByb2JvdDogInJvYm90IiwKICAgIHE6ICJxIgp9ClJPTEVTOiB7CiAgUTogIlEiLAogICAgQTogIkEiLAogICAgUzogIlMiLAogICAgUjogIlIiCn0sClNIT1dfVFlQRVM6IHsKICAidGV4dF9wdXJlIjogInRleHRfcHVyZSIsCiAgICAidGV4dF9uYXZpZ2FibGUiOiAidGV4dF9uYXZpZ2FibGUiLAogICAgInRleHRfd2lraSI6ICJ0ZXh0X3dpa2kiLAogICAgInRhYmxlX3RleHQiOiAidGFibGVfdGV4dCIsCn0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
