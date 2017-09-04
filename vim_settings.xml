@@ -114,6 +114,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/resources/ehcache.xml" timestamp="1504079108333">
         <mark key="[" line="23" column="10" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Answer.java" timestamp="1504550392607" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/apidoc/SwaggerConfiguration.java" timestamp="1502457146377">
         <mark key="[" line="3" column="25" />
       </file>
@@ -126,11 +127,11 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/DialogueV3.vue" timestamp="1504540253896">
-        <mark key="[" line="627" column="33" />
-        <mark key="]" line="627" column="31" />
-        <mark key="." line="627" column="31" />
-        <mark key="^" line="627" column="31" />
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/DialogueV3.vue" timestamp="1504551452716">
+        <mark key="[" line="743" column="0" />
+        <mark key="]" line="744" column="37" />
+        <mark key="." line="744" column="37" />
+        <mark key="^" line="744" column="37" />
       </file>
       <file name="$USER_HOME$/work/code/beta_h5/src/lib/api.js" timestamp="1504538475879">
         <mark key="[" line="128" column="39" />
@@ -395,11 +396,11 @@
         <mark key="^" line="199" column="12" />
         <mark key="." line="199" column="12" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/controller/CommonController.java" timestamp="1504528776599">
-        <mark key="[" line="131" column="42" />
-        <mark key="]" line="134" column="29" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="132" column="28" />
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/controller/CommonController.java" timestamp="1504550779159">
+        <mark key="[" line="37" column="87" />
+        <mark key="]" line="37" column="65" />
+        <mark key="^" line="37" column="65" />
+        <mark key="." line="37" column="65" />
       </file>
       <file name="$USER_HOME$/work/code/beta_h5/src/pages/product/Group.vue" timestamp="1504527722860" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextAnswerContent.java" timestamp="1504166379184">
@@ -643,13 +644,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text>inputmessage</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -658,31 +659,31 @@
         <text encoding="base64">aW1wb3J0IHVzZXJzIGZyb20gJy4vbW9kdWxlcy91c2VycycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRjaCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmRBbnN3ZXJJdGVtKGl0ZW00KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmRBbnN3ZXJJdGVtKGl0ZW0zKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmRBbnN3ZXJJdGVtKGl0ZW0yKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoU3VnZ2VzdChzdWdnZXN0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmNvbnN0cnVjdG9yLm1zZwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYWNrOmhlbHBlci5jcmVhdGVTdGF0ZSgpLC8v5Lqn5ZOB55qE5Zue5rWL6LWw5Yq/Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm5SYXRlOmhlbHBlci5jcmVhdGVTdGF0ZSgpLC8v5Lqn5ZOB55qE5pS255uK546H6LWw5Yq/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1zZ3MucHVzaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcWFzX2Fycl9yPXFhc19hcnIucmV2ZXJzZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
