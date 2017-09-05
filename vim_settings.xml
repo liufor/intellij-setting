@@ -117,7 +117,12 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/resources/ehcache.xml" timestamp="1504079108333">
         <mark key="[" line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Answer.java" timestamp="1504550392607" />
+      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Answer.java" timestamp="1504603647066">
+        <mark key="[" line="159" column="9" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="158" column="32" />
+        <mark key="." line="159" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/apidoc/SwaggerConfiguration.java" timestamp="1502457146377">
         <mark key="[" line="3" column="25" />
       </file>
@@ -186,11 +191,11 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1504598837312">
-        <mark key="[" line="508" column="71" />
-        <mark key="]" line="425" column="6" />
-        <mark key="^" line="425" column="6" />
-        <mark key="." line="425" column="6" />
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1504602699063">
+        <mark key="[" line="492" column="72" />
+        <mark key="]" line="529" column="9" />
+        <mark key="^" line="529" column="9" />
+        <mark key="." line="529" column="9" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RpoPro.vue" timestamp="1503912213737">
         <mark key="[" line="11" column="99" />
@@ -240,11 +245,11 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" timestamp="1504598719006">
-        <mark key="[" line="305" column="29" />
-        <mark key="]" line="304" column="32" />
-        <mark key="." line="304" column="32" />
-        <mark key="^" line="304" column="32" />
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" timestamp="1504601539729">
+        <mark key="[" line="342" column="3" />
+        <mark key="]" line="342" column="0" />
+        <mark key="." line="342" column="0" />
+        <mark key="^" line="317" column="88" />
       </file>
       <file name="$USER_HOME$/work/code/beta_h5/src/store/index.js" timestamp="1504527262611">
         <mark key="[" line="6" column="89" />
@@ -396,11 +401,11 @@
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/application.properties" timestamp="1504001976131">
         <mark key="[" line="22" column="60" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/controller/CommonController.java" timestamp="1504592063313">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="29" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="55" column="28" />
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/controller/CommonController.java" timestamp="1504603311346">
+        <mark key="[" line="80" column="36" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="66" column="43" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta_h5/src/pages/product/Group.vue" timestamp="1504527722860" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextAnswerContent.java" timestamp="1504166379184">
@@ -643,14 +648,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>innerData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>innerData</text>
+        <text>answerType</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -659,16 +664,16 @@
         <text encoding="base64">ICBsZXQgdGVtcGxhdGVQcyA9IFsnZGl2J10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTSE9XX1RZUEVTCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb25lbnROYW1lPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBBbnN3ZXIodGhpcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -677,13 +682,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBTSE9XX1RZUEVTLnRlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmRBbnN3ZXJJdGVtKGl0ZW0xKQo=</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
