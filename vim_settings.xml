@@ -73,10 +73,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextAnswerItem.java" timestamp="1504401252270">
         <mark key="[" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/service/qa/QuestionAnswerService.java" timestamp="1504751505486">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/service/qa/QuestionAnswerService.java" timestamp="1504768969921">
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="15" />
+        <mark key="." line="53" column="15" />
+        <mark key="^" line="53" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/resources/ehcache.xml" timestamp="1504079108333">
         <mark key="[" line="23" column="10" />
@@ -184,6 +185,7 @@
       <file name="/RegExp Fragment (GroupPropertiesLoader.java:889).regexp" timestamp="1502701546400">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/controller/ChatController.java" timestamp="1504769265977" />
       <file name="/RegExp Fragment (GroupPropertiesLoader.java:1175).regexp" timestamp="1502704337700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -249,6 +251,12 @@
       <file name="$MAVEN_REPOSITORY$/com/beta/beta-parent/1.0.0-SNAPSHOT/beta-parent-1.0.0-SNAPSHOT.pom" timestamp="1502443563988">
         <mark key="[" line="15" column="48" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/service/ai/answer/QaProcessService.java" timestamp="1504768716223">
+        <mark key="[" line="46" column="75" />
+        <mark key="]" line="46" column="75" />
+        <mark key="." line="46" column="75" />
+        <mark key="^" line="46" column="86" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/WikiTextAnswerItem.java" timestamp="1504529616295">
         <mark key="[" line="16" column="21" />
       </file>
@@ -261,7 +269,7 @@
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/redis/3.2/docker-compose-for-elk.yml" timestamp="1504105140612">
         <mark key="[" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1502768074010">
+      <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1504769455013">
         <mark key="[" line="23" column="1" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.3/ansj_seg-5.1.3-sources.jar!/org/ansj/library/SynonymsLibrary.java" timestamp="1504751878223" />
@@ -431,14 +439,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>searchWithoutGeneralization</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/work/code/beta/beta-domain/src/main/resources</text>
+        <text>searchWithoutGeneralization</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
