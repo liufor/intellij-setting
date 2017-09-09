@@ -123,12 +123,11 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1504952358989">
-        <mark key="s" line="571" column="16" />
-        <mark key="[" line="508" column="34" />
-        <mark key="]" line="508" column="33" />
-        <mark key="^" line="508" column="33" />
-        <mark key="." line="508" column="33" />
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1504956198685">
+        <mark key="[" line="283" column="17" />
+        <mark key="]" line="283" column="16" />
+        <mark key="^" line="283" column="16" />
+        <mark key="." line="283" column="16" />
       </file>
       <file name="$USER_HOME$/work/code/beta_h5/src/store/modules/chat.js" timestamp="1504941576452" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/lg/res/values/strings.xml" timestamp="1504869085023">
@@ -288,7 +287,7 @@
         <mark key="^" line="910" column="53" />
         <mark key="." line="910" column="53" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/controller/CommonController.java" timestamp="1504876977069">
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/controller/CommonController.java" timestamp="1504953754131">
         <mark key="[" line="113" column="49" />
         <mark key="]" line="113" column="48" />
         <mark key="." line="113" column="48" />
@@ -440,11 +439,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextAnswerItem.java" timestamp="1504401252270">
         <mark key="[" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Answer.java" timestamp="1504947326087">
-        <mark key="[" line="164" column="35" />
-        <mark key="]" line="164" column="33" />
-        <mark key="^" line="164" column="33" />
-        <mark key="." line="164" column="33" />
+      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Answer.java" timestamp="1504955763351">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="119" column="30" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/apidoc/SwaggerConfiguration.java" timestamp="1502457146377">
         <mark key="[" line="3" column="25" />
@@ -455,6 +454,12 @@
         <mark key="]" line="24" column="23" />
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/code/beta_h5/src/lib/api.js" timestamp="1504953324394">
+        <mark key="[" line="121" column="31" />
+        <mark key="]" line="121" column="7" />
+        <mark key="." line="121" column="7" />
+        <mark key="^" line="121" column="7" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/AnswerItemBuilder.java" timestamp="1504360997007">
         <mark key="[" line="3" column="41" />
@@ -840,46 +845,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Math.floor(Date.now() / 1000</text>
+        <text>apiQAS.time,</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Math.floor(Date.now() / 1000</text>
+        <text>apiQAS.time,</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvbGRlc3RNZXNzYWdlVGltZTogRGF0ZS5ub3coKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZTpEYXRlLm5vdygpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb1NlbGVjdFBhZ2VJbmZvKCgpIC0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hbnN3ZXJUaW1lID0gbmV3IERhdGUoKTsgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlSW5mbzxBaUNoYXRFbnRpdHk+IGFpQ2hhdEVudGl0eVBhZ2VJbmZvID0gUGFnZUhlbHBlci5vZmZzZXRQYWdlKChwYWdlIC0gMSkgKiBwYWdlU2l6ZSwgcGFnZVNpemUsICJpZCBkZXNjIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hbnN3ZXJUeXBlID0gYW5zd2VyVHlwZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZTphcGlRQVMudGltZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhaUNoYXRFbnRpdHlNYXBwZXIuc2VsZWN0QnlFeGFtcGxlQW5kUm93Qm91bmRzKGV4YW1wbGUsbmV3IFJvd0JvdW5kcygwLHBhZ2VTaXplKSwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb1NlbGVjdFBhZ2VJbmZvKCgpIC0+IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYWdlSW5mbzxBaUNoYXRFbnRpdHk+IGFpQ2hhdEVudGl0eVBhZ2VJbmZvID0gUGFnZUhlbHBlci5vZmZzZXRQYWdlKChwYWdlIC0gMSkgKiBwYWdlU2l6ZSwgcGFnZVNpemUsICJpZCBkZXNjIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JrUXVldWVTZXJ2aWNlLmNoYW5nZU1vbml0b3JCeVVpZChvcHBvcnR1bml0eVVzZXJFbnRpdHkuZ2V0VWlkKCksIG1vbml0b3JIZWFkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhaUNoYXRFbnRpdHlNYXBwZXIuc2VsZWN0QnlFeGFtcGxlQW5kUm93Qm91bmRzKGV4YW1wbGUsbmV3IFJvd0JvdW5kcygwLHBhZ2VTaXplKSwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JrUXVldWVTZXJ2aWNlLmNoYW5nZU1vbml0b3JCeVVpZChvcHBvcnR1bml0eVVzZXJFbnRpdHkuZ2V0VWlkKCksIG1vbml0b3JIZWFkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
