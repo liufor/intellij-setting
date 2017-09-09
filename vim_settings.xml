@@ -80,6 +80,12 @@
         <mark key="." line="53" column="15" />
         <mark key="^" line="53" column="15" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/service/ai/ChatService.java" timestamp="1504949007971">
+        <mark key="[" line="202" column="57" />
+        <mark key="]" line="195" column="43" />
+        <mark key="." line="195" column="43" />
+        <mark key="^" line="195" column="43" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/resources/ehcache.xml" timestamp="1504079108333">
         <mark key="[" line="23" column="10" />
       </file>
@@ -117,11 +123,11 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1504927447936">
-        <mark key="[" line="625" column="29" />
-        <mark key="]" line="488" column="0" />
-        <mark key="." line="488" column="0" />
-        <mark key="^" line="492" column="72" />
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1504950011796">
+        <mark key="[" line="277" column="28" />
+        <mark key="]" line="277" column="27" />
+        <mark key="^" line="277" column="27" />
+        <mark key="." line="277" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/beta_h5/src/store/modules/chat.js" timestamp="1504941576452" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/lg/res/values/strings.xml" timestamp="1504869085023">
@@ -212,7 +218,9 @@
         <mark key="." line="121" column="11" />
         <mark key="^" line="121" column="11" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/service/ai/ProcessManager.java" timestamp="1504796893629" />
+      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/service/ai/ProcessManager.java" timestamp="1504947453667">
+        <mark key="[" line="78" column="30" />
+      </file>
       <file name="/RegExp Fragment (GroupPropertiesLoader.java:1175).regexp" timestamp="1502704337700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -431,11 +439,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextAnswerItem.java" timestamp="1504401252270">
         <mark key="[" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Answer.java" timestamp="1504943725746">
-        <mark key="[" line="126" column="33" />
-        <mark key="]" line="123" column="55" />
-        <mark key="^" line="123" column="55" />
-        <mark key="." line="123" column="55" />
+      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Answer.java" timestamp="1504947326087">
+        <mark key="[" line="164" column="35" />
+        <mark key="]" line="164" column="33" />
+        <mark key="^" line="164" column="33" />
+        <mark key="." line="164" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/apidoc/SwaggerConfiguration.java" timestamp="1502457146377">
         <mark key="[" line="3" column="25" />
@@ -521,6 +529,12 @@
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/elk/docker-compose.yml" timestamp="1504067453558">
         <mark key="[" line="29" column="13" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/controller/ChatController.java" timestamp="1504948726641">
+        <mark key="[" line="114" column="94" />
+        <mark key="]" line="118" column="30" />
+        <mark key="^" line="118" column="30" />
+        <mark key="." line="118" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1504234112841">
         <mark key="[" line="596" column="17" />
       </file>
@@ -575,6 +589,12 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc/res/values/strings.xml" timestamp="1502346760382">
         <mark key="[" line="2" column="52" />
+      </file>
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/object/response/ChatLogResponse.java" timestamp="1504947589912">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="15" />
+        <mark key="^" line="27" column="15" />
+        <mark key="." line="27" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/reindex.sh" timestamp="1504779507751" />
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/resources/application-prod.yml" timestamp="1504103936246">
@@ -818,14 +838,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>const</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -834,31 +854,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9kbyBub3RoaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb1NlbGVjdFBhZ2VJbmZvKCgpIC0+IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JrUXVldWVTZXJ2aWNlLmNoYW5nZU1vbml0b3JCeVVpZChvcHBvcnR1bml0eVVzZXJFbnRpdHkuZ2V0VWlkKCksIG1vbml0b3JIZWFkKTsK</text>
+        <text encoding="base64">ICAgICAgICBQYWdlSW5mbzxBaUNoYXRFbnRpdHk+IGFpQ2hhdEVudGl0eVBhZ2VJbmZvID0gUGFnZUhlbHBlci5vZmZzZXRQYWdlKChwYWdlIC0gMSkgKiBwYWdlU2l6ZSwgcGFnZVNpemUsICJpZCBkZXNjIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBhaUNoYXRFbnRpdHlNYXBwZXIuc2VsZWN0QnlFeGFtcGxlQW5kUm93Qm91bmRzKGV4YW1wbGUsbmV3IFJvd0JvdW5kcygwLHBhZ2VTaXplKSwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JrUXVldWVTZXJ2aWNlLmNoYW5nZU1vbml0b3JCeVVpZChvcHBvcnR1bml0eVVzZXJFbnRpdHkuZ2V0VWlkKCksIG1vbml0b3JIZWFkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoU3VnZ2VzdChzdWdnZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
