@@ -177,11 +177,11 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/lib/api.js" timestamp="1505031638827">
+      <file name="$USER_HOME$/work/code/beta_h5/src/lib/api.js" timestamp="1505039456564">
         <mark key="[" line="117" column="40" />
-        <mark key="]" line="117" column="40" />
-        <mark key="." line="117" column="40" />
-        <mark key="^" line="117" column="42" />
+        <mark key="]" line="130" column="5" />
+        <mark key="." line="130" column="5" />
+        <mark key="^" line="130" column="5" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/AnswerItemBuilders.java" timestamp="1504403084728">
         <mark key="[" line="20" column="40" />
@@ -240,11 +240,6 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1505037257054">
-        <mark key="]" line="548" column="0" />
-        <mark key="^" line="548" column="54" />
-        <mark key="." line="548" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RpoPro.vue" timestamp="1503912213737">
         <mark key="[" line="11" column="99" />
       </file>
@@ -272,7 +267,6 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/reindex.sh" timestamp="1504779820290">
         <mark key="[" line="1" column="99" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/package.json" timestamp="1505028410282" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/messageList.vue" timestamp="1503912027224">
         <mark key="[" line="90" column="23" />
       </file>
@@ -382,6 +376,9 @@
       <file name="/RegExp Fragment (GroupPropertiesLoader.java:1175).regexp" timestamp="1502704337700">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/beta_h5/src/components/Contact.vue" timestamp="1505039682353">
+        <mark key="[" line="3" column="35" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1504234112841">
         <mark key="[" line="596" column="17" />
       </file>
@@ -418,7 +415,7 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="22" column="44" />
       </file>
-      <file name="$USER_HOME$/conf/nginx/hosts/production/beta.conf" timestamp="1505033123845">
+      <file name="$USER_HOME$/conf/nginx/hosts/production/beta.conf" timestamp="1505039406881">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="41" />
         <mark key="^" line="39" column="21" />
@@ -817,47 +814,47 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>let</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>msgs</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZWQ6ZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubGF0ZXN0TWVzc2FnZVRpbWUgPSBtZXNzYWdlc1ttZXNzYWdlcy5sZW5ndGgtMV0udGltZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMub2xkZXN0TWVzc2FnZVRpbWUgPSBvYmplY3RzWzBdLnRpbWU7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob2JqZWN0cy5sZW5ndGggPiAwKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMub2xkZXN0TWVzc2FnZVRpbWUgPSBvYmplY3RzWzBdLnRpbWU7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2VPYmplY3RzID0gb2JqZWN0cy5jb25jYXQodGhpcy5tZXNzYWdlT2JqZWN0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAob2JqZWN0cy5sZW5ndGggPiAwKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMubWVzc2FnZU9iamVjdHMubGVuZ3RoID4gMCA/IHRoaXMubWVzc2FnZU9iamVjdHNbMF0gOiB1bmRlZmluZWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgb2JqZWN0cyA9IHRoaXMuX2dlblByZXBlbmRNZXNzYWdlT2JqZWN0cyhoaXN0b3J5TWVzc2FnZXMsCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2VPYmplY3RzID0gb2JqZWN0cy5jb25jYXQodGhpcy5tZXNzYWdlT2JqZWN0cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
