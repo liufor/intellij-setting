@@ -106,12 +106,6 @@
         <mark key="." line="4" column="62" />
         <mark key="^" line="4" column="62" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Question.java" timestamp="1504852362675">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="13" />
-      </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/ClickableTextBuilder.java" timestamp="1504848925591">
         <mark key="[" line="32" column="60" />
         <mark key="]" line="32" column="59" />
@@ -331,11 +325,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/ChooseableContent.java" timestamp="1504841478204">
         <mark key="[" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" timestamp="1505297983512">
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="^" line="253" column="66" />
-        <mark key="." line="251" column="0" />
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" timestamp="1505356313577">
+        <mark key="[" line="81" column="32" />
+        <mark key="]" line="77" column="58" />
+        <mark key="^" line="77" column="58" />
+        <mark key="." line="77" column="58" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1505124341164">
         <mark key="[" line="191" column="26" />
@@ -562,6 +556,13 @@
         <mark key="^" line="66" column="27" />
         <mark key="." line="66" column="27" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/object/request/ChatRequest.java" timestamp="1505355839436">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="31" column="54" />
+        <mark key="." line="31" column="54" />
+        <mark key="^" line="31" column="54" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextAnswerContent.java" timestamp="1504166379184">
         <mark key="[" line="8" column="34" />
       </file>
@@ -746,7 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/test.json" />
       <jump line="12" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/test.json" />
       <jump line="10" column="0" filename="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/set_default_value.sh" />
       <jump line="35" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_1.sql" />
@@ -846,6 +846,7 @@
       <jump line="11" column="3" filename="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/TextAnswerItem.java" />
       <jump line="63" column="0" filename="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/beta/beta-domain/src/main/resources/ansj_library.properties" />
+      <jump line="68" column="0" filename="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/object/request/ChatRequest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -861,14 +862,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>chooseOneSubmit</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -877,31 +878,31 @@
         <text encoding="base64">ICAgICAgICAiMSI6ICLkuIAiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHVyZVRleHQ6IAo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYXRhKCkgewo=</text>
+        <text encoding="base64">ICAgICAgcHVyZVRleHQ6IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkYXRhKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICB0aGlzLmdldFN0YXR1cygpCg==</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
