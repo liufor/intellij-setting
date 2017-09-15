@@ -544,11 +544,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/MultiChoosableAnswerItem.java" timestamp="1504846145606">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/resume/ResumeDetail.vue" timestamp="1505446754886">
-        <mark key="[" line="89" column="12" />
-        <mark key="]" line="89" column="11" />
-        <mark key="^" line="89" column="11" />
-        <mark key="." line="89" column="11" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/resume/ResumeDetail.vue" timestamp="1505447556779">
+        <mark key="[" line="52" column="47" />
+        <mark key="]" line="52" column="46" />
+        <mark key="." line="52" column="46" />
+        <mark key="^" line="52" column="46" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/controller/CommonController.java" timestamp="1505358629916">
         <mark key="[" line="119" column="37" />
@@ -693,7 +693,7 @@
       <file name="/a.regexp" timestamp="1503912321204">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1505213846988" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1505447166527" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/ImageAnswerContent.java" timestamp="1504152085978">
         <mark key="[" line="2" column="32" />
       </file>
@@ -867,14 +867,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyb3V0ZXIucHVzaChgJHtuYXZFbGUudmFsfWApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>resumeTelbal.telId!=null || resumeTelbal.workState==1||ids</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>replace</text>
+        <text>resumeTelbal.telId!=null || resumeTelbal.workState==1||ids</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -883,31 +883,33 @@
         <text encoding="base64">ICAgICAgICBxdWVzdGlvbjptZXJnZVF1ZXN0aW9uLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyb3V0ZXIucHVzaChgJHtuYXZFbGUudmFsfWApOwo=</text>
+        <text encoding="base64">ICAgICAgPGJ1dHRvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyb3V0ZXIucmVwbGFjZShgJHtuYXZFbGUudmFsfWApOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZWxlY3RlZElkeFtvbmUuaWR4XSA9IG9uZS5pc1NlbGVjdGVkOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jaG9vc2VNdWx0aURhdGEuY29udGVudC5vcHRpb25zW29uZS5pZHhdLmlzU2VsZWN0ZWQ9b25lLmlzU2VsZWN0ZWQK</text>
+      <register name="4" type="8">
+        <text>&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRyb3V0ZXIucHVzaChgJHtuYXZFbGUudmFsfWApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRyb3V0ZXIucmVwbGFjZShgJHtuYXZFbGUudmFsfWApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgeHh4eDpmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZWxlY3RlZElkeFtvbmUuaWR4XSA9IG9uZS5pc1NlbGVjdGVkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaG9vc2VNdWx0aURhdGEuY29udGVudC5vcHRpb25zW29uZS5pZHhdLmlzU2VsZWN0ZWQ9b25lLmlzU2VsZWN0ZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9zZWxlY3RlZElkeC5wdXNoKGlzKQo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
