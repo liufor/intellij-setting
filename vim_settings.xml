@@ -312,11 +312,11 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1505921281465">
-        <mark key="[" line="514" column="73" />
-        <mark key="]" line="514" column="73" />
-        <mark key="." line="514" column="73" />
-        <mark key="^" line="530" column="33" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1505922112089">
+        <mark key="[" line="514" column="77" />
+        <mark key="]" line="514" column="50" />
+        <mark key="." line="514" column="50" />
+        <mark key="^" line="514" column="50" />
       </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/redis/3.2/docker-compose-for-elk.yml" timestamp="1504105140612">
         <mark key="[" line="6" column="21" />
@@ -675,7 +675,12 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/WikiTextAnswerItem.java" timestamp="1504529616295">
         <mark key="[" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1505891914884" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1505922017846">
+        <mark key="[" line="548" column="45" />
+        <mark key="]" line="548" column="35" />
+        <mark key="^" line="548" column="35" />
+        <mark key="." line="548" column="35" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/beta/node_build/Dockerfile" timestamp="1502875315700">
         <mark key="[" line="0" column="12" />
       </file>
@@ -862,13 +867,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>currentUid</text>
+        <text>Long</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>currentUid</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
