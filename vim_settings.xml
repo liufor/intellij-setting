@@ -312,11 +312,11 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1505892207689">
-        <mark key="[" line="529" column="0" />
-        <mark key="]" line="529" column="0" />
-        <mark key="." line="529" column="0" />
-        <mark key="^" line="529" column="33" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1505919543783">
+        <mark key="[" line="514" column="73" />
+        <mark key="]" line="514" column="73" />
+        <mark key="." line="514" column="73" />
+        <mark key="^" line="528" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/redis/3.2/docker-compose-for-elk.yml" timestamp="1504105140612">
         <mark key="[" line="6" column="21" />
@@ -327,7 +327,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="8" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505903854748">
+      <file name="/Dummy.txt" timestamp="1505919719827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/RadioChoosableAnswerItem.java" timestamp="1504846163405">
@@ -370,7 +370,7 @@
       <file name="$USER_HOME$/work/images/dockers/ubuntu16_20170802/Dockerfile" timestamp="1502871248834">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1504870632932">
+      <file name="/fragment.java" timestamp="1505919719819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1505128844763">
@@ -410,7 +410,7 @@
       <file name="$USER_HOME$/work/images/dockers/beta/tomcat/Dockerfile" timestamp="1503891585898">
         <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-parent/pom.xml" timestamp="1505895499825" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-parent/pom.xml" timestamp="1505919512861" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/AbstractAnswerContent.java" timestamp="1504160320688">
         <mark key="[" line="27" column="37" />
         <mark key="]" line="27" column="36" />
@@ -861,14 +861,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>currentUid</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>QUESTION_TYPE</text>
+        <text>currentUid</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
