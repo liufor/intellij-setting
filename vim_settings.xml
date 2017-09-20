@@ -218,6 +218,11 @@
         <mark key="^" line="35" column="42" />
         <mark key="." line="35" column="42" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/RecommendJobController.java" timestamp="1505891628522">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/AnsjDetector.java" timestamp="1504752544486">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="21" />
@@ -588,6 +593,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/WikiTextAnswerItem.java" timestamp="1504529616295">
         <mark key="[" line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1505891914884" />
       <file name="$USER_HOME$/work/images/dockers/beta/node_build/Dockerfile" timestamp="1502875315700">
         <mark key="[" line="0" column="12" />
       </file>
@@ -599,6 +605,12 @@
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping.json" timestamp="1504777563599">
         <mark key="[" line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1505892207689">
+        <mark key="[" line="529" column="0" />
+        <mark key="]" line="529" column="0" />
+        <mark key="." line="529" column="0" />
+        <mark key="^" line="529" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/redis/3.2/docker-compose-for-elk.yml" timestamp="1504105140612">
         <mark key="[" line="6" column="21" />
@@ -634,6 +646,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/SharesKchartTextAnswerContent.java" timestamp="1504166396344">
         <mark key="[" line="7" column="42" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/BaseController.java" timestamp="1505891238303" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextBuilder.java" timestamp="1504403557231">
         <mark key="[" line="25" column="11" />
         <mark key="]" line="25" column="11" />
@@ -664,6 +677,12 @@
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/ImageAnswerContent.java" timestamp="1504152085978">
         <mark key="[" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcMessageService.java" timestamp="1505892170091">
+        <mark key="[" line="908" column="68" />
+        <mark key="]" line="908" column="68" />
+        <mark key="." line="908" column="68" />
+        <mark key="^" line="908" column="65" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/Suggest.java" timestamp="1504404698982">
         <mark key="[" line="66" column="13" />
@@ -834,13 +853,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBfcHJlZGVmaW5lZENvbXBvbmVudE5hbWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>['UserQuestion', 'Suggest', 'RobotTip']</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -849,31 +868,31 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3VmFsLmxlbmd0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBfcHJlZGVmaW5lZENvbXBvbmVudE5hbWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBiY3VzZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bWVJZHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBfcHJlZGVmaW5lZENvbXBvbmVudE5hbWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFBSRUZFUl9QUkVfREVGSU5FRF9DT01QT05FTlQgPSBmYWxzZTsgIC8v6L+Z5Liq5Y+q6IO95Li6ZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBQUkVGRVJfUFJFX0RFRklORURfQ09NUE9ORU5ULAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
