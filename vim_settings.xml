@@ -86,7 +86,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/NavigableTextAnswerItem.java" timestamp="1504401307636">
         <mark key="[" line="22" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qcloud/cos_api/5.2.0/cos_api-5.2.0.pom" timestamp="1505897208484" />
+      <file name="$MAVEN_REPOSITORY$/com/qcloud/cos_api/5.2.0/cos_api-5.2.0.pom" timestamp="1505899718445" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/AnswerItemBuilders.java" timestamp="1504403084728">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="40" />
@@ -114,7 +114,7 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1505888692917">
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1505900645336">
         <mark key="[" line="316" column="68" />
         <mark key="]" line="316" column="32" />
         <mark key="." line="316" column="32" />
@@ -204,11 +204,11 @@
       <file name="/RegExp Fragment (GroupPropertiesLoader.java:889).regexp" timestamp="1502701546400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/consts.js" timestamp="1505888628386">
-        <mark key="[" line="142" column="33" />
-        <mark key="]" line="142" column="8" />
-        <mark key="^" line="142" column="8" />
-        <mark key="." line="142" column="8" />
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/consts.js" timestamp="1505900854998">
+        <mark key="[" line="108" column="27" />
+        <mark key="]" line="108" column="27" />
+        <mark key="^" line="108" column="34" />
+        <mark key="." line="108" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/service/ai/ProcessManager.java" timestamp="1504947453667">
         <mark key="[" line="78" column="30" />
@@ -443,8 +443,8 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/MemberPro.vue" timestamp="1503912179145">
         <mark key="[" line="11" column="101" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/pom.xml" timestamp="1505897814815">
-        <mark key="[" line="99" column="17" />
+      <file name="$USER_HOME$/work/code/beta/beta-domain/pom.xml" timestamp="1505900616883">
+        <mark key="[" line="169" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/NavigableElement.java" timestamp="1504409216993">
         <mark key="[" line="58" column="4" />
@@ -854,14 +854,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>`${navEle.val}`</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>`${navEle.val}`</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
