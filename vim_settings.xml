@@ -84,6 +84,12 @@
         <mark key="[" line="23" column="1" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/CmsController.java" timestamp="1506049982702" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator2/generatorConfig.xml" timestamp="1506068560790">
+        <mark key="[" line="49" column="64" />
+        <mark key="]" line="49" column="66" />
+        <mark key="^" line="49" column="66" />
+        <mark key="." line="49" column="66" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/WorkQueueContoller.java" timestamp="1506056928938">
         <mark key="[" line="100" column="31" />
       </file>
@@ -99,7 +105,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/intention/serve.jsp" timestamp="1506051588272">
         <mark key="[" line="1071" column="61" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/Type/FindJobType.java" timestamp="1506061401208" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/Type/FindJobType.java" timestamp="1506070215931" />
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/ChooseOneTextAnswerItem.java" timestamp="1504841202089">
         <mark key="[" line="5" column="26" />
       </file>
@@ -278,7 +284,12 @@
       <file name="$USER_HOME$/work/images/dockers/beta/oracle-jdk8/Makefile" timestamp="1502872131545">
         <mark key="[" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/ResumeGrabService.java" timestamp="1506060647605" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/ResumeGrabService.java" timestamp="1506070675268">
+        <mark key="[" line="570" column="33" />
+        <mark key="]" line="570" column="0" />
+        <mark key="^" line="568" column="81" />
+        <mark key="." line="570" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RpoPro.vue" timestamp="1503912213737">
         <mark key="[" line="11" column="99" />
       </file>
@@ -322,7 +333,11 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc/res/values/strings.xml" timestamp="1502346760382">
         <mark key="[" line="2" column="52" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator2/generator.properties" timestamp="1506068193314">
+        <mark key="[" line="8" column="46" />
+      </file>
       <file name="/MessageComponent.js" timestamp="1505885431978" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/ResumeEntity.java" timestamp="1506070578178" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/commons/ssl-WOSIGN.gongzuochong.com.common" timestamp="1503566568856">
         <mark key="[" line="1" column="36" />
       </file>
@@ -500,14 +515,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>getFindjobParttimeUrl</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -519,33 +534,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KGRhdGEuZXJyKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnZlcnRSZXN1bWUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihwb3N0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3VybCAtWERFTEVUIDEwLjE4LjEwMC4zOjkyMDAvX2FsaWFzLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="8">
-        <text>#
-#
-#
-#</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>#
-#
-#</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KGRhdGEuZXJyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3VybCAtWERFTEVUIDEwLjE4LjEwMC4zOjkyMDAvX2FsaWFzLwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdW1lCg==</text>
+      <register name="9" type="8">
+        <text>#
+#
+#
+#</text>
       </register>
       <register name=":" type="4">
         <text>605</text>
