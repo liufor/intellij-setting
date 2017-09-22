@@ -16,7 +16,7 @@
         <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" timestamp="1505821964687" />
-      <file name="$USER_HOME$/work/code/beta/beta-es-plugin/src/main/java/org/elasticsearch/index/similarity/BetaSimilarity.java" timestamp="1506079153211" />
+      <file name="$USER_HOME$/work/code/beta/beta-es-plugin/src/main/java/org/elasticsearch/index/similarity/BetaSimilarity.java" timestamp="1506082651286" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/common/mvc/GlobalExceptionHandlerController.java" timestamp="1506051214370">
         <mark key="[" line="106" column="27" />
         <mark key="]" line="106" column="27" />
@@ -124,6 +124,7 @@
         <mark key="^" line="158" column="7" />
         <mark key="." line="158" column="7" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/5.5.4/lucene-core-5.5.4-sources.jar!/org/apache/lucene/search/similarities/BM25Similarity.java" timestamp="1506082274159" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Settings.vue" timestamp="1504234528335">
         <mark key="[" line="80" column="10" />
       </file>
@@ -199,7 +200,7 @@
         <mark key="[" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/pom.xml" timestamp="1505976334903" />
-      <file name="/Dummy.txt" timestamp="1506070874324">
+      <file name="/Dummy.txt" timestamp="1506083023624">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/ResumeSourceType.java" timestamp="1505804153054" />
@@ -271,6 +272,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextAnswerItem.java" timestamp="1504401252270">
         <mark key="[" line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_v5.json" timestamp="1506083129162">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Answer.java" timestamp="1505909163170">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -284,6 +290,11 @@
         <mark key="[" line="50" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/ansj/ansj_lucene5_plug/5.1.1.2/ansj_lucene5_plug-5.1.1.2-sources.jar!/org/ansj/lucene5/AnsjAnalyzer.java" timestamp="1505995909408" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/RecommendJobController.java" timestamp="1505891628522">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcUserService.java" timestamp="1505922967081" />
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/config/GanjiDic.java" timestamp="1504006257854">
         <mark key="[" line="17" column="29" />
@@ -307,7 +318,7 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/messageList.vue" timestamp="1503912027224">
         <mark key="[" line="90" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/5.5.4/lucene-core-5.5.4-sources.jar!/org/apache/lucene/search/similarities/ClassicSimilarity.java" timestamp="1506079553623" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/5.5.4/lucene-core-5.5.4-sources.jar!/org/apache/lucene/search/similarities/ClassicSimilarity.java" timestamp="1506082574363" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/post/postJz.vue" timestamp="1502770090193">
         <mark key="[" line="257" column="17" />
       </file>
@@ -529,8 +540,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -544,14 +555,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3VmFsLmxlbmd0aCkK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -560,16 +571,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG1heElkID0gcmVzdW1lR3JhYlNlcnZpY2UubWF4SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIG1heElkID0gcmVzdW1lR3JhYlNlcnZpY2UubWF4SWQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtYXhJZCA+IDApewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>605</text>
