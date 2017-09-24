@@ -120,11 +120,6 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc_58wrzp/res/xml/config.xml" timestamp="1502882102577">
         <mark key="[" line="134" column="65" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v6.sh" timestamp="1506105494019">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-      </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/AnsjDetector.java" timestamp="1504752544486">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="21" />
@@ -375,11 +370,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="8" column="69" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_v7.json" timestamp="1506105599704">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-      </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v5.sh" timestamp="1506105739667">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="9" column="8" />
@@ -445,11 +435,6 @@
         <mark key="]" line="207" column="0" />
         <mark key="^" line="202" column="35" />
         <mark key="." line="207" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v4.sh" timestamp="1506125853370">
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="16" column="61" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/beta/tomcat/Makefile" timestamp="1503891851464">
         <mark key="[" line="7" column="28" />
@@ -545,11 +530,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextAnswerItem.java" timestamp="1504401252270">
         <mark key="[" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_v5.json" timestamp="1506097685436">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="22" />
+      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_v5.json" timestamp="1506243414845">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
         <mark key="^" line="13" column="23" />
-        <mark key="." line="13" column="22" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Answer.java" timestamp="1505909163170">
         <mark key="[" line="121" column="0" />
@@ -594,11 +579,6 @@
         <mark key="]" line="35" column="42" />
         <mark key="^" line="35" column="42" />
         <mark key="." line="35" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/RecommendJobController.java" timestamp="1505891628522">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/ansj/ansj_lucene5_plug/5.1.1.2/ansj_lucene5_plug-5.1.1.2-sources.jar!/org/ansj/lucene/util/AnsjTokenizer.java" timestamp="1506238243500" />
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/config/GanjiDic.java" timestamp="1504006257854">
@@ -993,14 +973,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlEaWNMaWJyYXJ5LmRlbGV0ZShEaWNMaWJyYXJ5LkRFRkFVTFQsIui1hOS6p+euoeeQhiIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>beta_analyzer</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>beta_analyzer</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
