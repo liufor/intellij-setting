@@ -48,11 +48,6 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc_58wrzp/res/xml/config.xml" timestamp="1502882102577">
         <mark key="[" line="134" column="65" />
       </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v6.sh" timestamp="1506105494019">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-      </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_v11.json" timestamp="1506261588010">
         <mark key="[" line="20" column="39" />
         <mark key="]" line="18" column="22" />
@@ -91,10 +86,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/ChooseOneTextAnswerItem.java" timestamp="1504841202089">
         <mark key="[" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" timestamp="1506316915072">
-        <mark key="[" line="284" column="6" />
-        <mark key="]" line="298" column="0" />
-        <mark key="." line="298" column="0" />
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" timestamp="1506318053663">
+        <mark key="[" line="292" column="16" />
+        <mark key="]" line="292" column="15" />
+        <mark key="^" line="292" column="15" />
+        <mark key="." line="292" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Settings.vue" timestamp="1504234528335">
         <mark key="[" line="80" column="10" />
@@ -156,11 +152,6 @@
         <mark key="[" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/work/code/elasticsearch/core/src/main/java/org/elasticsearch/bootstrap/Bootstrap.java" timestamp="1506270157303" />
-      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_v7.json" timestamp="1506105599704">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-      </file>
       <file name="/Dummy.txt" timestamp="1506272188398">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,11 +182,6 @@
       </file>
       <file name="$USER_HOME$/work/code/scripy/src/gzc_spider/settings.py" timestamp="1505983419830">
         <mark key="[" line="17" column="51" />
-      </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v4.sh" timestamp="1506125853370">
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="16" column="61" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/elasticsearch/core/src/main/java/org/elasticsearch/bootstrap/JVMCheck.java" timestamp="1506269682738" />
       <file name="$USER_HOME$/work/images/dockers/beta/tomcat/Makefile" timestamp="1503891851464">
@@ -239,11 +225,6 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/pom.xml" timestamp="1505900616883">
         <mark key="[" line="169" column="44" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_op/all/docker_files/elastic/docker-compose-qa.yml" timestamp="1506250105265">
-        <mark key="[" line="22" column="339" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/WikiContent.java" timestamp="1504401713638">
         <mark key="[" line="2" column="24" />
       </file>
@@ -258,11 +239,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/ansj/ansj_lucene5_plug/5.1.1.2/ansj_lucene5_plug-5.1.1.2-sources.jar!/org/ansj/lucene5/AnsjAnalyzer.java" timestamp="1506306178321" />
       <file name="$USER_HOME$/work/code/ansj_seg/src/main/java/org/ansj/splitWord/analysis/ToAnalysis.java" timestamp="1506237307077" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/RecommendJobController.java" timestamp="1505891628522">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/ansj/ansj_lucene5_plug/5.1.1.2/ansj_lucene5_plug-5.1.1.2-sources.jar!/org/ansj/lucene/util/AnsjTokenizer.java" timestamp="1506238243500" />
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/config/GanjiDic.java" timestamp="1504006257854">
         <mark key="[" line="17" column="29" />
@@ -487,14 +463,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+      <register name="&quot;" type="4">
+        <text>content</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>isSwelected</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -503,31 +479,31 @@
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oVG9BbmFseXNpcy5wYXJzZSgi5LuA5LmI5piv6LWE5Lqn566h55CGIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nZXRTZWxlY3RlZE9wdGlvbnMoKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaG9vc2VNdWx0aURhdGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb3B0VmFsdWU9b25lLmlkeDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc3Qgb3B0VmFsdWU9b25lLmlkeDsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2hvb3NlTXVsdGlTZWxlY3RPbmUK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fgp+Cn4Kfgp+Cn4Kfgp+Cn4Kfgp+Cn4KIi9vcHQvZG9ja2VyX2ZpbGVzL2VsYXN0aWMvZG9ja2VyLWNvbXBvc2UtcWEueW1sIiAyNEwsIDEwOTRDICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxLDEgICAgICAgICAgIEFsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>605</text>
