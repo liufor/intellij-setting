@@ -352,6 +352,12 @@
         <mark key="." line="514" column="50" />
         <mark key="^" line="514" column="50" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BcController.java" timestamp="1506410444632">
+        <mark key="[" line="96" column="28" />
+        <mark key="]" line="96" column="33" />
+        <mark key="^" line="96" column="33" />
+        <mark key="." line="96" column="33" />
+      </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/redis/3.2/docker-compose-for-elk.yml" timestamp="1504105140612">
         <mark key="[" line="6" column="21" />
       </file>
@@ -976,14 +982,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExvZ2dlckZhY3RvcnkuCg==</text>
+      <register name="&quot;" type="4">
+        <text>bcUserOrCreateIfNotExist</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>autoEnterQuestion</text>
+        <text>bcUserOrCreateIfNotExist</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
