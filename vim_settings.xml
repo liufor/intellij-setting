@@ -184,6 +184,10 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/UrlsTextAnswerContent.java" timestamp="1504166435830">
         <mark key="[" line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1506492622126">
+        <mark key="[" line="257" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobManualMapper.java" timestamp="1506492479268" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/intention/serve.jsp" timestamp="1506051588272">
         <mark key="[" line="1071" column="61" />
       </file>
@@ -346,7 +350,7 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1505922112089">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1506493188876">
         <mark key="[" line="514" column="77" />
         <mark key="]" line="514" column="50" />
         <mark key="." line="514" column="50" />
@@ -372,6 +376,9 @@
         <mark key="]" line="9" column="8" />
         <mark key="^" line="9" column="8" />
         <mark key="." line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1506272188398">
         <mark key="[" line="0" column="0" />
@@ -550,6 +557,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/resume/resume/list.jsp" timestamp="1506060308550">
         <mark key="[" line="50" column="38" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/mapper/ResumeEntityMapper.xml" timestamp="1506492573446" />
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/service/TestService.java" timestamp="1504088341294">
         <mark key="[" line="25" column="24" />
         <mark key="]" line="24" column="23" />
@@ -766,6 +774,12 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/MultiChoosableAnswerItem.java" timestamp="1504846145606">
         <mark key="[" line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/mapper/manual/ResumeEntityManualMapper.xml" timestamp="1506492592895">
+        <mark key="[" line="3" column="85" />
+        <mark key="]" line="3" column="85" />
+        <mark key="." line="3" column="85" />
+        <mark key="^" line="3" column="90" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/opportunity/statistics.jsp" timestamp="1506051154703">
         <mark key="[" line="223" column="43" />
         <mark key="]" line="223" column="41" />
@@ -801,6 +815,12 @@
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/WikiTextAnswerItem.java" timestamp="1504529616295">
         <mark key="[" line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1506492995671">
+        <mark key="[" line="666" column="34" />
+        <mark key="]" line="666" column="34" />
+        <mark key="^" line="678" column="0" />
+        <mark key="." line="666" column="34" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/beta/node_build/Dockerfile" timestamp="1502875315700">
         <mark key="[" line="0" column="12" />
@@ -992,13 +1012,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>bcNick.substring(0,10)</text>
+        <text>where resume.resumeState = 1</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>bcNick.substring(0,10)</text>
+        <text>where resume.resumeState = 1</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -1007,31 +1027,31 @@
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oVG9BbmFseXNpcy5wYXJzZSgi5LuA5LmI5piv6LWE5Lqn566h55CGIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmNOaWNrID0gCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlc3VtZUVudGl0eS5zZXRJbmRleGVkKFNlYXJjaEluZGV4ZWQuVG9JbmRleC5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoYmNOaWNrKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRTdGF0ZUluKExpc3RzLm5ld0FycmF5TGlzdChSZXN1bWVTdGF0ZS5TdGF0ZTAuZ2V0VmFsdWUoKSwgUmVzdW1lU3RhdGUuU3RhdGUxLmdldFZhbHVlKCkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExvZ2dlckZhY3RvcnkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmNOaWNrID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoYmNOaWNrKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIExvZ2dlckZhY3RvcnkuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmUxQ2FuT3BlcmF0ZU1pZDogMTAwMDAwLAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
