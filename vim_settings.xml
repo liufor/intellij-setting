@@ -105,6 +105,11 @@
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/elastic/docker-compose-qa-debug.yml" timestamp="1506265624014">
         <mark key="[" line="14" column="23" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated2/entity/FindjobPostEntity.java" timestamp="1506506549910">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/resources/ehcache.xml" timestamp="1504079108333">
         <mark key="[" line="23" column="10" />
       </file>
@@ -301,6 +306,12 @@
         <mark key="]" line="16" column="14" />
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1506506723773">
+        <mark key="[" line="514" column="8" />
+        <mark key="]" line="514" column="8" />
+        <mark key="." line="514" column="8" />
+        <mark key="^" line="516" column="63" />
       </file>
       <file name="$USER_HOME$/work/code/lab/server/gzc-domain/pom.xml" timestamp="1502445143502">
         <mark key="[" line="212" column="8" />
@@ -608,11 +619,11 @@
       <file name="$USER_HOME$/work/images/dockers/beta/oracle-jdk8/Makefile" timestamp="1502872131545">
         <mark key="[" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/ResumeGrabService.java" timestamp="1506076436991">
-        <mark key="[" line="671" column="0" />
-        <mark key="]" line="671" column="0" />
-        <mark key="." line="671" column="0" />
-        <mark key="^" line="671" column="20" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/ResumeGrabService.java" timestamp="1506506687769">
+        <mark key="[" line="250" column="11" />
+        <mark key="]" line="250" column="11" />
+        <mark key="^" line="673" column="19" />
+        <mark key="." line="250" column="11" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RpoPro.vue" timestamp="1503912213737">
         <mark key="[" line="11" column="99" />
@@ -817,12 +828,6 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/WikiTextAnswerItem.java" timestamp="1504529616295">
         <mark key="[" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1506492995671">
-        <mark key="[" line="666" column="34" />
-        <mark key="]" line="666" column="34" />
-        <mark key="^" line="678" column="0" />
-        <mark key="." line="666" column="34" />
-      </file>
       <file name="$USER_HOME$/work/images/dockers/beta/node_build/Dockerfile" timestamp="1502875315700">
         <mark key="[" line="0" column="12" />
       </file>
@@ -1013,13 +1018,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>condition</text>
+        <text>Long</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>condition</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
