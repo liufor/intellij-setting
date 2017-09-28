@@ -170,11 +170,11 @@
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1506502714652">
-        <mark key="[" line="724" column="25" />
-        <mark key="]" line="724" column="25" />
-        <mark key="^" line="724" column="34" />
-        <mark key="." line="724" column="25" />
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/Dialogue.vue" timestamp="1506612719066">
+        <mark key="[" line="151" column="42" />
+        <mark key="]" line="152" column="7" />
+        <mark key="." line="152" column="7" />
+        <mark key="^" line="152" column="7" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/lg/res/values/strings.xml" timestamp="1504869085023">
         <mark key="[" line="2" column="60" />
@@ -200,6 +200,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/reindex.sh" timestamp="1504779820290">
         <mark key="[" line="1" column="99" />
       </file>
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/asset/AddPlan.vue" timestamp="1506611486786" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/WikiTextAnswerContent.java" timestamp="1504166424783">
         <mark key="[" line="6" column="34" />
       </file>
@@ -229,6 +230,9 @@
         <mark key="]" line="37" column="45" />
         <mark key="^" line="37" column="45" />
         <mark key="." line="37" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" timestamp="1506612593521">
+        <mark key="'" line="118" column="2" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/OSSImage.java" timestamp="1506582226909">
         <mark key="[" line="31" column="24" />
@@ -413,7 +417,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506587659084">
+      <file name="/Dummy.txt" timestamp="1506611475623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/RadioChoosableAnswerItem.java" timestamp="1504846163405">
@@ -708,11 +712,6 @@
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/ChooseableContent.java" timestamp="1504841478204">
         <mark key="[" line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/EmptyMobileCleanTasks.java" timestamp="1506564844204">
-        <mark key="]" line="43" column="32" />
-        <mark key="^" line="43" column="32" />
-        <mark key="." line="43" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/index/query/QueryBuilders.java" timestamp="1506490845409" />
       <file name="$USER_HOME$/work/images/dockers/beta/java-alone/docker-compose-beta-scheduler-qa.yml" timestamp="1503893219245">
@@ -1056,13 +1055,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kRVYoIuaQnOe0oi3ng63pl6jmkJzntKIiKQo=</text>
+        <text encoding="base64">ICBwcm9wcwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>RawChooseMulti</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -1071,31 +1070,31 @@
         <text encoding="base64">ICAgICAgICBzZW5kRVYoIuaQnOe0oi3ng63pl6jmkJzntKIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ290b0xpc3QK</text>
+        <text encoding="base64">ICBwcm9wcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYXRhKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbmRFVigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmwpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ290b0xpc3QK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxSZXN1bWVTZWFyY2g+IHJlc3VtZVNlYXJjaGVzID0gcmVzdW1lU2VhcmNoU2VydmljZS5zZWFyY2hSZXN1bWUoY2l0eUlkT3B0LmdldCgpLCBjYXRlSWRzLCBsaW1pdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbmRFVigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbWl0LTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGZpeGVkU2l6ZT1NYXRoLm1pbihwYWdlU2l6ZSwpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
