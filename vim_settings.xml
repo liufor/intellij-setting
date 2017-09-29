@@ -208,8 +208,11 @@
         <mark key="[" line="8" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.0.3.RELEASE/spring-data-elasticsearch-2.0.3.RELEASE-sources.jar!/org/springframework/data/elasticsearch/core/query/NativeSearchQueryBuilder.java" timestamp="1506571005793" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1506492622126">
-        <mark key="[" line="257" column="4" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1506653447621">
+        <mark key="[" line="894" column="0" />
+        <mark key="]" line="894" column="0" />
+        <mark key="^" line="894" column="43" />
+        <mark key="." line="894" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_ljh.json" timestamp="1506524987717" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobManualMapper.java" timestamp="1506492479268" />
@@ -335,7 +338,12 @@
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1506508484665" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1506653494558">
+        <mark key="[" line="831" column="39" />
+        <mark key="]" line="831" column="38" />
+        <mark key="^" line="831" column="38" />
+        <mark key="." line="831" column="38" />
+      </file>
       <file name="$USER_HOME$/work/code/lab/server/gzc-domain/pom.xml" timestamp="1502445143502">
         <mark key="[" line="212" column="8" />
       </file>
@@ -773,11 +781,8 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_BM.json" timestamp="1506097462922">
         <mark key="[" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobBaseController.java" timestamp="1504853513522">
-        <mark key="[" line="483" column="73" />
-        <mark key="]" line="483" column="19" />
-        <mark key="^" line="483" column="19" />
-        <mark key="." line="483" column="19" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobBaseController.java" timestamp="1506653378839">
+        <mark key="[" line="471" column="5" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/ClickableTextAnswerItem.java" timestamp="1504849587521">
         <mark key="[" line="13" column="51" />
@@ -1058,14 +1063,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>beatyViewCount(job)</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>beatyViewCount(job)</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -1074,31 +1079,31 @@
         <text encoding="base64">ICAgICAgICBzZW5kRVYoIuaQnOe0oi3ng63pl6jmkJzntKIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50OiBbc3VnZ2VzdC50aXRsZSwgLi4ucXNdLAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIF90aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGJlYXR5Vmlld0NvdW50PmpvYkRldGFpbC5nZXRWaWV3Q291bnQoKSl7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNob3dMb2FkaW5nQW5zd2VyID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50OiBbc3VnZ2VzdC50aXRsZSwgLi4ucXNdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuLi5tZXNzYWdlLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBoaWRkZW46Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIF90aGlzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm9wcwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNob3dMb2FkaW5nQW5zd2VyID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
