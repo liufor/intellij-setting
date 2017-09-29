@@ -96,6 +96,12 @@
       <file name="$USER_HOME$/work/code/s-test/index2.html" timestamp="1504356130272">
         <mark key="[" line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/CardTextAnswerItem.java" timestamp="1506695334522">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/beta/java-alone/docker-compose-pc-api-prod.yml" timestamp="1502954495379">
         <mark key="[" line="12" column="12" />
       </file>
@@ -226,13 +232,6 @@
         <mark key="]" line="37" column="45" />
         <mark key="^" line="37" column="45" />
         <mark key="." line="37" column="45" />
-      </file>
-      <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" timestamp="1506615551666">
-        <mark key="'" line="118" column="2" />
-        <mark key="[" line="533" column="3" />
-        <mark key="]" line="535" column="6" />
-        <mark key="^" line="535" column="6" />
-        <mark key="." line="535" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1506667295506">
         <mark key="[" line="153" column="4" />
@@ -462,7 +461,7 @@
       <file name="$USER_HOME$/work/images/dockers/ubuntu16_20170802/Dockerfile" timestamp="1502871248834">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1506565322650">
+      <file name="/fragment.java" timestamp="1506695489953">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1505128844763">
@@ -588,6 +587,7 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/base/annotation/Nullable.java" timestamp="1506695855328" />
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/Answer.java" timestamp="1505909163170">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -680,6 +680,12 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/messageList.vue" timestamp="1503912027224">
         <mark key="[" line="90" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/CardContent.java" timestamp="1506696155939">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="2" />
+        <mark key="." line="33" column="2" />
+        <mark key="^" line="33" column="2" />
       </file>
       <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/democ.js" timestamp="1504435629489">
         <mark key="[" line="19" column="2" />
@@ -1060,14 +1066,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>scollResumeId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>scollResumeId</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -1076,31 +1082,31 @@
         <text encoding="base64">ICAgIHVybDogamRiYzpsb2c0amRiYzpteXNxbDovLzE3Mi4xMC4wLjE4OjMzMDgvYmo/dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPXV0ZjgmdXNlU1NMPWZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFnRmluZGpvYlBvc3QoZmluZGpvYlBvc3QuZ2V0SWQoKSwgRGRTdGF0ZS5Vc2VkKTsgLy/moIforrDnmoRmaW5kam9i77yM5YWN5b6X6YeN5aSN6LeRCg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCiAgICBwcml2YXRlIFN0cmluZyBpY29uVXJsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQogICAgcHJpdmF0ZSBTdHJpbmcgbG9uZ0Rlc2M7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnRlbnQgPSBjb250ZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VtZVBvc3RFbnRpdHlNYXBwZXIuaW5zZXJ0U2VsZWN0aXZlKHJlc3VtZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGNvbnRlbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVzdW1lUG9zdEVudGl0eU1hcHBlciByZXN1bWVQb3N0RW50aXR5TWFwcGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFnRmluZGpvYlBvc3QoZmluZGpvYlBvc3QuZ2V0SWQoKSwgRGRTdGF0ZS5Vc2VkKTsgLy/moIforrDnmoRmaW5kam9i77yM5YWN5b6X6YeN5aSN6LeRCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
