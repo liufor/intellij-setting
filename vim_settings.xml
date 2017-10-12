@@ -19,10 +19,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat.location" timestamp="1507801315961">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="123" column="33" />
-        <mark key="^" line="123" column="33" />
-        <mark key="." line="123" column="33" />
+        <mark key="[" line="121" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/ThirdUserType.java" timestamp="1506508426044">
         <mark key="[" line="17" column="32" />
@@ -297,6 +294,9 @@
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat_gzc.server" timestamp="1507801765711">
+        <mark key="[" line="5" column="84" />
+      </file>
       <file name="/RegExp Fragment (GroupPropertiesLoader.java:889).regexp" timestamp="1502701546400">
         <mark key="[" line="0" column="0" />
       </file>
@@ -444,7 +444,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507798992581">
+      <file name="/Dummy.txt" timestamp="1507802001726">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/RadioChoosableAnswerItem.java" timestamp="1504846163405">
@@ -503,6 +503,9 @@
         <mark key="]" line="207" column="0" />
         <mark key="^" line="202" column="35" />
         <mark key="." line="207" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat_zpc.server" timestamp="1507801727923">
+        <mark key="[" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/beta/tomcat/Makefile" timestamp="1503891851464">
         <mark key="[" line="7" column="28" />
@@ -573,6 +576,11 @@
         <mark key="]" line="94" column="35" />
         <mark key="^" line="94" column="44" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat_gzc.location" timestamp="1507801810034">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/components/Message.vue" timestamp="1504352077789">
         <mark key="[" line="7" column="16" />
@@ -1137,7 +1145,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZWQgLWkgJ3Mv5oub6LSi54yrL+W3peS9nOiZqy9nJyAuLi9pbmRleC5odG1sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -1152,35 +1160,35 @@
         <text encoding="base64">ICBzZWQgLWkgJ3Mv5oub6LSi54yrL+W3peS9nOiZqy9nJyAuLi9pbmRleC5odG1sCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aW5jbHVkZSBjb21tb25zL2xvY2F0aW9uLmNvbW1vbjsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>ls('../src').forEach(function (file) {
   shell.sed('-i', 'BUILD_VERSION', 'v0.1.2', file);
   shell.sed('-i', /^.*REMOVE_THIS_LINE.*$/, '', file);
   shell.sed('-i', /.*REPLACE_LINE_WITH_MACRO.*\n/, shell.cat('macro.js'), file);
 });</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">c2hlbGwuY2QoIiIpCg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">LWkgCi1pIAotaSAKLWkgCi1pIAotaSA=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">IC1pIAogLWkgCiAtaSAKIC1pIAogLWkgCiAtaSA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB1c2UK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYobGltaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
