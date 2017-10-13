@@ -393,6 +393,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/WikiTextAnswerItem.java" timestamp="1504529616295">
         <mark key="[" line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1507878090717" />
       <file name="$USER_HOME$/work/images/dockers/beta/node_build/Dockerfile" timestamp="1502875315700">
         <mark key="[" line="0" column="12" />
       </file>
@@ -550,7 +551,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHV0aWwuaXNBbmRyb2lkKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZihyZXN1bWVFbnRpdHkuZ2V0aWQpCg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -565,35 +566,35 @@
         <text encoding="base64">ICAgIGFzc2V0c1B1YmxpY1BhdGhPbmxpbmU6ICcvL2NkbjAyLmdvbmd6dW9jaG9uZy5jbi92Mi8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHV0aWwuaXNBbmRyb2lkKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZihyZXN1bWVFbnRpdHkuZ2V0aWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWNQYXRoCg==</text>
+        <text encoding="base64">ICAgIHV0aWwuaXNBbmRyb2lkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWNQYXRoCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW5jbHVkZSBjb21tb25zL2xvY2F0aW9uLmNvbW1vbjsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>ls('../src').forEach(function (file) {
   shell.sed('-i', 'BUILD_VERSION', 'v0.1.2', file);
   shell.sed('-i', /^.*REMOVE_THIS_LINE.*$/, '', file);
   shell.sed('-i', /.*REPLACE_LINE_WITH_MACRO.*\n/, shell.cat('macro.js'), file);
 });</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">c2hlbGwuY2QoIiIpCg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">LWkgCi1pIAotaSAKLWkgCi1pIAotaSA=</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">IC1pIAogLWkgCiAtaSAKIC1pIAogLWkgCiAtaSA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2UK</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
