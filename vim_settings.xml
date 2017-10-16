@@ -85,11 +85,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_mp/pages/joblist/joblist.js" timestamp="1508151216564">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
-        <mark key="^" line="305" column="12" />
+      <file name="$USER_HOME$/work/code/gzc_mp/pages/joblist/joblist.js" timestamp="1508152721004">
+        <mark key="[" line="262" column="12" />
+        <mark key="]" line="262" column="11" />
+        <mark key="." line="262" column="11" />
+        <mark key="^" line="262" column="11" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/lg/res/values/strings.xml" timestamp="1504869085023">
         <mark key="[" line="2" column="60" />
@@ -224,7 +224,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508146792565">
+      <file name="/Dummy.txt" timestamp="1508152431580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/elastic/docker-compose.yml" timestamp="1506524362638">
@@ -588,7 +588,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -600,27 +600,30 @@
         <text>scray</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3eC5BUEkuZ2V0UXpKb2JMaXN0KHRoaXMucXpQYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHd4LmhpZGVMb2FkaW5nKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>wx.API.getQzJobList({
       city: &quot;bj&quot;,  //TODO
       sort: this.data.sortIndex,
@@ -628,11 +631,8 @@
       page: 1
     });</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8v6I635Y+WCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8v6I635Y+WCg==</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
