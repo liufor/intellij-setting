@@ -12,6 +12,7 @@
       <file name="/a.dummy" timestamp="1505885720284">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-mp/2.5.0/weixin-java-mp-2.5.0.jar!/me/chanjar/weixin/mp/api/WxMpService.class" timestamp="1508415239333" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/ServletConfiguration.java" timestamp="1502449411346">
         <mark key="[" line="9" column="0" />
       </file>
@@ -27,7 +28,7 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/BrandPro.vue" timestamp="1503912204939">
         <mark key="[" line="11" column="98" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/WechatMpProperties.java" timestamp="1508408573054" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/WechatMpProperties.java" timestamp="1508415407109" />
       <file name="$USER_HOME$/work/code/s-test/index2.html" timestamp="1504356130272">
         <mark key="[" line="8" column="7" />
       </file>
@@ -228,7 +229,7 @@
       <file name="$USER_HOME$/work/images/dockers/ubuntu16_20170802/Dockerfile" timestamp="1502871248834">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1508403269339">
+      <file name="/fragment.java" timestamp="1508415289672">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1505128844763">
@@ -339,11 +340,11 @@
       <file name="/fragment.js" timestamp="1508396454110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1508410555566">
-        <mark key="[" line="742" column="19" />
-        <mark key="]" line="742" column="19" />
-        <mark key="^" line="742" column="8" />
-        <mark key="." line="742" column="19" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1508415674849">
+        <mark key="[" line="747" column="68" />
+        <mark key="]" line="747" column="68" />
+        <mark key="^" line="747" column="70" />
+        <mark key="." line="747" column="68" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/beta/yewu_tomcat/manage/docker-compose-mange-prod-2.yml" timestamp="1503894922206">
         <mark key="[" line="7" column="27" />
@@ -376,6 +377,12 @@
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-web/src/main/java/org/springframework/web/context/ContextLoader.java" timestamp="1503578241534">
         <mark key="[" line="344" column="68" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1508415586919">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="133" column="7" />
+        <mark key="^" line="133" column="7" />
+        <mark key="." line="133" column="7" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/object/response/ChatResponse.java" timestamp="1504943422846">
         <mark key="[" line="30" column="36" />
@@ -412,9 +419,6 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/pom.xml" timestamp="1506563831216">
         <mark key="[" line="21" column="79" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Base64.java" timestamp="1508405397730">
-        <mark key="'" line="76" column="13" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_v13.json" timestamp="1506524679878">
         <mark key="[" line="20" column="39" />
@@ -553,14 +557,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzZWFyY2hfYW5hbHl6ZXIiOiAiYmV0YV9hbmFseXplcl8xIgo=</text>
+      <register name="&quot;" type="4">
+        <text>getAesKey</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>getAesKey</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -569,31 +573,31 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0Q291bnQoaCxtLDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzZWFyY2hfYW5hbHl6ZXIiOiAiYmV0YV9hbmFseXplcl8xIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzZWFyY2hfYW5hbHl6ZXIiOiAiYmV0YV9hbmFseXplcl8xIgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgV2VjaGF0TXBQcm9wZXJ0aWVzIHdlY2hhdE1wUHJvcGVydGllczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJhbmFseXplciI6ICJiZXRhX2FuYWx5emVyXzIiLAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd3hNcFpwYzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwQ2xpZW50VXRpbHMK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBXeE1wIGdldFd4TXBacGMoKXsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldFVzZXJJbmZvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJzZWFyY2hfYW5hbHl6ZXIiOiAiYmV0YV9hbmFseXplcl8xIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJzZWFyY2hfYW5hbHl6ZXIiOiAiYmV0YV9hbmFseXplcl8xIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjaGVja0lzTm90TnVsbDogY2hlY2tJc05vdE51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJhbmFseXplciI6ICJiZXRhX2FuYWx5emVyXzIiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>217</text>
