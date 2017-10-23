@@ -120,11 +120,11 @@
       <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageItemV1.vue" timestamp="1504258325876">
         <mark key="[" line="379" column="3" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_mp/pages/detail/detail.js" timestamp="1508739531105">
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="56" column="39" />
-        <mark key="^" line="56" column="39" />
-        <mark key="." line="56" column="39" />
+      <file name="$USER_HOME$/work/code/gzc_mp/pages/detail/detail.js" timestamp="1508751647631">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="31" />
+        <mark key="^" line="59" column="31" />
+        <mark key="." line="59" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/config/GanjiDic.java" timestamp="1504006257854">
         <mark key="[" line="17" column="29" />
@@ -325,11 +325,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/helper/WechatMpUserInfo.java" timestamp="1508405821720">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_mp/app.js" timestamp="1508739168554">
-        <mark key="[" line="64" column="29" />
-        <mark key="]" line="66" column="3" />
-        <mark key="^" line="66" column="3" />
-        <mark key="." line="66" column="3" />
+      <file name="$USER_HOME$/work/code/gzc_mp/app.js" timestamp="1508752122967">
+        <mark key="[" line="73" column="26" />
+        <mark key="]" line="71" column="16" />
+        <mark key="^" line="71" column="16" />
+        <mark key="." line="71" column="16" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextAnswerContent.java" timestamp="1504166379184">
         <mark key="[" line="8" column="34" />
@@ -382,7 +382,12 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1506508867826">
         <mark key="[" line="140" column="8" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_mp/store/api.js" timestamp="1508739867118" />
+      <file name="$USER_HOME$/work/code/gzc_mp/store/api.js" timestamp="1508751551318">
+        <mark key="[" line="146" column="42" />
+        <mark key="]" line="149" column="1" />
+        <mark key="^" line="149" column="1" />
+        <mark key="." line="149" column="1" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/SharesKchartTextAnswerContent.java" timestamp="1504166396344">
         <mark key="[" line="7" column="42" />
       </file>
@@ -395,7 +400,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508497627403">
+      <file name="/Dummy.txt" timestamp="1508751262225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/elastic/docker-compose.yml" timestamp="1506524362638">
@@ -572,14 +577,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>isLogin</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>wxLoginParams</text>
+        <text>isLogin</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
