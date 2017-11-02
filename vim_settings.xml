@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1502182505884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/Main.java" timestamp="1509592517365">
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/Main.java" timestamp="1509614518707">
         <mark key="[" line="33" column="27" />
         <mark key="]" line="33" column="27" />
         <mark key="." line="33" column="27" />
@@ -96,11 +96,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v6.sh" timestamp="1508412859134">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/MainController.java" timestamp="1509614135542">
-        <mark key="[" line="67" column="75" />
-        <mark key="]" line="72" column="19" />
-        <mark key="^" line="72" column="19" />
-        <mark key="." line="72" column="19" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/MainController.java" timestamp="1509615768702">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="118" column="61" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageItemV1.vue" timestamp="1504258325876">
         <mark key="[" line="379" column="3" />
@@ -163,11 +163,6 @@
         <mark key="^" line="99" column="27" />
         <mark key="." line="99" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/DistrictService.java" timestamp="1509606789702">
-        <mark key="]" line="77" column="4" />
-        <mark key="^" line="77" column="4" />
-        <mark key="." line="77" column="4" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Settings.vue" timestamp="1504234528335">
         <mark key="[" line="80" column="10" />
       </file>
@@ -207,6 +202,9 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/JianzhiPro.vue" timestamp="1503912227513">
         <mark key="[" line="11" column="99" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/wubaQzCategoryData.json" timestamp="1509614717200">
+        <mark key="'" line="4645" column="28" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/ZengzhiPro.vue" timestamp="1503912197594">
         <mark key="[" line="11" column="98" />
       </file>
@@ -243,8 +241,8 @@
       <file name="$USER_HOME$/work/code/gzc_mp/pages/detail/detail.wxml" timestamp="1509001146698">
         <mark key="[" line="73" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/WeixiMpWubaSpider.java" timestamp="1509614335268">
-        <mark key="[" line="50" column="41" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/WeixiMpWubaSpider.java" timestamp="1509614410599">
+        <mark key="[" line="14" column="3" />
         <mark key="]" line="50" column="48" />
         <mark key="." line="50" column="48" />
         <mark key="^" line="50" column="48" />
@@ -846,13 +844,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9uZ29UZW1wbGF0ZS5zYXZlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>spiderConvert</text>
+        <text>cityListName</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -861,31 +859,31 @@
         <text encoding="base64">ICAgIFd1YmFNcFF6KFd1YmFNcFF6UmF3RGF0YVNlcnZpY2VJbXBsLmNsYXNzKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9uZ29UZW1wbGF0ZS5zYXZlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb25nenVvY2hvbmcuZW50aXR5Lm1vbmdvLld1YmFRekpvYjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEdhbkppUXooR2FuamlRelJhd0RhdGFTZXJ2aWNlSW1wbC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihTdHJpbmdzLmlzTnVsbE9yRW1wdHkoY2l0eUxpc3ROYW1lKSl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqb2Iuc2V0dWlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>509</text>
