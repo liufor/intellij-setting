@@ -48,11 +48,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/AntiAttackAspect.java" timestamp="1509071159884">
         <mark key="[" line="29" column="83" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/GetPhoneConfig.java" timestamp="1509589809493">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="89" />
-        <mark key="^" line="13" column="89" />
-        <mark key="." line="13" column="89" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/GetPhoneConfig.java" timestamp="1509591637885">
+        <mark key="[" line="31" column="87" />
+        <mark key="]" line="41" column="65" />
+        <mark key="^" line="41" column="65" />
+        <mark key="." line="41" column="65" />
       </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/elastic/docker-compose-qa-debug.yml" timestamp="1506524340282">
         <mark key="[" line="14" column="23" />
@@ -104,6 +104,12 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/WorkQueueContoller.java" timestamp="1507607125952">
         <mark key="[" line="100" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/BaseConfig.java" timestamp="1509591495379">
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="20" />
+        <mark key="." line="75" column="20" />
+        <mark key="^" line="75" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/reindex.sh" timestamp="1504779820290">
         <mark key="[" line="1" column="99" />
@@ -514,6 +520,12 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_BM.json" timestamp="1506097462922">
         <mark key="[" line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/DetailConfig.java" timestamp="1509591508281">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="40" />
+        <mark key="^" line="36" column="40" />
+        <mark key="." line="36" column="40" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc/res/values/strings.xml" timestamp="1502346760382">
         <mark key="[" line="2" column="52" />
       </file>
@@ -763,13 +775,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>DetailRes</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>DetailRes</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -778,10 +790,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvbkhlbHBlci5kZWZhdWx0TWFwcGVyKCkudG9Kc29uKGRldGFpbFJlcykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXEuCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -799,10 +811,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2F0ZWdvcnkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzU3RyKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2F0ZWdvcnkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>509</text>
