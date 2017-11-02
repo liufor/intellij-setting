@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1502182505884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/Main.java" timestamp="1509536886969">
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/Main.java" timestamp="1509592517365">
         <mark key="[" line="33" column="27" />
         <mark key="]" line="33" column="27" />
         <mark key="." line="33" column="27" />
@@ -48,11 +48,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/AntiAttackAspect.java" timestamp="1509071159884">
         <mark key="[" line="29" column="83" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/GetPhoneConfig.java" timestamp="1509591637885">
-        <mark key="[" line="31" column="87" />
-        <mark key="]" line="41" column="65" />
-        <mark key="^" line="41" column="65" />
-        <mark key="." line="41" column="65" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/GetPhoneConfig.java" timestamp="1509593201714">
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="54" column="45" />
+        <mark key="." line="54" column="45" />
+        <mark key="^" line="54" column="45" />
       </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/elastic/docker-compose-qa-debug.yml" timestamp="1506524340282">
         <mark key="[" line="14" column="23" />
@@ -220,6 +220,12 @@
       <file name="$USER_HOME$/work/code/gzc_mp/pages/detail/detail.wxml" timestamp="1509001146698">
         <mark key="[" line="73" column="23" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/WeixiMpWubaSpider.java" timestamp="1509592499272">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="43" column="61" />
+        <mark key="^" line="43" column="61" />
+        <mark key="." line="43" column="61" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/PureTextAnswerContent.java" timestamp="1504166379184">
         <mark key="[" line="8" column="34" />
       </file>
@@ -293,8 +299,10 @@
       <file name="$USER_HOME$/work/images/dockers/ubuntu16_20170802/Dockerfile" timestamp="1502871248834">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1509527273553">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1509593044721">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1508828163923">
         <mark key="[" line="33" column="9" />
@@ -775,13 +783,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>DetailRes</text>
+        <text>result</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>DetailRes</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -793,28 +801,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihqc29uTm9kZS5nZXQoImNvZGUiKSApCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2F0ZWdvcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLmdldCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>509</text>
