@@ -96,7 +96,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v6.sh" timestamp="1508412859134">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/MainController.java" timestamp="1509615954787">
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/MainController.java" timestamp="1509618297627">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
@@ -141,6 +141,9 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/ChooseOneTextAnswerItem.java" timestamp="1504841202089">
         <mark key="[" line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/util/WubaUtil.java" timestamp="1509609607711">
+        <mark key="[" line="176" column="5" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/ListConfig.java" timestamp="1509536469882">
         <mark key="[" line="32" column="40" />
         <mark key="]" line="31" column="89" />
@@ -158,6 +161,9 @@
         <mark key="]" line="99" column="27" />
         <mark key="^" line="99" column="27" />
         <mark key="." line="99" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/DistrictService.java" timestamp="1509621706780">
+        <mark key="[" line="121" column="17" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Settings.vue" timestamp="1504234528335">
         <mark key="[" line="80" column="10" />
@@ -333,11 +339,6 @@
       <file name="$USER_HOME$/work/images/dockers/ubuntu16_20170802/Dockerfile" timestamp="1502871248834">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1509611923439">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1508828163923">
         <mark key="[" line="33" column="9" />
       </file>
@@ -377,11 +378,11 @@
         <mark key="^" line="63" column="68" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/convert/wubamp/WubaMpConvertImpl.java" timestamp="1509612931427">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="165" column="42" />
-        <mark key="." line="165" column="42" />
-        <mark key="^" line="165" column="42" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/convert/wubamp/WubaMpConvertImpl.java" timestamp="1509619038593">
+        <mark key="[" line="52" column="64" />
+        <mark key="]" line="52" column="91" />
+        <mark key="." line="52" column="91" />
+        <mark key="^" line="52" column="91" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_mp/project.config.json" timestamp="1508845923358">
         <mark key="[" line="11" column="39" />
@@ -664,11 +665,11 @@
       <file name="$USER_HOME$/work/images/dockers/beta/java-alone/docker-compose-beta-api-prod-1.yml" timestamp="1503893276674">
         <mark key="[" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/DicLoader.java" timestamp="1509617048269">
-        <mark key="[" line="92" column="7" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="56" column="48" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/DicLoader.java" timestamp="1509618291015">
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="43" column="48" />
+        <mark key="." line="43" column="48" />
+        <mark key="^" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_mp/app.json" timestamp="1508831249378">
         <mark key="[" line="11" column="33" />
@@ -847,46 +848,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaHR0cFVyaVJlcXVlc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGdldERpc3RyaWN0SWQ7Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>HttpUriRequest</text>
+        <text>districtEntity</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIsIGNhdGVnb3J5PSIgKyBnZXRDYXRlZ29yeSgpICsK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGdldERpc3RyaWN0SWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaHR0cFVyaVJlcXVlc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIsIG9yZ1BhZ2VOdW09IiArIG9yZ1BhZ2VOdW0gKwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIsIG9yZ1BhZ2VOdW09IiArIG9yZ1BhZ2VOdW0gKwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdFJlcyBsaXN0UmVzID0gbGlzdENvbmZpZy5ydW5BbmRHZXRSZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBXdWJhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>509</text>
