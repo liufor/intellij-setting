@@ -287,11 +287,11 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/pay.server" timestamp="1503587195941">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/entity/mongo/WubaMpJobBase.java" timestamp="1509594447918">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="21" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/entity/mongo/WubaMpJobBase.java" timestamp="1509594665255">
+        <mark key="[" line="234" column="4" />
+        <mark key="]" line="234" column="3" />
+        <mark key="^" line="234" column="3" />
+        <mark key="." line="234" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc_58wrzp/res/values/strings.xml" timestamp="1502882134390">
         <mark key="[" line="2" column="52" />
@@ -528,11 +528,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_BM.json" timestamp="1506097462922">
         <mark key="[" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/DetailConfig.java" timestamp="1509594299441">
-        <mark key="[" line="53" column="67" />
-        <mark key="]" line="53" column="65" />
-        <mark key="." line="53" column="65" />
-        <mark key="^" line="53" column="65" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/DetailConfig.java" timestamp="1509594799238">
+        <mark key="[" line="71" column="11" />
+        <mark key="]" line="71" column="10" />
+        <mark key="." line="71" column="10" />
+        <mark key="^" line="71" column="10" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc/res/values/strings.xml" timestamp="1502346760382">
         <mark key="[" line="2" column="52" />
@@ -783,13 +783,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBqb2Iuc2V0Q2l0eU5hbWUoZ2V0Q2l0eSgpLmdldExpc3ROYW1lKCkpOwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>DetailRes</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -798,31 +798,61 @@
         <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBtYWpvckNhdGVJZDsKICAgIHByaXZhdGUgTG9uZyBtYWpvckNhdGVOYW1lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBqb2Iuc2V0Q2l0eU5hbWUoZ2V0Q2l0eSgpLmdldExpc3ROYW1lKCkpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="2" type="4">
+        <text>public Long getMajorCateId() {
+        return majorCateId;
+    }
+
+    public void setMajorCateId(Long majorCateId) {
+        this.majorCateId = majorCateId;
+    }
+
+    public Long getMajorCateName() {
+        return majorCateName;
+    }
+
+    public void setMajorCateName(Long majorCateName) {
+        this.majorCateName = majorCateName;
+    }
+
+    public Long getMinorCateId() {
+        return minorCateId;
+    }
+
+    public void setMinorCateId(Long minorCateId) {
+        this.minorCateId = minorCateId;
+    }
+
+    public Long getMinorCateName() {
+        return minorCateName;
+    }
+
+    public void setMinorCateName(Long minorCateName) {
+        this.minorCateName = minorCateName;
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqb2Iuc2V0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqb2IuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>509</text>
