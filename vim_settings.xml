@@ -275,7 +275,7 @@
       <file name="$USER_HOME$/work/code/gzc_mp/pages/detail/detail.wxml" timestamp="1509001146698">
         <mark key="[" line="73" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/WeixiMpWubaSpider.java" timestamp="1509718919280">
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/WeixiMpWubaSpider.java" timestamp="1509719925930">
         <mark key="[" line="105" column="60" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
@@ -522,7 +522,12 @@
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/config/GanjiDic.java" timestamp="1504006257854">
         <mark key="[" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/wuba_qz_category_data.json" timestamp="1509718702861" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/wuba_qz_category_data.json" timestamp="1509720889107">
+        <mark key="[" line="916" column="23" />
+        <mark key="]" line="916" column="22" />
+        <mark key="^" line="916" column="22" />
+        <mark key="." line="916" column="22" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/BcMessageTasks.java" timestamp="1509710429324" />
       <file name="$USER_HOME$/work/images/dockers/beta/oracle-jdk8/Makefile" timestamp="1502872131545">
         <mark key="[" line="4" column="31" />
@@ -653,6 +658,13 @@
         <mark key="." line="56" column="38" />
         <mark key="^" line="56" column="38" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/index2.html" timestamp="1509702839201">
+        <mark key="'" line="4782" column="18" />
+        <mark key="[" line="6108" column="7" />
+        <mark key="]" line="6105" column="0" />
+        <mark key="^" line="6092" column="25" />
+        <mark key="." line="6105" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/commons/ssl-WOSIGN.gongzuochong.com.common" timestamp="1503566568856">
         <mark key="[" line="1" column="36" />
       </file>
@@ -697,6 +709,13 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/SyncResumeSearchTasks.java" timestamp="1506490202653">
         <mark key="[" line="12" column="10" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/mp58City.json" timestamp="1509536774214">
+        <mark key="'" line="2058" column="3" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="2058" column="3" />
+        <mark key="^" line="2058" column="3" />
+        <mark key="." line="2058" column="3" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/mapper/manual/JobClickHistoryManualMapper.xml" timestamp="1508933531834">
         <mark key="[" line="2" column="61" />
         <mark key="]" line="2" column="61" />
@@ -705,6 +724,13 @@
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1508410691736">
         <mark key="[" line="21" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/1.txt" timestamp="1509720878079">
+        <mark key="'" line="1" column="9" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/resources/res/ui.properties" timestamp="1502706174671">
         <mark key="[" line="2" column="0" />
@@ -801,7 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="4" filename="$USER_HOME$/work/code/myapplication/src/main/java/me/liufor/myapp/config/11.css" />
       <jump line="157" column="12" filename="$USER_HOME$/work/code/myapplication/src/main/java/me/liufor/myapp/config/11.css" />
       <jump line="9" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
       <jump line="150" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
@@ -901,6 +926,7 @@
       <jump line="41" column="42" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/WeixiMpWubaSpider.java" />
       <jump line="4645" column="28" filename="$USER_HOME$/work/code/gzc-spider/src/main/resources/wubaQzCategoryData.json" />
       <jump line="4783" column="18" filename="$USER_HOME$/work/code/gzc-h5/index2.html" />
+      <jump line="1" column="9" filename="$USER_HOME$/work/code/gzc-spider/src/main/resources/1.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -916,8 +942,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">Vk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIA==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -929,10 +955,10 @@
         <text>scray</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEpvYkNhdGVnb3J5RW50aXR5IGZpbmRUb3AxQnlWYWx1ZShJbnRlZ2VyIHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICJsZWliaWUiOiJ5ZXd1IiwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">Vk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIApWTTI0MjU5OjIgClZNMjQyNTk6MiAKVk0yNDI1OToyIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -941,19 +967,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGV0YWlsUmVzLnNldFBob25lKG1EZXRhaWxSZXMuZ2V0UGhvbmUoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbFJlcy5zZXREZXRhaWxIdG1sKG1EZXRhaWxSZXMuZ2V0SHRtbCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGV0YWlsUmVzLnNldFBob25lKG1EZXRhaWxSZXMuZ2V0UGhvbmUoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbFJlcy5zZXREZXRhaWxIdG1sKG1EZXRhaWxSZXMuZ2V0SHRtbCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjYXRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBXdWJhQ2F0ZWdvcnkgY2F0ZSA9IERpY0xvYWRlci5nZXRDYXRlQnlDYXRlSWQoZ3pjQ29uZi5nZXRDYXRlSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihjYXRlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBXdWJhQ2F0ZWdvcnkgY2F0ZSA9IERpY0xvYWRlci5nZXRDYXRlQnlDYXRlSWQoZ3pjQ29uZi5nZXRDYXRlSWQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
