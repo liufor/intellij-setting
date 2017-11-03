@@ -39,6 +39,12 @@
       <file name="$USER_HOME$/work/code/s-test/index2.html" timestamp="1504356130272">
         <mark key="[" line="8" column="7" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_19.sql" timestamp="1509688868508">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/images/dockers/beta/java-alone/docker-compose-pc-api-prod.yml" timestamp="1502954495379">
         <mark key="[" line="12" column="12" />
       </file>
@@ -493,7 +499,7 @@
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/config/GanjiDic.java" timestamp="1504006257854">
         <mark key="[" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/wuba_qz_category_data.json" timestamp="1509668218420" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/wuba_qz_category_data.json" timestamp="1509687450871" />
       <file name="$USER_HOME$/work/images/dockers/beta/oracle-jdk8/Makefile" timestamp="1502872131545">
         <mark key="[" line="4" column="31" />
       </file>
@@ -626,6 +632,13 @@
         <mark key="." line="56" column="38" />
         <mark key="^" line="56" column="38" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/index2.html" timestamp="1509689068986">
+        <mark key="'" line="4782" column="18" />
+        <mark key="[" line="4797" column="245" />
+        <mark key="]" line="4797" column="241" />
+        <mark key="." line="4797" column="241" />
+        <mark key="^" line="4797" column="241" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/commons/ssl-WOSIGN.gongzuochong.com.common" timestamp="1503566568856">
         <mark key="[" line="1" column="36" />
       </file>
@@ -673,6 +686,13 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/SyncResumeSearchTasks.java" timestamp="1506490202653">
         <mark key="[" line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/mp58City.json" timestamp="1509536774214">
+        <mark key="'" line="2058" column="3" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="2058" column="3" />
+        <mark key="^" line="2058" column="3" />
+        <mark key="." line="2058" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/mapper/manual/JobClickHistoryManualMapper.xml" timestamp="1508933531834">
         <mark key="[" line="2" column="61" />
@@ -769,7 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/work/code/myapplication/src/main/java/me/liufor/myapp/config/11.css" />
       <jump line="155" column="4" filename="$USER_HOME$/work/code/myapplication/src/main/java/me/liufor/myapp/config/11.css" />
       <jump line="157" column="12" filename="$USER_HOME$/work/code/myapplication/src/main/java/me/liufor/myapp/config/11.css" />
       <jump line="9" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
@@ -869,6 +888,7 @@
       <jump line="2058" column="3" filename="$USER_HOME$/work/code/gzc-spider/src/main/resources/mp58City.json" />
       <jump line="41" column="42" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/WeixiMpWubaSpider.java" />
       <jump line="4645" column="28" filename="$USER_HOME$/work/code/gzc-spider/src/main/resources/wubaQzCategoryData.json" />
+      <jump line="4783" column="18" filename="$USER_HOME$/work/code/gzc-h5/index2.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -884,14 +904,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIG1heFBhZ2VOdW0gPSBydW5Db25maWcuZ2V0TWF4UGFnZU51bSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>pcateId</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>category, city, thirdKey, pageNum, maxPageNum</text>
+        <text>pcateId</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -900,31 +920,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICIsIHBhZ2VOdW09IiArIHBhZ2VOdW0gKwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIG1heFBhZ2VOdW0gPSBydW5Db25maWcuZ2V0TWF4UGFnZU51bSgpOwo=</text>
+        <text encoding="base64">SU5TRVJUIHd1YmFfY2F0ZWdvcnkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHBhZ2VOdW0gPSBydW5Db25maWcuZ2V0UGFnZU51bSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGFibGUoZml4Q3MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgYy5jYXRlTEkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAuY29uc3RydWN0b3IuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgbGV0IGZpeENzID0gW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VjY2Vzc0NvdW50ID0gc3VjY2Vzc0NvdW50ICsgMTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGMuY2F0ZUxpc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjLmNhdGVMaXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwgcGhvbmVHZXRDb25maWcuZ2V0SW5mb0lkKCksIHJpZCwgdmMpOwo=</text>
+        <text encoding="base64">ICAgICAgIGNhdGVzIAo=</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
