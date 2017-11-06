@@ -212,10 +212,11 @@
         <mark key="." line="56" column="38" />
         <mark key="^" line="56" column="38" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/SpiderController.java" timestamp="1509970352144">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="17" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/SpiderController.java" timestamp="1509971519317">
+        <mark key="[" line="163" column="30" />
+        <mark key="]" line="163" column="29" />
+        <mark key="^" line="163" column="29" />
+        <mark key="." line="163" column="29" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/index2.html" timestamp="1509952380141">
         <mark key="'" line="4782" column="18" />
@@ -372,13 +373,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>common</text>
+        <text>getQzCategories</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>common</text>
+        <text>getQzCategories</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -387,15 +388,27 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBDUk9OX1RBU0tfUVVFVUVfTkFNRSA9ICJzcGlkZXJfY3Jvbl90YXNrIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0LmdldENoaWxkcmVuKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBWYWx1ZVRleHRJbmhlcml0YW5jZSByZXN1bHQgPSBqb2JDYXRlZ29yeVNlcnZpY2UuZ2V0UXpUcmVlQ2F0ZWdvcmllcygpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5zdWNjZXNzKHJlc3VsdC5nZXRDaGlsZHJlbigpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSB5YW5uIG9uIDIwMTcvMS85Lgo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="8" type="8">
         <text>//
 //
 //
@@ -420,20 +433,8 @@
 //
 //</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xpbWl0ICs9IHVuUHVibGlzaGVkLnNpemUoKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBDVVJSRU5UX1RBU0tfUVVFVUVfTkFNRSA9ICJzcGlkZXJfY3VycmVudF90YXNrIjsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
