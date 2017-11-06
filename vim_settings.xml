@@ -84,6 +84,9 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v6.sh" timestamp="1508412859134">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/MainController.java" timestamp="1509967220025">
+        <mark key="[" line="176" column="42" />
+      </file>
       <file name="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageItemV1.vue" timestamp="1504258325876">
         <mark key="[" line="379" column="3" />
       </file>
@@ -93,11 +96,11 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/scheduling/SpiderTask.java" timestamp="1509712959133">
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="75" column="57" />
-        <mark key="." line="75" column="57" />
-        <mark key="^" line="75" column="57" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/scheduling/SpiderTask.java" timestamp="1509967197755">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="111" column="37" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/resources/res/content_en_US.properties" timestamp="1502601018441">
         <mark key="[" line="0" column="0" />
@@ -179,7 +182,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/resume/resume/searchList.jsp" timestamp="1506588253138">
         <mark key="[" line="146" column="85" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/MailService.java" timestamp="1509719243745">
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/MailService.java" timestamp="1509967206894">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="23" column="30" />
@@ -269,11 +272,6 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/gzc_58wrzp/res/xml/config.xml" timestamp="1502174453914">
         <mark key="[" line="134" column="65" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/rawdata/RawDataServiceAbstract.java" timestamp="1509707347820">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="4" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/WeixiMpWubaSpider.java" timestamp="1509537644065">
         <mark key="[" line="39" column="41" />
         <mark key="]" line="33" column="71" />
@@ -331,22 +329,23 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/RunConfig.java" timestamp="1509964900940">
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="30" />
+        <mark key="^" line="35" column="30" />
+        <mark key="." line="35" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc_58wrzp/res/values/strings.xml" timestamp="1502882134390">
         <mark key="[" line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/index4.html" timestamp="1509958192990">
-        <mark key="[" line="937" column="13" />
-        <mark key="]" line="937" column="13" />
-        <mark key="^" line="937" column="14" />
-        <mark key="." line="937" column="13" />
+      <file name="$USER_HOME$/work/code/gzc-h5/index4.html" timestamp="1509961287376">
+        <mark key="[" line="931" column="7" />
+        <mark key="]" line="930" column="28" />
+        <mark key="^" line="930" column="28" />
+        <mark key="." line="930" column="28" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/ubuntu16_20170802/Dockerfile" timestamp="1502871248834">
         <mark key="[" line="0" column="23" />
-      </file>
-      <file name="/fragment.java" timestamp="1509722051076">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1508828163923">
         <mark key="[" line="33" column="9" />
@@ -400,6 +399,7 @@
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/elastic/docker-compose-qa.yml" timestamp="1506524355985">
         <mark key="[" line="22" column="25" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/JobCategoryService.java" timestamp="1509961475350" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/WikiContent.java" timestamp="1504401713638">
         <mark key="[" line="2" column="24" />
       </file>
@@ -408,6 +408,11 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/jzCategory.json" timestamp="1509532844452">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/WubaCategory.java" timestamp="1509961420208">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/config/apidoc/SwaggerConfiguration.java" timestamp="1502457146377">
         <mark key="[" line="3" column="25" />
@@ -430,12 +435,7 @@
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/config/GanjiDic.java" timestamp="1504006257854">
         <mark key="[" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/wuba_qz_category_data.json" timestamp="1509955120605">
-        <mark key="[" line="4746" column="14" />
-        <mark key="]" line="4746" column="14" />
-        <mark key="^" line="4746" column="22" />
-        <mark key="." line="4746" column="14" />
-      </file>
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/wuba_qz_category_data.json" timestamp="1509962114145" />
       <file name="$USER_HOME$/work/images/dockers/beta/oracle-jdk8/Makefile" timestamp="1502872131545">
         <mark key="[" line="4" column="31" />
       </file>
@@ -503,11 +503,6 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1509791035043">
-        <mark key="]" line="849" column="43" />
-        <mark key="^" line="849" column="43" />
-        <mark key="." line="849" column="43" />
-      </file>
       <file name="$USER_HOME$/work/images/dockers/beta/yewu_tomcat/manage/docker-compose-mange-prod-2.yml" timestamp="1503894922206">
         <mark key="[" line="7" column="27" />
       </file>
@@ -525,11 +520,6 @@
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_BM.json" timestamp="1506097462922">
         <mark key="[" line="13" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/DetailConfig.java" timestamp="1509681210804">
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-        <mark key="^" line="22" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/ListConfig.java" timestamp="1509681668198">
         <mark key="[" line="97" column="4" />
@@ -565,11 +555,6 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/MultiChoosableAnswerItem.java" timestamp="1504846145606">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/application.properties" timestamp="1509721971055">
-        <mark key="]" line="42" column="37" />
-        <mark key="^" line="42" column="37" />
-        <mark key="." line="42" column="37" />
-      </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-web/src/main/java/org/springframework/web/context/ContextLoader.java" timestamp="1503578241534">
         <mark key="[" line="344" column="68" />
       </file>
@@ -603,11 +588,11 @@
       <file name="$USER_HOME$/work/images/dockers/beta/java-alone/docker-compose-beta-api-prod-1.yml" timestamp="1503893276674">
         <mark key="[" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/DicLoader.java" timestamp="1509679192945">
-        <mark key="[" line="98" column="40" />
-        <mark key="]" line="70" column="23" />
-        <mark key="." line="70" column="23" />
-        <mark key="^" line="70" column="23" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/DicLoader.java" timestamp="1509962508833">
+        <mark key="[" line="100" column="5" />
+        <mark key="]" line="68" column="48" />
+        <mark key="^" line="68" column="48" />
+        <mark key="." line="68" column="48" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_mp/app.json" timestamp="1508831249378">
         <mark key="[" line="11" column="33" />
@@ -777,47 +762,47 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>curP</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>curP</text>
+        <text>RunConfig</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBjdXJQPXVuZGVmaW5lZDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBDUk9OX1RBU0tfUVVFVUVfTkFNRSA9ICJzcGlkZXJfY3Jvbl90YXNrIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBwcmVQID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBjdXJQID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmlyc3RQID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29udGVudD0gU3RyaW5nLmZvcm1hdCgi5oC75Lu75YqhOiVzIiwgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIudzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeUVtYWlsKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBjb2xzID0gY3N2WzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZGlzVGVtcGxhdGUub3BzRm9yTGlzdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZGkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
