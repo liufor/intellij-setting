@@ -315,7 +315,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510111373981">
+      <file name="/Dummy.txt" timestamp="1510112686549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/rawdata/wubamp/WubaMpRawDataServiceImple.java" timestamp="1509611878561">
@@ -560,6 +560,11 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc/res/values/strings.xml" timestamp="1502346760382">
         <mark key="[" line="2" column="52" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/modules/common.js" timestamp="1510113657859">
+        <mark key="[" line="184" column="41" />
+        <mark key="]" line="184" column="41" />
+        <mark key="." line="184" column="41" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/package-info.java" timestamp="1509589609212">
         <mark key="[" line="0" column="0" />
       </file>
@@ -650,6 +655,12 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1509798035568">
         <mark key="[" line="464" column="22" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RecruitmentPlan.vue" timestamp="1510114248610">
+        <mark key="[" line="172" column="20" />
+        <mark key="]" line="172" column="19" />
+        <mark key="." line="172" column="19" />
+        <mark key="^" line="172" column="19" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/post/postResume.vue" timestamp="1509798537921">
         <mark key="[" line="398" column="69" />
         <mark key="]" line="399" column="5" />
@@ -662,6 +673,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_v13.json" timestamp="1506524679878">
         <mark key="[" line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1510112790072" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/ImageAnswerContent.java" timestamp="1504152085978">
         <mark key="[" line="2" column="32" />
       </file>
@@ -798,14 +810,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>grab</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -814,31 +826,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoIuS7u+WKoeaPkOS6pOaIkOWKnyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXMuY2l0eSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVuKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
