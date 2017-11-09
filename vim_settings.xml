@@ -52,6 +52,12 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/resources/ehcache.xml" timestamp="1504079108333">
         <mark key="[" line="23" column="10" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1510229417795">
+        <mark key="[" line="447" column="32" />
+        <mark key="]" line="447" column="32" />
+        <mark key="^" line="447" column="45" />
+        <mark key="." line="447" column="32" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/NavigableTextAnswerItem.java" timestamp="1504401307636">
         <mark key="[" line="22" column="32" />
       </file>
@@ -442,11 +448,17 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator2/generator.properties" timestamp="1506068193314">
         <mark key="[" line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/logic/JobIntentionHelper.java" timestamp="1510228645733">
-        <mark key="[" line="16" column="18" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/logic/JobIntentionHelper.java" timestamp="1510229093197">
+        <mark key="[" line="24" column="5" />
         <mark key="]" line="17" column="36" />
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/ResumeController.java" timestamp="1510229738051">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="127" column="72" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/UserInfoResponse.java" timestamp="1510209217177">
         <mark key="[" line="36" column="4" />
@@ -505,6 +517,12 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/pom.xml" timestamp="1506563831216">
         <mark key="[" line="21" column="79" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/BaseController.java" timestamp="1510229015763">
+        <mark key="[" line="217" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/ehcache.xml" timestamp="1510229347801">
+        <mark key="[" line="52" column="12" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1509798035568">
         <mark key="[" line="464" column="22" />
@@ -653,13 +671,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>getJobIntention</text>
+        <text>jobType</text>
       </register>
       <register name="/" type="4">
         <text>scray</text>
@@ -668,34 +686,34 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coQ29va2llLmdldCgidXNlclR5cGUiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKEludGVnZXI6OnZhbHVlT2YpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9iSW50ZW50aW9uSWRzID0gQXJyYXlzLnN0cmVhbShqb2JJbnRlbnRpb25BcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gam9iSW50ZW50aW9uQXJyID0gcmVzdW1lLmdldEpvYkludGVudGlvbigpLnNwbGl0KCIsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKEludGVnZXI6OnZhbHVlT2YpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXJyYXlzLnN0cmVhbShqb2JJbnRlbnRpb25BcnIpCiAgICAgICAgICAgICAgICAubWFwKEludGVnZXI6OnZhbHVlT2YpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iSW50ZW50aW9uSWRzID0gQXJyYXlzLnN0cmVhbShqb2JJbnRlbnRpb25BcnIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gam9iSW50ZW50aW9uQXJyID0gcmVzdW1lLmdldEpvYkludGVudGlvbigpLnNwbGl0KCIsIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihqKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQXJyYXlzLnN0cmVhbShqb2JJbnRlbnRpb25BcnIpCiAgICAgICAgICAgICAgICAubWFwKEludGVnZXI6OnZhbHVlT2YpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRlZlBheUhvdXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZihqKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>205</text>
+        <text>160</text>
       </register>
     </registers>
     <search>
@@ -731,7 +749,6 @@
         <entry>scray</entry>
       </history-search>
       <history-cmd>
-        <entry>318</entry>
         <entry>425</entry>
         <entry>58</entry>
         <entry>922</entry>
@@ -751,6 +768,7 @@
         <entry>287</entry>
         <entry>256</entry>
         <entry>205</entry>
+        <entry>160</entry>
       </history-cmd>
       <history-expr />
       <history-input />
