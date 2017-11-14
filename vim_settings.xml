@@ -270,7 +270,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510574024736">
+      <file name="/Dummy.txt" timestamp="1510630805256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/rawdata/wubamp/WubaMpRawDataServiceImple.java" timestamp="1509611878561">
@@ -427,6 +427,12 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/messageList.vue" timestamp="1503912027224">
         <mark key="[" line="90" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/resume/EditLogic.java" timestamp="1510631290364">
+        <mark key="[" line="399" column="73" />
+        <mark key="]" line="399" column="77" />
+        <mark key="." line="399" column="77" />
+        <mark key="^" line="399" column="77" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/post/postJz.vue" timestamp="1509798021022">
         <mark key="[" line="679" column="6" />
@@ -606,6 +612,9 @@
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/MDetailRes.java" timestamp="1509705155251">
         <mark key="[" line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/util/LogicUtil.java" timestamp="1510631261866">
+        <mark key="[" line="13" column="5" />
+      </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_v13.json" timestamp="1506524679878">
         <mark key="[" line="20" column="39" />
       </file>
@@ -746,14 +755,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0KCJ5MiIsIHJlc3VsdDQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Integer.parseIn</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>findDetailRpoJobs</text>
+        <text>Integer.parseIn</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
@@ -762,31 +771,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHV0KCJ5MiIsIHJlc3VsdDQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIHNwbGl0WzBdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZWdlciBqb2JjdiA9IFN0cmluZ0xvZ2ljLmV4dHJhY3RGaXJzdChyZXMuZ2V0Sm9iSW50ZW50aW9uKCkpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZihzcGkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBob3REYXRhLmFkZEFsbChEb3plckNvbnZlcnRVdGlsLmNvbnZlcnRMaXN0KHZhbHVlcywgdGhpczo6am9iU2VhcmNoMkxpc3RKb2JSZXNwb25zZSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJcmVzdWx0LmFkZChJbnRlZ2VyLnZhbHVlT2YocykpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
+        <text encoding="base64">CQlBcnJheXMuYXNMaXN0KHNwbGl0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGxldmVsXzBfY2F0ZT1udWxsOwo=</text>
+        <text encoding="base64">CQlpZihzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>160</text>
