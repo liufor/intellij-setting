@@ -183,6 +183,12 @@
       <file name="$USER_HOME$/work/code/beta/beta-scheduler/src/main/resources/config/application-prod.yml" timestamp="1503891352467">
         <mark key="[" line="1" column="4" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/spider/jobSpiderProcess.jsp" timestamp="1511331424948">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/helper/WechatMpUserInfo.java" timestamp="1508405821720">
         <mark key="[" line="2" column="31" />
       </file>
@@ -232,7 +238,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511322673711">
+      <file name="/Dummy.txt" timestamp="1511333222555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/rawdata/wubamp/WubaMpRawDataServiceImple.java" timestamp="1509611878561">
@@ -263,7 +269,7 @@
       <file name="$USER_HOME$/work/images/dockers/ubuntu16_20170802/Dockerfile" timestamp="1502871248834">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1510917796697">
+      <file name="/fragment.java" timestamp="1511333222547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1511254090512">
@@ -468,11 +474,11 @@
         <mark key="^" line="776" column="60" />
         <mark key="." line="774" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/SpiderController.java" timestamp="1511162781764">
-        <mark key="[" line="88" column="23" />
-        <mark key="]" line="88" column="22" />
-        <mark key="." line="88" column="22" />
-        <mark key="^" line="88" column="22" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/SpiderController.java" timestamp="1511333500964">
+        <mark key="[" line="191" column="9" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+        <mark key="^" line="193" column="36" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/commons/ssl-WOSIGN.gongzuochong.com.common" timestamp="1503566568856">
         <mark key="[" line="1" column="36" />
@@ -509,6 +515,12 @@
       </file>
       <file name="$USER_HOME$/work/images/dockers/beta/node_build/Dockerfile" timestamp="1502875315700">
         <mark key="[" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/spider/submitJobTask.jsp" timestamp="1511335735045">
+        <mark key="[" line="67" column="68" />
+        <mark key="]" line="67" column="42" />
+        <mark key="." line="67" column="42" />
+        <mark key="^" line="67" column="42" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/account/online_product.html" timestamp="1510909502089">
         <mark key="[" line="56" column="32" />
@@ -685,46 +697,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRlZjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>】仅抓取、抓取并上线、仅上线</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzID0gZGVmOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnNob3dTcGlkZXJKb2JzSW5RMV8xID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRlZjsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgbmctY2xpY2s9InNob3dTcGlkZXJKb2JzSW5RMigpIj7mn6XnnIvpmJ/liJcy44CQ5LuOMTAwV+S4iue6v+OAkeS4reS7u+WKoTwvYnV0dG9uPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgbmctY2xpY2s9InNob3dTcGlkZXJKb2JzSW5RMSgpIj7mn6XnnIvpmJ/liJcx44CQ5LuF5oqT5Y+W44CB5oqT5Y+W5bm25LiK57q/44CB5LuF5LiK57q/44CR5Lit5Lu75YqhPC9idXR0b24+Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXpKb2IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxekpvYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUuZ2V0U3BpZGVySm9icygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxekpvYi5zZXRXZWxmYXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>216</text>
