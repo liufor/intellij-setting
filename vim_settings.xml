@@ -90,6 +90,9 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/resources/res/content_en_US.properties" timestamp="1502601018441">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/resume_mapping.json" timestamp="1511410987863">
+        <mark key="[" line="169" column="42" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/lg/res/values/strings.xml" timestamp="1504869085023">
         <mark key="[" line="2" column="60" />
       </file>
@@ -126,6 +129,7 @@
         <mark key="^" line="101" column="97" />
         <mark key="." line="101" column="93" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v15.sh" timestamp="1511410060876" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Settings.vue" timestamp="1504234528335">
         <mark key="[" line="80" column="10" />
       </file>
@@ -222,6 +226,7 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/www.location" timestamp="1507711336227">
         <mark key="[" line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1511409499641" />
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/redis/3.2/docker-compose-for-elk.yml" timestamp="1504105140612">
         <mark key="[" line="6" column="21" />
       </file>
@@ -230,6 +235,12 @@
         <mark key="]" line="109" column="45" />
         <mark key="^" line="109" column="45" />
         <mark key="." line="109" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" timestamp="1511413089670">
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="53" column="24" />
+        <mark key="." line="53" column="24" />
+        <mark key="^" line="53" column="28" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1510738136362">
         <mark key="[" line="140" column="8" />
@@ -284,6 +295,10 @@
       <file name="$USER_HOME$/work/code/scripy/src/gzc_spider/settings.py" timestamp="1505983419830">
         <mark key="[" line="17" column="51" />
       </file>
+      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v4.sh" timestamp="1511412006378">
+        <mark key="[" line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/resume_create.sh" timestamp="1511412481324" />
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/scheduling/AutoSpider.java" timestamp="1509710355933">
         <mark key="[" line="2" column="17" />
       </file>
@@ -411,6 +426,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/TextContent.java" timestamp="1504401700310">
         <mark key="[" line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeSearchService.java" timestamp="1511411853580" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/UserBindType.java" timestamp="1510917833454">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="7" />
@@ -509,6 +525,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/beta/beta-parent/1.0.0-SNAPSHOT/beta-parent-1.0.0-SNAPSHOT.pom" timestamp="1502443563988">
         <mark key="[" line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/resume_create_2.sh" timestamp="1511412374462">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/java/com/beta/domain/model/chat/WikiTextAnswerItem.java" timestamp="1504529616295">
         <mark key="[" line="16" column="21" />
@@ -697,13 +719,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyAicmVtb3ZlIiA6IHsgImluZGV4IiA6ICJxYV92NCIsImFsaWFzIiA6ICJxYSIgfSB9LAo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>】仅抓取、抓取并上线、仅上线</text>
+        <text>baowzing</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -712,31 +734,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnNob3dTcGlkZXJKb2JzSW5RMV8xID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyAicmVtb3ZlIiA6IHsgImluZGV4IiA6ICJxYV92NCIsImFsaWFzIiA6ICJxYSIgfSB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgbmctY2xpY2s9InNob3dTcGlkZXJKb2JzSW5RMigpIj7mn6XnnIvpmJ/liJcy44CQ5LuOMTAwV+S4iue6v+OAkeS4reS7u+WKoTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">Jwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y3VybCAtWERFTEVURSBzZXJ2ZXIyOjE5MjAwL3Jlc3VtZS10YW5nc2hhbi12MSA7ZWNobwpjdXJsIC1YUFVUIHNlcnZlcjI6MTkyMDAvcmVzdW1lLXRhbmdzaGFuLXYxIC1kIEByZXN1bWVfbWFwcGluZy5qc29uIDtlY2hvCmN1cmwgLVhERUxFVEUgc2VydmVyMjoxOTIwMC9yZXN1bWUtdGFuZ3NoYW4tdjEgO2VjaG8KY3VybCAtWFBVVCBzZXJ2ZXIyOjE5MjAwL3Jlc3VtZS10YW5nc2hhbi12MSAtZCBAcmVzdW1lX21hcHBpbmcuanNvbiA7ZWNobwpjdXJsIC1YREVMRVRFIHNlcnZlcjI6MTkyMDAvcmVzdW1lLXRhbmdzaGFuLXYxIDtlY2hvCmN1cmwgLVhQVVQgc2VydmVyMjoxOTIwMC9yZXN1bWUtdGFuZ3NoYW4tdjEgLWQgQHJlc3VtZV9tYXBwaW5nLmpzb24gO2VjaG8KY3VybCAtWERFTEVURSBzZXJ2ZXIyOjE5MjAwL3Jlc3VtZS10YW5nc2hhbi12MSA7ZWNobwpjdXJsIC1YUFVUIHNlcnZlcjI6MTkyMDAvcmVzdW1lLXRhbmdzaGFuLXYxIC1kIEByZXN1bWVfbWFwcGluZy5qc29uIDtlY2hvCmN1cmwgLVhERUxFVEUgc2VydmVyMjoxOTIwMC9yZXN1bWUtdGFuZ3NoYW4tdjEgO2VjaG8KY3VybCAtWFBVVCBzZXJ2ZXIyOjE5MjAwL3Jlc3VtZS10YW5nc2hhbi12MSAtZCBAcmVzdW1lX21hcHBpbmcuanNvbiA7ZWNobwoKCgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgbmctY2xpY2s9InNob3dTcGlkZXJKb2JzSW5RMSgpIj7mn6XnnIvpmJ/liJcx44CQ5LuF5oqT5Y+W44CB5oqT5Y+W5bm25LiK57q/44CB5LuF5LiK57q/44CR5Lit5Lu75YqhPC9idXR0b24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgbmctY2xpY2s9InNob3dTcGlkZXJKb2JzSW5RMigpIj7mn6XnnIvpmJ/liJcy44CQ5LuOMTAwV+S4iue6v+OAkeS4reS7u+WKoTwvYnV0dG9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUuZ2V0U3BpZGVySm9icygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgbmctY2xpY2s9InNob3dTcGlkZXJKb2JzSW5RMSgpIj7mn6XnnIvpmJ/liJcx44CQ5LuF5oqT5Y+W44CB5oqT5Y+W5bm25LiK57q/44CB5LuF5LiK57q/44CR5Lit5Lu75YqhPC9idXR0b24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkc2NvcGUuZ2V0U3BpZGVySm9icygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>216</text>
