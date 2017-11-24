@@ -114,12 +114,6 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/service/LegacyWechatLoginService.java" timestamp="1510199227000">
         <mark key="[" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1511513464269">
-        <mark key="[" line="1634" column="23" />
-        <mark key="]" line="1634" column="21" />
-        <mark key="^" line="1634" column="21" />
-        <mark key="." line="1634" column="21" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/intention/serve.jsp" timestamp="1506051588272">
         <mark key="[" line="1071" column="61" />
       </file>
@@ -367,6 +361,12 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ListJobResponse.java" timestamp="1506654342961">
         <mark key="[" line="22" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/ChannelController.java" timestamp="1511519602953">
+        <mark key="[" line="261" column="45" />
+        <mark key="]" line="261" column="76" />
+        <mark key="." line="261" column="76" />
+        <mark key="^" line="261" column="76" />
       </file>
       <file name="$USER_HOME$/work/images/dockers/beta/java-alone/docker-compose-beta-scheduler-qa.yml" timestamp="1503893219245">
         <mark key="[" line="5" column="9" />
@@ -625,14 +625,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZCAgICAgICAgTG9uZyBzY3JvbGxUaW1lSW5NaWxsaXMgPSAxMDAwMEw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>exception:{}</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>getTotalElements</text>
+        <text>exception:{}</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
