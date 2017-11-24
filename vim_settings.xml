@@ -323,11 +323,12 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RpoPro.vue" timestamp="1503912213737">
         <mark key="[" line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ManualController.java" timestamp="1511495664418">
-        <mark key="[" line="142" column="57" />
-        <mark key="]" line="55" column="10" />
-        <mark key="^" line="55" column="10" />
-        <mark key="." line="55" column="10" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ManualController.java" timestamp="1511497426108">
+        <mark key="'" line="2" column="47" />
+        <mark key="[" line="138" column="26" />
+        <mark key="]" line="138" column="25" />
+        <mark key="." line="138" column="25" />
+        <mark key="^" line="138" column="25" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1510736235231">
         <mark key="[" line="291" column="18" />
@@ -496,7 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
       <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_2.sql" />
       <jump line="100" column="1" filename="$USER_HOME$/work/code/gzc_conf/hosts/gzc/wechat.conf" />
@@ -596,6 +596,7 @@
       <jump line="61" column="8" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/JobCategoryService.java" />
       <jump line="56" column="11" filename="$USER_HOME$/conf/nginx/hosts/production/wechat.server" />
       <jump line="67" column="25" filename="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" />
+      <jump line="83" column="47" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ManualController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -612,46 +613,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>CityMap.getShort(city).orElse(&quot;bj&quot;);</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>CityMap.getShort(city).orElse(&quot;bj&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KCIxXyVzXyVzIiwgY2l0eVNOYW1lLHZpcE1hcC5nZXRPckRlZmF1bHQoY2l0eVNOYW1lLDEpKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJhaWR1UXpKb2I+IG9ubGluZVZpcEpvYnMgPSBvbmxpbmVWaXBKb2JzTWFwLmdldChjaXR5U05hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciB2aXBDaHVuazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciB6eUZyZWVDaHVuazsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciB2aXBDaHVuazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciB6eUZyZWVDaHVuazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcuZm9ybWF0KCIvb3B0L2JhaXBpbl92aXBfJXMiLCAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcuZm9ybWF0KCIvb3B0L2JhaXBpbl92aXBfJXMiLCAxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>216</text>
