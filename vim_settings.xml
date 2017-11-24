@@ -114,6 +114,12 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/service/LegacyWechatLoginService.java" timestamp="1510199227000">
         <mark key="[" line="68" column="35" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1511513464269">
+        <mark key="[" line="1634" column="23" />
+        <mark key="]" line="1634" column="21" />
+        <mark key="^" line="1634" column="21" />
+        <mark key="." line="1634" column="21" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/intention/serve.jsp" timestamp="1506051588272">
         <mark key="[" line="1071" column="61" />
       </file>
@@ -326,11 +332,9 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RpoPro.vue" timestamp="1503912213737">
         <mark key="[" line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ManualController.java" timestamp="1511511853936">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ManualController.java" timestamp="1511514245885">
         <mark key="'" line="2" column="47" />
-        <mark key="[" line="389" column="40" />
-        <mark key="]" line="389" column="0" />
-        <mark key="." line="389" column="0" />
+        <mark key="[" line="79" column="8" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1510736235231">
         <mark key="[" line="291" column="18" />
@@ -373,6 +377,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/UserController.java" timestamp="1510818390271">
         <mark key="[" line="221" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/index/query/RangeQueryBuilder.java" timestamp="1511513727074" />
       <file name="/fragment.js" timestamp="1508396454110">
         <mark key="[" line="0" column="0" />
       </file>
@@ -617,14 +622,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>maxJobId</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>vipMap</text>
+        <text>maxJobId</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -633,31 +638,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZpcE1hcC5wdXQoY2l0eSwgdmlwTWFwLmdldChjaXR5KSArIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGFtcGxlLmNyZWF0ZUNyaXRlcmlhKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZXMuY3JlYXRlRGlyZWN0b3JpZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEJhaWR1UXpKb2I+IG9ubGluZURhb3J1RnJlZUpvYnMgPSBvbmxpbmVEYW9ydUZyZWVKb2JzTWFwLmdldChjaXR5U05hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZXMuY3JlYXRlRGlyZWN0b3JpZXMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEJhaWR1UXpKb2I+IG9ubGluZVp5RnJlZUpvYnMgPSBvbmxpbmVaeUZyZWVKb2JzTWFwLmdldChjaXR5U05hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEJhaWR1UXpKb2I+IG9ubGluZVZpcEpvYnMgPSBvbmxpbmVWaXBKb2JzTWFwLmdldChjaXR5U05hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJhaWR1UXpKb2I+IG9ubGluZURhb3J1RnJlZUpvYnMgPSBvbmxpbmVEYW9ydUZyZWVKb2JzTWFwLmdldChjaXR5U05hbWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxQYXRoLmFkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJhaWR1UXpKb2I+IG9ubGluZVp5RnJlZUpvYnMgPSBvbmxpbmVaeUZyZWVKb2JzTWFwLmdldChjaXR5U05hbWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaTtpPGZ1bGxQYXRoLnNpemUoKS0zKQo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJhaWR1UXpKb2I+IG9ubGluZVZpcEpvYnMgPSBvbmxpbmVWaXBKb2JzTWFwLmdldChjaXR5U05hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhb3J1RnJlZU1hcC5wdXQoY2l0eSxkYW9ydUZyZWVNYXAuZ2V0KGNpdHkpICsxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxQYXRoLmFkZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>216</text>
