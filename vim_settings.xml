@@ -93,9 +93,6 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/resources/res/content_en_US.properties" timestamp="1502601018441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/resume_mapping.json" timestamp="1511410987863">
-        <mark key="[" line="169" column="42" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/lg/res/values/strings.xml" timestamp="1504869085023">
         <mark key="[" line="2" column="60" />
       </file>
@@ -298,8 +295,11 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/pay.server" timestamp="1503587195941">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/entity/mongo/WubaMpJobBase.java" timestamp="1511704560599">
-        <mark key="[" line="55" column="0" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/entity/mongo/WubaMpJobBase.java" timestamp="1511705481430">
+        <mark key="[" line="352" column="5" />
+        <mark key="]" line="60" column="27" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc_58wrzp/res/values/strings.xml" timestamp="1502882134390">
         <mark key="[" line="2" column="52" />
@@ -327,9 +327,6 @@
       </file>
       <file name="$USER_HOME$/work/code/scripy/src/gzc_spider/settings.py" timestamp="1505983419830">
         <mark key="[" line="17" column="51" />
-      </file>
-      <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v4.sh" timestamp="1511412006378">
-        <mark key="[" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/resume_create.sh" timestamp="1511412481324" />
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/scheduling/AutoSpider.java" timestamp="1509710355933">
@@ -605,9 +602,6 @@
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/DicLoader.java" timestamp="1510713987022">
         <mark key="[" line="102" column="54" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baidu_baipin.xml" timestamp="1511490273433">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_mp/app.json" timestamp="1508831249378">
         <mark key="[" line="11" column="33" />
       </file>
@@ -626,10 +620,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/BaseController.java" timestamp="1510570775448">
         <mark key="[" line="250" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/MDetailRes.java" timestamp="1511704826172">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/MDetailRes.java" timestamp="1511705464644">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/util/LogicUtil.java" timestamp="1510631261866">
         <mark key="[" line="13" column="5" />
@@ -642,11 +637,11 @@
         <mark key="[" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/ResumeSearch.java" timestamp="1511416172042" />
-      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/MDetailConfig.java" timestamp="1511704492778">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="126" column="29" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/spider/wubamp/MDetailConfig.java" timestamp="1511706083018">
+        <mark key="[" line="130" column="49" />
+        <mark key="]" line="130" column="25" />
+        <mark key="^" line="130" column="25" />
+        <mark key="." line="130" column="25" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/VerifyController.java" timestamp="1509070957582">
         <mark key="[" line="139" column="50" />
@@ -780,14 +775,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGpvYkRlc2M7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>mDetailRes.getJobDesc()</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
