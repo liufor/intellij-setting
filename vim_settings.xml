@@ -262,6 +262,12 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/www.location" timestamp="1507711336227">
         <mark key="[" line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BcController.java" timestamp="1511784451886">
+        <mark key="[" line="100" column="9" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="99" column="11" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/redis/3.2/docker-compose-for-elk.yml" timestamp="1504105140612">
         <mark key="[" line="6" column="21" />
       </file>
@@ -417,12 +423,6 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/LoginType.java" timestamp="1508758216518">
         <mark key="[" line="16" column="39" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BcUserService.java" timestamp="1511780498210">
-        <mark key="[" line="296" column="62" />
-        <mark key="]" line="296" column="62" />
-        <mark key="." line="296" column="62" />
-        <mark key="^" line="296" column="60" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/config/GanjiDic.java" timestamp="1504006257854">
         <mark key="[" line="17" column="29" />
@@ -807,8 +807,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>getId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -823,31 +823,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS5zZW5kTXNnQm94LmVycm9yUmVzdWx0ID0gcmV0LmVycjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiY1VzZXJFbnRpdHlNYXBwZXIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1Y2Nlc3NSZXN1bHQ6Inh4eHgiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aXAiPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBiY01lc3NhZ2VTZXJ2aWNlLnNlbmRRTWVzc2FnZUlmQmNVc2VyRXhpc3QoYmNVc2VyLmdldFVpZCgpKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBiY1VzZXJFbnRpdHlNYXBwZXIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHN1Y2Nlc3NSZXN1bHQ6Inh4eHgiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aXAiPgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocGFnZVNpemUgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KHJldC5kYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>216</text>
