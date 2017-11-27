@@ -66,6 +66,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/src/main/resources/ehcache.xml" timestamp="1504079108333">
         <mark key="[" line="23" column="10" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/opportunity/user_c_detile.jsp" timestamp="1511766819535" />
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/NavigableTextAnswerItem.java" timestamp="1504401307636">
         <mark key="[" line="22" column="32" />
       </file>
@@ -150,11 +151,11 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/AbstractAnswerContent.java" timestamp="1504166356015">
         <mark key="[" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/resume/resume/searchList.jsp" timestamp="1511764979156">
-        <mark key="[" line="442" column="19" />
-        <mark key="]" line="441" column="35" />
-        <mark key="^" line="441" column="35" />
-        <mark key="." line="441" column="35" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/resume/resume/searchList.jsp" timestamp="1511766794060">
+        <mark key="[" line="283" column="22" />
+        <mark key="]" line="283" column="23" />
+        <mark key="^" line="283" column="23" />
+        <mark key="." line="283" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/gzc_58wrzp/res/values/strings.xml" timestamp="1502879480916">
         <mark key="[" line="2" column="53" />
@@ -278,7 +279,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511753793946">
+      <file name="/Dummy.txt" timestamp="1511767306208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/rawdata/wubamp/WubaMpRawDataServiceImple.java" timestamp="1509611878561">
@@ -361,6 +362,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping_v2_online.sh" timestamp="1508414088766">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/template/inner_layout.jsp" timestamp="1511767303295" />
       <file name="$USER_HOME$/work/images/dockers/beta/tomcat/Dockerfile" timestamp="1503891585898">
         <mark key="[" line="0" column="12" />
       </file>
@@ -506,6 +508,7 @@
       <file name="$USER_HOME$/work/images/dockers/beta/yewu_tomcat/manage/docker-compose-mange-prod-2.yml" timestamp="1503894922206">
         <mark key="[" line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/opportunity/user_detile.jsp" timestamp="1511766844955" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeB.vue" timestamp="1510918238400">
         <mark key="[" line="140" column="79" />
         <mark key="]" line="143" column="22" />
@@ -801,14 +804,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>editOppCTrackLog</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>editOppCTrackLog</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
