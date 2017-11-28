@@ -127,6 +127,12 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/service/LegacyWechatLoginService.java" timestamp="1510199227000">
         <mark key="[" line="68" column="35" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1511840394564">
+        <mark key="[" line="1083" column="9" />
+        <mark key="]" line="1081" column="12" />
+        <mark key="^" line="1081" column="12" />
+        <mark key="." line="1081" column="13" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/intention/serve.jsp" timestamp="1506051588272">
         <mark key="[" line="1071" column="61" />
       </file>
@@ -152,7 +158,7 @@
       <file name="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/AbstractAnswerContent.java" timestamp="1504166356015">
         <mark key="[" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/resume/resume/searchList.jsp" timestamp="1511838016043">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/resume/resume/searchList.jsp" timestamp="1511839187820">
         <mark key="[" line="477" column="50" />
         <mark key="]" line="477" column="49" />
         <mark key="^" line="477" column="49" />
@@ -203,7 +209,7 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc/res/xml/config.xml" timestamp="1507635937285">
         <mark key="[" line="134" column="65" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1511698353636">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1511839553911">
         <mark key="[" line="72" column="1" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="633" column="60" />
@@ -281,7 +287,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511768892222">
+      <file name="/Dummy.txt" timestamp="1511840686209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/rawdata/wubamp/WubaMpRawDataServiceImple.java" timestamp="1509611878561">
@@ -434,8 +440,11 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RpoPro.vue" timestamp="1503912213737">
         <mark key="[" line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ManualController.java" timestamp="1511837161874">
-        <mark key="[" line="630" column="62" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ManualController.java" timestamp="1511839486653">
+        <mark key="[" line="636" column="0" />
+        <mark key="]" line="621" column="51" />
+        <mark key="." line="621" column="51" />
+        <mark key="^" line="621" column="51" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1510736235231">
         <mark key="[" line="291" column="18" />
@@ -788,13 +797,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUpvYgo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>getId</text>
+        <text>setCompanyaddress</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -803,28 +812,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS5zZW5kTXNnQm94LmVycm9yUmVzdWx0ID0gcmV0LmVycjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUpvYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiY01lc3NhZ2VTZXJ2aWNlLnNlbmRRTWVzc2FnZUlmQmNVc2VyRXhpc3QoYmNVc2VyLmdldFVpZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUpvYi5zZXRDT20K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiY1VzZXJFbnRpdHlNYXBwZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1Y2Nlc3NSZXN1bHQ6Inh4eHgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aXAiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZGVjb2RlQWRkcmVzcyl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvYkFkZHJlc3MgPSBMb2NhdGlvblNlcnZpY2UuZ2V0U3RyaW5nQWRkcmVzcygpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
