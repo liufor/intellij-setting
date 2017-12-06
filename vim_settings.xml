@@ -49,6 +49,12 @@
       <file name="$USER_HOME$/work/images/dockers/beta/java-alone/docker-compose-pc-api-prod.yml" timestamp="1502954495379">
         <mark key="[" line="12" column="12" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1512559635567">
+        <mark key="[" line="99" column="40" />
+        <mark key="]" line="99" column="35" />
+        <mark key="." line="99" column="35" />
+        <mark key="^" line="99" column="35" />
+      </file>
       <file name="$USER_HOME$/work/code/beta_h5/.babelrc" timestamp="1504254954478">
         <mark key="[" line="10" column="33" />
       </file>
@@ -239,6 +245,7 @@
         <mark key="[" line="6" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/JedisPoolConfig.java" timestamp="1512549587389" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" timestamp="1512558951642" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/connection/jedis/JedisConnectionFactory.java" timestamp="1512550623026" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/ResumeManualMapper.java" timestamp="1506492601163">
         <mark key="[" line="14" column="0" />
@@ -372,6 +379,12 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RpoPro.vue" timestamp="1503912213737">
         <mark key="[" line="11" column="99" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ManualController.java" timestamp="1512558937788">
+        <mark key="[" line="60" column="71" />
+        <mark key="]" line="60" column="71" />
+        <mark key="^" line="61" column="33" />
+        <mark key="." line="60" column="71" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1512550279743">
         <mark key="[" line="193" column="19" />
       </file>
@@ -440,6 +453,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisConnectionUtils.java" timestamp="1512550872600" />
       <file name="$USER_HOME$/work/code/beta/beta-domain/scripts/qa_questionanswermodel_mapping_BM.json" timestamp="1506097462922">
         <mark key="[" line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/BaiduJobTasks.java" timestamp="1512558435098">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="24" column="69" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zpc/res/values/strings.xml" timestamp="1502346760382">
         <mark key="[" line="2" column="52" />
@@ -517,11 +536,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/BaseController.java" timestamp="1510570775448">
         <mark key="[" line="250" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_8.sql" timestamp="1512543950216">
-        <mark key="[" line="51" column="32" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="59" column="24" />
-        <mark key="." line="58" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_8.sql" timestamp="1512558814940">
+        <mark key="[" line="54" column="19" />
+        <mark key="]" line="54" column="18" />
+        <mark key="^" line="54" column="18" />
+        <mark key="." line="54" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/share/appShare.js" timestamp="1512460581616">
         <mark key="[" line="10" column="59" />
@@ -661,14 +680,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0hPVyAgSU5ERVggIEZST00gb3Bwb3J0dW5pdHlfdXNlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>baidu_job_qz</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>toString()</text>
+        <text>baidu_job_qz</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -677,28 +696,28 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInN0YXJ0IEJhaWR1Sm9iVGFza3MsY2l0eTp7fSIsZW50cnkuZ2V0VmFsdWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0hPVyAgSU5ERVggIEZST00gb3Bwb3J0dW5pdHlfdXNlcjsK</text>
+        <text encoding="base64">U0hPVyAgSU5ERVggIEZST00gd29ya19xdWV1ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgIG9wcG9ydHVuaXR5X3VzZXIgQUREIElOREVYIGlkeF9tb2JpbGUobW9iaWxlKTsK</text>
+        <text encoding="base64">U0hPVyAgSU5ERVggIEZST00gb3Bwb3J0dW5pdHlfdXNlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGRpc3RyaWN0SW50ZW50aW9uRGVzYyA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgIG9wcG9ydHVuaXR5X3VzZXIgQUREIElOREVYIGlkeF9tb2JpbGUobW9iaWxlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGRpc3RyaWN0SW50ZW50aW9uRGVzYyA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcHBVc2VyU2VydmljZS5maXhPcHBVc2VyTW9iaWxlKGlkLCByZXN1bWVNb2JpbGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3BwVXNlci5zZXRjaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcHBVc2VyU2VydmljZS5maXhPcHBVc2VyTW9iaWxlKGlkLCByZXN1bWVNb2JpbGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BwVXNlci5zZXRjaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
