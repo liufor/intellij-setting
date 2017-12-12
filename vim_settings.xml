@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/code/gzc-h5/index-dev.html" timestamp="1513063562228">
-        <mark key="[" line="121" column="7" />
+      <file name="$USER_HOME$/work/code/gzc-h5/index-dev.html" timestamp="1513065556461">
+        <mark key="[" line="131" column="18" />
+        <mark key="]" line="131" column="28" />
+        <mark key="^" line="131" column="28" />
+        <mark key="." line="131" column="28" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-monitor/dubbo-monitor-default/src/main/java/com/alibaba/dubbo/monitor/dubbo/DubboMonitorFactroy.java" timestamp="1513045794437" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/compiler/Compiler.java" timestamp="1513046671185" />
@@ -17,7 +20,19 @@
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/AdaptiveExtensionFactory.java" timestamp="1513045980722" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/filter/ActiveLimitFilter.java" timestamp="1513007753714" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-default/src/main/java/com/alibaba/dubbo/rpc/protocol/dubbo/filter/FutureFilter.java" timestamp="1513008700461" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/cert/vivio/resign_zongmeng.sh" timestamp="1513067107519">
+        <mark key="[" line="0" column="91" />
+        <mark key="]" line="0" column="91" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="91" />
+      </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/serialize/support/json/FastJsonObjectOutput.java" timestamp="1513047269281" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/cert/vivio/zcm.sh" timestamp="1513067473448">
+        <mark key="[" line="0" column="131" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-default/src/main/java/com/alibaba/dubbo/rpc/protocol/dubbo/status/ThreadPoolStatusChecker.java" timestamp="1513047846806" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-monitor/dubbo-monitor-default/src/main/java/com/alibaba/dubbo/monitor/dubbo/DubboMonitor.java" timestamp="1513045851062" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/Protocol.java" timestamp="1513005704015" />
@@ -31,12 +46,13 @@
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-redis/src/main/java/com/alibaba/dubbo/rpc/protocol/redis/RedisProtocol.java" timestamp="1513007012301" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/Filter.java" timestamp="1513007886574" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-remoting/dubbo-remoting-api/src/main/java/com/alibaba/dubbo/remoting/transport/AbstractServer.java" timestamp="1513047556376" />
+      <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/RpcContext.java" timestamp="1513066147473" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-demo/dubbo-demo-provider/src/main/resources/META-INF/spring/dubbo-demo-provider.xml" timestamp="1513059599597" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/SpiExtensionFactory.java" timestamp="1513044127150" />
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1513063086418" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/RegistryFactory.java" timestamp="1513044065939" />
-      <file name="$USER_HOME$/work/code/gzc-pc/index.html" timestamp="1513062614042">
-        <mark key="[" line="49" column="7" />
+      <file name="$USER_HOME$/work/code/gzc-pc/index.html" timestamp="1513066791447">
+        <mark key="[" line="58" column="30" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/compiler/support/JdkCompiler.java" timestamp="1513046613974" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/ad/XxAd1.vue" timestamp="1513064422691">
@@ -54,9 +70,16 @@
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/ExtensionFactory.java" timestamp="1513044120089" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/proxy/AbstractProxyFactory.java" timestamp="1513046339556" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/threadpool/support/cached/CachedThreadPool.java" timestamp="1513047163154" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/cert/vivio/jzc.sh" timestamp="1513067469008">
+        <mark key="[" line="0" column="131" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/Type/FindJobType.java" timestamp="1512958683448">
         <mark key="[" line="121" column="12" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/cert/resign_zongmeng.sh" timestamp="1513066884246" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-admin/src/main/java/com/alibaba/dubbo/registry/common/ChangeListener.java" timestamp="1513048868250" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/filter/AccessLogFilter.java" timestamp="1513045633968" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/compiler/support/AbstractCompiler.java" timestamp="1513046543144" />
@@ -65,7 +88,7 @@
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/com.alibaba.dubbo.common.compiler.Compiler" timestamp="1513046694490" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/NamedThreadFactory.java" timestamp="1513045231095" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/protocol/AbstractInvoker.java" timestamp="1513052510189" />
-      <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1513063568863">
+      <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1513065945963">
         <mark key="[" line="133" column="7" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-registry/dubbo-registry-default/src/main/java/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" timestamp="1513045353154" />
@@ -186,14 +209,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXQK</text>
+      <register name="&quot;" type="4">
+        <text>mssp-verify-zhongmeng-signed</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>multicast</text>
+        <text>mssp-verify-zhongmeng-signed</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -202,31 +225,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldFRlbGVwaG9uZUludGVybmFsKHJlc3VtZUlkLCBjYWxsZXJVaWQsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXQK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bWVFbnRpdHlNYXBwZXIuc2VsZWN0QnlFeGFtcGxlQW5kUm93Qm91bmRzKGV4YW1wbGUsIG5ldyBSb3dCb3VuZHMoMCwgMTApKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRpZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ClNFTEVDVCAqCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">RlJPTSBoaXN0bzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bWVFbnRpdHlNYXBwZXIuc2VsZWN0QnlFeGFtcGxlQW5kUm93Qm91bmRzKGV4YW1wbGUsIG5ldyBSb3dCb3VuZHMoMCwgMTApKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBleAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRpZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ClNFTEVDVCAqCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">RlJPTSBoaXN0bzsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihmb3JjZUZyZWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>216</text>
