@@ -73,11 +73,10 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/CommodityEntity.java" timestamp="1513134315662" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-demo/dubbo-demo-provider/src/main/resources/META-INF/spring/dubbo-demo-provider.xml" timestamp="1513059599597" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/SpiExtensionFactory.java" timestamp="1513044127150" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobShareService.java" timestamp="1513135130891">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobShareService.java" timestamp="1513152332020">
         <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/Activity.vue" timestamp="1513078675638" />
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1513063086418" />
@@ -103,6 +102,12 @@
         <mark key="]" line="29" column="11" />
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobShareClickManualMapper.java" timestamp="1513152790670">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="52" />
+        <mark key="^" line="20" column="47" />
+        <mark key="." line="20" column="52" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/com/alibaba/dubbo/cache/filter/CacheFilter.java" timestamp="1513007833136" />
       <file name="/Dummy.txt" timestamp="1513144701317">
@@ -145,6 +150,9 @@
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/protocol/AbstractInvoker.java" timestamp="1513052510189" />
       <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1513065945963">
         <mark key="[" line="133" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1513152721426">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-registry/dubbo-registry-default/src/main/java/com/alibaba/dubbo/registry/dubbo/DubboRegistry.java" timestamp="1513045353154" />
     </filemarks>
@@ -264,14 +272,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>baidu_qz_job</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -280,28 +288,28 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldFRlbGVwaG9uZUludGVybmFsKHJlc3VtZUlkLCBjYWxsZXJVaWQsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JTaGFyZUNsaWNrRW50aXR5TWFwcGVyLgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTaGFyZUNsaWNrRW50aXR5TWFwcGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBqb2JTaGFyZUNsaWNrRW50aXR5TWFwcGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSm9iU2hhcmUK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZTogJ+W3peS9nOiZqycK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSm9iU2hhcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZTogJ+W3peS9nOiZqycK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
