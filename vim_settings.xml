@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/JobShareClickEntity.java" timestamp="1513154467876" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/ListJobResponse.java" timestamp="1513156779488" />
       <file name="$USER_HOME$/work/code/gzc-h5/index-dev.html" timestamp="1513065556461">
         <mark key="[" line="131" column="18" />
         <mark key="]" line="131" column="28" />
@@ -21,13 +22,16 @@
       <file name="$USER_HOME$/work/code/dubbo/dubbo-monitor/dubbo-monitor-api/src/main/java/com/alibaba/dubbo/monitor/support/MonitorFilter.java" timestamp="1513009028247" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/serialize/Serialization.java" timestamp="1513047203358" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" timestamp="1513057201787" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/JobShareListResponse.java" timestamp="1513156844724">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="34" />
+      </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/Version.java" timestamp="1513051606818" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/AdaptiveExtensionFactory.java" timestamp="1513045980722" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1513155373572">
-        <mark key="[" line="338" column="29" />
-        <mark key="]" line="338" column="29" />
-        <mark key="^" line="348" column="29" />
-        <mark key="." line="338" column="29" />
+        <mark key="^" line="343" column="29" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/filter/ActiveLimitFilter.java" timestamp="1513007753714" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-default/src/main/java/com/alibaba/dubbo/rpc/protocol/dubbo/filter/FutureFilter.java" timestamp="1513008700461" />
@@ -154,10 +158,11 @@
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-default/src/main/java/com/alibaba/dubbo/rpc/protocol/dubbo/telnet/CountTelnetHandler.java" timestamp="1513047741561" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/NotifyListener.java" timestamp="1513045713433" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/com.alibaba.dubbo.common.compiler.Compiler" timestamp="1513046694490" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobShareController.java" timestamp="1513155053459">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobShareController.java" timestamp="1513156903177">
+        <mark key="[" line="38" column="74" />
+        <mark key="]" line="38" column="77" />
+        <mark key="." line="38" column="77" />
+        <mark key="^" line="38" column="77" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/NamedThreadFactory.java" timestamp="1513045231095" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/protocol/AbstractInvoker.java" timestamp="1513052510189" />
@@ -285,8 +290,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGpvYlRpdGxlOwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -301,31 +306,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldFRlbGVwaG9uZUludGVybmFsKHJlc3VtZUlkLCBjYWxsZXJVaWQsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dCgidGVsIiwgKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGpvYlRpdGxlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRVc2VyID09IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTaGFyZVNlcnZpY2UuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dCgidGVsIiwgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBhdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRVc2VyID09IG51bGwpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JTaGFyZVNlcnZpY2UuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTaGFyZUNsaWNrRW50aXR5TWFwcGVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>216</text>
