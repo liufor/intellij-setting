@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/JobShareClickEntity.java" timestamp="1513154467876" />
       <file name="$USER_HOME$/work/code/gzc-h5/index-dev.html" timestamp="1513065556461">
         <mark key="[" line="131" column="18" />
         <mark key="]" line="131" column="28" />
@@ -22,7 +23,12 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" timestamp="1513057201787" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/Version.java" timestamp="1513051606818" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/AdaptiveExtensionFactory.java" timestamp="1513045980722" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1513133703607" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1513155373572">
+        <mark key="[" line="338" column="29" />
+        <mark key="]" line="338" column="29" />
+        <mark key="^" line="348" column="29" />
+        <mark key="." line="338" column="29" />
+      </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/filter/ActiveLimitFilter.java" timestamp="1513007753714" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-default/src/main/java/com/alibaba/dubbo/rpc/protocol/dubbo/filter/FutureFilter.java" timestamp="1513008700461" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/cert/vivio/resign_zongmeng.sh" timestamp="1513067107519">
@@ -71,12 +77,14 @@
         <mark key="." line="126" column="22" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/CommodityEntity.java" timestamp="1513134315662" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/UserController.java" timestamp="1513154846249" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-demo/dubbo-demo-provider/src/main/resources/META-INF/spring/dubbo-demo-provider.xml" timestamp="1513059599597" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/SpiExtensionFactory.java" timestamp="1513044127150" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobShareService.java" timestamp="1513152332020">
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobShareService.java" timestamp="1513154709216">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+        <mark key="^" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/Activity.vue" timestamp="1513078675638" />
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1513063086418" />
@@ -103,11 +111,11 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobShareClickManualMapper.java" timestamp="1513152790670">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="52" />
-        <mark key="^" line="20" column="47" />
-        <mark key="." line="20" column="52" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobShareClickManualMapper.java" timestamp="1513154394918">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="34" />
+        <mark key="^" line="19" column="34" />
+        <mark key="." line="19" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/com/alibaba/dubbo/cache/filter/CacheFilter.java" timestamp="1513007833136" />
       <file name="/Dummy.txt" timestamp="1513144701317">
@@ -146,6 +154,11 @@
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-default/src/main/java/com/alibaba/dubbo/rpc/protocol/dubbo/telnet/CountTelnetHandler.java" timestamp="1513047741561" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/NotifyListener.java" timestamp="1513045713433" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/com.alibaba.dubbo.common.compiler.Compiler" timestamp="1513046694490" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobShareController.java" timestamp="1513155053459">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/NamedThreadFactory.java" timestamp="1513045231095" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/protocol/AbstractInvoker.java" timestamp="1513052510189" />
       <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1513065945963">
@@ -273,13 +286,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>0000</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>0000</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -288,31 +301,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldFRlbGVwaG9uZUludGVybmFsKHJlc3VtZUlkLCBjYWxsZXJVaWQsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTaGFyZUNsaWNrRW50aXR5TWFwcGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dCgidGVsIiwgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRVc2VyID09IG51bGwpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTaGFyZUNsaWNrRW50aXR5TWFwcGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JTaGFyZVNlcnZpY2UuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSm9iU2hhcmUK</text>
+        <text encoding="base64">ICAgIEBhdQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZTogJ+W3peS9nOiZqycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JTaGFyZUNsaWNrRW50aXR5TWFwcGVyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>216</text>
