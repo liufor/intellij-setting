@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/App.java" timestamp="1513221228566">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/JobShareClickEntity.java" timestamp="1513157047867" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/ListJobResponse.java" timestamp="1513156779488" />
       <file name="$USER_HOME$/work/code/gzc-h5/index-dev.html" timestamp="1513065556461">
@@ -20,6 +26,7 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/PlanToPay.vue" timestamp="1513143919419" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ApplicationConfig.java" timestamp="1513046870236" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-monitor/dubbo-monitor-api/src/main/java/com/alibaba/dubbo/monitor/support/MonitorFilter.java" timestamp="1513009028247" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-parent/pom.xml" timestamp="1513221247079" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/serialize/Serialization.java" timestamp="1513047203358" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" timestamp="1513057201787" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/JobShareListResponse.java" timestamp="1513157229193">
@@ -157,6 +164,12 @@
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/compiler/support/AbstractCompiler.java" timestamp="1513046543144" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-default/src/main/java/com/alibaba/dubbo/rpc/protocol/dubbo/telnet/CountTelnetHandler.java" timestamp="1513047741561" />
+      <file name="$USER_HOME$/work/code/ALG/pom.xml" timestamp="1513221478115">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="16" column="20" />
+      </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/NotifyListener.java" timestamp="1513045713433" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/com.alibaba.dubbo.common.compiler.Compiler" timestamp="1513046694490" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobShareController.java" timestamp="1513162467925">
@@ -291,44 +304,44 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>source</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldFRlbGVwaG9uZUludGVybmFsKHJlc3VtZUlkLCBjYWxsZXJVaWQsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIDxtYXZlbi5jb21waWxlci5zb3VyY2U+JHtqYXZhLnZlcnNpb259PC9tYXZlbi5jb21waWxlci5zb3VyY2U+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtYXZlbi5zb3VyY2UudmVyc2lvbj4ke2phdmEudmVyc2lvbn08L21hdmVuLnNvdXJjZS52ZXJzaW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDM6IGxkYyAgICAgICAgICAgIzMgICAgICAgICAgICAgICAgICAvLyBTdHJpbmcgSGVsbG8gV29ybGQhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JTaGFyZUNsaWNrRW50aXR5IHN1bW1hcnkgPSBqb2JTaGFyZVNlcnZpY2UuZ2V0U3VtbWFyeShjdXJyZW50VWlkKTsK</text>
+        <text encoding="base64">ICAgIDxqYXZhLgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JTaGFyZVNlcnZpY2UuYWRkQ2xpY2tDb3VudCh1aWQsam9iSWQsMSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBKb2JTaGFyZUNsaWNrRW50aXR5IHN1bW1hcnkgPSBqb2JTaGFyZVNlcnZpY2UuZ2V0U3VtbWFyeShjdXJyZW50VWlkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JTaGFyZVNlcnZpY2UuYWRkQ2xpY2tDb3VudCh1aWQsam9iSWQsMSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
