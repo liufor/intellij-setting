@@ -42,6 +42,12 @@
         <mark key="^" line="36" column="18" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ShareInvitationController.java" timestamp="1513323544005">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="12" column="57" />
+        <mark key="^" line="12" column="57" />
+        <mark key="." line="12" column="57" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ALG/ReverseLinkedList/Main.java" timestamp="1513248643470">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="19" column="0" />
@@ -186,11 +192,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/escape/Escaper.java" timestamp="1513319302486" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1513248062741" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1513322027173">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="46" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1513323262200" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1513323468438">
+        <mark key="[" line="66" column="9" />
+        <mark key="]" line="65" column="23" />
+        <mark key="." line="65" column="23" />
+        <mark key="^" line="65" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ALG/SortColors/SortColors.java" timestamp="1513237768439">
         <mark key="[" line="29" column="47" />
@@ -210,7 +217,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513310188853">
+      <file name="/Dummy.txt" timestamp="1513323159645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1513248123838">
@@ -345,14 +352,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -361,31 +368,31 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnN0IHNyYyA9ICIvL2kuaGFvNjEubmV0L2QuanM/Y2lkPTMwMDU2IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoLncK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmQuc2V0SW52aXRlclVpZChpbnZpdGVySWQpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0VXJsWG1sKGpvKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>85</text>
