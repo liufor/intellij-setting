@@ -48,12 +48,6 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1513316204630">
-        <mark key="[" line="85" column="92" />
-        <mark key="]" line="85" column="92" />
-        <mark key="^" line="84" column="42" />
-        <mark key="." line="85" column="92" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/components/Share.vue" timestamp="1513253217293">
         <mark key="[" line="87" column="44" />
         <mark key="]" line="87" column="10" />
@@ -85,11 +79,11 @@
         <mark key="^" line="43" column="30" />
         <mark key="." line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ManualController.java" timestamp="1513320540509">
-        <mark key="[" line="227" column="77" />
-        <mark key="]" line="227" column="78" />
-        <mark key="." line="227" column="78" />
-        <mark key="^" line="227" column="78" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ManualController.java" timestamp="1513321518874">
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="4" />
+        <mark key="." line="71" column="4" />
+        <mark key="^" line="71" column="6" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ALG/MoveZeroes/MoveZeroes.java" timestamp="1513235401027">
         <mark key="[" line="66" column="16" />
@@ -192,6 +186,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/escape/Escaper.java" timestamp="1513319302486" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1513248062741" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1513322027173">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ALG/SortColors/SortColors.java" timestamp="1513237768439">
         <mark key="[" line="29" column="47" />
         <mark key="]" line="29" column="43" />
@@ -346,13 +346,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>public</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
