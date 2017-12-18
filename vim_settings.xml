@@ -39,18 +39,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1513594136841">
-        <mark key="[" line="488" column="65" />
-        <mark key="]" line="488" column="2" />
-        <mark key="^" line="488" column="2" />
-        <mark key="." line="488" column="2" />
-      </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1513594136841" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/MoreJobs.vue" timestamp="1513586463138">
         <mark key="[" line="2" column="86" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/my/MyCenterB.vue" timestamp="1513568563537" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/TgJobList.vue" timestamp="1513430671481" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1513593805572" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/JobShareListResponse.java" timestamp="1513157229193">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="28" />
@@ -118,7 +112,7 @@
         <mark key="^" line="48" column="28" />
         <mark key="." line="48" column="28" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/components/Share.vue" timestamp="1513253217293">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/components/Share.vue" timestamp="1513597275486">
         <mark key="[" line="87" column="44" />
         <mark key="]" line="87" column="10" />
         <mark key="^" line="87" column="10" />
@@ -145,6 +139,9 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="61" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/components/EmailLogin.vue" timestamp="1513604964119">
+        <mark key="[" line="59" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1513323468438">
         <mark key="[" line="66" column="9" />
@@ -177,6 +174,7 @@
         <mark key="." line="71" column="4" />
         <mark key="^" line="71" column="6" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Login.vue" timestamp="1513604913020" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1513310832137">
         <mark key="[" line="281" column="26" />
         <mark key="]" line="280" column="22" />
@@ -234,8 +232,10 @@
         <mark key="^" line="468" column="29" />
         <mark key="." line="468" column="26" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RecruitmentPlan.vue" timestamp="1513593913757">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RecruitmentPlan.vue" timestamp="1513596470254">
         <mark key="[" line="255" column="26" />
+        <mark key="]" line="255" column="26" />
+        <mark key="." line="255" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/messageList.vue" timestamp="1513586238863">
         <mark key="[" line="43" column="10" />
@@ -255,6 +255,9 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/components/MobileLogin.vue" timestamp="1513604955026">
+        <mark key="[" line="104" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ALG/DemoClass.java" timestamp="1513340506597">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="21" />
@@ -273,6 +276,7 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/WechatLogin.vue" timestamp="1513604986836" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ListJobResponse.java" timestamp="1513133503351">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="37" column="31" />
@@ -291,11 +295,14 @@
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Settings.vue" timestamp="1513605231083">
+        <mark key="[" line="78" column="30" />
+      </file>
       <file name="/fragment.java" timestamp="1513317054334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/index.html" timestamp="1513577230303">
-        <mark key="[" line="149" column="9" />
+        <mark key="[" line="152" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -415,13 +422,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>loadAd</text>
+        <text encoding="base64">IHx8IHV0aWwuaXNaQ00oKSB8fCB1dGlsLmlzWmNtNTh3cnpwKCkgfHwgdXRpbC5pc1pQQygp</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>loadAd</text>
+        <text encoding="base64">IHx8IHV0aWwuaXNaQ00oKSB8fCB1dGlsLmlzWmNtNTh3cnpwKCkgfHwgdXRpbC5pc1pQQygp</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
