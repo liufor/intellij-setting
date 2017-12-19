@@ -42,11 +42,11 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/MoreJobs.vue" timestamp="1513586463138">
         <mark key="[" line="2" column="86" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1513609066943">
-        <mark key="[" line="181" column="36" />
-        <mark key="]" line="181" column="45" />
-        <mark key="^" line="181" column="45" />
-        <mark key="." line="181" column="45" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1513659752726">
+        <mark key="[" line="226" column="63" />
+        <mark key="]" line="226" column="13" />
+        <mark key="^" line="226" column="13" />
+        <mark key="." line="226" column="13" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/JobShareListResponse.java" timestamp="1513157229193">
         <mark key="[" line="10" column="29" />
@@ -173,6 +173,12 @@
         <mark key="]" line="71" column="4" />
         <mark key="." line="71" column="4" />
         <mark key="^" line="71" column="6" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Login.vue" timestamp="1513659923680">
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="43" column="62" />
+        <mark key="^" line="43" column="62" />
+        <mark key="." line="43" column="62" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1513310832137">
         <mark key="[" line="281" column="26" />
@@ -438,13 +444,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSBwYXlfYmlsbApXSEVSRSB1aWQ9MTAwMjQ5NDk1OTA3ODs7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoaWRlQ2FuY2VsOiBmYWxzZSwK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -453,31 +459,31 @@
         <text encoding="base64">ICBpbXBvcnQgKiBhcyBabUFkMSBmcm9tICcuLy4uL2FkL1ptQWQxLnZ1ZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSBwYXlfYmlsbApXSEVSRSB1aWQ9MTAwMjQ5NDk1OTA3ODs7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoaWRlQ2FuY2VsOiBmYWxzZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSBwYXlfYmlsbApXSEVSRSB1aWQ9MTAwMjQ5NDk1OTA3ODs7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJPTSA7Cg==</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">RlJPTSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFh4QWQxCg==</text>
+        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFh4QWQxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>85</text>
