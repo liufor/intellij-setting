@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobIndexService.java" timestamp="1513939277453">
+        <mark key="[" line="556" column="0" />
+        <mark key="]" line="556" column="0" />
+        <mark key="^" line="554" column="48" />
+        <mark key="." line="556" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/_26_RemoveDuplicatesfromSortedArray/Solution1.java" timestamp="1513674675159">
         <mark key="[" line="3" column="45" />
       </file>
@@ -12,15 +18,19 @@
       <file name="/a.dummy" timestamp="1513247333587">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/JobSearch.java" timestamp="1513938350571">
+        <mark key="[" line="38" column="38" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1513933164166" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/MoreJobs.vue" timestamp="1513586463138">
         <mark key="[" line="2" column="86" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1513920050701" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1513936233199">
-        <mark key="[" line="373" column="0" />
-        <mark key="]" line="373" column="0" />
-        <mark key="." line="373" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1513937889492">
+        <mark key="[" line="341" column="46" />
+        <mark key="]" line="341" column="53" />
+        <mark key="." line="341" column="53" />
+        <mark key="^" line="341" column="53" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/ad/ZmAd1.vue" timestamp="1513677081348">
         <mark key="[" line="24" column="111" />
@@ -74,6 +84,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" timestamp="1513933085641" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1513938606740">
+        <mark key="[" line="289" column="36" />
+        <mark key="]" line="289" column="39" />
+        <mark key="." line="289" column="39" />
+        <mark key="^" line="289" column="39" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/ad/XxAd1.vue" timestamp="1513679503095">
         <mark key="[" line="40" column="31" />
         <mark key="]" line="48" column="16" />
@@ -101,10 +117,13 @@
       <file name="/Dummy.txt" timestamp="1513920034310">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1513939166228" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/components/MobileLogin.vue" timestamp="1513607332664">
         <mark key="[" line="105" column="30" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ListJobResponse.java" timestamp="1513929195934" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ListJobResponse.java" timestamp="1513938367613">
+        <mark key="[" line="176" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobSearchService.java" timestamp="1513935122112">
         <mark key="[" line="397" column="54" />
         <mark key="]" line="397" column="51" />
@@ -241,7 +260,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>extByJobId</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -256,25 +275,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWNvbnRlbnQuaXNFbXB0eSgpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKExpc3RKb2JSZXNwb25zZTo6Z2V0SWQpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSm9iRXh0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMb25nPiBqb2JJZHMgPSBjb250ZW50LnN0cmVhbSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExpc3RKb2JSZXNwb25zZT4gY29udGVudCA9IGRhdGEuZ2V0Q29udGVudCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9iU2VydmljZS5maW5kQnlJZEluKGpvYklkcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>85</text>
