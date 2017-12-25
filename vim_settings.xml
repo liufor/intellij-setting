@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/MoreJobs.vue" timestamp="1513586463138">
         <mark key="[" line="2" column="86" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1513938606740">
-        <mark key="[" line="281" column="36" />
-        <mark key="]" line="281" column="39" />
-        <mark key="." line="281" column="39" />
-        <mark key="^" line="281" column="39" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1514172211311">
+        <mark key="[" line="292" column="34" />
+        <mark key="]" line="292" column="34" />
+        <mark key="." line="292" column="34" />
+        <mark key="^" line="291" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/ad/XxAd1.vue" timestamp="1513679503095">
         <mark key="[" line="40" column="31" />
@@ -79,10 +79,11 @@
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1514169612912">
-        <mark key="[" line="340" column="17" />
-        <mark key="]" line="340" column="17" />
-        <mark key="." line="340" column="17" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1514171720878">
+        <mark key="[" line="882" column="0" />
+        <mark key="]" line="882" column="0" />
+        <mark key="." line="882" column="0" />
+        <mark key="^" line="882" column="60" />
       </file>
       <file name="/Dummy.txt" timestamp="1514169549659">
         <mark key="[" line="0" column="0" />
@@ -129,6 +130,11 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobShareController.java" timestamp="1514172641825">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/Caching.java" timestamp="1513411957187">
         <mark key="[" line="2" column="22" />
       </file>
@@ -137,6 +143,12 @@
       </file>
       <file name="/fragment.java" timestamp="1513934649735">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobShareService.java" timestamp="1514172751173">
+        <mark key="[" line="57" column="47" />
+        <mark key="]" line="57" column="44" />
+        <mark key="^" line="57" column="44" />
+        <mark key="." line="57" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -255,14 +267,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>search</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>search</text>
+        <text>getjo</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -274,19 +286,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGFyZS5zZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0Q2F0ZWdvcnkoam9iQ2F0ZWdvcnlTZXJ2aWNlLmdldENhdGVnb3J5KGpvYikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcGFnZVNpemU9MjA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -295,7 +307,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIiAgICAgICAgPHRpdGxlPiIpLmFwcGVuZChlc2NhcGVyLmVzY2FwZShxekpvYi5nZXRUaXRsZSgpKSkuYXBwZW5kKCI8L3RpdGxlPiIpLmFwcGVuZCgiXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>85</text>
