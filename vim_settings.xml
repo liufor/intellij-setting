@@ -18,7 +18,7 @@
       <file name="/a.dummy" timestamp="1513247333587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/JobSearch.java" timestamp="1514344925970">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/JobSearch.java" timestamp="1514371406924">
         <mark key="[" line="160" column="3" />
         <mark key="]" line="160" column="2" />
         <mark key="^" line="160" column="2" />
@@ -250,6 +250,12 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ListJobResponse.java" timestamp="1514371416069">
+        <mark key="[" line="187" column="4" />
+        <mark key="]" line="187" column="3" />
+        <mark key="." line="187" column="3" />
+        <mark key="^" line="187" column="3" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/ListShareInvitationResponse.java" timestamp="1514363445484">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="27" column="31" />
@@ -395,13 +401,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>Double</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>Double</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
