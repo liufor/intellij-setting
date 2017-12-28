@@ -65,11 +65,11 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1514171720878">
-        <mark key="[" line="877" column="0" />
-        <mark key="]" line="877" column="0" />
-        <mark key="." line="877" column="0" />
-        <mark key="^" line="877" column="60" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1514460842256">
+        <mark key="[" line="914" column="0" />
+        <mark key="]" line="914" column="0" />
+        <mark key="." line="914" column="0" />
+        <mark key="^" line="913" column="58" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/ShareInvitationType.java" timestamp="1514288289615">
         <mark key="[" line="11" column="23" />
@@ -84,10 +84,11 @@
         <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/vo/UserAccountVo.java" timestamp="1514452831660" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1514459819382">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1514460639064">
         <mark key="[" line="136" column="8" />
-        <mark key="]" line="137" column="45" />
-        <mark key="." line="137" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="135" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/ad/ZmAd1.vue" timestamp="1513677081348">
         <mark key="[" line="24" column="111" />
@@ -154,11 +155,11 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/components/EmailLogin.vue" timestamp="1514277745539">
         <mark key="[" line="60" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1514459632605">
-        <mark key="[" line="198" column="31" />
-        <mark key="]" line="191" column="28" />
-        <mark key="." line="191" column="28" />
-        <mark key="^" line="191" column="28" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1514460853058">
+        <mark key="[" line="198" column="36" />
+        <mark key="]" line="198" column="38" />
+        <mark key="." line="198" column="38" />
+        <mark key="^" line="198" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/scheduling/SpiderTask.java" timestamp="1514194089446" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1514167996874" />
@@ -258,7 +259,7 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ListJobResponse.java" timestamp="1514371416069">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ListJobResponse.java" timestamp="1514460734909">
         <mark key="[" line="187" column="4" />
         <mark key="]" line="187" column="3" />
         <mark key="." line="187" column="3" />
@@ -409,39 +410,45 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb29raWUuc2V0KCJzaG93QWQiLCAiMCIse3BhdGg6Ii8ifSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ALL</text>
+        <text>JobExtType.Type0.getValue()</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb29raWUuc2V0KCJzaG93QWQiLCAiMCIse3BhdGg6Ii8ifSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9iRGV0YWlsLnNldEV4dFR5cGUoSm9iRXh0VHlwZS5UeXBlMC5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzSU9TKCkpewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzSU9TKCkpewo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">U0hPVyBDUkVBVEUgCg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>distinct
 distinct
 distinct
@@ -473,12 +480,6 @@ distinct
 distinct
 distinct
 distinct</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
