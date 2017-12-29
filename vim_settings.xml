@@ -9,6 +9,7 @@
         <mark key="." line="559" column="7" />
         <mark key="^" line="559" column="7" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/JobShareClickEntity.java" timestamp="1514518199993" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/_26_RemoveDuplicatesfromSortedArray/Solution1.java" timestamp="1513674675159">
         <mark key="[" line="3" column="45" />
       </file>
@@ -132,11 +133,11 @@
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/Caching.java" timestamp="1513411957187">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobShareService.java" timestamp="1514515638881">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="96" column="8" />
-        <mark key="." line="96" column="8" />
-        <mark key="^" line="96" column="8" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobShareService.java" timestamp="1514518600976">
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="86" column="23" />
+        <mark key="^" line="86" column="23" />
+        <mark key="." line="86" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/vo/ResumeFavoriteVo.java" timestamp="1513672696368">
         <mark key="[" line="47" column="85" />
@@ -227,12 +228,12 @@
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobShareClickManualMapper.java" timestamp="1514515753274">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobShareClickManualMapper.java" timestamp="1514518170797">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="38" column="1" />
+        <mark key="]" line="32" column="131" />
+        <mark key="^" line="32" column="131" />
+        <mark key="." line="32" column="131" />
       </file>
       <file name="/Dummy.txt" timestamp="1514359603570">
         <mark key="[" line="0" column="0" />
@@ -418,7 +419,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>yongjin</text>
+        <text>1002493221346</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -433,25 +434,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>, @Param(&quot;jobId&quot;) Long jobId,
+                           @Param(&quot;incr&quot;) Integer incr,
+                           @Param(&quot;modifiedTime&quot;) Date modifiedTime)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkLnNldFN1bVRyYW5zZmVyaW5nWW9uZ2ppbigwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzSU9TKCkpewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
