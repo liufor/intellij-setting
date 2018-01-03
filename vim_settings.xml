@@ -92,10 +92,11 @@
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/Caching.java" timestamp="1513411957187">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobShareService.java" timestamp="1514881509877">
-        <mark key="[" line="95" column="25" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobShareService.java" timestamp="1514947032925">
+        <mark key="[" line="87" column="40" />
+        <mark key="]" line="87" column="63" />
+        <mark key="." line="87" column="63" />
+        <mark key="^" line="87" column="63" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/vo/ResumeFavoriteVo.java" timestamp="1513672696368">
         <mark key="[" line="47" column="85" />
@@ -104,11 +105,11 @@
         <mark key="[" line="60" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/VFooter.vue" timestamp="1514860120182" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1514945122237">
-        <mark key="[" line="143" column="37" />
-        <mark key="]" line="144" column="34" />
-        <mark key="." line="144" column="34" />
-        <mark key="^" line="144" column="34" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1514948043568">
+        <mark key="[" line="180" column="36" />
+        <mark key="]" line="183" column="43" />
+        <mark key="." line="183" column="43" />
+        <mark key="^" line="183" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514196978106">
         <mark key="[" line="0" column="0" />
@@ -165,11 +166,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/ListShareInvitationResponse.java" timestamp="1514545888389">
         <mark key="[" line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/my/MyCenter.vue" timestamp="1514860518542">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="152" column="49" />
-        <mark key="^" line="152" column="49" />
-        <mark key="." line="152" column="49" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/my/MyCenter.vue" timestamp="1514947609591">
+        <mark key="[" line="159" column="8" />
+        <mark key="]" line="156" column="67" />
+        <mark key="^" line="156" column="67" />
+        <mark key="." line="156" column="67" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/freebroker/components/RecommendedAcquaintances.vue" timestamp="1514945223348">
         <mark key="[" line="56" column="35" />
@@ -311,14 +312,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>integer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>integer</text>
+        <text>&quot;jinkuang.invite.conf.inviteCountPerUserPerDay&quot;</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -327,31 +328,31 @@
         <text encoding="base64">ICAgICAgICBtYW51YWxNYXBwZXIudHJhbnNmZXJZb25namluVG9Vc2VyQWNjb3VudDEodWlkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIG1lCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldERpc2FibGVkKERpc2FibGVkLk5vLmdldFZhbHVlKCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBvcHMuZ2V0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBvcHMuZ2V0KGpvYklkKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNob3dEaWFsb2cK</text>
+        <text encoding="base64">ICAgICAgICBpZihyZWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmpvYkRldGFpbCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIG1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoSlNPTi5zdHJpbmdpZnkoZXJyKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldERpc2FibGVkKERpc2FibGVkLk5vLmdldFZhbHVlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>225</text>
