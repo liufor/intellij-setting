@@ -544,14 +544,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuCg==</text>
+      <register name="&quot;" type="4">
+        <text>jobCategories</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>getCurUserInfo</text>
+        <text>jobCategories</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -560,31 +560,31 @@
         <text encoding="base64">ICAgICAgICBtYW51YWxNYXBwZXIudHJhbnNmZXJZb25namluVG9Vc2VyQWNjb3VudDEodWlkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgID0gMTIxOyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgID0gMTIxOyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGNvbiAK</text>
+        <text encoding="base64">ICAgICAgICBnZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGNvbgo=</text>
+        <text encoding="base64">ICAgICAgIGNvbiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGNvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5nZXQocykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZW50aXR5LmdldCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5nZXQocykK</text>
       </register>
       <register name=":" type="4">
         <text>225</text>
