@@ -20,11 +20,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/WorkState.java" timestamp="1514546168110">
         <mark key="[" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/store/index.js" timestamp="1515580728411">
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/index.js" timestamp="1515584701157">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1515582616204">
         <mark key="[" line="108" column="0" />
@@ -88,6 +88,12 @@
         <mark key="^" line="914" column="51" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/model/recommend/RecommendPlan.java" timestamp="1515571126413" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/my/MyCenterB.vue" timestamp="1515584338997">
+        <mark key="[" line="206" column="63" />
+        <mark key="]" line="37" column="23" />
+        <mark key="." line="37" column="23" />
+        <mark key="^" line="37" column="23" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/AutoRefreshJobTasks.java" timestamp="1515570570529">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="38" />
@@ -130,7 +136,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/JobExtEntity.java" timestamp="1515491826102" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/EntInfoIdentState.java" timestamp="1515465884085" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/ehcache.xml" timestamp="1515405405589" />
-      <file name="/Dummy.txt" timestamp="1515582547016">
+      <file name="/Dummy.txt" timestamp="1515584817199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/util/LogicUtil.java" timestamp="1514865077765">
@@ -141,7 +147,7 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/DateUtil.java" timestamp="1515493365944" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/test/hosts/test/www2.location" timestamp="1515468730189" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/my/MyCenter.vue" timestamp="1515581100392">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/my/MyCenter.vue" timestamp="1515584147405">
         <mark key="[" line="71" column="11" />
         <mark key="]" line="36" column="15" />
         <mark key="^" line="36" column="15" />
@@ -269,13 +275,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJnZXQgdXNlciBpbmZvIGZhaWwiKQo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -284,31 +290,31 @@
         <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwIDQwIDE1ICogKiA/IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJnZXQgdXNlciBpbmZvIGZhaWwiKQo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzNjItZnJlZS1qanIK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb29raWUuc2V0KCJzaG93QWQiLCAiMCIsIHtwYXRoOiAiLyJ9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJnZXQgdXNlciBpbmZvIGZhaWwiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAzNjItZnJlZS1qanIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBDb29raWUuc2V0KCJzaG93QWQiLCAiMCIsIHtwYXRoOiAiLyJ9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfdGhpcy4kc3RvcmUuc3RhdGUuc2hvd0ZyZWVqanJFbnRyeSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBfdGhpcy4kc3RvcmUuc3RhdGUuc2hvd0ZyZWVqanJFbnRyeSA9IGZhbHNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>225</text>
