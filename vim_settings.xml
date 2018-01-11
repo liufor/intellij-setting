@@ -47,11 +47,11 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1515660706481">
-        <mark key="[" line="244" column="30" />
-        <mark key="]" line="243" column="19" />
-        <mark key="^" line="243" column="19" />
-        <mark key="." line="243" column="19" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1515661303240">
+        <mark key="[" line="242" column="36" />
+        <mark key="]" line="242" column="34" />
+        <mark key="^" line="242" column="34" />
+        <mark key="." line="242" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" timestamp="1515379673828">
         <mark key="[" line="311" column="0" />
@@ -67,11 +67,11 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/store/index.js" timestamp="1515658583119">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="34" column="18" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/index.js" timestamp="1515661326999">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="34" column="17" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/DozerConvertUtil.java" timestamp="1515645006197">
         <mark key="[" line="126" column="0" />
@@ -91,11 +91,11 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1515660402095">
-        <mark key="[" line="193" column="14" />
-        <mark key="]" line="193" column="30" />
-        <mark key="^" line="193" column="30" />
-        <mark key="." line="193" column="30" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1515662127306">
+        <mark key="[" line="129" column="43" />
+        <mark key="]" line="128" column="46" />
+        <mark key="^" line="128" column="46" />
+        <mark key="." line="128" column="46" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/dao/jdbc/UserBindDao.java" timestamp="1515147479924" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ShareInvitationController.java" timestamp="1515645109361">
@@ -428,14 +428,14 @@
         <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/ehcache.xml" timestamp="1515405405589" />
-      <file name="/Dummy.txt" timestamp="1515659684648">
+      <file name="/Dummy.txt" timestamp="1515662438802">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1515659550443">
-        <mark key="[" line="327" column="87" />
-        <mark key="]" line="676" column="14" />
-        <mark key="^" line="676" column="14" />
-        <mark key="." line="676" column="14" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1515662404304">
+        <mark key="[" line="680" column="42" />
+        <mark key="]" line="680" column="41" />
+        <mark key="^" line="680" column="41" />
+        <mark key="." line="680" column="41" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/YongjinWorkState.java" timestamp="1515638459085">
         <mark key="[" line="8" column="24" />
@@ -613,14 +613,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoImFmdGVyIGZyb21TaGFyZSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>this.isFromShare();</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>this.isFromShare();</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
