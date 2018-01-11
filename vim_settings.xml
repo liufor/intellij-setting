@@ -368,11 +368,11 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/components/EmailLogin.vue" timestamp="1514277745539">
         <mark key="[" line="60" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1515664724428">
-        <mark key="[" line="275" column="67" />
-        <mark key="]" line="275" column="67" />
-        <mark key="^" line="277" column="85" />
-        <mark key="." line="275" column="67" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1515666003263">
+        <mark key="[" line="115" column="79" />
+        <mark key="]" line="115" column="79" />
+        <mark key="^" line="115" column="76" />
+        <mark key="." line="115" column="79" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_24.sql" timestamp="1515647345657">
         <mark key="[" line="5" column="23" />
@@ -616,14 +616,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KEpTT04uc3RyaW5naWZ5KGVycikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>jobId</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>this.isFromShare();</text>
+        <text>jobId</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
