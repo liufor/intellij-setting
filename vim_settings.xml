@@ -98,11 +98,11 @@
         <mark key="." line="128" column="46" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/dao/jdbc/UserBindDao.java" timestamp="1515147479924" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ShareInvitationController.java" timestamp="1515645109361">
-        <mark key="[" line="79" column="90" />
-        <mark key="]" line="79" column="123" />
-        <mark key="^" line="79" column="123" />
-        <mark key="." line="79" column="123" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ShareInvitationController.java" timestamp="1515663230699">
+        <mark key="[" line="111" column="30" />
+        <mark key="]" line="111" column="36" />
+        <mark key="^" line="111" column="36" />
+        <mark key="." line="111" column="36" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1513331002371">
         <mark key="[" line="199" column="76" />
@@ -192,7 +192,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/ShareInvitationEntity.java" timestamp="1515642543896" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ListJobResponse.java" timestamp="1515648325779">
         <mark key="[" line="202" column="0" />
       </file>
@@ -365,7 +364,7 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/components/EmailLogin.vue" timestamp="1514277745539">
         <mark key="[" line="60" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1515645244942">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1515663528140">
         <mark key="[" line="275" column="67" />
         <mark key="]" line="275" column="67" />
         <mark key="^" line="277" column="85" />
@@ -613,8 +612,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>this.isFromShare();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -629,31 +628,31 @@
         <text encoding="base64">ICBhbGVydChmcm9tLnF1ZXJ5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoImFmdGVyIGZyb21TaGFyZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgX3RoaXMuJHN0b3JlLnN0YXRlLmZyb21TaGFyZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KGBiZWZvcmUgZnJvbVNoYXJlOiR7dG8uJHJvdXRlLnF1ZXJ5LmZyb219ICR7X3RoaXMuJHJvdXRlLnF1ZXJ5LmNhX3N9YCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2FwRGF5cyA9IC0xOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZ2FwRGF5cyA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gam9iX2V4dCAoam9iX2lkLCBjcmVhdGVkX3RpbWUsIG1vZGlmaWVkX3RpbWUpIFZBTFVFUyAoKTsK</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoImFmdGVyIGZyb21TaGFyZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">ICAgICAgX3RoaXMuJHN0b3JlLnN0YXRlLmZyb21TaGFyZSA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RlJPTSBqb2JfZXh0Owo=</text>
+        <text encoding="base64">ICAgIGFsZXJ0KGBiZWZvcmUgZnJvbVNoYXJlOiR7dG8uJHJvdXRlLnF1ZXJ5LmZyb219ICR7X3RoaXMuJHJvdXRlLnF1ZXJ5LmNhX3N9YCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gam9iX2V4dCgpCg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SU5TRVJUIGpvYl9leHQK</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gam9iX2V4dCAoam9iX2lkLCBjcmVhdGVkX3RpbWUsIG1vZGlmaWVkX3RpbWUpIFZBTFVFUyAoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>225</text>
