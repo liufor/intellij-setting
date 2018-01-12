@@ -48,10 +48,10 @@
         <mark key="." line="17" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1515661303240">
-        <mark key="[" line="242" column="36" />
-        <mark key="]" line="242" column="34" />
-        <mark key="^" line="242" column="34" />
-        <mark key="." line="242" column="34" />
+        <mark key="[" line="240" column="36" />
+        <mark key="]" line="240" column="34" />
+        <mark key="^" line="240" column="34" />
+        <mark key="." line="240" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" timestamp="1515379673828">
         <mark key="[" line="311" column="0" />
@@ -370,11 +370,8 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/components/EmailLogin.vue" timestamp="1514277745539">
         <mark key="[" line="60" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1515666003263">
-        <mark key="[" line="115" column="79" />
-        <mark key="]" line="115" column="79" />
-        <mark key="^" line="115" column="76" />
-        <mark key="." line="115" column="79" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1515727887304">
+        <mark key="[" line="199" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_24.sql" timestamp="1515647345657">
         <mark key="[" line="5" column="23" />
@@ -619,14 +616,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>jobId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZihleCkK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>jobId</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -635,34 +632,34 @@
         <text encoding="base64">ICBhbGVydChmcm9tLnF1ZXJ5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KEpTT04uc3RyaW5naWZ5KGVycikpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihleCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoSlNPTi5zdHJpbmdpZnkocmVzKSkK</text>
+        <text encoding="base64">ICAgICAgICBleHQuc2V0Ywo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChgdXJsOiR7dXJsfSsgfCAke190aGlzLmZyb21TaGFyZX0gfCAke190aGlzLnVpZH1gKQo=</text>
+        <text encoding="base64">ICAgICAgICBKb2JFbnRpdHkgam9iID0gam9iU2VydmljZS5maW5kT25lKGpvYklkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChgdXJsOiR7dXJsfSsgfCAke190aGlzLmZyb21TaGFyZX0gfCAke190aGlzLnVpZH1gKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KEpTT04uc3RyaW5naWZ5KGVycikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoSlNPTi5zdHJpbmdpZnkocmVzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChgdXJsOiR7dXJsfSsgfCAke190aGlzLmZyb21TaGFyZX0gfCAke190aGlzLnVpZH1gKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2FwRGF5cyA9IC0xOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChgdXJsOiR7dXJsfSsgfCAke190aGlzLmZyb21TaGFyZX0gfCAke190aGlzLnVpZH1gKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2FwRGF5cyA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoImFmdGVyIGZyb21TaGFyZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>225</text>
+        <text>151</text>
       </register>
     </registers>
     <search>
@@ -698,7 +695,6 @@
         <entry>mapi</entry>
       </history-search>
       <history-cmd>
-        <entry>95</entry>
         <entry>!g/scray/d</entry>
         <entry>520</entry>
         <entry>605</entry>
@@ -718,6 +714,7 @@
         <entry>75</entry>
         <entry>64</entry>
         <entry>225</entry>
+        <entry>151</entry>
       </history-cmd>
       <history-expr />
       <history-input />
