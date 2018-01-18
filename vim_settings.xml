@@ -144,6 +144,7 @@
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/util/ConstUtil.java" timestamp="1515827162377">
         <mark key="[" line="10" column="68" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/WorkQueueManualMapper.java" timestamp="1516245354042" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/scheduling/SchedulingTaskExecutor.java" timestamp="1516167303411" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/test/hosts/test/wechat_gzc.server" timestamp="1515468902267">
         <mark key="[" line="16" column="24" />
@@ -175,6 +176,12 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/task/TaskExecutor.java" timestamp="1516166558560" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/VerifyController.java" timestamp="1515826761724">
         <mark key="[" line="40" column="59" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/WorkQueueService.java" timestamp="1516245576482">
+        <mark key="[" line="158" column="24" />
+        <mark key="]" line="158" column="68" />
+        <mark key="^" line="158" column="68" />
+        <mark key="." line="158" column="68" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514196978106">
         <mark key="[" line="0" column="0" />
@@ -209,6 +216,7 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/WorkQueueContoller.java" timestamp="1516245283581" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/org/apache/tomcat/util/threads/ThreadPoolExecutor.java" timestamp="1516177162540" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/JobExtType.java" timestamp="1513935066659">
         <mark key="[" line="12" column="19" />
@@ -330,6 +338,9 @@
         <mark key="^" line="37" column="23" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Object.java" timestamp="1516098029265" />
+      <file name="$USER_HOME$/Downloads/set_icon_path/contact_extractor/manifest.json" timestamp="1516243506652">
+        <mark key="[" line="4" column="49" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/dialoguePage.vue" timestamp="1515899171457">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
@@ -398,6 +409,7 @@
         <mark key="^" line="4" column="51" />
         <mark key="." line="4" column="51" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/mapper/manual/WorkQueueEntityManualMapper.xml" timestamp="1516245454642" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/PER/high_cpu_usage/HeavyThread.java" timestamp="1516089062046" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ShareSummaryResponse.java" timestamp="1514895554218">
         <mark key="[" line="47" column="60" />
@@ -410,6 +422,12 @@
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/MULT/SYNC.java" timestamp="1516093094830">
         <mark key="[" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Downloads/set_icon_path/contact_extractor/content.js" timestamp="1516244636876">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/_26_RemoveDuplicatesfromSortedArray/Solution.java" timestamp="1513761794637">
         <mark key="[" line="0" column="28" />
@@ -720,13 +738,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Click to change the icon's color</text>
+        <text>phone</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Click to change the icon's color</text>
+        <text>phone</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -735,34 +753,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIlRhc2vooqvkuK3mlq3kuoYgJXMiLCBUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQK</text>
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygi5om+5Yiw5Y+356CBIiArIHBob25lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pbnRlcnJ1cHQoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuY3VycmVudFRocmVhZCgpLmludGVycnVwdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuaW50ZXJydXB0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuiiq+S4reaWreS6hiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>151</text>
+        <text>159</text>
       </register>
     </registers>
     <search>
@@ -798,7 +816,6 @@
         <entry>mapi</entry>
       </history-search>
       <history-cmd>
-        <entry>!g/scray/d</entry>
         <entry>520</entry>
         <entry>605</entry>
         <entry>217</entry>
@@ -818,6 +835,7 @@
         <entry>64</entry>
         <entry>225</entry>
         <entry>151</entry>
+        <entry>159</entry>
       </history-cmd>
       <history-expr />
       <history-input />
