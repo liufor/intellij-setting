@@ -32,6 +32,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="cisDubboProvider" type="XML" />
       <mapping ext="wxml" type="XML" />
     </extensionMap>
