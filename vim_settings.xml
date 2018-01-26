@@ -110,11 +110,10 @@
       <file name="$USER_HOME$/work/code/java-concurrency-patterns/src/main/java/br/com/leonardoz/patterns/task_convergence/TaskConvergence.java" timestamp="1516360228659">
         <mark key="[" line="62" column="50" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/weixin/WechatMpConfiguration.java" timestamp="1516966259648">
-        <mark key="[" line="51" column="55" />
-        <mark key="]" line="63" column="53" />
-        <mark key="^" line="63" column="53" />
-        <mark key="." line="63" column="53" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/weixin/WechatMpConfiguration.java" timestamp="1516967160540">
+        <mark key="[" line="63" column="26" />
+        <mark key="]" line="63" column="26" />
+        <mark key="." line="63" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1516957259422">
         <mark key="[" line="330" column="38" />
@@ -297,14 +296,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>gzcKey</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>zpc</text>
+        <text>gzcKey</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -313,31 +312,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEJlYW5Mb2FkZXIuZ2V0QmVhbigiZ3pjV2VpeGluQ29uZiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQoSE9TVF9UT19XRUlYSU5fS0VZLmdldCh6cGNLZXkpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd2VpeGluQ29uZih6cGNLZXkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNdWx0aVdlaXhpblByb3BlcnRpZXMuV2VjaGF0UHJvcGVydGllcyBwcm9wcyA9IG11bHRpV2VpeGluUHJvcGVydGllcy5nZXRBY2NvdW50cygpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgV3hNcFNlcnZpY2UgenBjV3hNcFNlcnZpY2UoKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3hNcFNlcnZpY2UgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBXeE1wU2VydmljZSB6cGNXeE1wU2VydmljZSgpIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd2VpeGluQ29uZihnemNLZXkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgV3hNcFNlcnZpY2UgZ3pjV3hNcFNlcnZpY2UoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
