@@ -19,6 +19,7 @@
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1516462066835">
         <mark key="[" line="22" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/CreateMode.java" timestamp="1517045317977" />
       <file name="$USER_HOME$/work/code/java-concurrency-patterns/src/main/java/br/com/leonardoz/patterns/task_convergence/TaskConvergence.java" timestamp="1516360228659">
         <mark key="[" line="62" column="50" />
       </file>
@@ -31,7 +32,7 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="115" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" timestamp="1517043688433" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" timestamp="1517045464028" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/CLASS_LOADER/DemoClassLoader.java" timestamp="1516456634143">
         <mark key="[" line="2" column="28" />
       </file>
@@ -91,7 +92,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ZK/zookeeper/base/ZookeeperBase.java" timestamp="1517036679985">
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ZK/zookeeper/base/ZookeeperBase.java" timestamp="1517045502171">
         <mark key="[" line="19" column="53" />
         <mark key="]" line="27" column="80" />
         <mark key="^" line="27" column="80" />
@@ -106,6 +107,7 @@
         <mark key="^" line="19" column="52" />
         <mark key="." line="19" column="52" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ClientCnxn.java" timestamp="1517045748148" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/WechatLogin.vue" timestamp="1516986749779">
         <mark key="[" line="31" column="44" />
         <mark key="]" line="31" column="41" />
@@ -130,11 +132,20 @@
         <mark key="^" line="334" column="32" />
         <mark key="." line="334" column="32" />
       </file>
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ZK/zookeeper/base/ZookeeperBase2.java" timestamp="1517046459289">
+        <mark key="[" line="53" column="94" />
+        <mark key="]" line="53" column="94" />
+        <mark key="." line="53" column="94" />
+        <mark key="^" line="52" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_12.sql" timestamp="1516958850520">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="34" />
         <mark key="^" line="3" column="29" />
         <mark key="." line="1" column="34" />
+      </file>
+      <file name="/fragment.java" timestamp="1517044995301">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -253,14 +264,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PERSISTENT</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>needAuwnth</text>
+        <text>PERSISTENT</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -269,31 +280,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEJlYW5Mb2FkZXIuZ2V0QmVhbigiZ3pjV2VpeGluQ29uZiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLmxhbmcuVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8L2RlcGVuZGVuY2llcz4K</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLmxhbmcuVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5qb2luKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8ZGVwZW5kZW5jaWVzPgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuc2VydmxldDRwcmV2aWV3Lmh0dHAuSHR0cFNlcnZsZXRSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuc2VydmxldDRwcmV2aWV3Lmh0dHAuSHR0cFNlcnZsZXRSZXF1ZXN0Owo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICA8L2RlcGVuZGVuY2llcz4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb29raWVIZWxwZXIuYWRkQ29va2llKHJlc3BvbnNlLCJvcGVuaWQiLHd4TXBPQXV0aDJBY2Nlc3NUb2tlbi5nZXRPcGVuSWQoKSxBcGlDb25maWcuV0VJWElOX09QRU5JRF9FWFBJUkVfREFZKTsK</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICA8ZGVwZW5kZW5jaWVzPgo=</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
