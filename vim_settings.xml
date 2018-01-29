@@ -18,6 +18,12 @@
         <mark key="[" line="2" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-client/2.11.1/curator-client-2.11.1-sources.jar!/org/apache/curator/CuratorZookeeperClient.java" timestamp="1517062376625" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/config/MultiWeixinProperties.java" timestamp="1517205404011">
+        <mark key="[" line="62" column="40" />
+        <mark key="]" line="34" column="10" />
+        <mark key="^" line="34" column="10" />
+        <mark key="." line="34" column="10" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/helper/SessionHelper.java" timestamp="1517201177637">
         <mark key="[" line="274" column="19" />
         <mark key="]" line="272" column="25" />
@@ -38,11 +44,11 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar!/org/apache/commons/lang3/StringUtils.class" timestamp="1517201232548" />
       <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/2.11.1/curator-recipes-2.11.1-sources.jar!/org/apache/curator/framework/recipes/shared/SharedValue.java" timestamp="1517060393323" />
       <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.11.1/curator-framework-2.11.1-sources.jar!/org/apache/curator/framework/imps/CuratorFrameworkImpl.java" timestamp="1517057663905" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/WxController.java" timestamp="1517203592877">
-        <mark key="[" line="128" column="127" />
-        <mark key="]" line="131" column="60" />
-        <mark key="." line="131" column="60" />
-        <mark key="^" line="131" column="60" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/WxController.java" timestamp="1517206606034">
+        <mark key="[" line="83" column="5" />
+        <mark key="]" line="149" column="37" />
+        <mark key="." line="149" column="37" />
+        <mark key="^" line="149" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-client/2.11.1/curator-client-2.11.1-sources.jar!/org/apache/curator/ensemble/exhibitor/ExhibitorEnsembleProvider.java" timestamp="1517064055781" />
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1516462066835">
@@ -59,6 +65,12 @@
         <mark key="." line="54" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/org/apache/zookeeper/ZooKeeper.java" timestamp="1517045464028" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1517206488181">
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="79" />
+        <mark key="^" line="324" column="5" />
+        <mark key="." line="332" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat_zpc.location" timestamp="1516620085781">
         <mark key="[" line="1" column="0" />
       </file>
@@ -88,11 +100,11 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/my/MyCenter.vue" timestamp="1516979770238">
         <mark key="[" line="37" column="61" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1517203584041">
-        <mark key="[" line="336" column="69" />
-        <mark key="]" line="334" column="32" />
-        <mark key="^" line="334" column="32" />
-        <mark key="." line="334" column="32" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1517206519376">
+        <mark key="[" line="337" column="6" />
+        <mark key="]" line="337" column="6" />
+        <mark key="^" line="337" column="19" />
+        <mark key="." line="337" column="6" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/ApiConfig.java" timestamp="1517196701383">
         <mark key="[" line="72" column="55" />
@@ -226,47 +238,47 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>WeixinSelector</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0ocmVxdWlyZWQgPSBmYWxzZSxkZWZhdWx0VmFsdWUgPSBmYWxzZSkK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>WeixinSelector</text>
+        <text>openidByCodeUrl</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBHWkMoMCwiZ29uZ3p1b2Nob25nIik7Cg==</text>
+        <text encoding="base64">ICAgICAgb3BlbmlkQnlDb2RlVXJsOiBodHRwOi8vd2VjaGF0LnpoYW9waW5jaG9uZy5jb20vbWFwaS93eC9oYW5kbGVfZ2V0X29wZW5pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgd2VpeGluS2V5ID0gSE9TVF9UT19XRUlYSU5fS0VZLmdldChjb25mS2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0ocmVxdWlyZWQgPSBmYWxzZSxkZWZhdWx0VmFsdWUgPSBmYWxzZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgd2VpeGluS2V5ID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQod2VjaGF0TXBQcm9wZXJ0aWVzLmdldExvZ2luUmVkaXJlY3RVcmwoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZih3ZWl4aW5TZWxlY3RvciA9PSBXZWl4aW5TZWxlY3Rvci5HWkMpewo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgd2VpeGluS2V5ID0gSE9TVF9UT19XRUlYSU5fS0VZLmdldChjb25mS2V5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlcnZlck5hbWUuY29udGFpbnMoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgd2VpeGluS2V5ID0gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBHWkMoMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
