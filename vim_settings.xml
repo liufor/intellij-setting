@@ -18,12 +18,12 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobList.vue" timestamp="1517323451170" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeB.vue" timestamp="1517222447406" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1517218060244" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1517324272532">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1517332414634">
         <mark key="'" line="125" column="31" />
-        <mark key="[" line="124" column="58" />
-        <mark key="]" line="124" column="57" />
-        <mark key="^" line="124" column="57" />
-        <mark key="." line="124" column="57" />
+        <mark key="[" line="131" column="74" />
+        <mark key="]" line="136" column="48" />
+        <mark key="^" line="136" column="48" />
+        <mark key="." line="136" column="48" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/UserService.java" timestamp="1517241847043">
         <mark key="[" line="245" column="54" />
@@ -85,8 +85,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1517326995763">
-        <mark key="[" line="195" column="21" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1517331454178">
+        <mark key="[" line="198" column="13" />
+        <mark key="]" line="195" column="56" />
+        <mark key="^" line="195" column="56" />
+        <mark key="." line="195" column="56" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/GetOpenid.vue" timestamp="1517242977448">
         <mark key="'" line="37" column="13" />
@@ -195,12 +198,12 @@
         <mark key="." line="27" column="80" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/2.11.1/curator-framework-2.11.1-sources.jar!/org/apache/curator/framework/CuratorFrameworkFactory.java" timestamp="1517057119432" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1517218708875" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/main.js" timestamp="1517322506135">
-        <mark key="[" line="40" column="10" />
-        <mark key="]" line="40" column="9" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1517328842402" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/main.js" timestamp="1517329501954">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
         <mark key="^" line="40" column="9" />
-        <mark key="." line="40" column="9" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/WechatLogin.vue" timestamp="1517219998696">
         <mark key="[" line="31" column="44" />
@@ -365,40 +368,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiX193eGpzX2lzX3drd2VidmlldzpzZXRXeENvbmZpZzpmYWxzZSIpCg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>__wxjs_is_wkwebview</text>
+        <text>console</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJiZWZvcmVFYWNoOnNldFd4Q29uZmlnOnRydWUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiX193eGpzX2lzX3drd2VidmlldzpzZXRXeENvbmZpZzpmYWxzZSIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>if (window.__wxjs_is_wkwebview === true) {
+  debugger
+  console.log(&quot;__wxjs_is_wkwebview:setWxConfig:true&quot;)
+  setWxConfig();
+}else {
+  console.log(&quot;__wxjs_is_wkwebview:setWxConfig:false&quot;)
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJpbiBzZXRXeENvbmZpZyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJpbiBzZXRXeENvbmZpZyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
