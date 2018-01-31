@@ -18,12 +18,12 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobList.vue" timestamp="1517323451170" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeB.vue" timestamp="1517222447406" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1517218060244" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1517332414634">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1517364618840">
         <mark key="'" line="125" column="31" />
-        <mark key="[" line="131" column="74" />
-        <mark key="]" line="136" column="48" />
-        <mark key="^" line="136" column="48" />
-        <mark key="." line="136" column="48" />
+        <mark key="[" line="132" column="7" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="126" column="37" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/UserService.java" timestamp="1517241847043">
         <mark key="[" line="245" column="54" />
@@ -173,7 +173,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/WeixinConfigHolder.java" timestamp="1516857660351">
         <mark key="[" line="8" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517326996445">
+      <file name="/Dummy.txt" timestamp="1517364729285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RecruitmentPlan.vue" timestamp="1517243233765">
@@ -250,6 +250,7 @@
       <file name="/fragment.java" timestamp="1517044995301">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/share/ShareInfoLogic.java" timestamp="1517364760500" />
     </filemarks>
     <jumps>
       <jump line="97" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_9.sql" />
@@ -368,7 +369,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiX193eGpzX2lzX3drd2VidmlldzpzZXRXeENvbmZpZzpmYWxzZSIpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJpbiBzZXRXeENvbmZpZzoiLHVybCkK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -382,7 +383,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiX193eGpzX2lzX3drd2VidmlldzpzZXRXeENvbmZpZzpmYWxzZSIpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJpbiBzZXRXeENvbmZpZzoiLHVybCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRlc3RBbGVydCh1cmwpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpZiAoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>if (window.__wxjs_is_wkwebview === true) {
   debugger
   console.log(&quot;__wxjs_is_wkwebview:setWxConfig:true&quot;)
@@ -391,29 +404,17 @@
   console.log(&quot;__wxjs_is_wkwebview:setWxConfig:false&quot;)
 }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJpbiBzZXRXeENvbmZpZyIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJpbiBzZXRXeENvbmZpZyIpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
