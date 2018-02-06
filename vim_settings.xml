@@ -81,12 +81,12 @@
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/AQS/ImplSyncNotUseAQS/ThreadJobin.java" timestamp="1517826329680">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/AQS/ImplSyncNotUseAQS/ProducerConsumerBlockingQueue.java" timestamp="1517829623757">
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/AQS/ImplSyncNotUseAQS/ProducerConsumerBlockingQueue.java" timestamp="1517885425316">
         <mark key="a" line="10" column="3" />
-        <mark key="[" line="16" column="110" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="104" />
+        <mark key="[" line="68" column="26" />
+        <mark key="]" line="68" column="26" />
+        <mark key="^" line="66" column="28" />
+        <mark key="." line="68" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/pay.location" timestamp="1517805536572">
         <mark key="[" line="0" column="32" />
@@ -191,7 +191,7 @@
         <mark key="^" line="44" column="4" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java" timestamp="1517829005659" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java" timestamp="1517885420496" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NIO/BioClient.java" timestamp="1517733798080">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -288,7 +288,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/WeixinConfigHolder.java" timestamp="1516857660351">
         <mark key="[" line="8" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517821144771">
+      <file name="/Dummy.txt" timestamp="1517886004991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1517568915805">
@@ -453,30 +453,28 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>Thread thread1 = 
-Thread thread2 = 
-Thread thread3 = 
-Thread thread4 = 
-Thread thread5 = 
-Thread thread6 = 
-Thread thread11 =
-Thread thread12 =
-Thread thread13 =</text>
+      <register name="&quot;" type="4">
+        <text>offer</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Producer</text>
+        <text>offer</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZWFkMSA9IG5ldyBUaHJlYWQobmV3IFByb2R1Y2VyKHF1ZXVlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRvci5zdWJtaXQobmV3IFByb2R1Y2VyKHF1ZXVlKSk7Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBpbnQgbmV4dElkID0gMDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBBdG9taWNJbnRlZ2VyIG5leHRJZCA9IG5ldyBBdG9taWNJbnRlZ2VyKDApOwo=</text>
+      </register>
+      <register name="3" type="8">
         <text>Thread thread1 = 
 Thread thread2 = 
 Thread thread3 = 
@@ -487,29 +485,23 @@ Thread thread11 =
 Thread thread12 =
 Thread thread13 =</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0bwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb2R1Y3QgcHJvZHVjdD1udWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgID0gNDg0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb2R1Y3QgcHJvZHVjdD1udWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRocmVhZFlpZWxkIHRhc2s9bmV3IFRocmVhZFlpZWxkKCk7CiAgICBuZXcgVGhyZWFkKCgpLT50YSkKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgID0gNDg0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>867</text>
