@@ -72,11 +72,11 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1517822900704" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.13.Final/netty-all-4.0.13.Final-sources.jar!/io/netty/channel/ChannelOutboundBuffer.java" timestamp="1517818936949" />
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/pay/wx/AppBindLogic.java" timestamp="1518003044311">
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="33" />
-        <mark key="." line="58" column="33" />
-        <mark key="^" line="58" column="33" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/pay/wx/AppBindLogic.java" timestamp="1518010123358">
+        <mark key="[" line="58" column="49" />
+        <mark key="]" line="58" column="57" />
+        <mark key="." line="58" column="57" />
+        <mark key="^" line="58" column="57" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/production/wx.xml" timestamp="1517991134071" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/AQS/ImplSyncNotUseAQS/ThreadJoin.java" timestamp="1517826695405">
@@ -87,12 +87,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/javax/servlet/ServletRequest.java" timestamp="1517906377808" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.25.Final/bb6d160c961f2950c0ae0da9ad589b8d4a750e76/netty-all-4.0.25.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java" timestamp="1517883819887" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.25.Final/bb6d160c961f2950c0ae0da9ad589b8d4a750e76/netty-all-4.0.25.Final-sources.jar!/io/netty/util/concurrent/EventExecutorGroup.java" timestamp="1517883260992" />
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/BaseLogic.java" timestamp="1518003848132">
-        <mark key="[" line="104" column="22" />
-        <mark key="]" line="104" column="14" />
-        <mark key="^" line="104" column="14" />
-        <mark key="." line="104" column="14" />
-      </file>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/BaseLogic.java" timestamp="1518010090769" />
       <file name="$USER_HOME$/work/code/java-concurrency-patterns/src/main/java/br/com/leonardoz/patterns/task_convergence/TaskConvergence.java" timestamp="1516360228659">
         <mark key="[" line="62" column="50" />
       </file>
@@ -101,11 +96,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/user/bind/SaveLogic.java" timestamp="1518003081046">
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="40" column="38" />
-        <mark key="^" line="40" column="38" />
-        <mark key="." line="40" column="38" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/user/bind/SaveLogic.java" timestamp="1518009844045">
+        <mark key="[" line="46" column="30" />
+        <mark key="]" line="44" column="38" />
+        <mark key="^" line="44" column="38" />
+        <mark key="." line="44" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/JobDetailResponse.java" timestamp="1517408852273">
         <mark key="[" line="64" column="32" />
@@ -479,14 +474,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>request</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>GZC_WECHAT</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
