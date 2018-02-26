@@ -13,6 +13,12 @@
       <file name="/a.dummy" timestamp="1518426255052">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/feed/Feed.vue" timestamp="1519629100358">
+        <mark key="[" line="8" column="70" />
+        <mark key="]" line="8" column="69" />
+        <mark key="^" line="8" column="69" />
+        <mark key="." line="8" column="69" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeB.vue" timestamp="1519459041891">
         <mark key="[" line="33" column="54" />
       </file>
@@ -40,7 +46,7 @@
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/AQS/ImplSyncNotUseAQS/ThreadYeild.java" timestamp="1517828122952">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/dialoguePage.vue" timestamp="1519628244627" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/dialoguePage.vue" timestamp="1519629035119" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/CLASS_LOADER/DemoClassLoader.java" timestamp="1516456634143">
         <mark key="[" line="2" column="28" />
       </file>
@@ -113,6 +119,12 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/feed/components/FeedStyle2.vue" timestamp="1519628068758">
         <mark key="[" line="26" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/feed/FeedDetail.vue" timestamp="1519628903682">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/feed/components/FeedStyle1.vue" timestamp="1519628009915">
         <mark key="[" line="11" column="75" />
@@ -357,13 +369,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>zmtnfNewsInfo</text>
+        <text>v-if=&quot;currentJobId!=null&quot;</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>zmtnfNewsInfo</text>
+        <text>v-if=&quot;currentJobId!=null&quot;</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
