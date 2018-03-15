@@ -28,6 +28,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.3.RELEASE/spring-webmvc-4.3.3.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.properties" timestamp="1521016557660" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1521097125069" />
       <file name="$USER_HOME$/.ideaLibSources/tomcat-embed-core-8.5.6-sources.jar!/org/apache/catalina/core/StandardHostValve.java" timestamp="1521103363411" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/WorkQueueState.java" timestamp="1521104707182" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/handler/SimpleServletHandlerAdapter.java" timestamp="1521025876772" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/ModelAndView.java" timestamp="1521081480543" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/dao/facade/TradeHistoryDaoFacade.java" timestamp="1521082807478">
@@ -53,7 +54,11 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/HandlerExecutionChainTests.java" timestamp="1521020556155" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/manage/payment/TradeSearchLogic.java" timestamp="1521082673409" />
       <file name="$MAVEN_REPOSITORY$/io/undertow/undertow-servlet/1.3.25.Final/undertow-servlet-1.3.25.Final-sources.jar!/io/undertow/servlet/spec/ServletContextImpl.java" timestamp="1521093761601" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1521015802171" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1521104248965">
+        <mark key="]" line="295" column="8" />
+        <mark key="^" line="295" column="8" />
+        <mark key="." line="295" column="8" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.3.RELEASE/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" timestamp="1521027546339" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/web/context/ContextLoaderListener.java" timestamp="1521013989487" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.3.RELEASE/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.java" timestamp="1521026893899" />
@@ -189,14 +194,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlMaXN0PFRyYWRlSGlzdG9yeVBvPiBoaXN0b3JpZXMgPSBEYW9CcmlkZ2UucXVlcnlMaXN0KCJzZWxlY3QgKiIgKyBiYXNlU3FsICsgIiBvcmRlciBieSB0cmFkZV90aW1lc3RhbXAgZGVzYyx0cmFkZV90aW1lIGRlc2MgbGltaXQgPywgPyIsIG5ldyBEYW9PcGVyYXRpb248VHJhZGVIaXN0b3J5UG8+KCkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>final</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>postCount</text>
+        <text>final</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
