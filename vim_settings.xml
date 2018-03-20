@@ -10,8 +10,10 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/theme/ThemeChangeInterceptor.java" timestamp="1521023879858" />
       <file name="$USER_HOME$/.ideaLibSources/tomcat-embed-core-8.5.6-sources.jar!/org/apache/catalina/core/StandardWrapperValve.java" timestamp="1521108145218" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/HandlerMapping.java" timestamp="1521019762916" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1521028793437">
-        <mark key="[" line="423" column="29" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1521559366599">
+        <mark key="[" line="192" column="43" />
+        <mark key="]" line="192" column="43" />
+        <mark key="." line="192" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.3.RELEASE/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.java" timestamp="1521026360659" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/AQS/ImplSyncNotUseAQS/ThreadYeild.java" timestamp="1517828122952">
@@ -233,8 +235,11 @@
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1521440899661">
         <mark key="[" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" timestamp="1521556368167">
-        <mark key="[" line="59" column="39" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" timestamp="1521559155132">
+        <mark key="[" line="105" column="13" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="105" column="12" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/spring/Main.java" timestamp="1520851216319">
         <mark key="[" line="2" column="19" />
@@ -409,14 +414,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgk=</text>
+      <register name="&quot;" type="4">
+        <text>cityId</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>jobId</text>
+        <text>cityId</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -424,32 +429,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y2l0aWVzPSgnemprJykK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2l0eVZhbHVlcy5hZGQoY2l0eUlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZWdlciBjaXR5SWQgPSAoSW50ZWdlcikgaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2hvdVNob3J0c01hcC5wdXQoc2hvdSxzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaG91U2hvcnRzTWFwLnB1dCgpICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGlzSW9zWkNNKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZigpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      <register name="8" type="8">
+        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>368</text>
