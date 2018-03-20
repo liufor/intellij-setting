@@ -21,6 +21,12 @@
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/CLASS_LOADER/DemoClassLoader.java" timestamp="1516456634143">
         <mark key="[" line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/data/hotCity.json" timestamp="1521555872415">
+        <mark key="[" line="348" column="1" />
+        <mark key="]" line="348" column="0" />
+        <mark key="^" line="348" column="0" />
+        <mark key="." line="348" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-web/src/main/java/org/springframework/web/HttpRequestHandler.java" timestamp="1521025779139" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1521441633594">
         <mark key="[" line="295" column="27" />
@@ -205,6 +211,9 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/VFooter.vue" timestamp="1521164786832">
         <mark key="[" line="15" column="4" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-pc/src/data/hotCity.json" timestamp="1521555896814">
+        <mark key="[" line="226" column="5" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/web/WebApplicationInitializer.java" timestamp="1521015527234" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/BaseResumeResponse.java" timestamp="1521111585255">
         <mark key="[" line="21" column="28" />
@@ -224,7 +233,7 @@
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1521440899661">
         <mark key="[" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" timestamp="1521517592429">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/logic/CityMap.java" timestamp="1521556368167">
         <mark key="[" line="59" column="39" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/spring/Main.java" timestamp="1520851216319">
@@ -394,18 +403,14 @@
       <register name="a" type="4">
         <keys>
           <key char="65" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2l0aWVzPSgnemprJykK</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgk=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -419,29 +424,29 @@
       <register name="0" type="2">
         <text encoding="base64">Y2l0aWVzPSgnemprJykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      <register name="1" type="8">
+        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgk=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGlzSW9zWkNNKCkgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGlzSW9zWkNNKCkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
