@@ -10,7 +10,7 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/theme/ThemeChangeInterceptor.java" timestamp="1521023879858" />
       <file name="$USER_HOME$/.ideaLibSources/tomcat-embed-core-8.5.6-sources.jar!/org/apache/catalina/core/StandardWrapperValve.java" timestamp="1521108145218" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/HandlerMapping.java" timestamp="1521019762916" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1521559366599">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1521601953586">
         <mark key="[" line="192" column="43" />
         <mark key="]" line="192" column="43" />
         <mark key="." line="192" column="43" />
@@ -45,10 +45,10 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.3.RELEASE/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" timestamp="1521028765144" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/HandlerExecutionChain.java" timestamp="1521019535324" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/mvc/SimpleControllerHandlerAdapter.java" timestamp="1521024278499" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/request/JobShareLogRequest.java" timestamp="1521600612573">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/request/JobShareLogRequest.java" timestamp="1521601734570">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/tomcat-embed-core-8.5.6-sources.jar!/org/apache/coyote/Adapter.java" timestamp="1521101200677" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat_zpc/production/servlet_conf.xml" timestamp="1516599939466">
@@ -141,10 +141,11 @@
         <mark key="[" line="65" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationAwareOrderComparator.java" timestamp="1521016946690" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobShareController.java" timestamp="1521600775059">
-        <mark key="[" line="113" column="35" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobShareController.java" timestamp="1521602119368">
+        <mark key="[" line="210" column="111" />
+        <mark key="]" line="219" column="19" />
+        <mark key="." line="219" column="19" />
+        <mark key="^" line="219" column="19" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/handler/AbstractHandlerMapping.java" timestamp="1521023768626" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/MessageTopicType.java" timestamp="1521112248224">
@@ -154,6 +155,7 @@
         <mark key="." line="15" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.3.RELEASE/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerExceptionResolver.java" timestamp="1521029346490" />
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/base/Objects.java" timestamp="1521601711584" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" timestamp="1521026479879" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-web/src/main/java/org/springframework/web/multipart/commons/CommonsMultipartResolver.java" timestamp="1521084631352" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeB.vue" timestamp="1519459041891">
@@ -427,13 +429,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>cityId</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -442,31 +444,31 @@
         <text encoding="base64">Y2l0aWVzPSgnemprJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdExvZy5zZXRJcCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuT2JqZWN0czsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0TG9nLnNldElwKCk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgICAgIFRvU3RyaW5nQnVpbGRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IDIwMTgvMy8yMSAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2l0eVZhbHVlcy5hZGQoY2l0eUlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZWdlciBjaXR5SWQgPSAoSW50ZWdlcikgaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldElwVWlkS2V5KHJlcXVlc3RMb2cuZ2V0ZlVpZCgpLHJlcXVlc3RMb2cuZ2V0SXAoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>368</text>
