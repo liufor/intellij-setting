@@ -44,11 +44,8 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat_gzc.location" timestamp="1516620092061">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/MasterFlowerService.java" timestamp="1522066949849">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="16" column="4" />
-        <mark key="^" line="16" column="4" />
-        <mark key="." line="16" column="4" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/MasterFlowerService.java" timestamp="1522121123229">
+        <mark key="[" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/request/JobShareLogRequest.java" timestamp="1521601734570">
         <mark key="[" line="3" column="0" />
@@ -58,6 +55,7 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat_zpc/production/servlet_conf.xml" timestamp="1516599939466">
         <mark key="[" line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/UserInviteService.java" timestamp="1522120691443" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1521517391279">
         <mark key="[" line="240" column="6" />
         <mark key="]" line="203" column="0" />
@@ -383,14 +381,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new Date()</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>new Date()</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -402,29 +400,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBlbnRpdHkuZ2V0Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="7" type="8">
         <text>,0
 ,1</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8L3RhYmxlPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSIiPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFzdGVyVWlkPQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG1hc3RlclVpZCA9IEludml0ZUNvZGVTZXJ2aWNlLmNvZGUydWlkKGludml0ZUNvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>368</text>
