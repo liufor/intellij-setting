@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/code/thinksns-plus/composer.json" timestamp="1523348231105" />
+      <file name="$USER_HOME$/work/code/thinksns-plus/packages/slimkit-plus-checkin/src/API/Middleware/CheckInSwitch.php" timestamp="1523362990600" />
       <file name="/a.dummy" timestamp="1518426255052">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,6 +34,7 @@
         <mark key="[" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/mgmt.server" timestamp="1523349745520" />
+      <file name="$USER_HOME$/work/code/thinksns-plus/public/index.php" timestamp="1523366906032" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/AQS/ImplLockNotUserAQS.java" timestamp="1517822965242">
         <mark key="[" line="4" column="33" />
       </file>
@@ -61,12 +63,6 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ShoutuSummaryRespons.java" timestamp="1522142212374">
         <mark key="[" line="2" column="64" />
       </file>
-      <file name="$USER_HOME$/work/images/dockers/mysql_temp/docker-compose.yml" timestamp="1523336015506">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-search-api/scripts/job_mapping.json" timestamp="1519899728463">
         <mark key="[" line="338" column="5" />
       </file>
@@ -83,7 +79,7 @@
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1521440899661">
         <mark key="[" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/conf/nginx/hosts/production/sns.server" timestamp="1523358578128">
+      <file name="$USER_HOME$/conf/nginx/hosts/production/sns.server" timestamp="1523362569691">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="9" />
@@ -117,7 +113,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/WeixinConfigHolder.java" timestamp="1516857660351">
         <mark key="[" line="8" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523361544607">
+      <file name="/Dummy.txt" timestamp="1523363135014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1523112575308">
@@ -154,6 +150,7 @@
       <file name="$USER_HOME$/work/code/gzc_mp/config.js" timestamp="1517541238234">
         <mark key="[" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/work/code/thinksns-plus/packages/slimkit-plus-feed/src/FormRequest/API2/StoreFeedPost.php" timestamp="1523363144647" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/user/account/CashInitLogic.java" timestamp="1517999145419">
         <mark key="[" line="58" column="17" />
       </file>
@@ -337,7 +334,7 @@
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>233</text>
+        <text>201</text>
       </register>
     </registers>
     <search>
@@ -373,7 +370,6 @@
         <entry>mapi</entry>
       </history-search>
       <history-cmd>
-        <entry>287</entry>
         <entry>256</entry>
         <entry>205</entry>
         <entry>160</entry>
@@ -393,6 +389,7 @@
         <entry>49</entry>
         <entry>368</entry>
         <entry>233</entry>
+        <entry>201</entry>
       </history-cmd>
       <history-expr />
       <history-input />
