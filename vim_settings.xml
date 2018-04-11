@@ -54,6 +54,7 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/freebroker/components/FreeBrokerDialog.vue" timestamp="1517650905295">
         <mark key="[" line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1523417171156" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/freebroker/components/ApplySuccess.vue" timestamp="1517650895558">
         <mark key="[" line="12" column="25" />
       </file>
@@ -75,6 +76,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/BaseResumeResponse.java" timestamp="1521111585255">
         <mark key="[" line="21" column="28" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1523416969672" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/freebroker/FreeBrokerProfit.vue" timestamp="1522729350244">
         <mark key="[" line="2" column="69" />
       </file>
@@ -148,8 +150,16 @@
         <mark key="[" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/work/code/thinksns-plus/packages/slimkit-plus-feed/src/Models/Feed.php" timestamp="1523345183282" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1523417284456">
+        <mark key="[" line="1481" column="0" />
+      </file>
       <file name="/RegExp Fragment (PinpaiPlatformUtil.java:549).regexp" timestamp="1518002382679">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/manual/mapper/JobManualMapper.java" timestamp="1523417297551">
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="34" column="37" />
+        <mark key="." line="34" column="37" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeViewService.java" timestamp="1520998714062">
         <mark key="[" line="26" column="0" />
@@ -299,13 +309,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>backend</text>
+        <text>job_type</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>backend</text>
+        <text>job_type</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
