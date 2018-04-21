@@ -155,11 +155,10 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/GetOpenid.vue" timestamp="1517381477485">
         <mark key="[" line="92" column="13" />
       </file>
-      <file name="$USER_HOME$/work/code/etgps/ltp/build/build_and_restart.sh" timestamp="1524280844849">
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="30" column="1" />
-        <mark key="." line="30" column="1" />
+      <file name="$USER_HOME$/work/code/etgps/ltp/build/build_and_restart.sh" timestamp="1524306167824">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/ad/ZmAd1.vue" timestamp="1519717982121">
         <mark key="[" line="60" column="12" />
@@ -186,7 +185,7 @@
         <mark key="[" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-common/pom.xml" timestamp="1524213437239" />
-      <file name="$USER_HOME$/work/code/etgps/ltp/pom.xml" timestamp="1524213749013">
+      <file name="$USER_HOME$/work/code/etgps/ltp/pom.xml" timestamp="1524305955649">
         <mark key="[" line="256" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-common/src/main/java/org/springframework/cloud/netflix/feign/FallBackProxyFactory.java" timestamp="1524213354004" />
@@ -212,7 +211,6 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-gateway-api/src/main/resources/application-dev.yml" timestamp="1524278980014">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="28" />
-        <mark key="^" line="7" column="43" />
         <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ValidateCodeService.java" timestamp="1517542218483">
@@ -386,13 +384,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOiAuLi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>EUREKA_SERVER_HOST</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -401,31 +399,31 @@
         <text encoding="base64">ICAgIHVybDogamRiYzpvcmFjbGU6dGhpbjpAMTcyLjE2LjEwLjEzMzoxNTIxOnhlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOiAuLi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBob3N0bWFjaGluZT0xOTIuMTY4LjAuMTAyCg==</text>
+        <text encoding="base64">ICAgICYmIG12IHRhcmdldC8qLmphciAvZGF0YTEvYXV0b191cGxpbmUvZ3RwX21vZGVsL2FwcC5qYXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBob3N0bWFjaGluZT0xOTIuMTY4LjAuMTAyCg==</text>
+        <text encoding="base64">ICAgICYmIG1rZGlyIC1wIC9kYXRhMS9hdXRvX3VwbGluZS9ndHBfbW9kZWwgXAo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICYmIG12IHRhcmdldC8qLmphciAvZGF0YTEvYXV0b191cGxpbmUvZ3RwLWNvbW1vbi9hcHAuamFyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgcm0gLXJmIC92YXIvbGliL2FwdC9saXN0cy8qCg==</text>
+        <text encoding="base64">ICAgICYmIG1rZGlyIC1wIC9kYXRhMS9hdXRvX3VwbGluZS9ndHAtY29tbW9uIFwK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmd0cC1jb21tb248L21vZHVsZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjICAgIGNvbW1hbmQ6IGphdmEgLWphciAtRHVzZXIudGltZXpvbmU9R01UKzA4IC1Ec3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1wcm9kICAtWG14MUcgIC1YbXMxRyAtWFg6TWV0YXNwYWNlU2l6ZT0xMjhtIC1YWDpNYXhNZXRhc3BhY2VTaXplPTUxMm0gYXBwLWFsb25lLndhcgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tICAgICAgICAg5YWs5YWx5qih5Z2XICAgICAgICAgLS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
