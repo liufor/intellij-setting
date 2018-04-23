@@ -99,7 +99,7 @@
       <file name="$USER_HOME$/work/code/php_debug_demo/demo1.php" timestamp="1523449035331">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/WorkQueueService.java" timestamp="1524497093150">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/WorkQueueService.java" timestamp="1524499647025">
         <mark key="[" line="151" column="9" />
         <mark key="]" line="150" column="18" />
         <mark key="^" line="150" column="18" />
@@ -120,11 +120,11 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-vehicle/src/main/java/cn/com/cnpc/gtp/vehicle/GtpServiceVehicleApplication.java" timestamp="1524214990695" />
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-gateway-api/pom.xml" timestamp="1524209008932" />
       <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/java-alone/api/docker-compose-beta-api-prod-1.yml" timestamp="1524218000774" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/RedisExtService.java" timestamp="1524495473744">
-        <mark key="[" line="63" column="65" />
-        <mark key="]" line="50" column="12" />
-        <mark key="." line="50" column="12" />
-        <mark key="^" line="50" column="12" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/RedisExtService.java" timestamp="1524499635522">
+        <mark key="[" line="82" column="18" />
+        <mark key="]" line="82" column="18" />
+        <mark key="." line="82" column="18" />
+        <mark key="^" line="82" column="20" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/JobDetailResponse.java" timestamp="1517408852273">
         <mark key="[" line="64" column="32" />
@@ -133,7 +133,7 @@
         <mark key="[" line="290" column="59" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/elk/docker-compose.yml" timestamp="1524218316718" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/WorkQueueContoller.java" timestamp="1524497059522">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/WorkQueueContoller.java" timestamp="1524500016597">
         <mark key="[" line="124" column="58" />
         <mark key="]" line="106" column="32" />
         <mark key="^" line="106" column="32" />
@@ -302,6 +302,12 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/WeixinConfHolder.java" timestamp="1516963740512">
         <mark key="[" line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/CommonController.java" timestamp="1524500307245">
+        <mark key="[" line="144" column="49" />
+        <mark key="]" line="144" column="49" />
+        <mark key="^" line="129" column="16" />
+        <mark key="." line="144" column="49" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/app/scan.html" timestamp="1519366827936">
         <mark key="[" line="21" column="92" />
       </file>
@@ -445,19 +451,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>BaseResultMap</text>
+        <text>,key = &quot;#childValue&quot;</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>BaseResultMap</text>
+        <text>,key = &quot;#childValue&quot;</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHRNYXA+Cg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZWFibGUodmFsdWUgPSAibWdtdDpjYWNoZTpnZXRQYXJlbnREaXN0cmljdFZhbHVlIixrZXkgPSAiI2NoaWxkVmFsdWUiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
