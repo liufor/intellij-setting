@@ -33,6 +33,7 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-user/src/main/resources/application-test.yml" timestamp="1524306793359">
         <mark key="[" line="3" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/commons-pool/commons-pool/1.6/commons-pool-1.6-sources.jar!/org/apache/commons/pool/impl/GenericObjectPool.java" timestamp="1524582974010" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NET/ConnectTimeoutClient.java" timestamp="1524572020645">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="0" />
@@ -70,6 +71,11 @@
         <mark key="." line="132" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/threadpool/QueuableCachedThreadPool.java" timestamp="1524561890456" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1524583862496">
+        <mark key="[" line="482" column="12" />
+        <mark key="]" line="390" column="0" />
+        <mark key="." line="390" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41.jar!/com/mysql/jdbc/LocalizedErrorMessages.properties" timestamp="1524568093833" />
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41-sources.jar!/com/mysql/jdbc/StandardSocketFactory.java" timestamp="1524569283649" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/misc/BeanLoader.java" timestamp="1524567284667" />
@@ -79,7 +85,7 @@
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NET/AcceptTimeoutServer.java" timestamp="1524571505719">
         <mark key="[" line="15" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524571942805">
+      <file name="/Dummy.txt" timestamp="1524582835144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41-sources.jar!/com/mysql/jdbc/ConnectionPropertiesImpl.java" timestamp="1524563314647" />
@@ -239,7 +245,7 @@
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>189</text>
+        <text>parentValue</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -251,28 +257,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQuY29ubmVjdChuZXcgSW5ldFNvY2tldEFkZHJlc3MoIjEyNy4wLjAuMSIsIDIwMDApLCAxMDAwKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQuc2V0U29UaW1lb3V0KDEwMDApOyAvLzFz6LaF5pe2Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGlzdHJpY3RUb1JlZGlzU2VydmljZS5maW5kQnlQYXJlbnRJblYyKExpc3RzLm5ld0FycmF5TGlzdChwYXJlbnRJZCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL0lQ5a2Y5Zyo77yM6IO95a+75Z2A5Yiw77yM5L2G5pivcG9ydOS4iuayoeaciVNlcnZlcuebkeWQrO+8jOi/meagt+ivpUlQ55qET1PlsYLpnaLlsLHmi5Lnu53ov5nkuKrpk77mjqXkuoYK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERpc3RyaWN0RW50aXR5PiBmaW5kQnlQYXJlbnQoaW50IHBhcmVudElkKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGlzdHJpY3RFbnRpdHlNYXBwZXIuc2VsZWN0QnlFeGFtcGxlKGV4YW1wbGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGFtcGxlLm9yKCkuYW5kUGFyZW50RXF1YWxUbyhwYXJlbnRJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNvY2tldC5jb25uZWN0KG5ldyBJbmV0U29ja2V0QWRkcmVzcygiMTI3LjAuMC4xMDAiLDIwMDApLDUwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBEaXN0cmljdEVudGl0eUV4YW1wbGUgZXhhbXBsZSA9IG5ldyBEaXN0cmljdEVudGl0eUV4YW1wbGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIOi/meS4qklQIDEyNy4wLjAuMTAwIOaYr+S4gOS4quS4jeWtmOWcqOeahElQ77yM5omA5LulICBqYXZhLm5ldC5Tb2NrZXRUaW1lb3V0RXhjZXB0aW9uOiBjb25uZWN0IHRpbWVkIG91dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzb2NrZXQuY29ubmVjdChuZXcgSW5ldFNvY2tldEFkZHJlc3MoIjEyNy4wLjAuMSIsIDIwMDApLCAxMDAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
