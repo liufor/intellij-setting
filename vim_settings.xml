@@ -70,8 +70,11 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/freebroker/components/ApplySuccess.vue" timestamp="1517650895558">
         <mark key="[" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1524105701646">
-        <mark key="[" line="239" column="61" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1524539032550">
+        <mark key="[" line="89" column="5" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="86" column="92" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/ubuntu16_20170802/Dockerfile" timestamp="1524217234688">
         <mark key="[" line="24" column="70" />
@@ -99,6 +102,12 @@
       </file>
       <file name="$USER_HOME$/work/code/php_debug_demo/demo1.php" timestamp="1523449035331">
         <mark key="[" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/DistrictToRedisService.java" timestamp="1524540114287">
+        <mark key="[" line="39" column="64" />
+        <mark key="]" line="39" column="65" />
+        <mark key="^" line="39" column="65" />
+        <mark key="." line="39" column="65" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-gateway-api/src/main/resources/application-test.yml" timestamp="1524279842296">
         <mark key="[" line="3" column="28" />
@@ -163,8 +172,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/MultiKeyCommands.java" timestamp="1524454091014" />
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-gateway-api/src/main/java/cn/com/cnpc/gtp/gateway/api/AddressApiController.java" timestamp="1524209084857" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/JobCateToRedisService.java" timestamp="1524538401246">
-        <mark key="[" line="41" column="10" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/JobCateToRedisService.java" timestamp="1524539194750">
+        <mark key="[" line="52" column="29" />
+        <mark key="]" line="52" column="29" />
+        <mark key="^" line="41" column="32" />
+        <mark key="." line="52" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/connection/jedis/JedisConnection.java" timestamp="1524453917299" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/logic/user/account/CashInitLogic.java" timestamp="1517999145419">
@@ -247,6 +259,9 @@
         <mark key="[" line="256" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-common/src/main/java/org/springframework/cloud/netflix/feign/FallBackProxyFactory.java" timestamp="1524213354004" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1524539802011">
+        <mark key="[" line="66" column="70" />
+      </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-gateway-api/src/main/resources/application.yml" timestamp="1524278557886" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-maven-plugin/2.0.0.RELEASE/spring-boot-maven-plugin-2.0.0.RELEASE.jar!/META-INF/maven/plugin.xml" timestamp="1524214504342" />
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-address/src/main/resources/application-test.yml" timestamp="1524306599706">
@@ -261,7 +276,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/BaseResumeResponse.java" timestamp="1521111585255">
         <mark key="[" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RedisConfiguration.java" timestamp="1524538536090" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RedisConfiguration.java" timestamp="1524538584413" />
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1521440899661">
         <mark key="[" line="28" column="4" />
       </file>
@@ -439,14 +454,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi50b29scy50cmVlLlRoaXNFeHByZXNzaW9uOwo=</text>
+      <register name="&quot;" type="4">
+        <text>void</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>area</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -455,31 +470,31 @@
         <text encoding="base64">ICAgIDxjYWNoZSBuYW1lPSJtZ210OmNhY2hlOmNpdHkiIHRpbWVUb0xpdmVTZWNvbmRzPSIxODAwIj4gPC9jYWNoZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi50b29scy50cmVlLlRoaXNFeHByZXNzaW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3RyZWFtKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PERpc3RyaWN0RW50aXR5PiBsaXN0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0cy5hZGRBbGwoZW50aXRpZXMpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbml0RW1wbG95ZWVXb3JrUXVldWVGcm9tRGIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PEpvYkNhdGVnb3J5RW50aXR5PiBhbGwgPSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVFbnRpdGllcyA9IGpvYkNhdGVUb1JlZGlzU2VydmljZS5nZXRBbGwoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVFbnRpdGllcy5hZGQoZW50aXR5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChKb2JDYXRlZ29yeUVudGl0eSBlbnRpdHkgOiBlbnRpdGllcykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
