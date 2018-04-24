@@ -104,11 +104,11 @@
       <file name="$USER_HOME$/work/code/php_debug_demo/demo1.php" timestamp="1523449035331">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/DistrictToRedisService.java" timestamp="1524541580213">
-        <mark key="[" line="135" column="13" />
-        <mark key="]" line="137" column="18" />
-        <mark key="." line="137" column="18" />
-        <mark key="^" line="137" column="18" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/DistrictToRedisService.java" timestamp="1524542091218">
+        <mark key="[" line="139" column="5" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="138" column="18" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-gateway-api/src/main/resources/application-test.yml" timestamp="1524279842296">
         <mark key="[" line="3" column="28" />
@@ -261,11 +261,11 @@
         <mark key="[" line="256" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-common/src/main/java/org/springframework/cloud/netflix/feign/FallBackProxyFactory.java" timestamp="1524213354004" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1524540637730">
-        <mark key="[" line="75" column="17" />
-        <mark key="]" line="74" column="79" />
-        <mark key="^" line="74" column="79" />
-        <mark key="." line="74" column="79" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1524542331018">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-gateway-api/src/main/resources/application.yml" timestamp="1524278557886" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-maven-plugin/2.0.0.RELEASE/spring-boot-maven-plugin-2.0.0.RELEASE.jar!/META-INF/maven/plugin.xml" timestamp="1524214504342" />
@@ -459,14 +459,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>getAll</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ScanOptionsBuilder</text>
+        <text>getAll</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -475,31 +475,31 @@
         <text encoding="base64">ICAgIDxjYWNoZSBuYW1lPSJtZ210OmNhY2hlOmNpdHkiIHRpbWVUb0xpdmVTZWNvbmRzPSIxODAwIj4gPC9jYWNoZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Nhbk9wdGlvbnMgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoaXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0Q2l0aWVzID0gZGlzdHJpY3RUb1JlZGlzU2VydmljZS5maW5kQnlWYWx1ZUluVjIoY2l0eUlkcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcHMuc2NhbihBTExfRElTVFJJQ1QsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGluaXRDaXRpZXMuaXNFbXB0eSgpIHx8IGluaXRDaXRpZXMuZ2V0KDApID09IG51bGwpewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL+iOt+W+l+aJgOacieWQr+WKqOWfjuW4guWAvAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8RGlzdHJpY3RFbnRpdHk+IGluaXRDaXRpZXMgPSBkaXN0cmljdFRvUmVkaXNTZXJ2aWNlLmZpbmRCeVZhbHVlSW5WMihjaXR5SWRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL+iOt+W+l+aJgOacieWQr+WKqOWfjuW4guWAvAogICAgICAgIGZpbmFsIExpc3Q8SW50ZWdlcj4gdmFsaWRDaXR5SWRzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGxEaXN0cmljdHMgPSBkaXN0cmljdFRvUmVkaXNTZXJ2aWNlLmRpc3RyaWN0MlJlZGlzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3RyZWFtKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PERpc3RyaWN0RW50aXR5PiBsaXN0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
