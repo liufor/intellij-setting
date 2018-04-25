@@ -36,11 +36,11 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-user/src/main/resources/application-test.yml" timestamp="1524306793359">
         <mark key="[" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1524623500563">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1524628173304">
         <mark key="[" line="839" column="28" />
-        <mark key="]" line="839" column="30" />
-        <mark key="." line="839" column="30" />
-        <mark key="^" line="839" column="30" />
+        <mark key="]" line="835" column="13" />
+        <mark key="^" line="835" column="13" />
+        <mark key="." line="835" column="13" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-dictionary/src/main/resources/application-dev.yml" timestamp="1524266904052">
         <mark key="[" line="7" column="44" />
@@ -95,17 +95,17 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/pom.xml" timestamp="1524305955649">
         <mark key="[" line="256" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/DistrictToRedisService.java" timestamp="1524626009563">
-        <mark key="[" line="47" column="96" />
-        <mark key="]" line="131" column="13" />
-        <mark key="." line="131" column="13" />
-        <mark key="^" line="131" column="13" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/DistrictToRedisService.java" timestamp="1524629436308">
+        <mark key="[" line="131" column="53" />
+        <mark key="]" line="131" column="50" />
+        <mark key="." line="131" column="52" />
+        <mark key="^" line="131" column="50" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1524623166744">
-        <mark key="[" line="257" column="5" />
-        <mark key="]" line="256" column="61" />
-        <mark key="." line="256" column="61" />
-        <mark key="^" line="256" column="61" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1524627895913">
+        <mark key="[" line="256" column="5" />
+        <mark key="]" line="255" column="13" />
+        <mark key="." line="255" column="13" />
+        <mark key="^" line="255" column="13" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-address/src/main/resources/application-test.yml" timestamp="1524306599706">
         <mark key="[" line="3" column="19" />
@@ -131,6 +131,7 @@
         <mark key="." line="250" column="50" />
         <mark key="^" line="250" column="50" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/core/SetOperations.java" timestamp="1524628436779" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NET/AcceptTimeoutServer.java" timestamp="1524571505719">
         <mark key="[" line="15" column="51" />
       </file>
@@ -181,7 +182,7 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/java_alone/eureka_server/docker-compose.yml" timestamp="1524238887200">
         <mark key="[" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1524623655649">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1524629632641">
         <mark key="[" line="241" column="25" />
         <mark key="]" line="241" column="25" />
         <mark key="." line="241" column="25" />
@@ -304,13 +305,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>cursor</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>cursor</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -318,32 +319,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmV3IEhhc2hNYXA8U3RyaW5nLE9iamVjdD4oKXt7CiAgICAgICAgfX0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTY2FuT3B0aW9ucyBzY2FuT3B0aW9ucyA9IDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0KCJkZWZhdWx0Iix3ZWl4aW5Db25mLmdldFByb3BzKCkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNUZW1wbGF0ZS5vcHNGb3JMaXN0KCkucmFuZ2UoU1VCX0RJU1RSSUNUICsgcGFyZW50SWQsIDAsIC0xKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2Nhbk9wdGlvbnMgc2Nhbk9wdGlvbnMgPSA7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCByID0gMDsgciA8IDsgcisrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGlzdHJpY3RFbnRpdHlNYXBwZXIuc2VsZWN0QnlDb25jcmV0ZUV4YW1wbGUoZXhhbXBsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpCg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
