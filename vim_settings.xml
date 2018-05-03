@@ -3,14 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7-sources.jar!/com/fasterxml/jackson/databind/ser/std/ClassSerializer.java" timestamp="1525344216521" />
       <file name="/a.dummy" timestamp="1524901674979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/java_alone/eureka_server/docker-compose-beta-api-prod-1.yml" timestamp="1524219201884">
         <mark key="[" line="12" column="154" />
-      </file>
-      <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-token/src/main/resources/application-test.yml" timestamp="1524306758132">
-        <mark key="[" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-carrier/src/main/resources/application-test.yml" timestamp="1524306689560">
         <mark key="[" line="3" column="19" />
@@ -21,29 +19,19 @@
       <file name="$USER_HOME$/work/code/longyinxin/src/main/java/cn/oasis/mgmt/config/ShiroConfiguration.java" timestamp="1524904995091">
         <mark key="[" line="31" column="70" />
       </file>
-      <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-order/src/main/resources/application-test.yml" timestamp="1524306462336">
-        <mark key="[" line="3" column="19" />
-      </file>
       <file name="$USER_HOME$/work/images/dockers/java-alone/docker-compose-pc-api-prod.yml" timestamp="1524243590369">
         <mark key="[" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-user/src/main/resources/application-test.yml" timestamp="1524306793359">
-        <mark key="[" line="3" column="19" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1525342835450" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1525344110853" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1525336745385">
         <mark key="[" line="226" column="12" />
         <mark key="]" line="226" column="12" />
         <mark key="." line="226" column="12" />
       </file>
-      <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-sms/src/main/resources/application-test.yml" timestamp="1524306709252">
-        <mark key="[" line="3" column="51" />
-      </file>
       <file name="$USER_HOME$/work/code/jetty.project/jetty-server/src/main/java/org/eclipse/jetty/server/Handler.java" timestamp="1525340669146" />
       <file name="$USER_HOME$/work/code/beta_op/all/docker_files/ubuntu16_20170802/Dockerfile" timestamp="1524217234688">
         <mark key="[" line="24" column="70" />
       </file>
-      <file name="$USER_HOME$/work/code/jetty.project/jetty-http/src/main/java/org/eclipse/jetty/http/HttpContent.java" timestamp="1525340875758" />
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-driver/src/main/resources/application-test.yml" timestamp="1524306447269">
         <mark key="[" line="3" column="19" />
       </file>
@@ -53,25 +41,39 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-dictionary/docker-compose.yml" timestamp="1524216798342">
         <mark key="[" line="6" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/serializer/RedisSerializer.java" timestamp="1525341075870" />
+      <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/java_alone/Makefile" timestamp="1524242215811">
+        <mark key="[" line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/java_alone/eureka_server/docker-compose.yml" timestamp="1524238887200">
+        <mark key="[" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-token/src/main/resources/application-test.yml" timestamp="1524306758132">
+        <mark key="[" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-order/src/main/resources/application-test.yml" timestamp="1524306462336">
+        <mark key="[" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-user/src/main/resources/application-test.yml" timestamp="1524306793359">
+        <mark key="[" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-sms/src/main/resources/application-test.yml" timestamp="1524306709252">
+        <mark key="[" line="3" column="51" />
+      </file>
+      <file name="$USER_HOME$/work/code/jetty.project/jetty-http/src/main/java/org/eclipse/jetty/http/HttpContent.java" timestamp="1525340875758" />
       <file name="$USER_HOME$/work/code/etgps/ltp/pom.xml" timestamp="1524305955649">
         <mark key="[" line="256" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RedisConfiguration.java" timestamp="1525341804041" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/serializer/RedisSerializer.java" timestamp="1525341075870" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NET/AcceptTimeoutServer.java" timestamp="1524571505719">
         <mark key="[" line="15" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1525341771642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/java_alone/Makefile" timestamp="1524242215811">
-        <mark key="[" line="4" column="28" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.3/jackson-databind-2.8.3-sources.jar!/com/fasterxml/jackson/databind/ser/std/ObjectArraySerializer.java" timestamp="1525344545410" />
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-vehicle/src/main/resources/application-test.yml" timestamp="1524308722869">
         <mark key="[" line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/java_alone/eureka_server/docker-compose.yml" timestamp="1524238887200">
-        <mark key="[" line="2" column="15" />
       </file>
       <file name="/fragment.java" timestamp="1525279172008">
         <mark key="[" line="0" column="0" />
