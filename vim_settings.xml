@@ -30,11 +30,10 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-user/src/main/resources/application-test.yml" timestamp="1524306793359">
         <mark key="[" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1525333911911">
-        <mark key="[" line="237" column="45" />
-        <mark key="]" line="237" column="24" />
-        <mark key="^" line="237" column="24" />
-        <mark key="." line="237" column="24" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1525336745385">
+        <mark key="[" line="226" column="12" />
+        <mark key="]" line="226" column="12" />
+        <mark key="." line="226" column="12" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-sms/src/main/resources/application-test.yml" timestamp="1524306709252">
         <mark key="[" line="3" column="51" />
@@ -186,13 +185,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>console</text>
+        <text>JSON.parse(navigator.contacts)</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>console</text>
+        <text>JSON.parse(navigator.contacts)</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
