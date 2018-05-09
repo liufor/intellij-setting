@@ -26,11 +26,11 @@
         <mark key="[" line="31" column="70" />
       </file>
       <file name="$USER_HOME$/work/code/elasticsearch/core/src/test/java/org/elasticsearch/common/path/PathTrieTests.java" timestamp="1525751326407" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/SocialUserService.java" timestamp="1525846785857">
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="49" column="4" />
-        <mark key="." line="49" column="4" />
-        <mark key="^" line="49" column="4" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/SocialUserService.java" timestamp="1525848147057">
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-order/src/main/resources/application-test.yml" timestamp="1524306462336">
         <mark key="[" line="3" column="19" />
@@ -91,11 +91,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/easemob/TokenRequest.java" timestamp="1525774497170">
         <mark key="[" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1525845695504">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="25" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1525848222424">
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+        <mark key="^" line="31" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedKeys.java" timestamp="1525690960630">
         <mark key="[" line="4" column="11" />
@@ -183,6 +183,12 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.7.v20170914/jetty-util-9.4.7.v20170914-sources.jar!/org/eclipse/jetty/util/Trie.java" timestamp="1525751422773" />
       <file name="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.8/zookeeper-3.4.8-sources.jar!/org/apache/zookeeper/common/PathTrie.java" timestamp="1525752456604" />
       <file name="$MAVEN_REPOSITORY$/com/easemob/rest-java-sdk/1.0.5/rest-java-sdk-1.0.5.pom" timestamp="1525769355588" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/UserResponse.java" timestamp="1525848277112">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-vehicle/src/main/resources/application-test.yml" timestamp="1524308722869">
         <mark key="[" line="3" column="19" />
       </file>
@@ -193,6 +199,7 @@
         <mark key="[" line="2" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/http/HttpEntity.java" timestamp="1525774647918" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/SocialUserResponse.java" timestamp="1525848290780" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1525778664055">
         <mark key="[" line="307" column="15" />
         <mark key="]" line="309" column="7" />
@@ -321,8 +328,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>insertSelective</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -343,25 +350,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NpYWxVc2VyRW50aXR5TWFwcGVyLmluc2VydFNlbGVjdGl2ZShzb2NpYWxVc2VyKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRoUGFzc3Bvcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzb2NpYWxVc2VyRW50aXR5TWFwcGVyLmluc2VydFNlbGVjdGl2ZShzb2NpYWxVc2VyKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXMK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgaSsrOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaT0wOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRoUGFzc3Bvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
