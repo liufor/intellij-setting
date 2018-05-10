@@ -46,7 +46,7 @@
         <mark key="[" line="31" column="70" />
       </file>
       <file name="$USER_HOME$/work/code/elasticsearch/core/src/test/java/org/elasticsearch/common/path/PathTrieTests.java" timestamp="1525751326407" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/SocialUserService.java" timestamp="1525939125948">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/SocialUserService.java" timestamp="1525949094462">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="51" column="46" />
         <mark key="." line="51" column="46" />
@@ -86,7 +86,7 @@
         <mark key="." line="210" column="7" />
         <mark key="^" line="210" column="7" />
       </file>
-      <file name="$USER_HOME$/work/code/beta_op/all/docker_files/ubuntu16_20170802/Dockerfile" timestamp="1525944094121">
+      <file name="$USER_HOME$/work/code/beta_op/all/docker_files/ubuntu16_20170802/Dockerfile" timestamp="1525949884140">
         <mark key="[" line="24" column="70" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/SocialUserFillRequest.java" timestamp="1525852172944">
@@ -111,6 +111,12 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-dictionary/docker-compose.yml" timestamp="1524216798342">
         <mark key="[" line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/UserFollowService.java" timestamp="1525951028877">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="148" column="35" />
+        <mark key="." line="148" column="35" />
+        <mark key="^" line="148" column="35" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedCollectionController.java" timestamp="1525838855876">
         <mark key="[" line="32" column="11" />
       </file>
@@ -120,13 +126,19 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/easemob/TokenRequest.java" timestamp="1525774497170">
         <mark key="[" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1525947146481">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1525950939936">
         <mark key="[" line="68" column="5" />
         <mark key="]" line="69" column="3" />
         <mark key="." line="69" column="3" />
         <mark key="^" line="69" column="3" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1525863470023" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedKeys.java" timestamp="1525690960630">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/pom.xml" timestamp="1524305955649">
         <mark key="[" line="256" column="31" />
       </file>
@@ -157,11 +169,17 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/core/DefaultOSSOperator.java" timestamp="1525933208867" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1525774676956" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/core/OSSConfig.java" timestamp="1525933519110" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedsController.java" timestamp="1525749054872">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedsController.java" timestamp="1525950582037">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="^" line="101" column="0" />
         <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/easemob/EasemobUrls.java" timestamp="1525773762317">
+        <mark key="[" line="11" column="74" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-remoting/dubbo-remoting-api/src/main/java/com/alibaba/dubbo/remoting/Codec2.java" timestamp="1525707176575" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1525858870016">
@@ -175,6 +193,12 @@
         <mark key="]" line="44" column="46" />
         <mark key="." line="44" column="46" />
         <mark key="^" line="44" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/ImporetedContactsService.java" timestamp="1525858827540">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.2.7.v20150116/c8b12de1be696d7d6b0185badb17feec00376330/jetty-http-9.2.7.v20150116-sources.jar!/org/eclipse/jetty/http/PathMap.java" timestamp="1525752257710" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-demo/dubbo-demo-consumer/src/main/resources/META-INF/spring/dubbo-demo-consumer.xml" timestamp="1525748013754">
@@ -190,6 +214,12 @@
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NET/AcceptTimeoutServer.java" timestamp="1524571505719">
         <mark key="[" line="15" column="51" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RestTemplateConfiguration.java" timestamp="1525777372439">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/pom.xml" timestamp="1525939222016">
         <mark key="[" line="34" column="50" />
         <mark key="]" line="33" column="24" />
@@ -200,6 +230,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/UserRegisterRequest.java" timestamp="1525852507794" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/ImportedContactRequest.java" timestamp="1525858459081">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/java_alone/Makefile" timestamp="1524242215811">
         <mark key="[" line="4" column="28" />
       </file>
@@ -207,6 +243,12 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.7.v20170914/jetty-util-9.4.7.v20170914-sources.jar!/org/eclipse/jetty/util/Trie.java" timestamp="1525751422773" />
       <file name="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.8/zookeeper-3.4.8-sources.jar!/org/apache/zookeeper/common/PathTrie.java" timestamp="1525752456604" />
       <file name="$MAVEN_REPOSITORY$/com/easemob/rest-java-sdk/1.0.5/rest-java-sdk-1.0.5.pom" timestamp="1525769355588" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/UserResponse.java" timestamp="1525848277112">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-vehicle/src/main/resources/application-test.yml" timestamp="1524308722869">
         <mark key="[" line="3" column="19" />
       </file>
@@ -219,6 +261,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/http/HttpEntity.java" timestamp="1525774647918" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/SocialUserResponse.java" timestamp="1525848290780" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/easemob/EasemobUserDto.java" timestamp="1525775934389">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+      </file>
       <file name="/fragment.java" timestamp="1525932502080">
         <mark key="[" line="0" column="0" />
       </file>
