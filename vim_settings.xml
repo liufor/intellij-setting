@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/aliyun/oss/aliyun-sdk-oss/2.2.1/aliyun-sdk-oss-2.2.1.jar!/com/aliyun/oss/common/comm/IdleConnectionReaper.class" timestamp="1525932498098" />
       <file name="/a.dummy" timestamp="1525858882852">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,6 +66,11 @@
         <mark key="]" line="56" column="31" />
         <mark key="^" line="56" column="31" />
         <mark key="." line="56" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/Main.java" timestamp="1525932261519">
+        <mark key="[" line="13" column="99" />
+        <mark key="]" line="13" column="99" />
+        <mark key="." line="13" column="99" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1525336745385">
         <mark key="[" line="226" column="12" />
@@ -150,6 +156,7 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/images/core/DefaultOSSOperator.java" timestamp="1525931995260" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1525774676956" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedsController.java" timestamp="1525749054872">
         <mark key="[" line="100" column="0" />
@@ -183,7 +190,7 @@
         <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.2.7.v20150116/c8b12de1be696d7d6b0185badb17feec00376330/jetty-http-9.2.7.v20150116-sources.jar!/org/eclipse/jetty/http/PathMap.java" timestamp="1525752257710" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1525778569525">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1525932130149">
         <mark key="[" line="297" column="15" />
         <mark key="]" line="314" column="0" />
         <mark key="^" line="314" column="0" />
@@ -243,7 +250,7 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1525867855156">
+      <file name="/fragment.java" timestamp="1525932502080">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -360,13 +367,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>runnable</text>
+        <text>accessKeySecret</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>runnable</text>
+        <text>accessKeySecret</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
