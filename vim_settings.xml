@@ -19,7 +19,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/SearchIndexed.java" timestamp="1526266568370" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/SearchIndexed.java" timestamp="1526278900709" />
       <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/java_alone/eureka_server/docker-compose-beta-api-prod-1.yml" timestamp="1524219201884">
         <mark key="[" line="12" column="154" />
       </file>
@@ -59,7 +59,7 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/gtp-service-user/src/main/resources/application-test.yml" timestamp="1524306793359">
         <mark key="[" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeIndexService.java" timestamp="1526269618921">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeIndexService.java" timestamp="1526279139390">
         <mark key="[" line="325" column="11" />
         <mark key="]" line="325" column="11" />
         <mark key="." line="325" column="11" />
@@ -139,17 +139,17 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/pom.xml" timestamp="1524305955649">
         <mark key="[" line="256" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1526269001409">
-        <mark key="[" line="646" column="5" />
-        <mark key="]" line="646" column="0" />
-        <mark key="^" line="645" column="59" />
-        <mark key="." line="646" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1526279136474">
+        <mark key="[" line="661" column="5" />
+        <mark key="]" line="660" column="59" />
+        <mark key="." line="660" column="59" />
+        <mark key="^" line="660" column="59" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/SyncResumeSearchTasks.java" timestamp="1526269745220">
-        <mark key="[" line="50" column="115" />
-        <mark key="]" line="50" column="53" />
-        <mark key="^" line="50" column="53" />
-        <mark key="." line="50" column="53" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/SyncResumeSearchTasks.java" timestamp="1526278541353">
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="61" column="8" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/easemob/EasemobConf.java" timestamp="1525778201274">
         <mark key="[" line="29" column="19" />
@@ -230,7 +230,7 @@
       <file name="$USER_HOME$/work/code/etgps/ltp/build/docker_files/java_alone/Makefile" timestamp="1524242215811">
         <mark key="[" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeSearchService.java" timestamp="1526272194262">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeSearchService.java" timestamp="1526279634950">
         <mark key="[" line="612" column="53" />
         <mark key="]" line="56" column="13" />
         <mark key="." line="56" column="13" />
@@ -374,13 +374,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>long</text>
+        <text>Iterable</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>long</text>
+        <text>Iterable</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -389,31 +389,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc29jaWFsVXNlckVudGl0eU1hcHBlci5pbnNlcnRTZWxlY3RpdmUoc29jaWFsVXNlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihyZXN1bWVJZHMgPT0gbnVsbCB8fCByZXN1bWVJZHMuaXRlcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdW1lSW5kZXhTZXJ2aWNlLmRlbEluRGJBbmRFc0xvb3AoMzEwMSwgMTAwMDApOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VtZVNlcnZpY2Uud3VsaURlbGV0ZShyZXN1bWVJZHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5oiQ5Yqf55qE5Yig6ZmkCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bWVJbmRleFNlcnZpY2UuZGVsSW5EYkFuZEVzTG9vcCgzMTAxLCAxMDAwMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldDxMb25nPiBzdWNjZXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VtZVNlcnZpY2Uud3VsaURlbGV0ZShyZXN1bWVJZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bWVFbnRpdHlNYXBwZXIudXBkYXRlQnlDb25jcmV0ZUV4YW1wbGVTZWxlY3RpdmUocmVjb3JkLCBleGFtcGxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VtZVNlcnZpY2Uud3VsaURlbGV0ZShyZXN1bWVJZHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
