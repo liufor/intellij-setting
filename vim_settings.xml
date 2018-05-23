@@ -36,10 +36,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedCommentsController.java" timestamp="1527067512348" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.4.1.RELEASE/spring-boot-1.4.1.RELEASE-sources.jar!/org/springframework/boot/context/embedded/ServletRegistrationBean.java" timestamp="1527049189886" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" timestamp="1526989080425" />
+      <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils/NetUtils.java" timestamp="1527077488828" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.4.1.RELEASE/spring-boot-1.4.1.RELEASE-sources.jar!/org/springframework/boot/web/support/SpringBootServletInitializer.java" timestamp="1527048917892" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/web/context/ContextLoaderListener.java" timestamp="1527048293615" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/FeedCommentRequest.java" timestamp="1527067520006" />
-      <file name="$USER_HOME$/work/code/dubbo/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ServiceConfig.java" timestamp="1527076752296" />
+      <file name="$USER_HOME$/work/code/dubbo/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ServiceConfig.java" timestamp="1527079159422" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/feed.vue" timestamp="1527069630295">
         <mark key="^" line="85" column="58" />
       </file>
@@ -73,6 +74,12 @@
         <mark key="." line="1108" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1526903912677" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/Main.java" timestamp="1527078645642">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+      </file>
       <file name="/fragment.java" timestamp="1526964573874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -192,20 +199,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>getRemoteSocketAddress</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>feedsRepository</text>
+        <text>getRemoteSocketAddress</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRmVlZENhcmQgZnJvbSAiLi4vLi4vLi4vY29tcG9uZW50cy9GZWVkQ2FyZC9GZWVkQ2FyZC52dWUiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29ja2V0LmdldExvY2FsQWRkcmVzcygpLmdldEhvc3RBZGRyZXNzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
