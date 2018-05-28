@@ -4,11 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport-native-epoll/4.0.36.Final/netty-transport-native-epoll-4.0.36.Final-sources.jar!/io/netty/channel/epoll/EpollChannelOption.java" timestamp="1527478846322" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/recommend/RecommendVirginHandlerService.java" timestamp="1527312861245">
-        <mark key="[" line="416" column="44" />
-        <mark key="]" line="416" column="44" />
-        <mark key="." line="416" column="44" />
-      </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-default/src/main/java/com/alibaba/dubbo/rpc/protocol/dubbo/DubboInvoker.java" timestamp="1527488794581" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/Main.java" timestamp="1526962275157">
         <mark key="[" line="37" column="22" />
@@ -16,6 +11,7 @@
         <mark key="." line="36" column="24" />
         <mark key="^" line="36" column="24" />
       </file>
+      <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/RpcResult.java" timestamp="1527489711292" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1527326818006">
         <mark key="[" line="216" column="92" />
         <mark key="]" line="216" column="91" />
@@ -28,6 +24,7 @@
         <mark key="^" line="17" column="65" />
         <mark key="." line="17" column="65" />
       </file>
+      <file name="$USER_HOME$/work/code/dubbo/dubbo-remoting/dubbo-remoting-netty/src/main/java/com/alibaba/dubbo/remoting/transport/netty/NettyClient.java" timestamp="1527490013657" />
       <file name="$USER_HOME$/work/code/java-concurrency-patterns/src/main/java/br/com/leonardoz/patterns/thread_safe/thread_confinement/ThreadLocalConfinement.java" timestamp="1527229488815">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="40" />
@@ -49,11 +46,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport-native-epoll/4.0.36.Final/netty-transport-native-epoll-4.0.36.Final-sources.jar!/io/netty/channel/epoll/EpollSocketChannelConfig.java" timestamp="1527479066694" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/BindException.java" timestamp="1527474175619" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/common/IsOpen.vue" timestamp="1527330036341">
-        <mark key="[" line="68" column="30" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/JobClickHistoryController.java" timestamp="1527475245195" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/StandardSocketOptions.java" timestamp="1527477577699" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedsController.java" timestamp="1527332803221">
@@ -74,9 +66,11 @@
         <mark key="^" line="376" column="9" />
         <mark key="." line="376" column="9" />
       </file>
+      <file name="$USER_HOME$/work/code/motan/motan-core/src/main/java/com/weibo/api/motan/rpc/DefaultResponse.java" timestamp="1527489536183" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1527475728950">
         <mark key="[" line="137" column="252" />
       </file>
+      <file name="$USER_HOME$/work/code/dubbo/dubbo-remoting/dubbo-remoting-api/src/main/java/com/alibaba/dubbo/remoting/Client.java" timestamp="1527489924847" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/CommentItem.vue" timestamp="1527069957925">
         <mark key="[" line="30" column="40" />
         <mark key="]" line="30" column="48" />
@@ -96,6 +90,7 @@
         <mark key="." line="37" column="25" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-remoting/dubbo-remoting-api/src/main/java/com/alibaba/dubbo/remoting/exchange/support/DefaultFuture.java" timestamp="1527486532244" />
+      <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/com/alibaba/dubbo/rpc/support/MyInvoker.java" timestamp="1527489393383" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/PostText.vue" timestamp="1527325803919">
         <mark key="[" line="54" column="39" />
         <mark key="]" line="15" column="39" />
@@ -115,12 +110,13 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1527220369521">
+      <file name="/fragment.java" timestamp="1527490237976">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/protocol/AbstractInvoker.java" timestamp="1527489786684" />
     </filemarks>
     <jumps>
       <jump line="80" column="45" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DepartmentService.java" />
