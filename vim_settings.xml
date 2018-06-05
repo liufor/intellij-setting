@@ -5,10 +5,11 @@
     <filemarks>
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/longpolling/PullRequest.java" timestamp="1528128479385" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/SendMessageProcessor.java" timestamp="1528129417189" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/safepoints/FullGc.java" timestamp="1527911553394">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/producer/DefaultMQProducerImpl.java" timestamp="1528133554605">
+        <mark key="[" line="1051" column="22" />
+        <mark key="]" line="1051" column="21" />
+        <mark key="^" line="1051" column="21" />
+        <mark key="." line="1051" column="21" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/Main.java" timestamp="1526962275157">
         <mark key="[" line="37" column="22" />
@@ -61,11 +62,6 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1527852697778">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/safepoints/Safepoints.java" timestamp="1527914135085">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="14" column="44" />
@@ -106,12 +102,7 @@
         <mark key="." line="211" column="84" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/nio/channels/FileChannel.java" timestamp="1528103847177" />
-      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/Message.java" timestamp="1528130733202" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/VFooter.vue" timestamp="1527853521062">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/Message.java" timestamp="1528131238294" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/UdpEchoServer.java" timestamp="1527578581462">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="22" column="16" />
@@ -167,6 +158,7 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
+      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/MixAll.java" timestamp="1528133188131" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/Main2.java" timestamp="1526979853167">
         <mark key="[" line="29" column="54" />
         <mark key="]" line="18" column="21" />
@@ -198,7 +190,14 @@
         <mark key="^" line="1106" column="22" />
         <mark key="." line="1108" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/producer/DefaultMQProducer.java" timestamp="1528133180763">
+        <mark key="[" line="131" column="59" />
+        <mark key="]" line="131" column="58" />
+        <mark key="^" line="131" column="58" />
+        <mark key="." line="131" column="58" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageBatch.java" timestamp="1528130768120" />
+      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/UtilAll.java" timestamp="1528132140243" />
       <file name="$USER_HOME$/work/code/tomcat/java/org/apache/catalina/connector/Request.java" timestamp="1527744313587">
         <mark key="[" line="2608" column="23" />
         <mark key="]" line="2608" column="22" />
@@ -211,18 +210,14 @@
         <mark key="^" line="35" column="52" />
         <mark key="." line="35" column="52" />
       </file>
+      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageClientIDSetter.java" timestamp="1528132676750" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1527758481290">
         <mark key="[" line="136" column="295" />
         <mark key="]" line="136" column="278" />
         <mark key="^" line="136" column="278" />
         <mark key="." line="136" column="278" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/Main.java" timestamp="1527769895117">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1527915688704">
+      <file name="/fragment.java" timestamp="1528132138499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
