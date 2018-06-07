@@ -15,6 +15,7 @@
         <mark key="^" line="1051" column="21" />
         <mark key="." line="1051" column="21" />
       </file>
+      <file name="$USER_HOME$/work/code/plus-component-h5/src/components/commentInput.vue" timestamp="1528360798407" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/Main.java" timestamp="1526962275157">
         <mark key="[" line="37" column="22" />
         <mark key="]" line="36" column="24" />
@@ -28,6 +29,9 @@
         <mark key="." line="165" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/ConnectionImpl.java" timestamp="1528266327233" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/AttentFriendsList.vue" timestamp="1528362678658">
+        <mark key="[" line="49" column="8" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/HikariCP-java6-2.3.13-sources.jar!/com/zaxxer/hikari/AbstractHikariConfig.java" timestamp="1528266733110" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1528275923739">
         <mark key="[" line="3" column="23" />
@@ -72,11 +76,23 @@
         <mark key="^" line="95" column="6" />
         <mark key="." line="95" column="6" />
       </file>
+      <file name="$USER_HOME$/work/code/plus-component-h5/src/App.vue" timestamp="1528360773470">
+        <mark key="[" line="68" column="13" />
+        <mark key="]" line="68" column="12" />
+        <mark key="^" line="68" column="12" />
+        <mark key="." line="68" column="12" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NET/AceeptSamePort.java" timestamp="1527593546237">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="19" column="8" />
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/IndexFeed.vue" timestamp="1528362708082">
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/safepoints/Safepoints.java" timestamp="1527914135085">
         <mark key="[" line="14" column="45" />
@@ -99,11 +115,11 @@
       </file>
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/testsuite/BaseTestCase.java" timestamp="1528270137397" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport/4.0.36.Final/netty-transport-4.0.36.Final-sources.jar!/io/netty/channel/nio/AbstractNioByteChannel.java" timestamp="1528356258466" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/feed.vue" timestamp="1528358603400">
-        <mark key="[" line="62" column="54" />
-        <mark key="]" line="62" column="53" />
-        <mark key="." line="62" column="53" />
-        <mark key="^" line="62" column="53" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/feed.vue" timestamp="1528362662751">
+        <mark key="[" line="75" column="7" />
+        <mark key="]" line="73" column="19" />
+        <mark key="^" line="73" column="19" />
+        <mark key="." line="73" column="19" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/UserController.java" timestamp="1528196762466">
         <mark key="[" line="115" column="9" />
@@ -249,6 +265,7 @@
         <mark key="." line="131" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/StandardSocketFactory.java" timestamp="1528265735421" />
+      <file name="$USER_HOME$/work/code/plus-component-h5/src/components/FeedCard/FeedCard.vue" timestamp="1528360552420" />
       <file name="$USER_HOME$/work/code/tomcat/java/org/apache/catalina/connector/Request.java" timestamp="1527744313587">
         <mark key="[" line="2608" column="23" />
         <mark key="]" line="2608" column="22" />
@@ -388,14 +405,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>feed</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ter</text>
+        <text>feed</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -404,13 +421,13 @@
         <text encoding="base64">ICAgIDxrZWVwLWFsaXZlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwva2VlcC1hbGl2ZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -419,16 +436,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24uc2V0U29jaWFsVXNlcihmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>158</text>
