@@ -152,11 +152,11 @@
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/ProfileDetail.vue" timestamp="1529581318493">
-        <mark key="[" line="111" column="11" />
-        <mark key="]" line="111" column="12" />
-        <mark key="^" line="111" column="12" />
-        <mark key="." line="111" column="12" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/ProfileDetail.vue" timestamp="1529582787902">
+        <mark key="[" line="27" column="57" />
+        <mark key="]" line="257" column="15" />
+        <mark key="." line="257" column="15" />
+        <mark key="^" line="257" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/NewFriendsList.vue" timestamp="1529579114741" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/JoLoadMore.vue" timestamp="1527070908071">
@@ -581,13 +581,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>none</text>
+        <text>this.$route.query.targetUid</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>this.$route.query.targetUid</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -596,31 +596,31 @@
         <text encoding="base64">ICAgICAgICAgIHR5cGU6InJlY29tbWVuZCIsCiAgICAgICAgICBkYXRhOltdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHBhcmFtczI9e3VpZDpfdGhpcy4kcm91dGUucXVlcnkudGFyZ2V0VWlkfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICh0aGlzKSAK</text>
+        <text encoding="base64">ICAgICAgICBpdwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nZXRSZWNvbW1lbmRGcmllbmRMaXN0KHRoaXMucGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXRVaWQ6X3RoaXMuJHJvdXRlLnF1ZXJ5LnRhcmdldFVpZCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2d2NhciB0YWIgPSB0aGlzLnRhYnNEYXRhW3RhYkluZGV4XTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0YWJJbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLi4ubWFwQWN0aW9ucyhbJ2dldEZyaWVuZERldGFpbCcsLCdnZXRGb2xsb3dNdXR1YWwnXSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLi4ubWFwR2V0dGVycyhbJ2ZvbGxvd011dHVhbCddKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmU6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICBpbXBvcnQge2dldEZlZWRzQnlUeXBlfSBmcm9tICIuLi8uLi9zdG9yZS9hcGkuanMiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWU6InQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yICh0aGlzKSAK</text>
       </register>
       <register name=":" type="4">
         <text>158</text>
