@@ -493,6 +493,12 @@
         <mark key="." line="48" column="16" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/DefaultAopProxyFactory.java" timestamp="1530095569275" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/hsdb/Main.java" timestamp="1530256731154">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="26" column="33" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-instrument/src/main/java/org/springframework/instrument/InstrumentationSavingAgent.java" timestamp="1530103538563" />
       <file name="$USER_HOME$/work/code/lombok/src/eclipseAgent/lombok/eclipse/agent/EclipsePatcher.java" timestamp="1530091201835" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/management/Agent.java" timestamp="1530102545540">
@@ -775,7 +781,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZChyKS5zdGFydCgpOwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -787,34 +793,34 @@
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8L3BsdWdpbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZChyKS5zdGFydCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZChyKS5zdGFydCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdDIuc3RhcnQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cubG9nKCJpbiBhcHAgbWFpbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdDEuc3RhcnQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1haW5BZ2VudC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDAwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvb2xzLmNsYXNzLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5jbGFzcywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFnZW50TG9hZGVyLmNsYXNzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBZ2VudExvYWRlci5hdHRhY2hBZ2VudFRvSlZNU2VsZigK</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdDE9bmV3IFRocmVhZCgpOwogICAgICAgIFRocmVhZCB0Mj1uZXcgVGhyZWFkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLm9yZy5hcGFjaGUueG1sLmludGVybmFsLnNlY3VyaXR5LnV0aWxzLkphdmFVdGlscy5nZXRCeXRlc0Zyb21TdHJlYW07Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdDE9bmV3IFRocmVhZCgpOwogICAgICAgIFRocmVhZCB0Mj1uZXcgVGhyZWFkKCk7CiAgICAgICAgT2JqZWN0IGxvY2sgPSBuZXcgT2JqZWN0KCk7CiAgICAgICAgCiAgICAgICAgUnVubmFibGUgciA9IG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChsb2NrKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDIwMDApOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9OwoKICAgICAgICAKICAgICAgICB3aGlsZSAodHJ1ZSl7CiAgICAgICAgICAgIAogICAgICAgICAgICB0MS5zdGFydCgpOwogICAgICAgICAgICAKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgCiAgICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>471</text>
