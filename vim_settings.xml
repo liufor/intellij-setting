@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/FriendsHome.vue" timestamp="1530503306116">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/FriendsHome.vue" timestamp="1530504510301">
         <mark key="[" line="41" column="34" />
         <mark key="]" line="41" column="28" />
         <mark key="." line="41" column="28" />
@@ -33,11 +33,11 @@
       <file name="$USER_HOME$/work/code/lombok/src/core/lombok/eclipse/TransformEclipseAST.java" timestamp="1530091768575" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/WeavingURLClassLoader.java" timestamp="1530098555130" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/tomcat/TomcatLoadTimeWeaver.java" timestamp="1530102400314" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/components/Friend.vue" timestamp="1530503272042">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/components/Friend.vue" timestamp="1530504631686">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="19" column="11" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/tools/WeavingAdaptor.java" timestamp="1530099253483" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/instrument/InstrumentationImpl.java" timestamp="1530417146614" />
@@ -300,46 +300,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgXy5pc0VtcHR5KClyZWNvbW1lbmREYXRh</text>
+        <text>v-show=&quot;!waitAccepted&quot;</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgXy5pc0VtcHR5KClyZWNvbW1lbmREYXRh</text>
+        <text>v-show=&quot;!waitAccepted&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gY2xhc3M9ImNvbC0xIGFkZCIgQGNsaWNrPSJhZGRGcmllbmRCdG4oKSI+5re75YqgPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gIGNsYXNzPSJjb2wtMSBhZGQiIEBjbGljaz0iYWRkRnJpZW5kIj7mt7vliqA8L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gdi1pZj0iZnJpZW5kRGF0YS53YWl0QWNjZXB0ZWQiIGNsYXNzPSJjb2wtMSBhZGQiPjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gIGNsYXNzPSJjb2wtMSBhZGQiIEBjbGljaz0iYWRkRnJpZW5kIj7mt7vliqA8L3NwYW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPAo=</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gdi1pZj0iZnJpZW5kRGF0YS53YWl0QWNjZXB0ZWQiIGNsYXNzPSJjb2wtMSBhZGQiPjwvc3Bhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLi4ubWFwR2V0dGVycyhbJ2FkZEZyaWVuZHMnXSksCg==</text>
+        <text encoding="base64">ICAgICAgPAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpbWcgOnNyYz0iZml4ZWRBdmF0YXIiIGFsdD0iIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgLi4ubWFwR2V0dGVycyhbJ2FkZEZyaWVuZHMnXSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxpbWcgOnNyYz0iZml4ZWRBdmF0YXIiIGFsdD0iIi8+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZyaWVuZHNEYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>471</text>
