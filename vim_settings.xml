@@ -66,8 +66,8 @@
         <mark key="^" line="68" column="12" />
         <mark key="." line="68" column="12" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1530861414220">
-        <mark key="[" line="231" column="52" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1530862340033">
+        <mark key="[" line="230" column="52" />
         <mark key="]" line="64" column="26" />
         <mark key="." line="64" column="26" />
         <mark key="^" line="64" column="26" />
@@ -251,12 +251,6 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1530859457294">
-        <mark key="[" line="221" column="5" />
-        <mark key="]" line="220" column="39" />
-        <mark key="^" line="220" column="39" />
-        <mark key="." line="220" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/com/sun/tools/attach/VirtualMachine.java" timestamp="1530196923879">
         <mark key="[" line="400" column="6" />
         <mark key="]" line="400" column="5" />
@@ -403,6 +397,9 @@
         <mark key="]" line="50" column="13" />
         <mark key="^" line="50" column="13" />
         <mark key="." line="50" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/ImportedContactService.java" timestamp="1530863263605">
+        <mark key="[" line="86" column="19" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1530353415574">
         <mark key="[" line="220" column="41" />
@@ -567,11 +564,10 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1530861357854">
-        <mark key="[" line="675" column="32" />
-        <mark key="]" line="667" column="45" />
-        <mark key="." line="667" column="45" />
-        <mark key="^" line="667" column="45" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1530863888366">
+        <mark key="[" line="769" column="34" />
+        <mark key="]" line="803" column="28" />
+        <mark key="." line="803" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/lib/WebIM.js" timestamp="1530793235768">
         <mark key="'" line="228" column="43" />
@@ -859,14 +855,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>needImportedCs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2V0KGNLZXksIGRhdGEubmV4dENpZCk7Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>needImportedCs</text>
+        <text>,maxCid:${maxCid}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -875,31 +871,31 @@
         <text encoding="base64">aW1wb3J0ICogYXMgQXBpIGZyb20gJy4uL3N0b3JlL2FwaScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0KGNLZXksIGRhdGEubmV4dENpZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImZpbmlzaCBjbG9nIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB0ZXN0QWxlcnQoYGxvb3BJbXBvcnRDb250YWN0cyxtaW5DaWQ6JHttaW5DaWR9LG1heENpZDoke21heENpZH1gKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChjKSAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb250YWN0cwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>471</text>
