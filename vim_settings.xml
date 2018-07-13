@@ -57,6 +57,7 @@
         <mark key="^" line="283" column="27" />
         <mark key="." line="283" column="27" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1531452213961" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/FollowList.vue" timestamp="1528978810274">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="15" />
@@ -86,6 +87,12 @@
         <mark key="]" line="4" column="33" />
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/FeedDetail.vue" timestamp="1531455547061">
+        <mark key="[" line="186" column="33" />
+        <mark key="]" line="186" column="33" />
+        <mark key="^" line="474" column="10" />
+        <mark key="." line="186" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/FriendsHome.vue" timestamp="1531297986600">
         <mark key="[" line="59" column="30" />
@@ -232,6 +239,7 @@
         <mark key="." line="211" column="17" />
         <mark key="^" line="211" column="17" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/MineProfile.vue" timestamp="1531452252268" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/JoLoadMore.vue" timestamp="1527070908071">
         <mark key="[" line="214" column="34" />
         <mark key="]" line="376" column="9" />
@@ -270,11 +278,11 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/components/CommentList.vue" timestamp="1531399190623">
-        <mark key="[" line="21" column="70" />
-        <mark key="]" line="21" column="70" />
-        <mark key="^" line="21" column="76" />
-        <mark key="." line="21" column="70" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/components/CommentList.vue" timestamp="1531455469001">
+        <mark key="[" line="132" column="28" />
+        <mark key="]" line="123" column="21" />
+        <mark key="." line="123" column="21" />
+        <mark key="^" line="123" column="21" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedCommentsService.java" timestamp="1528958582609">
         <mark key="[" line="45" column="48" />
@@ -358,7 +366,7 @@
         <mark key="^" line="22" column="20" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="/fragment.js" timestamp="1531201957515">
+      <file name="/fragment.js" timestamp="1531452412218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/spring-core.gradle" timestamp="1531212768587" />
@@ -662,11 +670,11 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/FeedCard.vue" timestamp="1531397177983">
-        <mark key="[" line="174" column="52" />
-        <mark key="]" line="177" column="53" />
-        <mark key="." line="177" column="53" />
-        <mark key="^" line="177" column="53" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/FeedCard.vue" timestamp="1531454932559">
+        <mark key="[" line="286" column="24" />
+        <mark key="]" line="289" column="29" />
+        <mark key="." line="289" column="29" />
+        <mark key="^" line="289" column="29" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1531381529155">
         <mark key="[" line="455" column="20" />
@@ -881,14 +889,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXJkZAo=</text>
+      <register name="&quot;" type="4">
+        <text>'feed',</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">di1pZj0idXNlciAmJiB1c2VyLmF2YXRhcg==</text>
+        <text>'feed',</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -897,31 +905,31 @@
         <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLiRyb3V0ZS5xdWVyeS51cmwucmVwbGFjZSgiaHR0cHMiLCAiaHR0cCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXJkZAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlci51aWQgPT0gdGhpcy51c2VySWQpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBhZ2VDb25mLnBhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiaGFuZGxlVXNlckNsaWNrIFRPRE8iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXNNaW5lKCl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNob3dQbHVuID0gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb21tZW50SXRlbSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2hGZWVkTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>471</text>
