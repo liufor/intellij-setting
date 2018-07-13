@@ -87,12 +87,6 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/FeedDetail.vue" timestamp="1531393476811">
-        <mark key="[" line="198" column="7" />
-        <mark key="]" line="198" column="0" />
-        <mark key="^" line="196" column="31" />
-        <mark key="." line="198" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/FriendsHome.vue" timestamp="1531297986600">
         <mark key="[" line="59" column="30" />
         <mark key="]" line="59" column="29" />
@@ -140,11 +134,10 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/IndexFeed.vue" timestamp="1531391947335">
-        <mark key="[" line="169" column="28" />
-        <mark key="]" line="103" column="32" />
-        <mark key="." line="103" column="32" />
-        <mark key="^" line="103" column="32" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/IndexFeed.vue" timestamp="1531400289682">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/safepoints/Safepoints.java" timestamp="1527914135085">
         <mark key="[" line="14" column="45" />
@@ -276,6 +269,12 @@
         <mark key="]" line="18" column="21" />
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/components/CommentList.vue" timestamp="1531399190623">
+        <mark key="[" line="21" column="70" />
+        <mark key="]" line="21" column="70" />
+        <mark key="^" line="21" column="76" />
+        <mark key="." line="21" column="70" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedCommentsService.java" timestamp="1528958582609">
         <mark key="[" line="45" column="48" />
@@ -491,13 +490,14 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
+      <file name="/FeedDetail.vue" timestamp="1531398583646" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/AQS/AotmicDemo.java" timestamp="1528598060669">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="14" />
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/feed.vue" timestamp="1531369497289">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/feed.vue" timestamp="1531398063121">
         <mark key="[" line="161" column="7" />
         <mark key="]" line="160" column="7" />
         <mark key="." line="160" column="7" />
@@ -662,7 +662,7 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/FeedCard.vue" timestamp="1531389028069">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/FeedCard.vue" timestamp="1531397177983">
         <mark key="[" line="174" column="52" />
         <mark key="]" line="177" column="53" />
         <mark key="." line="177" column="53" />
@@ -882,13 +882,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXJkZAo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>.replace(&quot;https&quot;, &quot;http&quot;);</text>
+        <text encoding="base64">di1pZj0idXNlciAmJiB1c2VyLmF2YXRhcg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -897,31 +897,31 @@
         <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLiRyb3V0ZS5xdWVyeS51cmwucmVwbGFjZSgiaHR0cHMiLCAiaHR0cCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXJkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAnaHR0cHM6JyArICcvL3N0YXRpYy5nb25nenVvY2hvbmcuY24vaW1hZ2Uvd2VjaGF0L2h1bnRlci9qanIucG5nJzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnBhZ2VDb25mLnBhZ2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAod2luZG93LmxvY2F0aW9uLnByb3RvY29sLnNwbGl0KCc6JylbMF0gPT0gJ2h0dHAnKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyb3V0ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW5neHVuVXJsOicvL3YzLnJhYmJpdHByZS5jb20vbTIvYVVlMVppQWthcCcK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL2RlYnVnZ2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb21tZW50SXRlbSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2hGZWVkTGlzdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>471</text>
