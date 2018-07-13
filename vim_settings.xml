@@ -88,11 +88,11 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/FeedDetail.vue" timestamp="1531457177350">
-        <mark key="[" line="88" column="26" />
-        <mark key="]" line="89" column="49" />
-        <mark key="^" line="89" column="49" />
-        <mark key="." line="89" column="49" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/FeedDetail.vue" timestamp="1531469084889">
+        <mark key="[" line="151" column="27" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+        <mark key="^" line="153" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/FriendsHome.vue" timestamp="1531297986600">
         <mark key="[" line="59" column="30" />
@@ -252,11 +252,10 @@
         <mark key="^" line="31" column="22" />
         <mark key="." line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/components/CommentInput.vue" timestamp="1531371261772">
-        <mark key="[" line="72" column="9" />
-        <mark key="]" line="71" column="12" />
-        <mark key="^" line="71" column="12" />
-        <mark key="." line="71" column="12" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/components/CommentInput.vue" timestamp="1531467328138">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/web-im/node_modules/easemob-websdk/dist/websdk-1.4.15.js" timestamp="1530700599369">
         <mark key="[" line="903" column="6" />
@@ -297,8 +296,11 @@
         <mark key="^" line="120" column="51" />
         <mark key="." line="120" column="51" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/TengXun.vue" timestamp="1531379845159">
-        <mark key="[" line="12" column="60" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/FeedDetail_bak.vue" timestamp="1531468878592">
+        <mark key="[" line="326" column="6" />
+        <mark key="]" line="326" column="6" />
+        <mark key="^" line="326" column="6" />
+        <mark key="." line="326" column="6" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/PostText.vue" timestamp="1527325803919">
         <mark key="[" line="54" column="39" />
@@ -505,7 +507,7 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/feed.vue" timestamp="1531398063121">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/feed.vue" timestamp="1531468035044">
         <mark key="[" line="161" column="7" />
         <mark key="]" line="160" column="7" />
         <mark key="." line="160" column="7" />
@@ -670,11 +672,10 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/FeedCard.vue" timestamp="1531457086928">
-        <mark key="[" line="286" column="24" />
-        <mark key="]" line="289" column="29" />
-        <mark key="." line="289" column="29" />
-        <mark key="^" line="289" column="29" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/FeedCard.vue" timestamp="1531467737347">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1531381529155">
         <mark key="[" line="455" column="20" />
@@ -715,6 +716,7 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1531468636543" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/FeedDetail.vue" timestamp="1528977063394">
         <mark key="[" line="175" column="17" />
         <mark key="]" line="177" column="10" />
@@ -890,46 +892,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'feed',</text>
+        <text>? this.hide() : this.show()</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>'feed',</text>
+        <text>? this.hide() : this.show()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLiRyb3V0ZS5xdWVyeS51cmwucmVwbGFjZSgiaHR0cHMiLCAiaHR0cCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8cCB2LWlmPSJpc01pbmUiIEBjbGljaz0ic2hvd1JlcG9ydCI+5oqV6K+JL+S4vuaKpTwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlci51aWQgPT0gdGhpcy51c2VySWQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiaGFuZGxlVXNlckNsaWNrIFRPRE8iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXNNaW5lKCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNob3dQbHVuID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZlZWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>471</text>
