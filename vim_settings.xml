@@ -452,11 +452,11 @@
         <mark key="^" line="154" column="19" />
         <mark key="." line="154" column="19" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1532148033474">
-        <mark key="[" line="685" column="65" />
-        <mark key="]" line="685" column="64" />
-        <mark key="." line="685" column="64" />
-        <mark key="^" line="685" column="64" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1532155797252">
+        <mark key="[" line="743" column="39" />
+        <mark key="]" line="743" column="38" />
+        <mark key="." line="743" column="38" />
+        <mark key="^" line="743" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/ExternalLink.vue" timestamp="1531377578975">
         <mark key="[" line="56" column="0" />
@@ -1024,14 +1024,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgLy8K</text>
+      <register name="&quot;" type="4">
+        <text>${enableContactsConfig},${navigator.userAgent.toLocaleLowerCase()}</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ss.accept()</text>
+        <text>${enableContactsConfig},${navigator.userAgent.toLocaleLowerCase()}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -1040,31 +1040,31 @@
         <text encoding="base64">ICAgIHRlc3RBbGVydCgiVFhMOjIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgLy8K</text>
+        <text encoding="base64">ICB3aW5kb3cuc3RhcnRJbXBvcnRDb250YWN0c1Rhc2tUaW1lcklkID0gaW50ZXJ2YWxJZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXY+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgLy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC90ZW1wbGF0ZT4K</text>
+        <text encoding="base64">ICAgIDxkaXY+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHRlbXBsYXRlPgo=</text>
+        <text encoding="base64">PC90ZW1wbGF0ZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHRlbXBsYXRlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0U3RyZWFtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0U3RyZWFtLnJlYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0U3RyZWFtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0U3RyZWFtLnJlYWQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>471</text>
