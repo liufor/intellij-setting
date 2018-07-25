@@ -317,11 +317,11 @@
         <mark key="^" line="903" column="5" />
         <mark key="." line="903" column="5" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/components/CommentInput.vue" timestamp="1532424049014">
-        <mark key="[" line="147" column="17" />
-        <mark key="]" line="147" column="13" />
-        <mark key="." line="147" column="13" />
-        <mark key="^" line="147" column="13" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/components/CommentInput.vue" timestamp="1532504400868">
+        <mark key="[" line="184" column="37" />
+        <mark key="]" line="188" column="13" />
+        <mark key="." line="188" column="13" />
+        <mark key="^" line="188" column="13" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1532390836302">
         <mark key="[" line="173" column="66" />
@@ -1025,14 +1025,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ0ZW5jZW50LXNpdGUtdmVyaWZpY2F0aW9uIiBjb250ZW50PSIiLz4K</text>
+      <register name="&quot;" type="4">
+        <text>device.ios || device.os == 'mac'</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>device.ios || device.os == 'mac'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
