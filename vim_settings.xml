@@ -466,11 +466,11 @@
         <mark key="^" line="154" column="19" />
         <mark key="." line="154" column="19" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1532589767515">
-        <mark key="[" line="466" column="0" />
-        <mark key="]" line="466" column="0" />
-        <mark key="." line="466" column="0" />
-        <mark key="^" line="479" column="18" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1532594998926">
+        <mark key="[" line="770" column="13" />
+        <mark key="]" line="766" column="67" />
+        <mark key="^" line="766" column="67" />
+        <mark key="." line="766" column="67" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/ExternalLink.vue" timestamp="1531377578975">
         <mark key="[" line="56" column="0" />
@@ -1033,20 +1033,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>emptyPhoneNumbers</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>!isIOS() || get(&quot;enable_contacts&quot;) === &quot;1&quot;</text>
+        <text>emptyPhoneNumbers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBudW1iZXIgPSBwYXJzZUludCh2QXJyW2ldLCAxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBlbXB0eVBob25lTnVtYmVycyA9IDA7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
