@@ -163,10 +163,11 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/IndexFeed.vue" timestamp="1532782608424">
-        <mark key="[" line="142" column="6" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/IndexFeed.vue" timestamp="1532851098542">
+        <mark key="[" line="198" column="8" />
+        <mark key="]" line="198" column="7" />
+        <mark key="." line="198" column="7" />
+        <mark key="^" line="198" column="7" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/safepoints/Safepoints.java" timestamp="1527914135085">
         <mark key="[" line="14" column="45" />
@@ -464,6 +465,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/monitor/jvm/JvmStats.java" timestamp="1532761090140" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1532851952302" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/hsdb/Main.java" timestamp="1530258067035">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -531,6 +533,12 @@
         <mark key="." line="25" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/PostFeed.vue" timestamp="1532411353925" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/helper/SessionHelper.java" timestamp="1532852084770">
+        <mark key="[" line="343" column="5" />
+        <mark key="]" line="337" column="14" />
+        <mark key="." line="337" column="14" />
+        <mark key="^" line="337" column="14" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/lib/WebIM.js" timestamp="1532774835104">
         <mark key="[" line="347" column="25" />
         <mark key="]" line="347" column="24" />
@@ -554,6 +562,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/LoginInterceptor.java" timestamp="1532852140430">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/javaagent/src/main/java/com/liufor/javaagent/AppMain.java" timestamp="1530205987934">
         <mark key="[" line="11" column="0" />
@@ -1057,46 +1070,48 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>v-if=&quot;enableHandleView&quot;</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmluaXQobmV3VmFsLnBhcmFtcy51c2VySWQsTU9ERVMuVVJMKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2Vzc2lvbkhlbHBlci5sb2dvdXQocmVxdWVzdCxyZXNwb25zZSk7IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsb2dvdQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      <register name="3" type="4">
+        <text>String hostName = RequestHelper.getHostName(request);
+                        CookieHelper.deleteCookieByNameAndDomain(response, hostName, ApiConfig.ACCESS_USER_ID);
+                        request.getSession().removeAttribute(ApiConfig.ACCESS_USER_ID);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB1cmw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>176</text>
