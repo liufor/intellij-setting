@@ -419,12 +419,6 @@
         <mark key="^" line="226" column="13" />
         <mark key="." line="226" column="13" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/chat/SingleChat.vue" timestamp="1533198997614">
-        <mark key="[" line="396" column="11" />
-        <mark key="]" line="396" column="10" />
-        <mark key="." line="396" column="10" />
-        <mark key="^" line="396" column="10" />
-      </file>
       <file name="$USER_HOME$/work/code/netty/transport/src/test/java/io/netty/channel/LoggingHandler.java" timestamp="1532948652733">
         <mark key="[" line="70" column="96" />
         <mark key="]" line="70" column="95" />
@@ -588,11 +582,11 @@
         <mark key="." line="21" column="40" />
         <mark key="^" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/store/index.js" timestamp="1533211553037">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="14" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/index.js" timestamp="1533213340708">
+        <mark key="[" line="161" column="66" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="116" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NET/AceeptSamePort.java" timestamp="1527593546237">
         <mark key="[" line="19" column="9" />
@@ -835,11 +829,11 @@
       <file name="$MAVEN_REPOSITORY$/io/undertow/undertow-servlet/1.3.25.Final/undertow-servlet-1.3.25.Final-sources.jar!/io/undertow/servlet/spec/HttpServletRequestImpl.java" timestamp="1533091613229" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/InformationController.java" timestamp="1533208256853" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScan.java" timestamp="1533108373040" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/WebIM.js" timestamp="1533209646936">
-        <mark key="[" line="192" column="61" />
-        <mark key="]" line="124" column="15" />
-        <mark key="." line="124" column="15" />
-        <mark key="^" line="124" column="15" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/WebIM.js" timestamp="1533213771663">
+        <mark key="[" line="444" column="5" />
+        <mark key="]" line="443" column="0" />
+        <mark key="." line="443" column="0" />
+        <mark key="^" line="443" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/management/Agent.java" timestamp="1530102545540">
         <mark key="[" line="437" column="26" />
@@ -930,11 +924,11 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/components/EmailLogin.vue" timestamp="1533190272054">
         <mark key="[" line="79" column="47" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/VFooter.vue" timestamp="1533209879410">
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="36" column="31" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/VFooter.vue" timestamp="1533214112377">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="18" />
         <mark key="^" line="36" column="31" />
-        <mark key="." line="36" column="31" />
+        <mark key="." line="36" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/my/EntHome.vue" timestamp="1531354095364">
         <mark key="[" line="147" column="21" />
@@ -1203,14 +1197,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkYjRmNzA0YjljOWQyMjRiMGU2NzhiNDkwNmQ0ODE2YWViMjk2NGNmCg==</text>
+      <register name="&quot;" type="4">
+        <text>{{$store.state.notifyMessageData.unreadMsgCount}}</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>success,fail</text>
+        <text>{{$store.state.notifyMessageData.unreadMsgCount}}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -1219,31 +1213,31 @@
         <text encoding="base64">ICAgICAgc3RhdGUubm90aWZ5TWVzc2FnZURhdGEudW5yZWFkTXNnQ291bnQgPSBnZXRVbnJlYWRNc2dUb3RhbENvdW50KHN0YXRlLmd6Y0NvbnZlcnNhdGlvbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkYjRmNzA0YjljOWQyMjRiMGU2NzhiNDkwNmQ0ODE2YWViMjk2NGNmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgaWYgKGMgKSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImludml0ZUNvZGUiOnRoaXMudXNlci5pbnZpdGVDb2RlCg==</text>
+        <text encoding="base64">ICAgICAgY29udmVyc2F0aW9uVW5pdC5jb252ZXJzYXRpb24udW5yZWFkTXNnQ291bnQgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgLy/lj5HpgIHmtojmga/vvJrmnKror7vmlbAgKzEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgLy/mnKror7vmlbDmuIUwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkYjRmNzA0YjljOWQyMjRiMGU2NzhiNDkwNmQ0ODE2YWViMjk2NGNmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGUubm90aWZ5TWVzc2FnZURhdGEudW5yZWFkTXNnQ291bnQgPSBnZXRVbnJlYWRNc2dUb3RhbENvdW50KHN0YXRlLmd6Y0NvbnZlcnNhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImludml0ZUNvZGUiOnRoaXMudXNlci5pbnZpdGVDb2RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>176</text>
