@@ -19,7 +19,7 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Register.vue" timestamp="1533178551397">
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Register.vue" timestamp="1533180081034">
         <mark key="[" line="174" column="11" />
         <mark key="]" line="173" column="30" />
         <mark key="^" line="173" column="30" />
@@ -29,6 +29,7 @@
         <mark key="[" line="83" column="7" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/DefaultParameterNameDiscoverer.java" timestamp="1533110089869" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/App.vue" timestamp="1533181771523" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/StandardReflectionParameterNameDiscoverer.java" timestamp="1533137172000" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.3.0/mybatis-3.3.0-sources.jar!/org/apache/ibatis/binding/MapperMethod.java" timestamp="1533117189726" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1533015349461" />
@@ -94,12 +95,13 @@
       </file>
       <file name="$USER_HOME$/work/code/netty/common/src/main/java/io/netty/util/ReferenceCounted.java" timestamp="1533094629130" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-parent/pom.xml" timestamp="1533110368873" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1533141397104">
-        <mark key="[" line="186" column="20" />
-        <mark key="]" line="186" column="108" />
-        <mark key="^" line="230" column="74" />
-        <mark key="." line="186" column="0" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1533185314775">
+        <mark key="[" line="302" column="20" />
+        <mark key="]" line="303" column="17" />
+        <mark key="^" line="303" column="17" />
+        <mark key="." line="303" column="17" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/store/index.js" timestamp="1533182789400" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1533094072629" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/producer/TransactionMQProducer.java" timestamp="1533014894908" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageConst.java" timestamp="1533018330141" />
@@ -114,8 +116,8 @@
         <mark key="[" line="178" column="47" />
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/SendMessageProcessor.java" timestamp="1533018462316" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1533124083410">
-        <mark key="[" line="160" column="72" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1533180609538">
+        <mark key="[" line="631" column="67" />
         <mark key="]" line="160" column="72" />
         <mark key="^" line="160" column="76" />
         <mark key="." line="160" column="72" />
@@ -164,6 +166,7 @@
         <mark key="^" line="64" column="15" />
         <mark key="." line="64" column="15" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/components/MobileLogin.vue" timestamp="1533181082425" />
       <file name="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-plugins/30/maven-plugins-30.pom" timestamp="1533110494443" />
       <file name="$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.3.25.Final/undertow-core-1.3.25.Final-sources.jar!/io/undertow/server/HttpServerExchange.java" timestamp="1533091841981" />
     </filemarks>
@@ -280,43 +283,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>width=&quot;100%&quot;</text>
+        <text>const</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>width=&quot;100%&quot;</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaGUpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VySW5mbyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICdodHRwczovL2EuYXBwLnFxLmNvbS9vL3NpbXBsZS5qc3A/cGtnbmFtZT1jb20ucmVucmVueW91aHVvLnpwYycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1dGlsLnNlbmRFVigiKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdG9yZS5nZXR0ZXJzLnVzZXJJbmZvKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdG9yZS5nZXR0ZXJzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyRW50aXR5IHJlZ2lzdChVc2VyRW50aXR5IHVzZXJFbnRpdHksIExvbmcgZnJvbVVpZAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgeCA9c3RvcmUuZ2V0dGVyKCd1c2VySW5mbycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQge3VzZXJJbmZvfSA9IHsuLi4oWyJ1c2VySW5mbyJdKX07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgaW52aXRlQ29kZSA9IHVzZXJSZWdpc3Rlci5nZXRJbnZpdGVDb2RlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdXNlckluZm87Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
