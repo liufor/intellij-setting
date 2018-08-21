@@ -127,10 +127,11 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/response/JobResponse.java" timestamp="1534824724261">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/response/JobResponse.java" timestamp="1534826327881">
+        <mark key="[" line="120" column="3" />
+        <mark key="]" line="120" column="2" />
+        <mark key="." line="120" column="2" />
+        <mark key="^" line="120" column="2" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/components/XitongShengji.vue" timestamp="1534205724402">
         <mark key="[" line="10" column="37" />
@@ -221,6 +222,9 @@
         <mark key="]" line="156" column="10" />
         <mark key="^" line="154" column="12" />
         <mark key="." line="156" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/identification/list.jsp" timestamp="1534826815714">
+        <mark key="[" line="159" column="120" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/courseware.vue" timestamp="1533716722695">
         <mark key="[" line="121" column="0" />
@@ -1024,6 +1028,9 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/LoginController.java" timestamp="1533123423400">
         <mark key="[" line="144" column="61" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/job/list.jsp" timestamp="1534826780594">
+        <mark key="[" line="280" column="49" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/HOTSWAP/Messageer.java" timestamp="1529738723243">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="9" column="0" />
@@ -1129,6 +1136,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/EntIdentState.java" timestamp="1534825534047" />
       <file name="$USER_HOME$/work/code/gzc-h5/node_modules/vue/src/core/observer/watcher.js" timestamp="1533808422646">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="29" column="15" />
@@ -1141,11 +1149,11 @@
         <mark key="^" line="64" column="15" />
         <mark key="." line="64" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/JobController.java" timestamp="1534824925694">
-        <mark key="[" line="724" column="45" />
-        <mark key="]" line="726" column="41" />
-        <mark key="^" line="726" column="41" />
-        <mark key="." line="726" column="41" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/JobController.java" timestamp="1534826535471">
+        <mark key="[" line="742" column="5" />
+        <mark key="]" line="741" column="0" />
+        <mark key="^" line="739" column="16" />
+        <mark key="." line="741" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/resume/components/ResumeListData.vue" timestamp="1528177657395">
         <mark key="[" line="47" column="43" />
@@ -1333,46 +1341,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvYlJlc3BvbnNlLmdldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ident</text>
+        <text>setEntIdentState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvYlJlc3BvbnNlLnNldEVudElkZW50U3RyKCLkvIHkuJo6IiArIEVudElkZW50U3RhdGUuU3RhdGUwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvYlJlc3BvbnNlLmdldAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaCAoam9iUmVzcG9uc2UuKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkZW50aWZpY2F0aW9uU3RyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>555</text>
