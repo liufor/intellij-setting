@@ -179,6 +179,7 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="246" column="32" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/JobState.java" timestamp="1535342012772" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/apt/Main.java" timestamp="1529925047130">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="14" />
@@ -271,6 +272,7 @@
         <mark key="^" line="140" column="6" />
         <mark key="." line="140" column="6" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1535342042111" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/FeedCard/PostText.vue" timestamp="1527325803919">
         <mark key="[" line="54" column="39" />
         <mark key="]" line="15" column="39" />
@@ -652,7 +654,7 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1535337095178">
+      <file name="/fragment.java" timestamp="1535341257052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -880,11 +882,11 @@
         <mark key="^" line="376" column="9" />
         <mark key="." line="376" column="9" />
       </file>
-      <file name="$USER_HOME$/work/code/jmhs/jmhs/src/main/java/com/liufor/jmhs/memoryleak/Test.java" timestamp="1535338954291">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/work/code/jmhs/jmhs/src/main/java/com/liufor/jmhs/memoryleak/Test.java" timestamp="1535341252427">
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="26" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pre_pages_zpc/main/Enter.vue" timestamp="1532164770382">
         <mark key="[" line="31" column="14" />
@@ -1010,6 +1012,9 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobIndexService.java" timestamp="1535342075507">
+        <mark key="[" line="145" column="61" />
+      </file>
       <file name="/fragment.js" timestamp="1534429087503">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1102,6 +1107,7 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java" timestamp="1535341465278" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/MOCK/FileUtilsTest.java" timestamp="1529474595981">
         <mark key="[" line="17" column="52" />
         <mark key="]" line="17" column="43" />
@@ -1460,14 +1466,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vcGVuamRrLmptaC5hbm5vdGF0aW9ucy5PdXRwdXRUaW1lVW5pdDsK</text>
+      <register name="&quot;" type="4">
+        <text>actualClass</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>actualClass</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -1503,7 +1509,7 @@
         <text encoding="base64">cHVibGljIGNsYXNzIFRlc3Qgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>555</text>
+        <text>147</text>
       </register>
     </registers>
     <search>
@@ -1539,8 +1545,6 @@
         <entry encoding="base64">XDxhdHRhY2hcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>64</entry>
-        <entry>225</entry>
         <entry>151</entry>
         <entry>159</entry>
         <entry>65</entry>
@@ -1559,6 +1563,8 @@
         <entry>9</entry>
         <entry>176</entry>
         <entry>555</entry>
+        <entry>1441</entry>
+        <entry>147</entry>
       </history-cmd>
       <history-expr />
       <history-input />
