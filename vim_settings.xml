@@ -83,11 +83,10 @@
         <mark key="^" line="27" column="49" />
         <mark key="." line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/work/code/jmhs/jmhs/src/main/java/com/liufor/jmhs/memoryleak/StackLeak.java" timestamp="1535357253861">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="18" />
-        <mark key="^" line="23" column="23" />
-        <mark key="." line="24" column="18" />
+      <file name="$USER_HOME$/work/code/jmhs/jmhs/src/main/java/com/liufor/jmhs/memoryleak/StackLeak.java" timestamp="1535410950272">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/FollowList.vue" timestamp="1528978810274">
         <mark key="[" line="20" column="15" />
@@ -627,6 +626,7 @@
         <mark key="^" line="177" column="10" />
         <mark key="." line="177" column="10" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java" timestamp="1535409970953" />
       <file name="$USER_HOME$/work/code/jmhs/jmhs/src/main/java/com/liufor/jmhs/JMHSample_22_FalseSharing.java" timestamp="1535108488618">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="19" column="7" />
@@ -1010,7 +1010,7 @@
         <mark key="^" line="66" column="61" />
         <mark key="." line="66" column="61" />
       </file>
-      <file name="$USER_HOME$/work/code/jmhs/jmhs/src/main/java/com/liufor/jmhs/memoryleak/ClassLoaderLeakExample.java" timestamp="1535262637555">
+      <file name="$USER_HOME$/work/code/jmhs/jmhs/src/main/java/com/liufor/jmhs/memoryleak/ClassLoaderLeakExample.java" timestamp="1535410764115">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="13" column="51" />
         <mark key="." line="13" column="51" />
@@ -1521,47 +1521,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>jobDetail</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>jobDetail</text>
+        <text>ClassLoader</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFja0xlYWsuZm9vKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXRDbGFzc0xvYWRlcigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxWYWx1ZVRleHQ+IHRhZ3NBcnI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVUkxDbGFzc0xvYWRlci4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2xhc3NMb2FkZXIuY2xhc3MuZ2V0Q2xhc3NMb2FkZXIoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc2VzRmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWVsZCBjbGFzc2VzRmllbGQyID0gQ2xhc3NMb2FkZXIuZ2V0U3lzdGVtQ2xhc3NMb2FkZXIoKS5nZXREZWNsYXJlZEZpZWxkKCJjbGFzc2VzIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWZWN0b3I8Q2xhc3M8Pz4+IGNsYXNzZXMyID0gKFZlY3RvcjxDbGFzczw/Pj4pIGNsYXNzZXMuZ2V0KENsYXNzTG9hZGVyLmdldFN5c3RlbUNsYXNzTG9hZGVyKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDYXRlZ29yeU5hdiBjYXRlZ29yeU5hdiA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBjID0gMDsgYyA8IDsgYysrKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKb2JDYXRlRmlyc3QgCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc2VzLmdldCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
