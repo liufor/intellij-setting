@@ -83,6 +83,12 @@
         <mark key="^" line="27" column="49" />
         <mark key="." line="27" column="49" />
       </file>
+      <file name="$USER_HOME$/work/code/jmhs/jmhs/src/main/java/com/liufor/jmhs/memoryleak/StackLeak.java" timestamp="1535357253861">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="18" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="24" column="18" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/FollowList.vue" timestamp="1528978810274">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="15" />
@@ -1484,20 +1490,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>foo</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>JobState.State0.getValue()</text>
+        <text>foo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCBlbnRpdHkuZ2V0U3RhdGUoKSA9PSBKb2JTdGF0ZS5TdGF0ZTAuZ2V0VmFsdWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFja0xlYWsuZm9vKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
