@@ -123,6 +123,7 @@
         <mark key="^" line="61" column="17" />
         <mark key="." line="61" column="17" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/WorkQueueType.java" timestamp="1537178043906" />
       <file name="$USER_HOME$/work/code/ALG/javaagent/src/main/java/com/liufor/javaagent/Log.java" timestamp="1530187327281">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="3" column="40" />
@@ -206,13 +207,6 @@
         <mark key="]" line="31" column="15" />
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/IdentificationService.java" timestamp="1536896717311">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="118" column="55" />
-        <mark key="." line="118" column="55" />
-        <mark key="^" line="118" column="55" />
       </file>
       <file name="$USER_HOME$/work/code/netty/transport/src/main/java/io/netty/bootstrap/ServerBootstrap.java" timestamp="1533022869728">
         <mark key="[" line="211" column="38" />
@@ -298,11 +292,11 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/SocialUserResponse.java" timestamp="1536578520013">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="41" column="3" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/SocialUserResponse.java" timestamp="1537177979469">
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="38" column="20" />
         <mark key="^" line="41" column="3" />
-        <mark key="." line="41" column="3" />
+        <mark key="." line="38" column="20" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/PretenureSizeThresholdDemo.sh" timestamp="1534765125628">
         <mark key="[" line="1" column="25" />
@@ -349,12 +343,11 @@
         <mark key="^" line="61" column="36" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console.sql" timestamp="1537084405348">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console.sql" timestamp="1537178961925">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="185" column="29" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
-        <mark key="^" line="185" column="27" />
+        <mark key="[" line="262" column="25" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/ListResumeResponse.java" timestamp="1527750792608">
         <mark key="[" line="165" column="32" />
@@ -1215,7 +1208,7 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/SocialUserLogic.java" timestamp="1536896225790">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/SocialUserLogic.java" timestamp="1537177170573">
         <mark key="[" line="46" column="87" />
         <mark key="]" line="79" column="12" />
         <mark key="^" line="79" column="12" />
@@ -1479,46 +1472,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gb3Bwb3J0dW5pdHlfYgo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>work_qu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gc29jaWFsVXNlckF1dG9TZWFyY2ggPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgIGNvbmNhdCgnZGVsZXRlIGZyb20gd29ya19xdWV1ZSB3aGVyZSB1aWQgPSAnLHVpZCwnIDsnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gb3Bwb3J0dW5pdHlfYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dW5pb24gc2VsZWN0IC4K</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gb3Bwb3J0dW5pdHlfdXNlciB3aGVyZSB1aWQgPQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">c2VsZWN0CiAgICAgICBjb25jYXQoJ3JlZGlzLWNsaSAtcCA2MzgwIC1hIDk5ZTA4NzliNWUzYzQwMzBmYzcyZTFkZjg3NDVjYmRlIGRlbCBzb2NpYWxVc2VyOicsdWlkKQogICAgLHJlc3VtZS4qCmZyb20gcmVzdW1lCndoZXJlIHVpZCA+PTEwMDI0OTUxOTMxNTEg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAyNCwgVGltZVVuaXQuSE9VUlMpOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB3b3I7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZ1JlZGlzVGVtcGxhdGUub3BzRm9yVmFsdWUoKS5zZXQoc29jaWFsVXNlckF1dG9TZWFyY2hLZXksIHNvY2lhbFVzZXJBdXRvU2VhcmNoID8gMUwgOiAwTCwK</text>
+        <text encoding="base64">ZGVsZXRlIHdvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTk9PUAo=</text>
+        <text encoding="base64">ZGVsZXRlIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29jaWFsVXNlckF1dG9TZWFyY2ggPSB0cnVlOwo=</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVsZXRlIHJlc3VtZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>127</text>
