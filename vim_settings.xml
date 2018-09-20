@@ -7,6 +7,7 @@
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/annotations/DTrace.java" timestamp="1537352428151" />
       <file name="$USER_HOME$/work/code/ognl/src/test/java/ognl/IsTruckTest.java" timestamp="1537414104417" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/rule/type/Type.java" timestamp="1537338800668" />
+      <file name="$USER_HOME$/work/code/ognl/src/test/java/org/ognl/test/ClassMethodTest.java" timestamp="1537427501203" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Runtime.java" timestamp="1537337449875" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/user/Register.vue" timestamp="1537264984282">
         <mark key="[" line="20" column="0" />
@@ -103,8 +104,8 @@
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/LocationType.java" timestamp="1537351633466" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/rule/helper/Helper.java" timestamp="1537338448315" />
       <file name="$USER_HOME$/work/code/ognl/src/main/java/ognl/OgnlParser.java" timestamp="1537425271519" />
-      <file name="/fragment.java" timestamp="1537425945434">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1537427735855">
+        <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="15" />
@@ -133,9 +134,6 @@
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/Profiler.java" timestamp="1537354766082" />
       <file name="$USER_HOME$/work/code/ognl/src/test/java/org/ognl/test/ConstantTreeTest.java" timestamp="1537423410504" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/profiling/MethodInvocationProfiler.java" timestamp="1537354888400" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/IndexFeed.vue" timestamp="1537348861012">
-        <mark key="[" line="118" column="42" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/abd9f703-d4f6-44f2-9238-2725c9cf8934/console.sql" timestamp="1537416375214">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="2" column="63" />
@@ -151,14 +149,13 @@
       <file name="$USER_HOME$/work/code/ognl/src/test/java/org/ognl/test/ArrayElementsTest.java" timestamp="1537415783388" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/synchronization/Timer.java" timestamp="1537336187363" />
       <file name="$USER_HOME$/work/code/ognl/src/main/java/ognl/OgnlContext.java" timestamp="1537412422559" />
-      <file name="$USER_HOME$/work/code/ognl/src/test/java/ognl/Java8Test.java" timestamp="1537414297007">
-        <mark key="[" line="42" column="0" />
-      </file>
+      <file name="$USER_HOME$/work/code/ognl/src/test/java/org/ognl/test/MapCreationTest.java" timestamp="1537427406060" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/rule/helper/HelperAdapter.java" timestamp="1537338553616" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1537258137383" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java" timestamp="1537184260475" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/MyFeedNav.vue" timestamp="1537245713694" />
       <file name="$USER_HOME$/work/code/btrace/benchmark/src/main/resources/scripts/TraceScript.java" timestamp="1537352558847" />
+      <file name="$USER_HOME$/work/code/ognl/src/test/java/org/ognl/test/LambdaExpressionTest.java" timestamp="1537427729450" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/resume/ResumeDetail.vue" timestamp="1537417121024">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="51" column="57" />
@@ -191,9 +188,6 @@
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/rule/expression/Variable.java" timestamp="1537338764204" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/rule/expression/Expression.java" timestamp="1537338781961" />
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.3.6-wanmei/mapper-3.3.6-wanmei.jar!/tk/mybatis/mapper/common/base/insert/InsertSelectiveMapper.class" timestamp="1537410056331" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/VerifyController.java" timestamp="1537259882096">
-        <mark key="[" line="150" column="9" />
-      </file>
       <file name="$USER_HOME$/work/code/ognl/src/main/java/ognl/Ognl.java" timestamp="1537415928066" />
       <file name="$USER_HOME$/work/code/ognl/src/test/java/ognl/OgnlRuntimeTest.java" timestamp="1537414360439" />
     </filemarks>
@@ -310,13 +304,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#six=(#five=5, 6), #this</text>
+        <text />
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>#six=(#five=5, 6), #this</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
