@@ -20,7 +20,7 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat_zcm/production/wx.xml" timestamp="1537880515937" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/account/bind_add.html" timestamp="1537859252713" />
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/assets_app/pay.js" timestamp="1537961388018">
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/assets_app/pay.js" timestamp="1537963721080">
         <mark key="[" line="9" column="47" />
         <mark key="]" line="9" column="47" />
         <mark key="." line="9" column="47" />
@@ -54,7 +54,7 @@
       <file name="$USER_HOME$/work/code/asm/asm-commons/src/main/java/org/objectweb/asm/commons/ClassRemapper.java" timestamp="1537792378250" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/com/sun/tools/hat/internal/model/StackFrame.java" timestamp="1537620720773" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature/nature-configuration/trunk/nature-configuration-client/src/main/java/com/nature/configuration/client/config/ConfigService.java" timestamp="1537880406817" />
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zcm_58wrzp/res/xml/config.xml" timestamp="1537947960755" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/design/zcm_58wrzp/res/xml/config.xml" timestamp="1537963013677" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/MethodInstrumentorHelper.java" timestamp="1537708778563" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/assets/js/account/bind.js" timestamp="1537859353133" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/ios/www/index.html" timestamp="1537848032005" />
@@ -79,14 +79,17 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/btrace/lib/btrace-asm-5.2.jar!/com/sun/btrace/org/objectweb/asm/Opcodes.class" timestamp="1537846440833" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1537944294097">
-        <mark key="[" line="682" column="8" />
-        <mark key="]" line="682" column="8" />
-        <mark key="^" line="681" column="22" />
-        <mark key="." line="682" column="8" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1537964050411">
+        <mark key="[" line="691" column="0" />
+        <mark key="]" line="691" column="0" />
+        <mark key="^" line="692" column="20" />
+        <mark key="." line="691" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/build.gradle" timestamp="1537949683263">
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/build.gradle" timestamp="1537962815108">
         <mark key="[" line="211" column="25" />
+        <mark key="]" line="572" column="18" />
+        <mark key="^" line="572" column="18" />
+        <mark key="." line="572" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/instr/ArrayAccessInstrumentor.java" timestamp="1537846432920" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/instr/MethodReturnInstrumentor.java" timestamp="1537847600348" />
@@ -95,11 +98,11 @@
         <mark key="[" line="83" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/asm/asm/src/main/java/org/objectweb/asm/Opcodes.java" timestamp="1537846625070" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RecruitmentPlan.vue" timestamp="1537875444387">
-        <mark key="[" line="245" column="18" />
-        <mark key="]" line="265" column="18" />
-        <mark key="^" line="265" column="18" />
-        <mark key="." line="265" column="18" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/member/RecruitmentPlan.vue" timestamp="1537963790567">
+        <mark key="[" line="247" column="18" />
+        <mark key="]" line="267" column="18" />
+        <mark key="^" line="267" column="18" />
+        <mark key="." line="267" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/jdk/internal/org/objectweb/asm/Opcodes.java" timestamp="1537613875389" />
     </filemarks>
@@ -215,14 +218,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ookie.document</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ookie.document</text>
+        <text>(Cookie.get(&quot;CCCCUID&quot;) == &quot;1002495043357&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -231,31 +234,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICB0ZXN0QWxlcnQoImluIFdlY2hhdC5pc0luc3RhbGxlZCBzdWNjZXNzIGNiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3RBbGVydCgi5LiN5pivQVBQ77yMY2FsbFd4cGF5OiIrb3JkZXJEYXRhKTsK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQYXlPcmRlclBvIGxhdGVzdE9yZGVyUG8gPSBwYXlPcmRlckZhY2FkZS5nZXRMYXRlc3RPcmRlclBvKERhdGVVdGlsLmZvcm1hdERhdGUobmV3IERhdGUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3RBbGVydCgi5LiN5pivQVBQ77yMY2FsbFd4cGF5OiIrb3JkZXJEYXRhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYXlPcmRlclBvIGxhdGVzdE9yZGVyUG8gPSBwYXlPcmRlckZhY2FkZS5nZXRMYXRlc3RPcmRlclBvKERhdGVVdGlsLmZvcm1hdERhdGUobmV3IERhdGUoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJlZml4ID0gY3VyclRpbWUgKyBzdHJSYW5kb207Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyUmFuZG9tID0gUmFuZG9tU3RyaW5nR2VuZXJhdG9yLmdldFJhbmRvbVN0cmluZ0J5TGVuZ3RoKDQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJlZml4ID0gY3VyclRpbWUgKyBzdHJSYW5kb207Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb2RpdHlfcGFja2FnZTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyUmFuZG9tID0gUmFuZG9tU3RyaW5nR2VuZXJhdG9yLmdldFJhbmRvbVN0cmluZ0J5TGVuZ3RoKDQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoK</text>
+        <text encoding="base64">ZnJvbSBjb21tb2RpdHlfcGFja2FnZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXN0QWxlcnQod3hQYXJhbXMpOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name=":" type="4">
         <text>419</text>
