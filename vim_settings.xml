@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/assets/www/reload/error.html" timestamp="1539008994226">
+        <mark key="[" line="69" column="26" />
+        <mark key="]" line="69" column="26" />
+        <mark key="." line="69" column="26" />
+        <mark key="^" line="88" column="38" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/src/xu/li/cordova/wechat/Wechat.java" timestamp="1538994856087" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/AndroidManifest.xml" timestamp="1538995282956">
         <mark key="[" line="29" column="150" />
@@ -12,11 +18,21 @@
         <mark key="[" line="118" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/common/interceptor/AccessIdInterceptor.java" timestamp="1538986720734" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/res/xml/config.xml" timestamp="1539008953111">
+        <mark key="[" line="118" column="72" />
+        <mark key="]" line="118" column="71" />
+        <mark key="^" line="118" column="71" />
+        <mark key="." line="118" column="71" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/src/com/renrenyouhuo/jzc/wxapi/WXPayEntryActivity.java" timestamp="1538994450960" />
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/assets/www/jump_zcm58wrzp.html" timestamp="1538998034948">
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/assets/www/jump_zcm58wrzp.html" timestamp="1539008361911">
         <mark key="[" line="13" column="67" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" timestamp="1538968126570" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/assets/www/jump_common.html" timestamp="1539008972534" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_1.sql" timestamp="1538990900528">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
@@ -176,13 +192,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>zcm58wrzp</text>
+        <text>&quot;https://wechat.gongzuochong.com/v2/start&quot;</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>zcm58wrzp</text>
+        <text>&quot;https://wechat.gongzuochong.com/v2/start&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -191,31 +207,31 @@
         <text encoding="base64">ICAgICAgICBwcmludE91dHB1dChjbWQ1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogPGhyZWYgPjwvaHJlZj4K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInh4IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHNlbGVjdCBtYXgob3JkZXJfdGltZSkgZnJvbSBwYXlfb3JkZXIgd2hlcmUgc3Vic3RyaW5nKG9yZGVyX3RpbWUsMSwxMCkgPSAnMjAxOC0wOS0yNicpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwbGFpbiBzZWxlY3QgKiBmcm9tIHBheV9vcmRlciB3aGVyZSBvcmRlcl90aW1lID0K</text>
+        <text encoding="base64">ICAgIGZvcndhcmQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIuXCIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJcImVjaG8iLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIuXCIiCg==</text>
+        <text encoding="base64">ICAgICAgLy9qemMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gd2luZG93LmxvY2F0aW9uLmhyZWY9J2h0dHA6Ly93ZWNoYXQudGVzdC56aXlvdWhvdS5jb20vYXBwL3N0YXJ0Lmh0bWwnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
