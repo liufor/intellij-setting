@@ -102,17 +102,14 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/.ideaLibSources/HikariCP-java6-2.3.13-sources.jar!/com/zaxxer/hikari/pool/BaseHikariPool.java" timestamp="1539068689829" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NET/ConnectGoogle.java" timestamp="1537257509443">
         <mark key="[" line="52" column="33" />
         <mark key="]" line="52" column="32" />
         <mark key="." line="52" column="32" />
         <mark key="^" line="52" column="32" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_1.sql" timestamp="1538990900528">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-      </file>
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1539069685546" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NET/ServerPortReuseMethods.java" timestamp="1538050334007">
         <mark key="[" line="63" column="49" />
         <mark key="]" line="66" column="0" />
@@ -130,11 +127,6 @@
         <mark key="]" line="9" column="47" />
         <mark key="." line="9" column="47" />
         <mark key="^" line="64" column="18" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/service/pay/PayOrderService.java" timestamp="1537943422419">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1539064283063">
         <mark key="[" line="943" column="109" />
@@ -185,6 +177,11 @@
         <mark key="^" line="270" column="121" />
         <mark key="." line="270" column="115" />
       </file>
+      <file name="$USER_HOME$/work/code/btrace/samples/OnPoolInitializationExceptionThrow.java" timestamp="1539069757127">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/feed.vue" timestamp="1537245882411">
         <mark key="[" line="153" column="22" />
         <mark key="]" line="153" column="14" />
@@ -225,6 +222,7 @@
         <mark key="^" line="175" column="11" />
         <mark key="." line="175" column="11" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Throwable.java" timestamp="1539068961041" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/trunk/assets_app/android/plugins/cordova-plugin-wechat/www/wechat.js" timestamp="1538990502507" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/ehcache.xml" timestamp="1537240900246">
         <mark key="[" line="100" column="12" />
@@ -247,7 +245,7 @@
         <mark key="." line="125" column="0" />
       </file>
       <file name="/RecruitmentPlan.vue" timestamp="1538970563180" />
-      <file name="/fragment.java" timestamp="1539053628526">
+      <file name="/fragment.java" timestamp="1539069339849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="6" />
@@ -372,14 +370,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHx8IHJlcXVlc3QuZ2V0SGVhZGVyKCJSZWZlcnJlciIpLmNvbnRhaW5zKFdFQ0hBVF9NUF9SRUZFUkVSX0RPTUFJTikpewo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>request.getHeader(&quot;Referer &quot;)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -388,34 +386,35 @@
         <text encoding="base64">ICAgICAgICBwcmludE91dHB1dChjbWQ1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHx8IHJlcXVlc3QuZ2V0SGVhZGVyKCJSZWZlcnJlciIpLmNvbnRhaW5zKFdFQ0hBVF9NUF9SRUZFUkVSX0RPTUFJTikpewo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInh4IikK</text>
+      <register name="2" type="4">
+        <text>redis.clients.jedis.JedisPool#getResource 爆出异常时，
+ * 只有 redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHx8IHJlcXVlc3QuZ2V0SGVhZGVyKCJSZWZlcnJlciIpLmNvbnRhaW5zKFdFQ0hBVF9NUF9SRUZFUkVSX0RPTUFJTikpewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcndhcmQoKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInh4IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZm9yCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvcndhcmQoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZm9yCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy9qemMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>124</text>
+        <text>551</text>
       </register>
     </registers>
     <search>
@@ -451,9 +450,6 @@
         <entry encoding="base64">XDxhdHRhY2hcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>119</entry>
-        <entry>158</entry>
-        <entry>471</entry>
         <entry>299</entry>
         <entry>9</entry>
         <entry>176</entry>
@@ -471,6 +467,9 @@
         <entry>419</entry>
         <entry>159</entry>
         <entry>124</entry>
+        <entry>265</entry>
+        <entry>55</entry>
+        <entry>551</entry>
       </history-cmd>
       <history-expr />
       <history-input />
