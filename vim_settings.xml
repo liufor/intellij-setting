@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-tx/src/test/java/org/springframework/transaction/annotation/EnableTransactionManagementTests.java" timestamp="1539172437859" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/cache/annotation/EnableCaching.java" timestamp="1539174061947" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-tx/src/test/java/org/springframework/transaction/annotation/EnableTransactionManagementTests.java" timestamp="1539173907302" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/java/org/springframework/beans/factory/aspectj/XmlBeanConfigurerTests.java" timestamp="1539163094873" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/transaction/aspectj/AbstractTransactionAspect.aj" timestamp="1539171766223" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/newMsgList.vue" timestamp="1539169833712" />
@@ -12,12 +13,14 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/context/annotation/aspectj/SpringConfiguredConfiguration.java" timestamp="1539162330741" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/java/org/springframework/context/annotation/aspectj/AnnotationBeanConfigurerTests.java" timestamp="1539166226323" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/resources/org/springframework/beans/factory/aspectj/beanConfigurerTests.xml" timestamp="1539162706268" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/cache/annotation/CachingConfigurationSelector.java" timestamp="1539174186951" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/resources/org/springframework/beans/factory/aspectj/beanConfigurerTests-beans.xml" timestamp="1539162143334" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/transaction/aspectj/AnnotationTransactionAspect.aj" timestamp="1539169155842" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/resources/org/springframework/context/config/spring-context.xsd" timestamp="1539161964598" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/resources/org/springframework/aop/config/spring-aop.xsd" timestamp="1539166547452" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/src/test/java/org/springframework/transaction/annotation/EnableTransactionManagementIntegrationTests.java" timestamp="1539172299297" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/java/org/springframework/beans/factory/aspectj/ShouldBeConfiguredBySpring.java" timestamp="1539164071056" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-tx/src/test/resources/org/springframework/transaction/txNamespaceHandlerTests.xml" timestamp="1539173652151" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/java/org/springframework/transaction/aspectj/TransactionAspectTests.java" timestamp="1539166874447" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionInterceptor.java" timestamp="1539171725909" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/java/org/springframework/cache/aspectj/AspectJEnableCachingIsolatedTests.java" timestamp="1539166005847" />
@@ -39,8 +42,10 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/beans/factory/aspectj/AnnotationBeanConfigurerAspect.aj" timestamp="1539162511627" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/beans/factory/aspectj/AbstractInterfaceDrivenDependencyInjectionAspect.aj" timestamp="1539165602091" />
       <file name="$USER_HOME$/work/code/lombok/lib/build/org.eclipse.custom-ecj.jar!/org/eclipse/jdt/internal/compiler/problem/messages.properties" timestamp="1539167982188" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/EnableTransactionManagement.java" timestamp="1539173511704" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/resources/org/springframework/aop/aspectj/autoproxy/ajcAutoproxyTests.xml" timestamp="1539166268118" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/DialoguePageC.vue" timestamp="1539169942639" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AdviceMode.java" timestamp="1539174495323" />
     </filemarks>
     <jumps>
       <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_16.sql" />
