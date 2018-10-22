@@ -3,28 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/catalina/loader/WebappClassLoaderBase.java" timestamp="1540198245369" />
-      <file name="$USER_HOME$/work/code/mysql-connector-j/src/com/mysql/jdbc/ConnectionImpl.java" timestamp="1539938769431" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/InstrumentationLoadTimeWeaver.java" timestamp="1540199547125" />
-      <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.8.9/aspectjtools-1.8.9-sources.jar!/org/aspectj/weaver/loadtime/WeavingURLClassLoader.java" timestamp="1540191754453" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/InstrumentationLoadTimeWeaver.java" timestamp="1540201412059" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/Transactional.java" timestamp="1539943280886" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/LoadTimeWeaver.java" timestamp="1540192690011" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/config/LoadTimeWeaverBeanDefinitionParser.java" timestamp="1540201118227" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/ReflectiveLoadTimeWeaver.java" timestamp="1540194021682" />
-      <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/MysqlDefs.java" timestamp="1539938314846" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-instrument-tomcat/src/main/java/org/springframework/instrument/classloading/tomcat/TomcatInstrumentableClassLoader.java" timestamp="1540197750350" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/weaving/LoadTimeWeaverAwareProcessor.java" timestamp="1540196883513" />
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/MysqlIO.java" timestamp="1539939282303" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/glassfish/GlassFishLoadTimeWeaver.java" timestamp="1540199012978" />
       <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.8.9/aspectjtools-1.8.9-sources.jar!/org/aspectj/weaver/loadtime/Aj.java" timestamp="1539943758354" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/weaving/DefaultContextLoadTimeWeaver.java" timestamp="1540194726951" />
-      <file name="$USER_HOME$/work/code/mysql-connector-j/src/testsuite/simple/TransactionTest.java" timestamp="1539939047099" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1540196912252" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/tomcat/InstrumentableClassLoader.java" timestamp="1540197777687" />
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/com/mysql/jdbc/MysqlIO.java" timestamp="1539936983393">
         <mark key="[" line="4319" column="55" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/Agent.java" timestamp="1540182595149" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/tomcat/TomcatLoadTimeWeaver.java" timestamp="1540193124190" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/Ordered.java" timestamp="1540201245133" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/catalina/loader/WebappClassLoaderBase.java" timestamp="1540198245369" />
+      <file name="$USER_HOME$/work/code/mysql-connector-j/src/com/mysql/jdbc/ConnectionImpl.java" timestamp="1539938769431" />
+      <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.8.9/aspectjtools-1.8.9-sources.jar!/org/aspectj/weaver/loadtime/WeavingURLClassLoader.java" timestamp="1540191754453" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/LoadTimeWeaver.java" timestamp="1540192690011" />
+      <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/MysqlDefs.java" timestamp="1539938314846" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-instrument-tomcat/src/main/java/org/springframework/instrument/classloading/tomcat/TomcatInstrumentableClassLoader.java" timestamp="1540197750350" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/weaving/AspectJWeavingEnabler.java" timestamp="1540201395321" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/weaving/LoadTimeWeaverAwareProcessor.java" timestamp="1540196883513" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/glassfish/GlassFishLoadTimeWeaver.java" timestamp="1540199012978" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/LoadTimeWeavingConfiguration.java" timestamp="1540200823046" />
+      <file name="$USER_HOME$/work/code/mysql-connector-j/src/testsuite/simple/TransactionTest.java" timestamp="1539939047099" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/tomcat/InstrumentableClassLoader.java" timestamp="1540197777687" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/Agent.java" timestamp="1540182595149" />
       <file name="/fragment.java" timestamp="1539940850709">
         <mark key="[" line="0" column="0" />
       </file>
