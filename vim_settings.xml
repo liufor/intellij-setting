@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/websphere/WebSphereClassLoaderAdapter.java" timestamp="1540209745496" />
-      <file name="/a.dummy" timestamp="1540274410858">
+      <file name="/a.dummy" timestamp="1540275639767">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/InstrumentationLoadTimeWeaver.java" timestamp="1540201412059" />
@@ -12,21 +12,31 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/Transactional.java" timestamp="1539943280886" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/config/LoadTimeWeaverBeanDefinitionParser.java" timestamp="1540201118227" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/jboss/JBossMCAdapter.java" timestamp="1540208835209" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/java/org/springframework/context/annotation/aspectj/AnnotationBeanConfigurerTests.java" timestamp="1540275411072" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/ReflectiveLoadTimeWeaver.java" timestamp="1540194021682" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/ScheduledTasks.java" timestamp="1540264596296">
         <mark key="[" line="28" column="34" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/GzcPcApiApp.java" timestamp="1540275514441" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/instrument/Instrumentation.java" timestamp="1540206497269" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java" timestamp="1540205283457" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/weblogic/WebLogicClassLoaderAdapter.java" timestamp="1540209552132" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.2.7.v20150116/20e7b5071ebf1783a738a50073e9de61195413e9/jetty-webapp-9.2.7.v20150116-sources.jar!/org/eclipse/jetty/webapp/WebAppClassLoader.java" timestamp="1540268563033" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AppConfig.java" timestamp="1540276902876">
+        <mark key="[" line="11" column="23" />
+      </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Configuration.java" timestamp="1540274386005" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/ClassPreProcessorAgentAdapter.java" timestamp="1540202791518" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/pom.xml" timestamp="1540274450428">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="40" column="36" />
-        <mark key="." line="40" column="36" />
-        <mark key="^" line="40" column="36" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/pom.xml" timestamp="1540276897228">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/LtwConfig.java" timestamp="1540275452264">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/WeavingURLClassLoader.java" timestamp="1540205591395" />
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/MysqlIO.java" timestamp="1540264349160" />
@@ -38,6 +48,12 @@
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/tomcat/TomcatLoadTimeWeaver.java" timestamp="1540211590201" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/Ordered.java" timestamp="1540201245133" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/ShoudConfigureBySpring.java" timestamp="1540276507539">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1539590217724">
         <mark key="[" line="136" column="219" />
       </file>
@@ -51,10 +67,13 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/Config.java" timestamp="1540274389446">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/weaving/DefaultContextLoadTimeWeaver.java" timestamp="1540275854057" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/jboss/JBossModulesAdapter.java" timestamp="1540208962699" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/ClassPreProcessor.java" timestamp="1540204677879" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AspectJLTWDemo.java" timestamp="1540269348453">
-        <mark key="[" line="2" column="29" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AspectJLTWDemo.java" timestamp="1540276480239">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-dependency-checker/pom.xml" timestamp="1540274302194" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/LoadTimeWeaver.java" timestamp="1540211679495" />
@@ -73,7 +92,7 @@
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/testsuite/simple/TransactionTest.java" timestamp="1539939047099" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/tomcat/InstrumentableClassLoader.java" timestamp="1540197777687" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/Agent.java" timestamp="1540182595149" />
-      <file name="/fragment.java" timestamp="1540269272339">
+      <file name="/fragment.java" timestamp="1540276225820">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -190,13 +209,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>2147483647</text>
+        <text>GzcPcApiApp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -205,31 +224,31 @@
         <text encoding="base64">ICAgICAgICAvL2ludCDojIPlm7QgIFstMjE0NzQ4MzY0OCwyMTQ3NDgzNjQ3XSAgIElDT05TVF9YIOOAgSBCSVBVU0gg44CBU0lQVVNIICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5Pgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaXcK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWNvbnRleHQ8L2FydGlmYWN0SWQ+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5hbWU6IitzLmdldE5hbWUoKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5hbWU6Iik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlF1YWxpZmllcjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBCZWFuKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBRdWFsaWZpZXIoKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgVW5rbm93bkhvc3RFeGNlcHRpb24gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1076</text>
