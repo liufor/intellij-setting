@@ -31,10 +31,10 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java" timestamp="1540205283457" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/weblogic/WebLogicClassLoaderAdapter.java" timestamp="1540209552132" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.2.7.v20150116/20e7b5071ebf1783a738a50073e9de61195413e9/jetty-webapp-9.2.7.v20150116-sources.jar!/org/eclipse/jetty/webapp/WebAppClassLoader.java" timestamp="1540268563033" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AppConfig.java" timestamp="1540286930623">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="31" />
-        <mark key="." line="18" column="31" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AppConfig.java" timestamp="1540289406590">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
         <mark key="^" line="18" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Configuration.java" timestamp="1540274386005" />
@@ -90,6 +90,7 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj/AnnotationCacheAspect.aj" timestamp="1540285905865" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/jboss/JBossModulesAdapter.java" timestamp="1540208962699" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/ClassPreProcessor.java" timestamp="1540204677879" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.0.RC3/spring-web-5.0.0.RC3.jar!/org/springframework/web/bind/annotation/GetMapping.class" timestamp="1540289074316" />
       <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AspectJLTWDemo.java" timestamp="1540286224533">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="22" column="0" />
@@ -114,7 +115,7 @@
       <file name="$USER_HOME$/.ideaLibSources/spring-boot-1.5.8.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" timestamp="1540283365012" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/Agent.java" timestamp="1540182595149" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/cache/annotation/EnableCaching.java" timestamp="1540286873002" />
-      <file name="/fragment.java" timestamp="1540286758843">
+      <file name="/fragment.java" timestamp="1540289460313">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -231,13 +232,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.ASPECTJ,order = Ordered.HIGHEST_PRECEDENCE</text>
+        <text />
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>.ASPECTJ,order = Ordered.HIGHEST_PRECEDENCE</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
