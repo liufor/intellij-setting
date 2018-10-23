@@ -12,12 +12,12 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/Transactional.java" timestamp="1539943280886" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/util/AntPathMatcher.java" timestamp="1540281990739" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/config/LoadTimeWeaverBeanDefinitionParser.java" timestamp="1540201118227" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/DemoService.java" timestamp="1540284781652">
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/DemoService.java" timestamp="1540286473115">
         <mark key="'" line="11" column="14" />
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="26" />
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="39" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/jboss/JBossMCAdapter.java" timestamp="1540208835209" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/java/org/springframework/context/annotation/aspectj/AnnotationBeanConfigurerTests.java" timestamp="1540275411072" />
@@ -31,15 +31,16 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java" timestamp="1540205283457" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/weblogic/WebLogicClassLoaderAdapter.java" timestamp="1540209552132" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.2.7.v20150116/20e7b5071ebf1783a738a50073e9de61195413e9/jetty-webapp-9.2.7.v20150116-sources.jar!/org/eclipse/jetty/webapp/WebAppClassLoader.java" timestamp="1540268563033" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AppConfig.java" timestamp="1540284777089">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AppConfig.java" timestamp="1540286930623">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Configuration.java" timestamp="1540274386005" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/ClassPreProcessorAgentAdapter.java" timestamp="1540202791518" />
       <file name="$USER_HOME$/work/code/spring-boot/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/SpringBootApplication.java" timestamp="1540280004200" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/pom.xml" timestamp="1540276897228">
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/pom.xml" timestamp="1540287142556">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -57,6 +58,12 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1540196912252" />
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/com/mysql/jdbc/MysqlIO.java" timestamp="1539936983393">
         <mark key="[" line="4319" column="55" />
+      </file>
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/CacheDemoService.java" timestamp="1540287174442">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/tomcat/TomcatLoadTimeWeaver.java" timestamp="1540211590201" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/Ordered.java" timestamp="1540201245133" />
@@ -80,14 +87,13 @@
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/weaving/DefaultContextLoadTimeWeaver.java" timestamp="1540275854057" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj/AnnotationCacheAspect.aj" timestamp="1540279105100" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj/AnnotationCacheAspect.aj" timestamp="1540285905865" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/jboss/JBossModulesAdapter.java" timestamp="1540208962699" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/ClassPreProcessor.java" timestamp="1540204677879" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AspectJLTWDemo.java" timestamp="1540284360011">
-        <mark key="[" line="21" column="43" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
-        <mark key="^" line="20" column="67" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AspectJLTWDemo.java" timestamp="1540286224533">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-dependency-checker/pom.xml" timestamp="1540274302194" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/LoadTimeWeaver.java" timestamp="1540211679495" />
@@ -107,7 +113,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/tomcat/InstrumentableClassLoader.java" timestamp="1540197777687" />
       <file name="$USER_HOME$/.ideaLibSources/spring-boot-1.5.8.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" timestamp="1540283365012" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/Agent.java" timestamp="1540182595149" />
-      <file name="/fragment.java" timestamp="1540284559386">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/cache/annotation/EnableCaching.java" timestamp="1540286873002" />
+      <file name="/fragment.java" timestamp="1540286758843">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -223,47 +230,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4oImNvbS5saXVmb3Iuc3ByaW5nZGVtbyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>.ASPECTJ,order = Ordered.HIGHEST_PRECEDENCE</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>getCacheValueIndirect</text>
+        <text>.ASPECTJ,order = Ordered.HIGHEST_PRECEDENCE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRlbW9TZXJ2aWNlLmdldENhY2hlVmFsdWVJbmRpcmVjdCgpKTsK</text>
+        <text encoding="base64">QEVuYWJsZUNhY2hpbmcobW9kZSA9IEFkdmljZU1vZGUuQVNQRUNUSixvcmRlciA9IE9yZGVyZWQuSElHSEVTVF9QUkVDRURFTkNFICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4oImNvbS5saXVmb3Iuc3ByaW5nZGVtbyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEltcG9ydChEZW1vU2VydmljZS5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmdldGJlbmEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVtb1NlcnZpY2UgZGVtb1NlcnZpY2UgPSBjb250ZXh0LmdldEJlYW4oImRlbW9TZXJ2aWNlIiwgRGVtb1NlcnZpY2UuY2xhc3MpOwo=</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oImNvbS5saXVmb3Iuc3ByaW5nZGVtbyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEltcG9ydChEZW1vU2VydmljZS5jbGFzcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVtb1NlcnZpY2UgZGVtb1NlcnZpY2UgPSBjb250ZXh0LmdldEJlYW4oImRlbW9TZXJ2aWNlIiwgRGVtb1NlcnZpY2UuY2xhc3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5hbWU6IitzMi5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTA7IGkrKykgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFNob3VsZENvbmZpZ3VyZUJ5U3ByaW5nIHMyPSBuZXcgU2hvdWxkQ29uZmlndXJlQnlTcHJpbmcoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5hbWU6IitzMi5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1076</text>
