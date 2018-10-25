@@ -18,7 +18,7 @@
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/jboss/JBossMCAdapter.java" timestamp="1540208835209" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/java/org/springframework/context/annotation/aspectj/AnnotationBeanConfigurerTests.java" timestamp="1540275411072" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java" timestamp="1540440724556" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java" timestamp="1540441746841" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/ReflectiveLoadTimeWeaver.java" timestamp="1540194021682" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/ScheduledTasks.java" timestamp="1540264596296">
         <mark key="[" line="28" column="34" />
@@ -53,7 +53,7 @@
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/MysqlIO.java" timestamp="1540264349160" />
       <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.8.9/aspectjtools-1.8.9-sources.jar!/org/aspectj/weaver/loadtime/Aj.java" timestamp="1539943758354" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/weaving/DefaultContextLoadTimeWeaver.java" timestamp="1540211859922" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1540196912252" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1540442074057" />
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/com/mysql/jdbc/MysqlIO.java" timestamp="1539936983393">
         <mark key="[" line="4319" column="55" />
       </file>
@@ -96,6 +96,7 @@
       <file name="$USER_HOME$/.ideaLibSources/commons-lang3-3.3.2-sources.jar!/org/apache/commons/lang3/text/WordUtils.java" timestamp="1540369494588" />
       <file name="$USER_HOME$/work/code/spring-project/spring-dependency-checker/pom.xml" timestamp="1540274302194" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/LoadTimeWeaver.java" timestamp="1540211679495" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractBeanFactory.java" timestamp="1540443043754" />
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/MysqlDefs.java" timestamp="1539938314846" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-instrument-tomcat/src/main/java/org/springframework/instrument/classloading/tomcat/TomcatInstrumentableClassLoader.java" timestamp="1540197750350" />
       <file name="$USER_HOME$/work/code/zhishifufei/knowledge_payment_hout/src/main/resources/application.properties" timestamp="1540296088207" />
@@ -107,6 +108,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" timestamp="1540443012635" />
       <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.8.9/aspectjtools-1.8.9-sources.jar!/org/aspectj/weaver/loadtime/JRockitAgent.java" timestamp="1540204495069" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Optional.java" timestamp="1540267801591" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/glassfish/GlassFishLoadTimeWeaver.java" timestamp="1540208781460" />
@@ -114,9 +116,11 @@
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/testsuite/simple/TransactionTest.java" timestamp="1539939047099" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/tomcat/InstrumentableClassLoader.java" timestamp="1540197777687" />
       <file name="$USER_HOME$/.ideaLibSources/spring-boot-1.5.8.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" timestamp="1540283365012" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/SimpleAliasRegistry.java" timestamp="1540442392092" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/weaver/loadtime/Agent.java" timestamp="1540182595149" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/cache/annotation/EnableCaching.java" timestamp="1540286873002" />
       <file name="$USER_HOME$/work/code/zhishifufei/knowledge_payment_hout/src/main/java/com/ruiysoft/crm/controller/DepartmentController.java" timestamp="1540296146552" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/support/GenericApplicationContext.java" timestamp="1540442294383" />
       <file name="/fragment.java" timestamp="1540289460313">
         <mark key="[" line="0" column="0" />
       </file>
