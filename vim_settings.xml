@@ -12,13 +12,17 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/type/filter/AssignableTypeFilter.java" timestamp="1540535745112" />
       <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9-sources.jar!/org/aspectj/lang/annotation/Before.java" timestamp="1540612124488" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/PriorityOrdered.java" timestamp="1540520652580" />
+      <file name="$USER_HOME$/work/code/btrace/samples/DTraceInline.java" timestamp="1540788250595" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/onmethod/MatchAnnotated.java" timestamp="1540734699083" />
+      <file name="$USER_HOME$/work/code/btrace/samples/SocketTracker1.java" timestamp="1540786466456" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.4/mybatis-spring-1.2.4-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java" timestamp="1540540341061" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/annotations/OnLowMemory.java" timestamp="1540782009534" />
+      <file name="$USER_HOME$/work/code/btrace/samples/CommandArg.java" timestamp="1540788169903" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/target/AbstractBeanFactoryBasedTargetSourceCreator.java" timestamp="1540526209598" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/aop/logging/LoggingAspect.java" timestamp="1540620529586" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/type/filter/AnnotationTypeFilter.java" timestamp="1540535461321" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java" timestamp="1540539193867" />
+      <file name="$USER_HOME$/work/code/btrace/samples/HistoOnEvent.java" timestamp="1540788310552" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/onmethod/Catch.java" timestamp="1540732731710" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/RequiredAnnotationBeanPostProcessor.java" timestamp="1540521482573" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ComponentScanAnnotationIntegrationTests.java" timestamp="1540535915534" />
@@ -33,12 +37,13 @@
       <file name="$USER_HOME$/work/code/btrace/samples/HistogramBean.java" timestamp="1540730046570" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/onmethod/leveled/AnytypeArgs.java" timestamp="1540737189843" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/annotations/OnProbe.java" timestamp="1540782702604" />
-      <file name="$USER_HOME$/work/code/btrace/samples/AllSync.java" timestamp="1540730553948" />
+      <file name="$USER_HOME$/work/code/btrace/samples/AllSync.java" timestamp="1540786947712" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" timestamp="1540536502753" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/support/PostProcessorRegistrationDelegate.java" timestamp="1540524250757" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/TLSTest.java" timestamp="1540779943530" />
       <file name="$USER_HOME$/.ideaLibSources/aspectjrt-1.8.10-sources.jar!/org/aspectj/lang/JoinPoint.java" timestamp="1540609483498" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.3.RELEASE/spring-beans-4.3.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java" timestamp="1540544142970" />
+      <file name="$USER_HOME$/work/code/btrace/samples/AllLines.java" timestamp="1540786880629" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/ProbeArgsTest.java" timestamp="1540780085252" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/aopalliance/intercept/MethodInvocation.java" timestamp="1540609169746" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/annotations/Kind.java" timestamp="1540733055641" />
@@ -47,12 +52,16 @@
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/annotations/OnExit.java" timestamp="1540781571791" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar!/org/aspectj/internal/lang/reflect/AjTypeImpl.java" timestamp="1540610123232" />
       <file name="$USER_HOME$/work/code/btrace/docs/usersguide.html" timestamp="1540782723803" />
+      <file name="$USER_HOME$/work/code/btrace/samples/LogTracer.java" timestamp="1540788421925" />
+      <file name="$USER_HOME$/work/code/btrace/samples/AllMethods.java" timestamp="1540786915706" />
+      <file name="$USER_HOME$/work/code/btrace/src/test/traces/onmethod/FieldGetAfterStatic.java" timestamp="1540787626769" />
       <file name="$USER_HOME$/work/code/btrace/samples/AllCalls1.java" timestamp="1540730596514" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/annotations/BTrace.java" timestamp="1540780530311" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/onmethod/ArgsNoSelf.java" timestamp="1540733748696" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.7.RELEASE/spring-aop-4.3.7.RELEASE-sources.jar!/org/aopalliance/intercept/Joinpoint.java" timestamp="1540608044849" />
       <file name="$USER_HOME$/work/code/byteman/sample/scripts/SocketMonitor.btm" timestamp="1540610782873" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/annotations/OnMethod.java" timestamp="1540781168593" />
+      <file name="$USER_HOME$/work/code/btrace/samples/FileTracker.java" timestamp="1540788274888" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/type/filter/RegexPatternTypeFilter.java" timestamp="1540535113539" />
       <file name="$USER_HOME$/work/code/btrace/samples/MemAlerter.java" timestamp="1540781912772" />
       <file name="$USER_HOME$/work/code/btrace/samples/AllCalls2.java" timestamp="1540730959266" />
@@ -60,8 +69,10 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/support/ApplicationListenerDetector.java" timestamp="1540522231489" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/OSMBeanTest.java" timestamp="1540780620660" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/OnProbeTest.java" timestamp="1540782973588" />
+      <file name="$USER_HOME$/work/code/btrace/samples/Histogram.java" timestamp="1540788300343" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/LocationType.java" timestamp="1540631985215" />
       <file name="$USER_HOME$/work/code/byteman/sample/scripts/ThreadMonitor.btm" timestamp="1540610953295" />
+      <file name="$USER_HOME$/work/code/btrace/samples/JInfo.java" timestamp="1540788405256" />
       <file name="$USER_HOME$/work/code/byteman/docs/asciidoc/src/main/asciidoc/chapters/Byteman-Rule-Language.adoc" timestamp="1540621422190" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" timestamp="1540539612140" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/instr/ErrorReturnInstrumentor.java" timestamp="1540624924325" />
@@ -74,6 +85,8 @@
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/OnTimerTest.java" timestamp="1540780639911" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AspectJAutoProxyRegistrar.java" timestamp="1540524431143" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/config/SmartInstantiationAwareBeanPostProcessor.java" timestamp="1540553700456" />
+      <file name="$USER_HOME$/work/code/btrace/samples/Classload.java" timestamp="1540787169102" />
+      <file name="$USER_HOME$/work/code/btrace/samples/ArgArray.java" timestamp="1540786967502" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/onmethod/NativeWithReturn.java" timestamp="1540736797319" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassParser.java" timestamp="1540536121810" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/instr/SynchronizedInstrumentor.java" timestamp="1540630858071" />
@@ -83,14 +96,17 @@
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/adapter/InvokeTriggerAdapter.java" timestamp="1540625867706" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/type/filter/AspectJTypeFilter.java" timestamp="1540535847634" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/ExportTest.java" timestamp="1540778808174" />
+      <file name="$USER_HOME$/work/code/btrace/samples/SocketTracker.java" timestamp="1540786354204" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/instr/TypeCheckInstrumentor.java" timestamp="1540635047504" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Autowired.java" timestamp="1540531228991" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessor.java" timestamp="1540552943806" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/config/ConfigBeanDefinitionParser.java" timestamp="1540551757588" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/OnTimerArgTest.java" timestamp="1540780777098" />
+      <file name="$USER_HOME$/work/code/btrace/samples/JdbcQueries.java" timestamp="1540788379997" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/Instrumentor.java" timestamp="1540635135697" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/OrderComparator.java" timestamp="1540521034572" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/Location.java" timestamp="1540628851191" />
+      <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/annotations/Location.java" timestamp="1540787943067" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/instr/LineNumberInstrumentor.java" timestamp="1540632177446" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.3.RELEASE/spring-beans-4.3.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.java" timestamp="1540544183563" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java" timestamp="1540553707536" />
@@ -111,14 +127,17 @@
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/instr/ArrayAccessInstrumentor.java" timestamp="1540635486595" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/instr/MethodReturnInstrumentor.java" timestamp="1540624211298" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/onmethod/SyncEntry.java" timestamp="1540737122005" />
+      <file name="$USER_HOME$/work/code/btrace/samples/java.net.socket.xml" timestamp="1540786574631" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/context/weaving/DefaultContextLoadTimeWeaver.java" timestamp="1540545623583" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/adapter/SynchronizeTriggerAdapter.java" timestamp="1540631809541" />
       <file name="$USER_HOME$/work/code/btrace/bin/TraceException.java" timestamp="1540635754418" />
+      <file name="$USER_HOME$/work/code/btrace/samples/ThreadStart.java" timestamp="1540788445644" />
       <file name="$USER_HOME$/work/code/btrace/samples/AllCalls1Sampled.java" timestamp="1540730623574" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/runtime/instr/FieldAccessInstrumentor.java" timestamp="1540629132653" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter.java" timestamp="1540535468287" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.21/4a6b65fd5ad1c37cfdff66dd3fca3eb2d484e3f9/freemarker-2.3.21-sources.jar!/freemarker/template/Configuration.java" timestamp="1540549551588" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractBeanFactory.java" timestamp="1540551258663" />
+      <file name="$USER_HOME$/work/code/btrace/samples/Deadlock.java" timestamp="1540788199692" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/com.sun.btrace.xml" timestamp="1540783084993" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/BTraceUtils.java" timestamp="1540781002673" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/adapter/RuleCheckMethodAdapter.java" timestamp="1540625156737" />
