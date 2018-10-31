@@ -10,6 +10,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/org/apache/catalina/loader/Constants.java" timestamp="1540945236541" />
       <file name="$USER_HOME$/work/code/btrace/samples/URLTracker.java" timestamp="1540792629172" />
       <file name="$USER_HOME$/work/code/byteman/install/src/main/java/org/jboss/byteman/agent/install/Install.java" timestamp="1540810606132" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/SysAndExtClassLoader.java" timestamp="1540900986223">
+        <mark key="[" line="24" column="50" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="24" column="48" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/modules/ClassbyteClassLoader.java" timestamp="1540865727895" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/instrument/Instrumentation.java" timestamp="1540870590440" />
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/testsuite/regression/ConnectionRegressionTest.java" timestamp="1540886706834" />
@@ -17,7 +23,7 @@
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/applet/AppletClassLoader.java" timestamp="1540868887515" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/web/context/support/ServletContextResource.java" timestamp="1540957813115" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/modules/NonModuleSystem.java" timestamp="1540865827676" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/org/apache/catalina/loader/WebappClassLoaderBase.java" timestamp="1540958632229" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/org/apache/catalina/loader/WebappClassLoaderBase.java" timestamp="1540973901267" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1540957152209" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5.jar!/org/apache/catalina/loader/mbeans-descriptors.xml" timestamp="1540945279151" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/io/FileSystemResource.java" timestamp="1540957528193" />
@@ -27,6 +33,12 @@
       <file name="$USER_HOME$/work/code/byteman/submit/src/main/java/org/jboss/byteman/agent/submit/Submit.java" timestamp="1540866854937" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/annotations/Kind.java" timestamp="1540812168261" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/io/ResourceLoader.java" timestamp="1540957943130" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/BootAndSysAndExtClassLoader.java" timestamp="1540945103451">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="38" column="39" />
+        <mark key="^" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+      </file>
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/testsuite/BaseTestCase.java" timestamp="1540890393529" />
       <file name="$USER_HOME$/.ideaLibSources/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/loader/ParallelWebappClassLoader.java" timestamp="1540885409972" />
       <file name="$USER_HOME$/work/code/btrace/samples/Sizeof.java" timestamp="1540793013608" />
@@ -52,6 +64,12 @@
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/check/TestScript.java" timestamp="1540811617574" />
       <file name="$USER_HOME$/work/code/arthas/agent/src/main/java/com/taobao/arthas/agent/AgentBootstrap.java" timestamp="1540891903443" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1540952076464" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/DemoService.java" timestamp="1540975047318">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="24" column="42" />
+        <mark key="^" line="24" column="42" />
+        <mark key="." line="24" column="42" />
+      </file>
       <file name="$USER_HOME$/work/code/btrace/samples/Classload.java" timestamp="1540794487225" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/agent/Main.java" timestamp="1540807559720" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/io/Resource.java" timestamp="1540956190147" />
@@ -63,10 +81,22 @@
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/agent/RemoteClient.java" timestamp="1540807785515" />
       <file name="$USER_HOME$/work/code/btrace/samples/SubtypeTracer.java" timestamp="1540793121218" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/util/ClassUtils.java" timestamp="1540955763966" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/CacheDemoService.java" timestamp="1540974946438">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/io/ClassPathResource.java" timestamp="1540956222434" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1540799808228" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/Transformer.java" timestamp="1540867328230" />
       <file name="$USER_HOME$/work/code/byteman/sample/scripts/ClassLoadMonitor.btm" timestamp="1540793905216" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AspectJLTWDemo.java" timestamp="1540975070201">
+        <mark key="[" line="26" column="57" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/ClassLoaderDemo.java" timestamp="1540956327057" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/io/ClassRelativeResourceLoader.java" timestamp="1540957432324" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5.jar!/org/apache/catalina/loader/LocalStrings.properties" timestamp="1540945245972" />
@@ -201,13 +231,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>null</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
@@ -216,31 +246,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWFpbi5jbGFzcy5nZXRDbGFzc0xvYWRlcigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogPHA+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhdGUoKS50b1N0cmluZygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogPHA+Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVtb1NlcnZpY2UuZ2V0Q2FjaGVWYWx1ZSgpKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTY3JpcHRVdGlscyBzY3JpcHRVdGlscz1uZXcgU2NyaXB0VXRpbHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVUkxDbGFzc1BhdGggYm9vdHN0cmFwQ2xhc3NQYXRoID0gTGF1bmNoZXIuZ2V0Qm9vdHN0cmFwQ2xhc3NQYXRoKCk7Cg==</text>
+        <text encoding="base64">ICogPHA+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHRDcAo=</text>
+        <text encoding="base64">ICogPHA+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVUkxDbGFzc1BhdGggc3lzQ3AgPSAoVVJMQ2xhc3NQYXRoKWZpZWxkLmdldChzeXNDTCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY3JpcHRVdGlscyBzY3JpcHRVdGlscz1uZXcgU2NyaXB0VXRpbHMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHN5c0NwLmdldFVSTHMoKS5sZW5ndGg7IGkrKykgewo=</text>
+        <text encoding="base64">ICAgICAgICBVUkxDbGFzc1BhdGggYm9vdHN0cmFwQ2xhc3NQYXRoID0gTGF1bmNoZXIuZ2V0Qm9vdHN0cmFwQ2xhc3NQYXRoKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>915</text>
