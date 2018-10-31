@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/SharedSettings.java" timestamp="1540807181114" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/org/apache/catalina/loader/Constants.java" timestamp="1540945236541" />
       <file name="$USER_HOME$/work/code/btrace/samples/URLTracker.java" timestamp="1540792629172" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/ProxyConfig.java" timestamp="1540986451360" />
       <file name="$USER_HOME$/work/code/byteman/install/src/main/java/org/jboss/byteman/agent/install/Install.java" timestamp="1540810606132" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/SysAndExtClassLoader.java" timestamp="1540900986223">
         <mark key="[" line="24" column="50" />
@@ -23,10 +24,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/instrument/Instrumentation.java" timestamp="1540870590440" />
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/testsuite/regression/ConnectionRegressionTest.java" timestamp="1540886706834" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/io/ProtocolResolver.java" timestamp="1540955847883" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AppConfig.java" timestamp="1540983793885">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AppConfig.java" timestamp="1540986975974">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/applet/AppletClassLoader.java" timestamp="1540868887515" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/web/context/support/ServletContextResource.java" timestamp="1540957813115" />
@@ -35,7 +37,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/org/apache/catalina/loader/WebappClassLoaderBase.java" timestamp="1540976727257" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1540957152209" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspect.aj" timestamp="1540984603731" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/EnableAspectJAutoProxyTests.java" timestamp="1540981781954" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/EnableAspectJAutoProxyTests.java" timestamp="1540986537769" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5.jar!/org/apache/catalina/loader/mbeans-descriptors.xml" timestamp="1540945279151" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/io/FileSystemResource.java" timestamp="1540957528193" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/client/Client.java" timestamp="1540807982451" />
@@ -89,11 +91,11 @@
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/check/TestScript.java" timestamp="1540811617574" />
       <file name="$USER_HOME$/work/code/arthas/agent/src/main/java/com/taobao/arthas/agent/AgentBootstrap.java" timestamp="1540891903443" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1540952076464" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/DemoService.java" timestamp="1540978840071">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="20" />
-        <mark key="^" line="30" column="30" />
-        <mark key="." line="34" column="20" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/DemoService.java" timestamp="1540986237639">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/work/code/btrace/samples/Classload.java" timestamp="1540794487225" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/agent/Main.java" timestamp="1540807559720" />
@@ -118,21 +120,21 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/util/ClassUtils.java" timestamp="1540955763966" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/CacheDemoService.java" timestamp="1540982628297">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="28" column="9" />
-        <mark key="." line="28" column="9" />
-        <mark key="^" line="28" column="9" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/CacheDemoService.java" timestamp="1540986728202">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="63" />
+        <mark key="." line="25" column="63" />
+        <mark key="^" line="25" column="63" />
       </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/io/ClassPathResource.java" timestamp="1540956222434" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1540799808228" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/Transformer.java" timestamp="1540867328230" />
       <file name="$USER_HOME$/work/code/byteman/sample/scripts/ClassLoadMonitor.btm" timestamp="1540793905216" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AspectJLTWDemo.java" timestamp="1540983106325">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="12" column="33" />
+      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AspectJLTWDemo.java" timestamp="1540986265641">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="39" />
         <mark key="^" line="12" column="33" />
-        <mark key="." line="12" column="33" />
+        <mark key="." line="29" column="39" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/ClassLoaderDemo.java" timestamp="1540956327057" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/io/ClassRelativeResourceLoader.java" timestamp="1540957432324" />
@@ -267,14 +269,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QEltcG9ydChBc3BlY3RKQXN5bmNDb25maWd1cmF0aW9uKQo=</text>
+      <register name="&quot;" type="4">
+        <text>getCacheValue</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>AspectJAsyncConfiguration</text>
+        <text>getCacheValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
