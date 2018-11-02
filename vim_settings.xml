@@ -5,6 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/work/code/btrace/samples/ThreadBean.java" timestamp="1540793316706" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/TransformListener.java" timestamp="1540867001758" />
+      <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/klass100/DumpClassCommand.java" timestamp="1541126214398" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/org/apache/catalina/loader/WebappClassLoader.java" timestamp="1540945286827" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/SharedSettings.java" timestamp="1540807181114" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/org/apache/catalina/loader/Constants.java" timestamp="1540945236541" />
@@ -17,9 +18,6 @@
         <mark key="^" line="24" column="48" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/ShouldConfigureBySpring.java" timestamp="1540982907809">
-        <mark key="[" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/spring-boot-aspectj/ltw/src/main/java/com/example/AppConfig.java" timestamp="1541067216237">
         <mark key="[" line="22" column="26" />
         <mark key="]" line="22" column="22" />
@@ -27,6 +25,7 @@
         <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/modules/ClassbyteClassLoader.java" timestamp="1540865727895" />
+      <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/klass100/ClassDumpTransformer.java" timestamp="1541126179597" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/instrument/Instrumentation.java" timestamp="1540870590440" />
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/testsuite/regression/ConnectionRegressionTest.java" timestamp="1540886706834" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/io/ProtocolResolver.java" timestamp="1540955847883" />
@@ -42,7 +41,8 @@
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/modules/NonModuleSystem.java" timestamp="1540865827676" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-context/src/main/java/org/springframework/context/weaving/DefaultContextLoadTimeWeaver.java" timestamp="1540977554609" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5-sources.jar!/org/apache/catalina/loader/WebappClassLoaderBase.java" timestamp="1540976727257" />
-      <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/klass100/JadCommand.java" timestamp="1541072713683" />
+      <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/klass100/JadCommand.java" timestamp="1541126354894" />
+      <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/util/matcher/WildcardMatcher.java" timestamp="1541126726001" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/lib/sa-jdi.jar!/sun/jvm/hotspot/tools/jcore/NameFilter.class" timestamp="1541065134464" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1540957152209" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspect.aj" timestamp="1541067002240" />
@@ -65,9 +65,6 @@
         <mark key="." line="35" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/weaving/DefaultContextLoadTimeWeaver.java" timestamp="1540977609545" />
-      <file name="/1.txt" timestamp="1541061877559">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/klass100/ClassLoaderCommand.java" timestamp="1540955282090" />
       <file name="$USER_HOME$/work/code/byteman/submit/src/main/java/org/jboss/byteman/agent/submit/Submit.java" timestamp="1540866854937" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/annotations/Kind.java" timestamp="1540812168261" />
@@ -81,26 +78,15 @@
       <file name="$USER_HOME$/work/code/mysql-connector-j/src/testsuite/BaseTestCase.java" timestamp="1540890393529" />
       <file name="$USER_HOME$/.ideaLibSources/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/loader/ParallelWebappClassLoader.java" timestamp="1540885409972" />
       <file name="$USER_HOME$/work/code/btrace/samples/Sizeof.java" timestamp="1540793013608" />
-      <file name="$USER_HOME$/work/code/spring-boot-aspectj/spring/src/main/java/com/example/Interceptor.java" timestamp="1540998282886">
-        <mark key="[" line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/spring-boot-aspectj/ltw/src/main/resources/application.properties" timestamp="1541000599261" />
       <file name="$USER_HOME$/work/code/btrace/samples/syscalls.d" timestamp="1540793149517" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/scheduling/aspectj/AspectJAsyncConfiguration.java" timestamp="1540983222652" />
       <file name="$USER_HOME$/work/code/btrace/samples/SysProp.java" timestamp="1540793305400" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/api/scripting/Formatter.class" timestamp="1540899884294" />
-      <file name="/1.regexp" timestamp="1541061877542">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/btrace/samples/NewArray.java" timestamp="1540792735382" />
       <file name="$USER_HOME$/.ideaLibSources/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/loader/WebappClassLoaderBase.java" timestamp="1540885358780" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/io/ByteArrayResource.java" timestamp="1540957471157" />
       <file name="$USER_HOME$/work/code/byteman/sample/src/org/jboss/byteman/sample/helper/ThreadHistoryMonitorHelper.java" timestamp="1540793512137" />
-      <file name="/Dummy.groovy" timestamp="1541057135511">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/spring-boot-aspectj/ltw/src/main/java/com/example/Interceptor.java" timestamp="1541067701844">
         <mark key="[" line="36" column="70" />
         <mark key="]" line="36" column="68" />
@@ -110,33 +96,17 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java" timestamp="1540957327621" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/jar/JarFile.java" timestamp="1540870688774" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/io/DefaultResourceLoader.java" timestamp="1540955876295" />
-      <file name="/Dummy.txt" timestamp="1541061877573">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/io/UrlResource.java" timestamp="1540957675367" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/jar/Attributes.java" timestamp="1540810473127" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.4.1.RELEASE/spring-boot-1.4.1.RELEASE-sources.jar!/org/springframework/boot/context/embedded/tomcat/TomcatEmbeddedWebappClassLoader.java" timestamp="1540895962218" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/task/TaskDecorator.java" timestamp="1540981656765" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/api/scripting/ScriptUtils.class" timestamp="1540899890870" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java" timestamp="1540956101779" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/Xx.java" timestamp="1540893874588">
-        <mark key="[" line="9" column="23" />
-      </file>
-      <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/util/SearchUtils.java" timestamp="1541072618319" />
+      <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/util/SearchUtils.java" timestamp="1541126694135" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/Main.java" timestamp="1540953971267" />
-      <file name="/fragment.java" timestamp="1541061867503">
-        <mark key="]" line="32" column="17" />
-        <mark key="^" line="32" column="17" />
-        <mark key="." line="32" column="17" />
-      </file>
       <file name="$USER_HOME$/work/code/byteman/sample/scripts/FileMonitor.btm" timestamp="1540794003329" />
       <file name="$USER_HOME$/work/code/btrace/src/test/traces/onmethod/Throw.java" timestamp="1540792982186" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1540812436912" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/Main.java" timestamp="1540953834753">
-        <mark key="[" line="54" column="37" />
-        <mark key="]" line="54" column="37" />
-        <mark key="." line="54" column="37" />
-      </file>
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/check/TestScript.java" timestamp="1540811617574" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.1.RELEASE/spring-boot-dependencies-1.4.1.RELEASE.pom" timestamp="1541069439543" />
       <file name="$USER_HOME$/work/code/arthas/agent/src/main/java/com/taobao/arthas/agent/AgentBootstrap.java" timestamp="1540891903443" />
@@ -148,9 +118,6 @@
         <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/work/code/btrace/samples/Classload.java" timestamp="1540794487225" />
-      <file name="/__dummy.html" timestamp="1541056102896">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/agent/Main.java" timestamp="1540807559720" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/io/Resource.java" timestamp="1540956190147" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj/JCacheCacheAspect.aj" timestamp="1540982597775" />
@@ -158,18 +125,10 @@
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/services/impl/Statsd.java" timestamp="1540807144512" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java" timestamp="1540954990538" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.3.RELEASE/spring-webmvc-4.3.3.RELEASE-sources.jar!/org/springframework/web/servlet/resource/GzipResourceResolver.java" timestamp="1540957720079" />
-      <file name="/__dummy.xml" timestamp="1541043383726">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.3.RELEASE/spring-beans-4.3.3.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/Autowired.java" timestamp="1540956613774" />
       <file name="$USER_HOME$/work/code/btrace/samples/OnThrow.java" timestamp="1540792927703" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/agent/RemoteClient.java" timestamp="1540807785515" />
       <file name="$USER_HOME$/work/code/btrace/samples/SubtypeTracer.java" timestamp="1540793121218" />
-      <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/resources/META-INF/aop.xml" timestamp="1540982656837">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/util/ClassUtils.java" timestamp="1540955763966" />
       <file name="$USER_HOME$/work/code/spring-boot-aspectj/spring/src/main/java/com/example/InterceptorApplication.java" timestamp="1541062183487">
         <mark key="[" line="12" column="0" />
@@ -193,6 +152,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1540799808228" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/Transformer.java" timestamp="1540867328230" />
       <file name="$USER_HOME$/work/code/byteman/sample/scripts/ClassLoadMonitor.btm" timestamp="1540793905216" />
+      <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/klass100/OgnlCommand.java" timestamp="1541125270250" />
       <file name="$USER_HOME$/work/code/spring-project/spring-project/springdemo/src/main/java/com/liufor/springdemo/AspectJLTWDemo.java" timestamp="1541056456648">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="12" />
@@ -203,6 +163,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/io/ClassRelativeResourceLoader.java" timestamp="1540957432324" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.5/tomcat-embed-core-8.5.5.jar!/org/apache/catalina/loader/LocalStrings.properties" timestamp="1540945245972" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/misc/ExtensionDependency.java" timestamp="1540868258584" />
+      <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/basic1000/KeymapCommand.java" timestamp="1541125655259" />
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/Main.java" timestamp="1540866212952" />
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/client/Main.java" timestamp="1540806627276" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RedisConfiguration.java" timestamp="1540956631753" />
@@ -213,9 +174,6 @@
         <mark key="]" line="20" column="51" />
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="51" />
-      </file>
-      <file name="/1.groovy" timestamp="1541061877569">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/byteman/agent/src/main/java/org/jboss/byteman/agent/Retransformer.java" timestamp="1540867391153" />
       <file name="$USER_HOME$/work/code/arthas/spy/src/main/java/java/arthas/Spy.java" timestamp="1540891843294" />
