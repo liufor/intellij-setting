@@ -40,7 +40,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.2.7.v20150116/20e7b5071ebf1783a738a50073e9de61195413e9/jetty-webapp-9.2.7.v20150116-sources.jar!/org/eclipse/jetty/webapp/WebAppContext.java" timestamp="1541386654052" />
       <file name="$USER_HOME$/.ideaLibSources/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/loader/WebappClassLoaderBase.java" timestamp="1541407754863" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/catalina/startup/CatalinaProperties.java" timestamp="1541408791010" />
-      <file name="/Dummy.txt" timestamp="1541061877573">
+      <file name="/Dummy.txt" timestamp="1541560802187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/spring-boot-1.5.8.RELEASE-sources.jar!/org/springframework/boot/context/embedded/tomcat/TomcatEmbeddedWebappClassLoader.java" timestamp="1541407336599" />
@@ -50,6 +50,11 @@
       </file>
       <file name="$USER_HOME$/.ideaLibSources/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/loader/WebappClassLoader.java" timestamp="1541407952208" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1541497395897" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-parent/pom.xml" timestamp="1541561118069">
+        <mark key="[" line="772" column="54" />
+        <mark key="]" line="777" column="0" />
+        <mark key="." line="777" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/catalina/loader/WebappLoader.java" timestamp="1541410202099" />
       <file name="$USER_HOME$/work/code/arthas/agent/src/main/java/com/taobao/arthas/agent/AgentBootstrap.java" timestamp="1541501777033" />
       <file name="$USER_HOME$/work/code/arthas/agent/src/main/java/com/taobao/arthas/agent/ArthasClassloader.java" timestamp="1541499195213" />
@@ -65,6 +70,7 @@
       <file name="$USER_HOME$/work/code/btrace/src/share/classes/com/sun/btrace/BTraceRuntime.java" timestamp="1541502095301" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/catalina/loader/WebappClassLoaderBase.java" timestamp="1541418760470" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1541549513314" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar!/META-INF/maven/plugin.xml" timestamp="1541561149445" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/catalina/Loader.java" timestamp="1541410283431" />
       <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/monitor200/EnhancerCommand.java" timestamp="1541494981787" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0.1/7c344cc8f5d83f40c7af2c48b2d78cccefecec4e/guava-12.0.1-sources.jar!/com/google/common/util/concurrent/AtomicLongMap.java" timestamp="1541472434125" />
@@ -84,10 +90,6 @@
         <mark key="." line="114" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/RpcStatus.java" timestamp="1541488683730" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/CustomSystemClassLoaderDemo.java" timestamp="1541496961580">
-        <mark key="[" line="52" column="34" />
-        <mark key="^" line="52" column="33" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/VerifyController.java" timestamp="1541549898972">
         <mark key="[" line="120" column="8" />
       </file>
@@ -205,7 +207,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih1cmxzWzJdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNvbXAK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -220,10 +222,10 @@
         <text encoding="base64">ICB2YXIgbzE9bzsKICBjb25zb2xlLmxvZyhvMS5mKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih1cmxzWzJdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNvbXAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih1cmxzWzJdKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -232,19 +234,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoc3BlYyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoc3BlYyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3VwZXIocGFyZW50KTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHJvdGVjdGVkIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgCg==</text>
       </register>
       <register name=":" type="4">
         <text>915</text>
