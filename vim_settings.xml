@@ -91,7 +91,7 @@
         <mark key="^" line="56" column="34" />
         <mark key="." line="56" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1541489881027">
+      <file name="/fragment.java" timestamp="1541818145828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/MyRunnable.java" timestamp="1541671430335">
@@ -131,6 +131,12 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1541549513314" />
       <file name="$USER_HOME$/work/code/gzc_mp/utils/wx_pro.js" timestamp="1541673615283" />
       <file name="$USER_HOME$/work/code/spring-project/spring-boot/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/web/embedded/tomcat/TomcatReactiveWebServerFactory.java" timestamp="1541691100723" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/OOM/OOM.java" timestamp="1541818511755">
+        <mark key="[" line="30" column="73" />
+        <mark key="]" line="30" column="52" />
+        <mark key="^" line="30" column="52" />
+        <mark key="." line="30" column="52" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar!/META-INF/maven/plugin.xml" timestamp="1541575185750" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/catalina/Loader.java" timestamp="1541410283431" />
       <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/monitor200/EnhancerCommand.java" timestamp="1541494981787" />
@@ -275,7 +281,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc19sb2cgL2RhdGEvbG9nL25naW54L3Byb2R1Y3Rpb24tYW50aS1hdHRhY2stYnktaXAubG9nIGNvbWJpbmVkIGlmPSRzdGF0dXNfNDEwOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQyLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -287,37 +293,37 @@
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc19sb2cgL2RhdGEvbG9nL25naW54L3Byb2R1Y3Rpb24tYW50aS1hdHRhY2stYnktaXAubG9nIGNvbWJpbmVkIGlmPSRzdGF0dXNfNDEwOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQxLmpvaW4oKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJlYWQyLnN0YXJ0KCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFRocmVhZAo=</text>
+      </register>
+      <register name="5" type="4">
         <text>baoding&quot;
     },
     {
       &quot;value&quot;: 1307,</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc0xpbWl0LmFjcXVpcmUoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB3eC5nZXRTdG9yYWdlU3luYyB3eC5zZXRTdG9yYWdlU3luYyhmaXhlZF9wYWdlX2RhdGEua2V5LGZpeGVkX3BhZ2VfZGF0YSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hcHBlbmQoVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkpLmFwcGVuZCgiXG4iKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hcHBlbmQoU3lzdGVtLmlkZW50aXR5SGFzaENvZGUoaSkpLmFwcGVuZCgiXHQiKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCAK</text>
       </register>
       <register name=":" type="4">
         <text>47316</text>
