@@ -11,6 +11,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/server/handlers/PathTemplateHandler.java" timestamp="1542104681227" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-websockets-jsr/1.1.2.Final/85934958d277f5d7a9cd646e8f7958cd0fe89de3/undertow-websockets-jsr-1.1.2.Final-sources.jar!/io/undertow/websockets/jsr/JsrWebSocketProtocolHandshakeHandler.java" timestamp="1542104218345" />
       <file name="$MAVEN_REPOSITORY$/io/undertow/undertow-core/2.0.14.Final/undertow-core-2.0.14.Final-sources.jar!/io/undertow/server/protocol/http2/Http2UpgradeHandler.java" timestamp="1542110798365" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/Main2.java" timestamp="1542183355928">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/server/JvmRouteHandler.java" timestamp="1542102741877" />
       <file name="$USER_HOME$/work/code/spring-project/spring-boot/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/web/server/AbstractConfigurableWebServerFactory.java" timestamp="1542107201284" />
       <file name="$MAVEN_REPOSITORY$/io/undertow/undertow-core/2.0.14.Final/undertow-core-2.0.14.Final-sources.jar!/io/undertow/server/handlers/RequestLimit.java" timestamp="1542100222437" />
@@ -19,6 +25,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-servlet/1.1.2.Final/9c7cfdf716bb811ef25d54680f3d1343ab1a38ac/undertow-servlet-1.1.2.Final-sources.jar!/io/undertow/servlet/core/ManagedServlet.java" timestamp="1542109409012" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-servlet/1.1.2.Final/9c7cfdf716bb811ef25d54680f3d1343ab1a38ac/undertow-servlet-1.1.2.Final-sources.jar!/io/undertow/servlet/api/ServletInfo.java" timestamp="1542108375125" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/util/ResourceUtils.java" timestamp="1542098040020" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.xnio/xnio-api/3.3.0.Final/51ac460d9b3c25b36511070ce52706e1bd3b133c/xnio-api-3.3.0.Final-sources.jar!/org/xnio/ChannelListeners.java" timestamp="1542183564488" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Random.java" timestamp="1542175635513" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/server/handlers/IPAddressAccessControlHandler.java" timestamp="1542102009865" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.xnio/xnio-api/3.3.0.Final/51ac460d9b3c25b36511070ce52706e1bd3b133c/xnio-api-3.3.0.Final-sources.jar!/org/xnio/XnioIoThread.java" timestamp="1542168992040" />
@@ -47,8 +54,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/server/handlers/ExceptionHandler.java" timestamp="1542103585665" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/server/handlers/encoding/EncodingHandler.java" timestamp="1542106688718" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/predicate/ContainsPredicate.java" timestamp="1542101511338" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/server/Connectors.java" timestamp="1542182832664" />
       <file name="$USER_HOME$/work/code/spring-project/spring-boot/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/web/embedded/undertow/UndertowServletWebServer.java" timestamp="1542107414140" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/server/handlers/PathHandler.java" timestamp="1542104372008" />
+      <file name="$MAVEN_REPOSITORY$/org/jboss/xnio/xnio-api/3.3.8.Final/xnio-api-3.3.8.Final-sources.jar!/org/xnio/ChannelListener.java" timestamp="1542183670269" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/server/handlers/HttpTraceHandler.java" timestamp="1542105500104" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/server/HttpHandler.java" timestamp="1542167836846" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/1.1.2.Final/4b07c649175dff061279190ec6391e2c1f29dbbd/undertow-core-1.1.2.Final-sources.jar!/io/undertow/server/handlers/RedirectHandler.java" timestamp="1542101271018" />
@@ -181,50 +190,50 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQyLnN0YXJ0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>baoding</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQxLmpvaW4oKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvbGF0aWxlICBJbnRlZ2VyIGkxPTA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQyLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTWFpbjIiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQyLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIFRocmVhZAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>baoding&quot;
     },
     {
       &quot;value&quot;: 1307,</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>47316</text>
