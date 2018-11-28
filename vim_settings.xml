@@ -7,7 +7,7 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/HandlerMapping.java" timestamp="1543314415135" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController$$FastClassBySpringCGLIB$$f8a21e1d.java" timestamp="1543221769188" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/RecommendPlace.java" timestamp="1543230738124" />
-      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/CircuitBreaker.java" timestamp="1543374047186" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/CircuitBreaker.java" timestamp="1543376192549" />
       <file name="$USER_HOME$/work/code/spring-project/spring-cloud/spring-cloud-gateway/spring-cloud-gateway-core/pom.xml" timestamp="1543314195699" />
       <file name="$USER_HOME$/work/code/microprofile-fault-tolerance/api/src/main/java/org/eclipse/microprofile/faulttolerance/CircuitBreaker.java" timestamp="1543373277713" />
       <file name="$USER_HOME$/work/code/microprofile-fault-tolerance/tck/src/main/java/org/eclipse/microprofile/fault/tolerance/tck/circuitbreaker/clientserver/CircuitBreakerClientWithDelay.java" timestamp="1543372116607" />
@@ -18,30 +18,35 @@
       <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/internal/CircuitBreakerStateMachine.java" timestamp="1543373479324" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/result/method/AbstractHandlerMethodMapping.java" timestamp="1543314622662" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjdk.jcstress/jcstress-core/0.2/2b4093808b06ed2619b607f8ecf126e9d5f1a61f/jcstress-core-0.2-sources.jar!/org/openjdk/jcstress/annotations/JCStressTest.java" timestamp="1543373745406" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.2/6f541fd0ff058edbce64a5122d29a0a9136fc6b5/vavr-0.9.2-sources.jar!/io/vavr/Tuple2.java" timestamp="1543375603441" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.3.RELEASE/spring-aop-4.3.3.RELEASE-sources.jar!/org/springframework/aop/framework/AopContext.java" timestamp="1543231133595" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18-sources.jar!/com/netflix/hystrix/HystrixCommand.java" timestamp="1543370978640" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController.java" timestamp="1543221155108" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1543300833626" />
-      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/test/java/io/github/resilience4j/circuitbreaker/CircuitBreakerTest.java" timestamp="1543373672379" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/test/java/io/github/resilience4j/circuitbreaker/CircuitBreakerTest.java" timestamp="1543376358371" />
       <file name="$USER_HOME$/work/code/spring-project/spring-cloud/spring-cloud-gateway/spring-cloud-gateway-sample/src/main/java/org/springframework/cloud/gateway/sample/GatewaySampleApplication.java" timestamp="1543316716226" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController$$EnhancerBySpringCGLIB$$2ee87a44$$FastClassBySpringCGLIB$$aa129bec.java" timestamp="1543224370625" />
       <file name="$USER_HOME$/work/code/failsafe/src/main/java/net/jodah/failsafe/SyncFailsafe.java" timestamp="1543324513645" />
       <file name="$USER_HOME$/work/code/failsafe/src/main/java/net/jodah/failsafe/function/CheckedRunnable.java" timestamp="1543332153978" />
       <file name="$USER_HOME$/work/code/spring-project/spring-cloud/spring-cloud-gateway/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/builder/UriSpec.java" timestamp="1543316701031" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/reflect/AnnotatedElement.java" timestamp="1543292452146" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-ratpack/src/test/groovy/io/github/resilience4j/ratpack/retry/RetrySpec.groovy" timestamp="1543376590573" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/HandlerMapping.java" timestamp="1543314501645" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPointTests.java" timestamp="1543231161886" />
       <file name="$USER_HOME$/work/code/resilience4j/resilience4j-all/src/main/java/io/github/resilience4j/decorators/Decorators.java" timestamp="1543332166395" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-retry/src/main/java/io/github/resilience4j/retry/RetryConfig.java" timestamp="1543377419605" />
       <file name="$USER_HOME$/work/code/spring-project/spring-cloud/spring-cloud-gateway/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/builder/GatewayFilterSpec.java" timestamp="1543316946418" />
       <file name="$MAVEN_REPOSITORY$/com/dongxiguo/fastring_2.11/0.2.4/fastring_2.11-0.2.4.jar!/META-INF/MANIFEST.MF" timestamp="1543310529132" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/result/method/annotation/RequestMappingHandlerMapping.java" timestamp="1543314949787" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.2/6f541fd0ff058edbce64a5122d29a0a9136fc6b5/vavr-0.9.2-sources.jar!/io/vavr/control/Try.java" timestamp="1543376332843">
+        <mark key="'" line="114" column="51" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18-sources.jar!/com/netflix/hystrix/contrib/javanica/annotation/HystrixCommand.java" timestamp="1543322249334" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/handler/AbstractHandlerMapping.java" timestamp="1543314565501" />
       <file name="$USER_HOME$/work/code/spring-project/spring-cloud/spring-cloud-gateway/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/config/GatewayAutoConfiguration.java" timestamp="1543316048604" />
       <file name="$USER_HOME$/work/code/spring-project/spring-cloud/spring-cloud-gateway/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/RoutePredicateHandlerMapping.java" timestamp="1543316025186" />
     </filemarks>
     <jumps>
-      <jump line="605" column="30" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.13.Final/netty-all-4.0.13.Final-sources.jar!/io/netty/channel/ChannelPipeline.java" />
       <jump line="20" column="4" filename="$USER_HOME$/conf/nginx/hosts/production/upstream.server" />
       <jump line="967" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Properties.java" />
       <jump line="197" column="66" filename="$USER_HOME$/work/code/beta/beta-utils/src/main/java/com/beta/utils/reflect/StringUtil.java" />
@@ -141,6 +146,7 @@
       <jump line="73" column="0" filename="$USER_HOME$/work/code/spring-boot-aspectj/ltw/pom.xml" />
       <jump line="39" column="13" filename="$MAVEN_REPOSITORY$/io/undertow/undertow-servlet/2.0.14.Final/undertow-servlet-2.0.14.Final-sources.jar!/io/undertow/servlet/api/ServletInfo.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/io/undertow/undertow-servlet/2.0.14.Final/undertow-servlet-2.0.14.Final-sources.jar!/io/undertow/servlet/api/ServletInfo.java" />
+      <jump line="114" column="51" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.9.2/6f541fd0ff058edbce64a5122d29a0a9136fc6b5/vavr-0.9.2-sources.jar!/io/vavr/control/Try.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
