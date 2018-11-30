@@ -10,6 +10,7 @@
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.7.0/feign-core-9.7.0-sources.jar!/feign/Contract.java" timestamp="1543492325493" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/HandlerMapping.java" timestamp="1543314415135" />
       <file name="$USER_HOME$/work/code/resilience4j/resilience4j-ratpack/src/main/java/io/github/resilience4j/ratpack/circuitbreaker/CircuitBreakerConfig.java" timestamp="1543545985697" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/internal/ClosedState.java" timestamp="1543552022214" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/CommonController$$FastClassBySpringCGLIB$$f8a21e1d.java" timestamp="1543221769188" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1543456069205" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/RecommendPlace.java" timestamp="1543230738124" />
@@ -19,12 +20,13 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/SpringFactoriesLoader.java" timestamp="1543387895391" />
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.7.0/feign-core-9.7.0-sources.jar!/feign/SynchronousMethodHandler.java" timestamp="1543488314378" />
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.5.0/feign-core-9.5.0-sources.jar!/feign/Headers.java" timestamp="1543481503241" />
-      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/CircuitBreaker.java" timestamp="1543548493598" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/CircuitBreaker.java" timestamp="1543550202213" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/DeserializationFeature.java" timestamp="1543385712107" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.8.RELEASE/spring-boot-autoconfigure-1.5.8.RELEASE.jar!/META-INF/spring-autoconfigure-metadata.properties" timestamp="1543387363028" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/test/java/com/alibaba/dubbo/common/serialize/dubbo/BuilderTest.java" timestamp="1543389097479" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/1.4.0.RELEASE/spring-cloud-starter-openfeign-1.4.0.RELEASE.jar!/META-INF/maven/org.springframework.cloud/spring-cloud-starter-openfeign/pom.xml" timestamp="1543398699504" />
       <file name="$USER_HOME$/work/code/spring-project/spring-cloud/spring-cloud-gateway/spring-cloud-gateway-core/pom.xml" timestamp="1543314195699" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/internal/CircuitBreakerMetrics.java" timestamp="1543550864968" />
       <file name="$USER_HOME$/work/code/microprofile-fault-tolerance/api/src/main/java/org/eclipse/microprofile/faulttolerance/CircuitBreaker.java" timestamp="1543373277713" />
       <file name="$USER_HOME$/work/code/microprofile-fault-tolerance/tck/src/main/java/org/eclipse/microprofile/fault/tolerance/tck/circuitbreaker/clientserver/CircuitBreakerClientWithDelay.java" timestamp="1543372116607" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/JobCateToRedisService.java" timestamp="1543455372706" />
@@ -44,7 +46,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.openfeign/feign-core/10.0.1/e6cd71085d6828152f23b632a63af74c154b8cd1/feign-core-10.0.1-sources.jar!/feign/ReflectiveFeign.java" timestamp="1543483119097" />
       <file name="$USER_HOME$/work/code/failsafe/src/main/java/net/jodah/failsafe/FailsafeConfig.java" timestamp="1543324088239" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/test/java/org/springframework/util/SerializationUtilsTests.java" timestamp="1543385863137" />
-      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/internal/CircuitBreakerStateMachine.java" timestamp="1543548400577" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/internal/CircuitBreakerStateMachine.java" timestamp="1543551124588" />
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.7.0/feign-core-9.7.0-sources.jar!/feign/ReflectiveFeign.java" timestamp="1543488281215" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java" timestamp="1543488231620" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/result/method/AbstractHandlerMethodMapping.java" timestamp="1543314622662" />
@@ -82,6 +84,7 @@
       <file name="$USER_HOME$/work/code/resilience4j/resilience4j-ratpack/src/test/groovy/io/github/resilience4j/ratpack/retry/RetrySpec.groovy" timestamp="1543376590573" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.1.2.RELEASE/spring-webflux-5.1.2.RELEASE-sources.jar!/org/springframework/web/reactive/HandlerMapping.java" timestamp="1543314501645" />
       <file name="$USER_HOME$/work/code/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/com.alibaba.dubbo.common.compiler.Compiler" timestamp="1543388122399" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/internal/HalfOpenState.java" timestamp="1543551537380" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotationAwareOrderComparator.java" timestamp="1543387679589" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.0.RELEASE/spring-cloud-netflix-core-1.4.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/support/SpringDecoder.java" timestamp="1543484123247" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPointTests.java" timestamp="1543231161886" />
@@ -91,6 +94,7 @@
       <file name="$USER_HOME$/work/code/resilience4j/resilience4j-ratpack/src/main/java/io/github/resilience4j/ratpack/circuitbreaker/CircuitBreaker.java" timestamp="1543547430815" />
       <file name="$USER_HOME$/work/code/spring-project/spring-cloud/spring-cloud-gateway/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/route/builder/GatewayFilterSpec.java" timestamp="1543316946418" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.0.RELEASE/spring-cloud-netflix-core-1.4.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/ribbon/LoadBalancerFeignClient.java" timestamp="1543476330450" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/internal/ForcedOpenState.java" timestamp="1543550388225" />
       <file name="$MAVEN_REPOSITORY$/com/dongxiguo/fastring_2.11/0.2.4/fastring_2.11-0.2.4.jar!/META-INF/MANIFEST.MF" timestamp="1543310529132" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/test/resources/META-INF/spring.factories" timestamp="1543387390406" />
       <file name="$USER_HOME$/work/code/spring-project/spring-cloud/spring-cloud-openfeign/spring-cloud-openfeign-core/src/main/java/org/springframework/cloud/openfeign/ribbon/FeignRibbonClientAutoConfiguration.java" timestamp="1543485272649" />
@@ -107,6 +111,7 @@
       <file name="$USER_HOME$/work/code/dubbo/dubbo-config/dubbo-config-spring/src/main/resources/META-INF/dubbo/internal/com.alibaba.dubbo.common.extension.ExtensionFactory" timestamp="1543388802409" />
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.5.0/feign-core-9.5.0-sources.jar!/feign/Client.java" timestamp="1543479723589" />
       <file name="$USER_HOME$/work/code/spring-project/spring-cloud/spring-cloud-gateway/spring-cloud-gateway-core/src/main/java/org/springframework/cloud/gateway/handler/RoutePredicateHandlerMapping.java" timestamp="1543316025186" />
+      <file name="$USER_HOME$/work/code/resilience4j/resilience4j-circuitbreaker/src/main/java/io/github/resilience4j/circuitbreaker/internal/OpenState.java" timestamp="1543552298877" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.0.RELEASE/spring-cloud-netflix-core-1.4.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/support/SpringEncoder.java" timestamp="1543483979190" />
     </filemarks>
     <jumps>
