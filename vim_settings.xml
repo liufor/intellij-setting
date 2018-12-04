@@ -61,11 +61,11 @@
         <mark key="^" line="60" column="5" />
         <mark key="." line="60" column="5" />
       </file>
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/SyncDeadLock.java" timestamp="1543913238861">
-        <mark key="[" line="28" column="80" />
-        <mark key="]" line="28" column="79" />
-        <mark key="^" line="28" column="79" />
-        <mark key="." line="28" column="79" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/SyncDeadLock.java" timestamp="1543915853617">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="14" />
+        <mark key="^" line="34" column="14" />
+        <mark key="." line="34" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -180,13 +180,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>//部分线程很幸运，第一次拿到的就是true</text>
+        <text>synchronized</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>//部分线程很幸运，第一次拿到的就是true</text>
+        <text>synchronized</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
