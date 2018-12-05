@@ -3,39 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/misc/Unsafe.java" timestamp="1543991273621" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/pom.xml" timestamp="1543981908098">
         <mark key="[" line="59" column="52" />
         <mark key="]" line="58" column="0" />
         <mark key="^" line="58" column="50" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicIntegerArray.java" timestamp="1543910138605" />
-      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/VolatileIncrementAtomicityTest.java" timestamp="1543979742507">
-        <mark key="[" line="2" column="30" />
-      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" timestamp="1543997027833" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/AntiAttackAspect.java" timestamp="1543906868071" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/SynchDeadLock.java" timestamp="1543912158357">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/ConcurrencySample_01_OperationAtomicity.java" timestamp="1543984119730" />
       <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/APISample_01_Simple.java" timestamp="1543982233643" />
-      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/JMMSample_02_WordTearing.java" timestamp="1543984179961" />
-      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/VolatileIncIsNotAtomicityTest.java" timestamp="1543982873256">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="30" column="15" />
-        <mark key="^" line="30" column="15" />
-        <mark key="." line="30" column="15" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/APISample_04_Nesting.java" timestamp="1543983120771" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1543834497789" />
-      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-core/0.5/jcstress-core-0.5-sources.jar!/org/openjdk/jcstress/annotations/Arbiter.java" timestamp="1543983888080" />
-      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-core/0.5/jcstress-core-0.5-sources.jar!/org/openjdk/jcstress/infra/results/IJJ_Result.java" timestamp="1543982355641" />
       <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/JMMSample_03_Coherence.java" timestamp="1543984195508" />
-      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/JMMSample_05_TotalOrder.java" timestamp="1543984222127" />
       <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/JMMSample_04_PartialOrder.java" timestamp="1543984207945" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/DCL.java" timestamp="1543976844540">
         <mark key="[" line="32" column="82" />
@@ -51,7 +29,6 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-core/0.5/jcstress-core-0.5-sources.jar!/org/openjdk/jcstress/infra/results/IZB_Result.java" timestamp="1543982541273" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/SyncDeadLock.java" timestamp="1543917591692">
         <mark key="[" line="34" column="16" />
         <mark key="]" line="34" column="14" />
@@ -60,8 +37,50 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/JMMSample_01_AccessAtomicity.java" timestamp="1543984164474" />
       <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/JMMSample_06_Finals.java" timestamp="1543986752974" />
-      <file name="/fragment.java" timestamp="1543981153597">
+      <file name="/fragment.java" timestamp="1543996260904">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/misc/Unsafe.java" timestamp="1543991273621" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicIntegerArray.java" timestamp="1543910138605" />
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/VolatileIncrementAtomicityTest.java" timestamp="1543979742507">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ProcessorLimiter.java" timestamp="1543995608145">
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/SynchDeadLock.java" timestamp="1543912158357">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/JMMSample_02_WordTearing.java" timestamp="1543984179961" />
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/VolatileIncIsNotAtomicityTest.java" timestamp="1543982873256">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="30" column="15" />
+        <mark key="^" line="30" column="15" />
+        <mark key="." line="30" column="15" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/APISample_04_Nesting.java" timestamp="1543983120771" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1543834497789" />
+      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-core/0.5/jcstress-core-0.5-sources.jar!/org/openjdk/jcstress/annotations/Arbiter.java" timestamp="1543983888080" />
+      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-core/0.5/jcstress-core-0.5-sources.jar!/org/openjdk/jcstress/infra/results/IJJ_Result.java" timestamp="1543982355641" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ProcessorLimiter2.java" timestamp="1543996613323">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-samples/0.5/jcstress-samples-0.5-sources.jar!/org/openjdk/jcstress/samples/JMMSample_05_TotalOrder.java" timestamp="1543984222127" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.18/e127468592a2a50c11bfca46cbabf0f39820f379/tomcat-embed-core-8.0.18-sources.jar!/org/apache/catalina/valves/SemaphoreValve.java" timestamp="1543995980723" />
+      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-core/0.5/jcstress-core-0.5-sources.jar!/org/openjdk/jcstress/infra/results/IZB_Result.java" timestamp="1543982541273" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/TopN.java" timestamp="1543994281064">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="57" />
+        <mark key="^" line="27" column="57" />
+        <mark key="." line="27" column="57" />
       </file>
     </filemarks>
     <jumps>
@@ -175,14 +194,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>IntResult2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRseSA9IEludGVnZXIudmFsdWVPZihjdXJyZW50bHkpOwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>IntResult2</text>
+        <text>currently</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -191,31 +210,31 @@
         <text encoding="base64">ICAgICAgICBTaW5ndG9uQ2xhc3MgaW5zdGFuY2UxID0gU2luZ3RvbkNsYXNzLmluc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L2ltcG9ydCBvcmcub3Blbmpkay5qY3N0cmVzcy5pbmZyYS5yZXN1bHRzLkludFJlc3VsdDI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRseSA9IEludGVnZXIudmFsdWVPZihjdXJyZW50bHkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vcGVuamRrLmpjc3RyZXNzLmluZnJhLnJlc3VsdHMuSW50UmVzdWx0MjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRseSArKzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudGx5ID0gY3VycmVudGx5Kys7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWRzLnMK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VtYXBob3JlLnJlbGVhc2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnN0YW5jZSA9IG5ldyBTaW5ndG9uQ2xhc3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9ZmluYWxseSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9IYW5kbGUodGhyZWFkTnVtLCsrY3VycmVudGx5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbmNlID0gbmV3IFNpbmd0b25DbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VtYXBob3JlLmFjcXVpcmUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ //g</text>
