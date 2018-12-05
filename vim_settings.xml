@@ -23,6 +23,9 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/VolatileIncrementAtomicityTest.java" timestamp="1543979742507">
+        <mark key="[" line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/AntiAttackAspect.java" timestamp="1543906868071" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/SynchDeadLock.java" timestamp="1543912158357">
         <mark key="[" line="15" column="22" />
@@ -42,6 +45,12 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/VolatileIncIsNotAtomicityTest.java" timestamp="1543980077777">
+        <mark key="[" line="11" column="94" />
+        <mark key="]" line="11" column="94" />
+        <mark key="^" line="23" column="8" />
+        <mark key="." line="11" column="94" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1543834497789" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/annotation/AnnotationX.java" timestamp="1543290367295">
         <mark key="[" line="6" column="10" />
@@ -55,6 +64,7 @@
         <mark key="." line="32" column="31" />
         <mark key="^" line="32" column="31" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/openjdk/jcstress/jcstress-core/0.1.1/jcstress-core-0.1.1-sources.jar!/org/openjdk/jcstress/annotations/Expect.java" timestamp="1543979997756" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a064a98-c1da-4193-a7fb-f55ff22be469/console_26.sql" timestamp="1543454552519">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="60" column="5" />
@@ -180,13 +190,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>volatile</text>
+        <text>atomic</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>volatile</text>
+        <text>atomic</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
