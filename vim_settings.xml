@@ -9,6 +9,7 @@
         <mark key="." line="32" column="31" />
         <mark key="^" line="32" column="31" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" timestamp="1544022466832" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/pom.xml" timestamp="1543999509841">
         <mark key="[" line="61" column="17" />
         <mark key="]" line="58" column="0" />
@@ -21,7 +22,13 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1544021544928" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1544022482128" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leak/ThreadLocalLeakDemo.java" timestamp="1544022749551">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ProcessorLimiter2.java" timestamp="1543996613323">
         <mark key="[" line="18" column="19" />
         <mark key="]" line="20" column="0" />
@@ -54,6 +61,7 @@
         <mark key="." line="33" column="35" />
         <mark key="^" line="33" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/net/www/protocol/http/HttpURLConnection.java" timestamp="1544022787159" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/SynchDeadLock.java" timestamp="1543912158357">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="15" column="20" />
@@ -176,14 +184,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRseSA9IEludGVnZXIudmFsdWVPZihjdXJyZW50bHkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>connection</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>currently</text>
+        <text>connection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
