@@ -3,19 +3,57 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-sleuth-core/1.3.0.RELEASE/spring-cloud-sleuth-core-1.3.0.RELEASE-sources.jar!/org/springframework/cloud/sleuth/trace/SpanContextHolder.java" timestamp="1544083901033" />
       <file name="$USER_HOME$/work/code/netty/transport/src/main/java/io/netty/channel/ChannelOutboundBuffer.java" timestamp="1544064560735" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/AopContext.java" timestamp="1544084091664" />
       <file name="$USER_HOME$/work/code/netty/common/src/main/java/io/netty/util/concurrent/FastThreadLocalThread.java" timestamp="1544065096248" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" timestamp="1544022466832" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/pom.xml" timestamp="1544063127522">
         <mark key="]" line="58" column="0" />
         <mark key="^" line="58" column="50" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/netty/handler/src/main/java/io/netty/handler/ssl/util/SimpleTrustManagerFactory.java" timestamp="1544064634709" />
+      <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/threadlocal/ThreadLocalSharing.java" timestamp="1544063597455" />
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/VolatileIncrementAtomicityTest.java" timestamp="1543979742507">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ProcessorLimiter.java" timestamp="1543995608145">
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/net/www/protocol/http/HttpURLConnection.java" timestamp="1544022787159" />
+      <file name="$USER_HOME$/work/code/netty/common/src/main/java/io/netty/util/internal/InternalThreadLocalMap.java" timestamp="1544064918442" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/SynchDeadLock.java" timestamp="1543912158357">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/code/netty/common/src/main/java/io/netty/util/concurrent/FastThreadLocal.java" timestamp="1544064796972" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicStampedReference.java" timestamp="1544067638620" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-sleuth-core/1.3.0.RELEASE/spring-cloud-sleuth-core-1.3.0.RELEASE-sources.jar!/org/springframework/cloud/sleuth/trace/SpanContextHolder.java" timestamp="1544083901033" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/DCL.java" timestamp="1543976844540">
+        <mark key="[" line="32" column="82" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" timestamp="1544022466832" />
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/VolatileAccessAtomicityTest.java" timestamp="1543982005301">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="13" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1544069453303" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1544022482128" />
-      <file name="$USER_HOME$/work/code/netty/handler/src/main/java/io/netty/handler/ssl/util/SimpleTrustManagerFactory.java" timestamp="1544064634709" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/MainObject.java" timestamp="1544087144002">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="54" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="5" column="54" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leak/ThreadLocalLeakDemo.java" timestamp="1544081330868">
         <mark key="'" line="54" column="13" />
         <mark key="[" line="98" column="27" />
@@ -23,24 +61,34 @@
         <mark key="^" line="96" column="25" />
         <mark key="." line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/Main.java" timestamp="1544085234699">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="10" column="33" />
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/VolatileIncIsNotAtomicityTest.java" timestamp="1543982873256">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="30" column="15" />
+        <mark key="^" line="30" column="15" />
+        <mark key="." line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/threadlocal/ThreadLocalSharing.java" timestamp="1544063597455" />
-      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/VolatileIncrementAtomicityTest.java" timestamp="1543979742507">
-        <mark key="[" line="2" column="30" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/TopN.java" timestamp="1543994281064">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="57" />
+        <mark key="^" line="27" column="57" />
+        <mark key="." line="27" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/net/www/protocol/http/HttpURLConnection.java" timestamp="1544022787159" />
-      <file name="$USER_HOME$/work/code/netty/common/src/main/java/io/netty/util/internal/InternalThreadLocalMap.java" timestamp="1544064918442" />
-      <file name="$USER_HOME$/work/code/netty/common/src/main/java/io/netty/util/concurrent/FastThreadLocal.java" timestamp="1544064796972" />
-      <file name="/fragment.java" timestamp="1544078508919">
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/Main.java" timestamp="1544087056559">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/JMM/SyncDeadLock.java" timestamp="1543917591692">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="14" />
+        <mark key="^" line="34" column="14" />
+        <mark key="." line="34" column="14" />
+      </file>
+      <file name="/fragment.java" timestamp="1544087091994">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/HttpURLConnection.java" timestamp="1544021856822" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicStampedReference.java" timestamp="1544067638620" />
     </filemarks>
     <jumps>
       <jump line="2" column="111" filename="$USER_HOME$/work/code/gzc-h5/src/components/VFooter.vue" />
@@ -153,47 +201,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>exception</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>exception</text>
+        <text>NoSuchMethodException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJleGNlcHRpb2465Yqg6L2955qE5LiN5piv6Ieq5a6a5LmJ55qET2JqZWN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdC5zZXRBY2Nlc3NpYmxlKHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBleGVjdXRvci5zaHV0ZG93biAiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0Lk1ldGhvZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0Lkludm9jYXRpb25UYXJnZXRFeGNlcHRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih3b3JrZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBjb3VudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kIHRlc3QgPSBMb25nLmNsYXNzLmdldERlY2xhcmVkTWV0aG9kKCJ0ZXN0NDIiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RDb3VudCA9IE1vY2tDb25uZWN0aW9uLmdldENvdW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdC5zZXRBY2Nlc3NpYmxlKHRydWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgbyA9IG5ldyBMb25nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3Iuc2h1dGRvd24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBleGVjdXRvci5zaHV0ZG93biAiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ //g</text>
