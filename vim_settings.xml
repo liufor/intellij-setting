@@ -11,7 +11,17 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/zhangxin-mp/utils/auth.js" timestamp="1544455439347" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/MainObjectLong.java" timestamp="1544088939527">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="48" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/stream/Collector.java" timestamp="1544442383304" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/ProcessorLimiter2.java" timestamp="1543996613323">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/zhangxin-mp/pages/index/index.wxml" timestamp="1544498175152">
         <mark key="[" line="82" column="54" />
         <mark key="]" line="82" column="54" />
@@ -71,6 +81,7 @@
         <mark key="^" line="480" column="23" />
         <mark key="." line="480" column="23" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1544532291498" />
       <file name="$USER_HOME$/work/code/zhangxin-mp/config.js" timestamp="1544446531807">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="8" />
@@ -85,6 +96,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicLongFieldUpdater.java" timestamp="1544438268663" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leak/ThreadLocalLeakDemo.java" timestamp="1544532176439">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/java/util/concurrent/ConcurrentHashMap.java" timestamp="1544443608547" />
       <file name="/Dummy.txt" timestamp="1544517774853">
         <mark key="[" line="0" column="0" />
@@ -226,14 +242,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>endpoint.getPath().intern()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>endpoint.getPath().intern()</text>
+        <text>char</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -242,31 +258,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcHJpY2VUZXh0OiBfdGhpcy5wcmljZVRleHRMZXNzc29uKCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBieXRlIGIgPSAoYnl0ZSkoYSswKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBieXRlIGE9MTA5OTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcHJpY2VUZXh0OiBfdGhpcy5wcmljZVRleHRMZXNzc29uKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9jb25maWcuanMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnKQo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9jb25maWcuanMnCg==</text>
+        <text encoding="base64">Y29ucwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ //g</text>
