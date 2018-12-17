@@ -24,14 +24,20 @@
       <file name="/1.regexp" timestamp="1544673774270">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/WorkManaController.java" timestamp="1545043550292">
+        <mark key="[" line="69" column="77" />
+        <mark key="]" line="69" column="77" />
+        <mark key="." line="69" column="77" />
+        <mark key="^" line="69" column="81" />
+      </file>
       <file name="/a.dummy" timestamp="1544612527025">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1545038317258">
-        <mark key="[" line="137" column="63" />
-        <mark key="]" line="137" column="62" />
-        <mark key="^" line="137" column="62" />
-        <mark key="." line="137" column="62" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ShareInvitationService.java" timestamp="1545043500382">
+        <mark key="[" line="142" column="44" />
+        <mark key="]" line="142" column="47" />
+        <mark key="." line="142" column="47" />
+        <mark key="^" line="142" column="47" />
       </file>
       <file name="$USER_HOME$/work/code/zhangxin-mp/pages/course/course.wxml" timestamp="1544459083458">
         <mark key="[" line="65" column="25" />
@@ -94,6 +100,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1545037051923" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/ShareInvitationType.java" timestamp="1545043523151">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/Main.java" timestamp="1544087056559">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="0" column="0" />
@@ -239,14 +251,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ5dGVzLmxlbmd0aCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Shengren</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ClassUnloading.class.getCanonicalName()</text>
+        <text>Shengren</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -255,31 +267,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJmaW5hbGl6ZSBDbGFzc1VubG9hZGluZyRTdGF0aWNOZXN0ZWQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ5dGVzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnl0ZXMubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52aXRlZU5hbWUgPSBzb2NpYWxVc2VyLmdldE5pY2tOYW1lKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3NVbmxvYWRpbmcuY2xhc3MuZ2V0UmVzb3VyY2UoIi4iKX0sIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodXNlciA9PSBudWxsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzc0xvYWRlciBjbCA9IG5ldyBVUkxDbGFzc0xvYWRlcihuZXcgVVJMW117Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRW50aXR5IHVzZXIgPSBzb2NpYWxVc2VyU2VydmljZS5nZXRTb2NpYWxVc2VyKHVpZCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgYy5nZXRDb25zdHJ1Y3RvcnMoKS4KCiAgICAgICAgT2JqZWN0IG8gPSBjbC5sb2FkQ2xhc3MoIkNsYXNzVW5sb2FkaW5nJFN0YXRpY05lc3RlZCIpLm5ld0luc3RhbmNlKCk7CgogICAgICAgIG8gPSBudWxsOwogICAgICAgIGNsID0gbnVsbDsKICAgICAgICBTeXN0ZW0uZ2MoKTsKCiAgICAgICAgbmV3IFRocmVhZCgoKSAtPiB7CiAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5nYygpOwogICAgICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgIH0pLnN0YXJ0KCk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc29zaXVzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBjID0gY2wubG9hZENsYXNzKCJDbGFzc1VubG9hZGluZyRTdGF0aWNOZXN0ZWQiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ5dGVzLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnl0ZXMubGVuZ3RoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ //g</text>
