@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/GC/Gc99Percent.java" timestamp="1545035603823">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="10" column="28" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-common/4.0.27.Final/netty-common-4.0.27.Final-sources.jar!/io/netty/util/HashedWheelTimer.java" timestamp="1545100929272" />
       <file name="/a.dummy" timestamp="1544612527025">
         <mark key="[" line="0" column="0" />
@@ -65,12 +59,6 @@
       </file>
       <file name="/1.regexp" timestamp="1545104322452">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/WorkManaController.java" timestamp="1545043550292">
-        <mark key="[" line="9" column="77" />
-        <mark key="]" line="9" column="77" />
-        <mark key="." line="9" column="77" />
-        <mark key="^" line="9" column="81" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/android/build/intermediates/assets/official/debug/www/jump_zcm58wrzp.html" timestamp="1545111300703">
         <mark key="[" line="13" column="67" />
@@ -150,11 +138,10 @@
         <mark key="." line="14" column="43" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/store/api.js" timestamp="1545037099826" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/RefDemo.java" timestamp="1545116925305">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="7" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/RefDemo.java" timestamp="1545119696905">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/freebroker/components/RecommendedAcquaintances.vue" timestamp="1545037083893" />
       <file name="$USER_HOME$/work/code/zhangxin-mp/app.js" timestamp="1544457079369">
@@ -282,13 +269,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">ICsgaGFzaENvZGUoKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -297,31 +284,61 @@
         <text encoding="base64">ICAgICAgICBzbGVlcCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIOOAgSo4Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW52aXRlZU5hbWUgPSBzb2NpYWxVc2VyLmdldE5pY2tOYW1lKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodXNlciA9PSBudWxsKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRW50aXR5IHVzZXIgPSBzb2NpYWxVc2VyU2VydmljZS5nZXRTb2NpYWxVc2VyKHVpZCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29zaXVzZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuY3VycmVudFRocmVhZCgpLmpvaW4oKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text>new Object() {
+            @Override
+            public String toString() {
+                return &quot;WEAK&quot;;
+            }
+
+            @Override
+            protected void finalize() {
+                System.out.println(&quot;finalize &quot; + toString());
+            }
+        }</text>
+      </register>
+      <register name="4" type="4">
+        <text>ew Object() {
+            @Override
+            public String toString() {
+                return &quot;SOFT&quot;;
+            }
+
+            @Override
+            protected void finalize() {
+                System.out.println(&quot;finalize &quot; + toString());
+            }
+        }</text>
+      </register>
+      <register name="5" type="4">
+        <text>Object() {
+            @Override
+            public String toString() {
+                return &quot;STRONG&quot;;
+            }
+
+            @Override
+            protected void finalize() {
+                System.out.println(&quot;finalize &quot; + toString());
+            }
+        };</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIOOAgSo4Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ5dGVzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52aXRlZU5hbWUgPSBzb2NpYWxVc2VyLmdldE5pY2tOYW1lKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ //g</text>
