@@ -9,6 +9,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1545984816221" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/cli/Solutation.java" timestamp="1546094935670">
+        <mark key="[" line="2" column="25" />
+      </file>
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/pom.xml" timestamp="1546078812408">
         <mark key="[" line="61" column="17" />
       </file>
@@ -114,6 +117,12 @@
         <mark key="." line="35" column="22" />
         <mark key="^" line="35" column="22" />
       </file>
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/cli/Solution.java" timestamp="1546097759550">
+        <mark key="[" line="103" column="32" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="103" column="14" />
+      </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-core/src/main/java/org/openjdk/jcstress/annotations/Expect.java" timestamp="1546059165804" />
       <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/klass100/JadCommand.java" timestamp="1545879182173" />
       <file name="$USER_HOME$/work/code/zhangxin-mp/utils/config.js" timestamp="1545136569878">
@@ -206,6 +215,7 @@
       </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/singletons/UnsafeLocalDCL.java" timestamp="1546078211994" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/singletons/GradingUnsafe.java" timestamp="1546057473868" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1546095389110" />
       <file name="$USER_HOME$/work/code/zhangxin-mp/store/api.js" timestamp="1544496038060">
         <mark key="[" line="480" column="23" />
         <mark key="]" line="480" column="23" />
@@ -367,13 +377,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBWIGxvY2FsID0gdmFsdWVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlX3ByZSA9IHQ7Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>(SingletonSafe::new)</text>
+        <text>pre</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -382,31 +392,31 @@
         <text encoding="base64">ICBpbXBvcnQgQ29va2llIGZyb20gJy4uLy4uL2xpYi9jb29raWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBWIGxvY2FsID0gdmFsdWVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlX3ByZSA9IHQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVzID0gbG9jYWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHQgPSBwcmU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERlbW9DbGFzcyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHByZV9wcmUgKyBwcmU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgc3VtID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRbXSBhcnJheSA9IG5ldyBpbnRbXSB7MSAsIC0xLCAgMSwgLTF9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVnYgdmFscyA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlcyA9IHZhbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgID0gNDMzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcmV0dXJuIG1lbW8uZ2V0KG4pIDsK</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
