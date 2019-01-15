@@ -20,6 +20,12 @@
         <mark key="." line="57" column="142" />
         <mark key="^" line="57" column="144" />
       </file>
+      <file name="$USER_HOME$/work/code/zhangxin-mp/pages/course/course.js" timestamp="1547565058387">
+        <mark key="[" line="277" column="24" />
+        <mark key="]" line="158" column="10" />
+        <mark key="^" line="158" column="10" />
+        <mark key="." line="158" column="10" />
+      </file>
       <file name="/config.js" timestamp="1547557190994" />
       <file name="$USER_HOME$/work/code/zhangxin-mp/pages/index/index.js" timestamp="1547561386877">
         <mark key="[" line="285" column="0" />
@@ -27,7 +33,7 @@
         <mark key="^" line="285" column="21" />
         <mark key="." line="285" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/zhangxin-mp/pages/detail/detail.js" timestamp="1547563478737">
+      <file name="$USER_HOME$/work/code/zhangxin-mp/pages/detail/detail.js" timestamp="1547563865656">
         <mark key="[" line="193" column="23" />
         <mark key="]" line="193" column="10" />
         <mark key="." line="193" column="10" />
@@ -50,9 +56,16 @@
         <mark key="^" line="19" column="264" />
         <mark key="." line="19" column="264" />
       </file>
+      <file name="$USER_HOME$/work/code/zhangxin-mp/pages/course/course.wxml" timestamp="1547564162352" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" timestamp="1547542249129" />
       <file name="/index.js" timestamp="1547560334978" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1547549328603" />
+      <file name="$USER_HOME$/work/code/zhangxin-mp/config.js" timestamp="1547564630678">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="27" />
+      </file>
       <file name="/common-list.wxml" timestamp="1547560615256" />
       <file name="/course.wxml" timestamp="1547556665951" />
       <file name="/course.js" timestamp="1547556621120" />
@@ -181,46 +194,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJ0MiA9ICcnOwo=</text>
+        <text encoding="base64">ICBpT1NQYXlTaG9ydFRleHQ6ICfnlLHkuo7nm7jlhbPop4TojIMsaU9T55So5oi35pqC5LiN5Y+v5Zyo5bCP56iL5bqP5YaF6K6i6ZiFJwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3tzaG93UHJpY2UgJiYhZGV0YWlsLnBheX19</text>
+        <text>courseInfo.sellPrice==0.00</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGFydDEgPSBuZWVkUGF5ID8gYOi0reS5sOWNleiKguivviDCpSAke2l0ZW0uc2VsbFByaWNlfWAgOiAnJzsK</text>
+        <text encoding="base64">ICBpT1NQYXlTaG9ydFRleHQ6ICfnlLHkuo7nm7jlhbPop4TojIMsaU9T55So5oi35pqC5LiN5Y+v5Zyo5bCP56iL5bqP5YaF6K6i6ZiFJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJ0MiA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJ0MyA9IGl0ZW0ucGF5Q291bnQgKyAn5Lq65Yqg5YWl5a2m5LmgJzsK</text>
+        <text encoding="base64">ICAgIGxldCBwYXJ0MiA9ICcnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFydDEgPSBuZWVkUGF5ID8gYOi0reS5sOWNleiKguivviDCpSAke2l0ZW0uc2VsbFByaWNlfWAgOiAnJzsK</text>
+        <text encoding="base64">ICAgIGxldCBwYXJ0MyA9IGl0ZW0ucGF5Q291bnQgKyAn5Lq65Yqg5YWl5a2m5LmgJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHBhcnQxID0gbmVlZFBheSA/ICcnCg==</text>
+        <text encoding="base64">ICAgICAgcGFydDEgPSBuZWVkUGF5ID8gYOi0reS5sOWNleiKguivviDCpSAke2l0ZW0uc2VsbFByaWNlfWAgOiAnJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHBhcnQxID0gbmVlZFBheSA/ICcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
