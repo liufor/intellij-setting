@@ -260,6 +260,13 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="28" />
       </file>
+      <file name="$USER_HOME$/work/code/zhangxin-mp/templates/common-list.wxml" timestamp="1547568149479">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="20" column="100" />
+        <mark key="]" line="22" column="55" />
+        <mark key="." line="22" column="55" />
+        <mark key="^" line="22" column="55" />
+      </file>
       <file name="$USER_HOME$/work/code/zhangxin-mp/app.js" timestamp="1547569750345">
         <mark key="[" line="187" column="62" />
         <mark key="]" line="187" column="63" />
@@ -317,6 +324,13 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Object.java" timestamp="1547716256915" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeakCauseValueRefedKey.java" timestamp="1547809152153">
+        <mark key="'" line="29" column="28" />
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+        <mark key="^" line="30" column="21" />
+      </file>
       <file name="$USER_HOME$/work/code/netty/buffer/src/main/java/io/netty/buffer/PooledByteBufAllocator.java" timestamp="1547782321446" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/_64MinimumPathSum/Solution.java" timestamp="1546572003271">
         <mark key="[" line="157" column="17" />
@@ -435,10 +449,9 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeak.java" timestamp="1547806252222">
-        <mark key="[" line="22" column="42" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="43" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeak.java" timestamp="1547807727178">
+        <mark key="[" line="7" column="5" />
+        <mark key="^" line="7" column="8" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/21.0/b9ed26b8c23fe7cd3e6b463b34e54e5c6d9536d5/guava-21.0-sources.jar!/com/google/common/collect/MapMakerInternalMap.java" timestamp="1547610579941" />
       <file name="$USER_HOME$/work/code/netty/pom.xml" timestamp="1547736480564" />
@@ -529,11 +542,9 @@
         <mark key="^" line="25" column="8" />
         <mark key="." line="25" column="8" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" timestamp="1547805129206" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" timestamp="1547807402871" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
-      <jump line="5" column="5" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
       <jump line="12" column="31" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
       <jump line="13" column="32" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
       <jump line="18" column="4" filename="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/PureTextAnswerContent.java" />
@@ -632,6 +643,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/work/code/zhangxin-mp/templates/common-list.wxml" />
       <jump line="908" column="5" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java" />
       <jump line="1074" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java" />
+      <jump line="17" column="1" filename="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeakCauseValueRefedKey.java" />
+      <jump line="29" column="28" filename="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeakCauseValueRefedKey.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -642,47 +655,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJsb2NrZXJNYXAxOiIgKyBsb2NrZXJNYXAxLnNpemUoKSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigibG9ja2VyTWFwMjoiICsgbG9ja2VyTWFwMi5zaXplKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>payType</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJsb2NrZXJNYXAxOiIgKyBsb2NrZXJNYXAxLnNpemUoKSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigibG9ja2VyTWFwMjoiICsgbG9ja2VyTWFwMi5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFN0cmluZyBpZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuam9pbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgS2V5Q2wK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5qb2luKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9ja2VyTWFwMy5wdXQoInN0cjMiICsgaSwgdmFsdWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogPHA+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk1heCBuYXRpdmUgbWVtID0gIiArIHN1bi5taXNjLlZNLm1heERpcmVjdE1lbW9yeSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5jdXJyZW50VGhyZWFkKCkuam9pbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVmZmVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5qb2luKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltZVVuaXQuajsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
