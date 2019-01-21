@@ -17,11 +17,12 @@
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/management/ManagementFactoryHelper.java" timestamp="1548044156932" />
       <file name="$MAVEN_REPOSITORY$/org/jboss/xnio/xnio-api/3.3.8.Final/xnio-api-3.3.8.Final-sources.jar!/org/xnio/AutomaticReference.java" timestamp="1548050899954" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1548052014726" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeakCauseValueRefedKey.java" timestamp="1548053499418">
-        <mark key="'" line="31" column="18" />
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="22" column="7" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeakCauseValueRefedKey.java" timestamp="1548054840407">
+        <mark key="'" line="29" column="18" />
+        <mark key="[" line="44" column="60" />
+        <mark key="]" line="49" column="6" />
+        <mark key="." line="49" column="6" />
+        <mark key="^" line="49" column="6" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.22.Final/e75ce62a24c2c5dd023b5551ab720943a124a960/netty-codec-4.1.22.Final-sources.jar!/io/netty/handler/codec/serialization/SoftReferenceMap.java" timestamp="1547985206645" />
       <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar!/org/apache/commons/collections/map/ReferenceMap.java" timestamp="1547989565502" />
@@ -148,13 +149,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogPGxpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2tlck1hcDEucHV0KGtleTEsIHZhbHVlMSk7CiAgICAgICAgICAgICAgICBsb2NrZXJNYXAyLnB1dChrZXkyLCB2YWx1ZTIpOwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>KeyClass</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -163,31 +164,31 @@
         <text encoding="base64">ICogPGxpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogPHA+IGxvY2tlck1hcDIg55qEIGtleSDlsLHmr5TovoPlubjov5DvvIzmsqHmnInku7vkvZXlhbbku5bnmoRzdHJvbmcgcmVmZXJlbmNlcy4KICogPHA+IGxvY2tlck1hcDEg55qEIGtleSDlsLHmg6jkuobvvIzmgLvmnIlWYWx1ZUNsYXNzLmtleSDlvLrlvJXnlKjlvJXnlKjkuoblroPvvIzmiYDku6UgbG9ja2VyTWFwMSDlpKnnlJ/lrozkuI3miJDlroPnmoTkvb/lkb3kuobvvIzov5nlsLHmmK9XZWFrSGFzaE1hcOeahOW4uOingemUmeivr+eUqOazle+8mnZhbHVlIOW8uuW8leeUqOS6hiBrZXkhIQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2tlck1hcDEucHV0KGtleTEsIHZhbHVlMSk7CiAgICAgICAgICAgICAgICBsb2NrZXJNYXAyLnB1dChrZXkyLCB2YWx1ZTIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTb2Z0UmVmZXJlbmNlPEludGVnZXI+IHJlZiA9IG5ldyBTb2Z0UmVmZXJlbmNlPEludGVnZXI+KCk7IAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltZVVuaXQuU0VDT05EUy5zbGVlcCgyKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogIFJldHVybnMgdGhlIGN1cnJlbnQgdGhyZWFkJ3MgdW5pcXVlIElELCBhc3NpZ25pbmcgaXQgaWYgbmVjZXNzYXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoa2V5RGVtbyA9PSBudWxsKXsKICAgICAgICAgICAgICAgIGtleURlbW8gPSBrZXkxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogPHA+IGxvY2tlck1hcDIg55qEIGtleSDlsLHmr5TovoPlubjov5DvvIzmsqHmnInku7vkvZXlhbbku5bnmoRzdHJvbmcgcmVmZXJlbmNlcy4KICogPHA+IGxvY2tlck1hcDEg55qEIGtleSDlsLHmg6jkuobvvIzmgLvmnIlWYWx1ZUNsYXNzLmtleSDlvLrlvJXnlKjlvJXnlKjkuoblroPvvIzmiYDku6UgbG9ja2VyTWFwMSDlpKnnlJ/lrozkuI3miJDlroPnmoTkvb/lkb3kuobvvIzov5nlsLHmmK9XZWFrSGFzaE1hcOeahOW4uOingemUmeivr+eUqOazle+8mnZhbHVlIOW8uuW8leeUqOS6hiBrZXkhIQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICBTb2Z0UmVmZXJlbmNlPEludGVnZXI+IHJlZiA9IG5ldyBTb2Z0UmVmZXJlbmNlPEludGVnZXI+KCk7IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgS2V5Q2wK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZVVuaXQuU0VDT05EUy5zbGVlcCgyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogIFJldHVybnMgdGhlIGN1cnJlbnQgdGhyZWFkJ3MgdW5pcXVlIElELCBhc3NpZ25pbmcgaXQgaWYgbmVjZXNzYXJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
