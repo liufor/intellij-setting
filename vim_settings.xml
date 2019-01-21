@@ -17,12 +17,11 @@
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/management/ManagementFactoryHelper.java" timestamp="1548044156932" />
       <file name="$MAVEN_REPOSITORY$/org/jboss/xnio/xnio-api/3.3.8.Final/xnio-api-3.3.8.Final-sources.jar!/org/xnio/AutomaticReference.java" timestamp="1548050899954" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1548052014726" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeakCauseValueRefedKey.java" timestamp="1548052205875">
-        <mark key="'" line="28" column="18" />
-        <mark key="[" line="58" column="8" />
-        <mark key="]" line="56" column="6" />
-        <mark key="." line="56" column="6" />
-        <mark key="^" line="56" column="6" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeakCauseValueRefedKey.java" timestamp="1548053499418">
+        <mark key="'" line="31" column="18" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.22.Final/e75ce62a24c2c5dd023b5551ab720943a124a960/netty-codec-4.1.22.Final-sources.jar!/io/netty/handler/codec/serialization/SoftReferenceMap.java" timestamp="1547985206645" />
       <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar!/org/apache/commons/collections/map/ReferenceMap.java" timestamp="1547989565502" />
@@ -35,7 +34,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/6.0.9.Final/7e11c321d34f623ea1e1f2a843961f2a15f74e99/hibernate-validator-6.0.9.Final-sources.jar!/org/hibernate/validator/internal/util/ConcurrentReferenceHashMap.java" timestamp="1547979012624" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/javafx-src.zip!/com/sun/javafx/binding/BidirectionalBinding.java" timestamp="1548041771937" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.22.Final/e75ce62a24c2c5dd023b5551ab720943a124a960/netty-codec-4.1.22.Final-sources.jar!/io/netty/handler/codec/serialization/ReferenceMap.java" timestamp="1547985182242" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" timestamp="1548041456312" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" timestamp="1548052401720" />
     </filemarks>
     <jumps>
       <jump line="13" column="32" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/controller/1.txt" />
@@ -148,8 +147,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Integer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogPGxpPgo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -161,34 +160,34 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogPHA+Cg==</text>
+        <text encoding="base64">ICogPGxpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTb2Z0UmVmZXJlbmNlPEludGVnZXI+IHJlZiA9IG5ldyBTb2Z0UmVmZXJlbmNlPEludGVnZXI+KCk7IAo=</text>
+        <text encoding="base64">ICogPHA+IGxvY2tlck1hcDIg55qEIGtleSDlsLHmr5TovoPlubjov5DvvIzmsqHmnInku7vkvZXlhbbku5bnmoRzdHJvbmcgcmVmZXJlbmNlcy4KICogPHA+IGxvY2tlck1hcDEg55qEIGtleSDlsLHmg6jkuobvvIzmgLvmnIlWYWx1ZUNsYXNzLmtleSDlvLrlvJXnlKjlvJXnlKjkuoblroPvvIzmiYDku6UgbG9ja2VyTWFwMSDlpKnnlJ/lrozkuI3miJDlroPnmoTkvb/lkb3kuobvvIzov5nlsLHmmK9XZWFrSGFzaE1hcOeahOW4uOingemUmeivr+eUqOazle+8mnZhbHVlIOW8uuW8leeUqOS6hiBrZXkhIQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltZVVuaXQuU0VDT05EUy5zbGVlcCgyKTsK</text>
+        <text encoding="base64">ICAgICAgICBTb2Z0UmVmZXJlbmNlPEludGVnZXI+IHJlZiA9IG5ldyBTb2Z0UmVmZXJlbmNlPEludGVnZXI+KCk7IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogIFJldHVybnMgdGhlIGN1cnJlbnQgdGhyZWFkJ3MgdW5pcXVlIElELCBhc3NpZ25pbmcgaXQgaWYgbmVjZXNzYXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZVVuaXQuU0VDT05EUy5zbGVlcCgyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogIFJldHVybnMgdGhlIGN1cnJlbnQgdGhyZWFkJ3MgdW5pcXVlIElELCBhc3NpZ25pbmcgaXQgaWYgbmVjZXNzYXJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogICAgIDwK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgS2V5Q2wK</text>
+        <text encoding="base64">ICogICAgIDwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgS2V5Q2wK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9ja2VyTWFwMy5wdXQoInN0cjMiICsgaSwgdmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
