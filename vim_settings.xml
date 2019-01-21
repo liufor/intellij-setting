@@ -11,11 +11,12 @@
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-core/src/main/java/org/springframework/util/ConcurrentReferenceHashMap.java" timestamp="1547979531074" />
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar!/com/google/common/collect/MapMaker.java" timestamp="1547990146818" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1547992511790" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeakCauseValueRefedKey.java" timestamp="1548038746772">
-        <mark key="'" line="27" column="18" />
-        <mark key="[" line="109" column="40" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/WeakHashMapMemoryLeakCauseValueRefedKey.java" timestamp="1548040039265">
+        <mark key="'" line="28" column="18" />
+        <mark key="[" line="92" column="22" />
+        <mark key="]" line="92" column="22" />
+        <mark key="." line="92" column="22" />
+        <mark key="^" line="91" column="17" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.22.Final/e75ce62a24c2c5dd023b5551ab720943a124a960/netty-codec-4.1.22.Final-sources.jar!/io/netty/handler/codec/serialization/SoftReferenceMap.java" timestamp="1547985206645" />
       <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar!/org/apache/commons/collections/map/ReferenceMap.java" timestamp="1547989565502" />
@@ -138,14 +139,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltZVVuaXQuU0VDT05EUy5zbGVlcCgyKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Apache-common-collections</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -154,31 +155,31 @@
         <text encoding="base64">ICogPHA+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltZVVuaXQuU0VDT05EUy5zbGVlcCgyKTsK</text>
+        <text encoding="base64">ICAgICAgICBTb2Z0UmVmZXJlbmNlPEludGVnZXI+IHJlZiA9IG5ldyBTb2Z0UmVmZXJlbmNlPEludGVnZXI+KCk7IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogIFJldHVybnMgdGhlIGN1cnJlbnQgdGhyZWFkJ3MgdW5pcXVlIElELCBhc3NpZ25pbmcgaXQgaWYgbmVjZXNzYXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZVVuaXQuU0VDT05EUy5zbGVlcCgyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogIFJldHVybnMgdGhlIGN1cnJlbnQgdGhyZWFkJ3MgdW5pcXVlIElELCBhc3NpZ25pbmcgaXQgaWYgbmVjZXNzYXJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogICAgIDwK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgS2V5Q2wK</text>
+        <text encoding="base64">ICogICAgIDwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgS2V5Q2wK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9ja2VyTWFwMy5wdXQoInN0cjMiICsgaSwgdmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogPHA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9ja2VyTWFwMy5wdXQoInN0cjMiICsgaSwgdmFsdWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
