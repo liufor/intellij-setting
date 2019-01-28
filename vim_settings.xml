@@ -7,6 +7,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1548406619508" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/misc/Unsafe.java" timestamp="1548140159052" />
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/hash/BloomFilterStrategies.java" timestamp="1548241914544" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-parent/pom.xml" timestamp="1548647940414">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/net/SocketWrapperBase.java" timestamp="1548303508920" />
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/event/EventRecodingLogger.java" timestamp="1548400266561" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/SocialUserService.java" timestamp="1548642227580">
@@ -24,9 +30,6 @@
         <mark key="^" line="21" column="16" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/BitSet.java" timestamp="1548241534121" />
-      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/hash/BloomFilter.java" timestamp="1548320532634">
-        <mark key="'" line="312" column="55" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1548383933512" />
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1548400986978" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/bitmap/BitSetDemo.java" timestamp="1548241572564">
@@ -44,23 +47,14 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1548317543088" />
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar!/com/google/common/hash/BloomFilter.java" timestamp="1548238727943" />
       <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9-sources.jar!/org/aspectj/lang/annotation/Aspect.java" timestamp="1548322692259" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/REF/ThreadLocalMapUseWeakKey.java" timestamp="1548068744621">
-        <mark key="[" line="40" column="59" />
-        <mark key="]" line="40" column="54" />
-        <mark key="." line="40" column="54" />
-        <mark key="^" line="40" column="54" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1548315041396" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/pom.xml" timestamp="1548647960852">
+        <mark key="[" line="11" column="26" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1548298437521" />
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar!/com/google/common/hash/BloomFilterStrategies.java" timestamp="1548238467645" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.24/9f1cecd7c757ad5dde29453d43315228bb0a7c7e/slf4j-api-1.7.24-sources.jar!/org/slf4j/helpers/SubstituteLogger.java" timestamp="1548400312480" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" timestamp="1548400426727" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/HASH/HashDemo3.java" timestamp="1548322152025">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="72" />
-        <mark key="^" line="5" column="69" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE-sources.jar!/org/springframework/data/redis/support/collections/CollectionUtils.java" timestamp="1548211275819" />
       <file name="$USER_HOME$/work/code/spring-project/spring-framework/spring-aspects/src/test/java/org/springframework/cache/aspectj/AspectJEnableCachingTests.java" timestamp="1548382733924" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcCustomerService.java" timestamp="1548390288799" />
@@ -181,13 +175,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>1.0.0-SNAPSHOT</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1.0.0-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
