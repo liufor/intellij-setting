@@ -17,12 +17,14 @@
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/BrokerController.java" timestamp="1551172776622" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1551261446497" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/AbstractSendMessageProcessor.java" timestamp="1551173981290" />
+      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/benchmark/Consumer.java" timestamp="1551274242290" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1551262674708">
         <mark key="[" line="629" column="57" />
         <mark key="]" line="632" column="0" />
         <mark key="." line="632" column="0" />
         <mark key="^" line="631" column="19" />
       </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/listener/ConsumeOrderlyStatus.java" timestamp="1551273717352" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/common/ThreadLocalIndex.java" timestamp="1551175276839" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/body/TopicConfigSerializeWrapper.java" timestamp="1551173196378" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/producer/TopicPublishInfo.java" timestamp="1551179826707" />
@@ -50,11 +52,6 @@
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/latency/MQFaultStrategy.java" timestamp="1551179711551" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/route/QueueData.java" timestamp="1551168174162" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/TopicConfig.java" timestamp="1551173268035" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeApplyResult.java" timestamp="1551242792038">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/crypto/Base64.java" timestamp="1551249760180" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisConnectionUtils.java" timestamp="1551253659493" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/namesrv/RegisterBrokerRequestHeader.java" timestamp="1551173447777" />
@@ -65,10 +62,8 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeGetRequest.java" timestamp="1551247966087">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/BaiduQzJobEntity.java" timestamp="1551240068508">
-        <mark key="[" line="139" column="25" />
-      </file>
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/kvconfig/KVConfigManager.java" timestamp="1551168670744" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientManager.java" timestamp="1551274432212" />
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/DefaultRequestProcessor.java" timestamp="1551170076127" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1551266547390">
         <mark key="[" line="172" column="75" />
