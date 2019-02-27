@@ -20,11 +20,11 @@
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/body/TopicConfigSerializeWrapper.java" timestamp="1551173196378" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/producer/TopicPublishInfo.java" timestamp="1551179826707" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/handler/codec/http/HttpHeaders.java" timestamp="1551237476648" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/GetBaiduResumeGetResult.java" timestamp="1551248861453">
-        <mark key="[" line="54" column="30" />
-        <mark key="]" line="54" column="18" />
-        <mark key="^" line="54" column="18" />
-        <mark key="." line="54" column="18" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/GetBaiduResumeGetResult.java" timestamp="1551249838300">
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="57" column="17" />
+        <mark key="^" line="57" column="17" />
+        <mark key="." line="57" column="17" />
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/body/RegisterBrokerBody.java" timestamp="1551173519020" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageQueue.java" timestamp="1551174134108" />
@@ -40,6 +40,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/crypto/Base64.java" timestamp="1551249760180" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/namesrv/RegisterBrokerRequestHeader.java" timestamp="1551173447777" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingClient.java" timestamp="1551170650661" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/BaiduJobTasks.java" timestamp="1551233138121" />
@@ -179,13 +180,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>strlen</text>
+        <text>length</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>strlen</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
