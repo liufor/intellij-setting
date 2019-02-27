@@ -8,7 +8,7 @@
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/routeinfo/RouteInfoManager.java" timestamp="1551173761105" />
       <file name="$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.2.RELEASE/lettuce-core-5.1.2.RELEASE-sources.jar!/io/lettuce/core/RedisConnectionException.java" timestamp="1551256851840" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/JsonHelper.java" timestamp="1551260111569" />
-      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/BrokerController.java" timestamp="1551172776622" />
+      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/BrokerController.java" timestamp="1551283567037" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1551261446497" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/AbstractSendMessageProcessor.java" timestamp="1551173981290" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/admin/DefaultMQAdminExtImpl.java" timestamp="1551279570002" />
@@ -22,7 +22,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE-sources.jar!/org/springframework/data/redis/connection/lettuce/LettuceConnectionFactory.java" timestamp="1551253672082" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/handler/codec/http/HttpHeaders.java" timestamp="1551237476648" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RocketMqProducerConfiguration.java" timestamp="1551279031388" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551280925572" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551284988585" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/body/RegisterBrokerBody.java" timestamp="1551173519020" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/utils/HttpTinyClient.java" timestamp="1551277900555" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageQueue.java" timestamp="1551174134108" />
@@ -33,18 +33,19 @@
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/latency/MQFaultStrategy.java" timestamp="1551179711551" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/route/QueueData.java" timestamp="1551168174162" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/TopicConfig.java" timestamp="1551173268035" />
+      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/slave/SlaveSynchronize.java" timestamp="1551284418240" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/crypto/Base64.java" timestamp="1551249760180" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisConnectionUtils.java" timestamp="1551253659493" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/namesrv/RegisterBrokerRequestHeader.java" timestamp="1551173447777" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.3/jackson-databind-2.8.3-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1551261737788" />
-      <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingClient.java" timestamp="1551280449972" />
+      <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingClient.java" timestamp="1551283499936" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/BaiduJobTasks.java" timestamp="1551233138121" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/monitor/MonitorService.java" timestamp="1551278256357" />
-      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/out/BrokerOuterAPI.java" timestamp="1551280988808" />
+      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/out/BrokerOuterAPI.java" timestamp="1551285476308" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1551279093911" />
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/kvconfig/KVConfigManager.java" timestamp="1551168670744" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientManager.java" timestamp="1551275406852" />
-      <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/DefaultRequestProcessor.java" timestamp="1551170076127" />
+      <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/DefaultRequestProcessor.java" timestamp="1551282999172" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.7.RELEASE/spring-web-4.3.7.RELEASE-sources.jar!/org/springframework/web/multipart/support/DefaultMultipartHttpServletRequest.java" timestamp="1551237409749" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/handler/codec/http/multipart/HttpPostRequestDecoder.java" timestamp="1551237454060" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baidu_baipin.xml" timestamp="1551239027725" />
