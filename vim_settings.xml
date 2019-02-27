@@ -29,6 +29,11 @@
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/latency/MQFaultStrategy.java" timestamp="1551179711551" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/route/QueueData.java" timestamp="1551168174162" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/TopicConfig.java" timestamp="1551173268035" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeApplyResult.java" timestamp="1551242792038">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/namesrv/RegisterBrokerRequestHeader.java" timestamp="1551173447777" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingClient.java" timestamp="1551170650661" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/BaiduJobTasks.java" timestamp="1551233138121" />
@@ -38,10 +43,11 @@
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/kvconfig/KVConfigManager.java" timestamp="1551168670744" />
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/DefaultRequestProcessor.java" timestamp="1551170076127" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1551241949249">
-        <mark key="[" line="129" column="11" />
-        <mark key="]" line="129" column="11" />
-        <mark key="." line="129" column="11" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1551243471200">
+        <mark key="[" line="145" column="20" />
+        <mark key="]" line="145" column="19" />
+        <mark key="." line="145" column="19" />
+        <mark key="^" line="145" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.7.RELEASE/spring-web-4.3.7.RELEASE-sources.jar!/org/springframework/web/multipart/support/DefaultMultipartHttpServletRequest.java" timestamp="1551237409749" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/handler/codec/http/multipart/HttpPostRequestDecoder.java" timestamp="1551237454060" />
@@ -163,14 +169,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldAo=</text>
+      <register name="&quot;" type="4">
+        <text>jsonp</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Response</text>
+        <text>jsonp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -179,31 +185,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGpvYl9jaXR5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldAo=</text>
+        <text encoding="base64">ICAgICAgICBVUkxFbmNvZGVkVXRpbHMucGFyc2UobmV3IFVSSSh1cmwpLCBDaGFyc2V0LmZvck5hbWUoIlVURi04IikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGpvYl9jaXR5Owo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCIgICAgICAgIDxpc19kaXJlY3Q+IikuYXBwZW5kKCIxIikuYXBwZW5kKCI8L2lzX2RpcmVjdD4iKS5hcHBlbmQoIlxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICArK2NvdW50Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQmFpZHVSZXN1bWVBcHBseVJlc3VsdCBnZXRJbnN0YW5jZSgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3JpYWwoSW50ZWdlci5NQVhfVkFMVUUpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICoqKiBqYXZhLmxhbmcuaW5zdHJ1bWVudCBBU1NFUlRJT04gRkFJTEVEICoqKjogIiFlcnJvck91dHN0YW5kaW5nIiB3aXRoIG1lc3NhZ2UgdHJhbnNmb3JtIG1ldGhvZCBjYWxsIGZhaWxlZCBhdCBKUExJU0FnZW50LmMgbGluZTogODQ0CioqKiBqYXZhLmxhbmcuaW5zdHJ1bWVudCBBU1NFUlRJT04gRkFJTEVEICoqKjogIiFlcnJvck91dHN0YW5kaW5nIiB3aXRoIG1lc3NhZ2UgdHJhbnNmb3JtIG1ldGhvZCBjYWxsIGZhaWxlZCBhdCBKUExJU0FnZW50LmMgbGluZTogODQ0CioqKiBqYXZhLmxhbmcuaW5zdHJ1bWVudCBBU1NFUlRJT04gRkFJTEVEICoqKjogIiFlcnJvck91dHN0YW5kaW5nIiB3aXRoIG1lc3NhZ2UgdHJhbnNmb3JtIG1ldGhvZCBjYWxsIGZhaWxlZCBhdCBKUExJU0FnZW50LmMgbGluZTogODQ0CkV4Y2VwdGlvbiBpbiB0aHJlYWQgIm1haW4iIGphdmEubGFuZy5TdGFja092ZXJmbG93RXJybw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGdldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGpvYl9jaXR5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCIgICAgICAgIDxpc19kaXJlY3Q+IikuYXBwZW5kKCIxIikuYXBwZW5kKCI8L2lzX2RpcmVjdD4iKS5hcHBlbmQoIlxuIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
