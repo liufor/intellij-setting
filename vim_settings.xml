@@ -21,7 +21,7 @@
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/common/ThreadLocalIndex.java" timestamp="1551175276839" />
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/ClusterTestRequestProcessor.java" timestamp="1551288885284" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RocketMqConsumerConfiguration.java" timestamp="1551279022927" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/ClientConfig.java" timestamp="1551324059886" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/ClientConfig.java" timestamp="1551326942561" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/body/TopicConfigSerializeWrapper.java" timestamp="1551173196378" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/producer/TopicPublishInfo.java" timestamp="1551179826707" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE-sources.jar!/org/springframework/data/redis/connection/lettuce/LettuceConnectionFactory.java" timestamp="1551253672082" />
@@ -32,6 +32,9 @@
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/body/RegisterBrokerBody.java" timestamp="1551173519020" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/utils/HttpTinyClient.java" timestamp="1551277900555" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageQueue.java" timestamp="1551174134108" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResume.java" timestamp="1551241572520">
+        <mark key="[" line="2" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE-sources.jar!/org/springframework/data/redis/connection/lettuce/LettucePoolingConnectionProvider.java" timestamp="1551253416112" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/RemotingClient.java" timestamp="1551275057842" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/namesrv/TopAddressing.java" timestamp="1551280166963" />
@@ -53,6 +56,9 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/BaiduJobTasks.java" timestamp="1551233138121" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/monitor/MonitorService.java" timestamp="1551278256357" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/out/BrokerOuterAPI.java" timestamp="1551285476308" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeGetRequest.java" timestamp="1551247966087">
+        <mark key="[" line="2" column="13" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-common/4.3.0/rocketmq-common-4.3.0.jar!/org/apache/rocketmq/common/protocol/heartbeat/ConsumeType.class" timestamp="1551318552388" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullMessageService.java" timestamp="1551287944351" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1551279093911" />
@@ -69,12 +75,15 @@
         <mark key="]" line="97" column="74" />
         <mark key="." line="97" column="74" />
       </file>
-      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/MixAll.java" timestamp="1551325826376" />
+      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/MixAll.java" timestamp="1551327045856" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/WorkService.java" timestamp="1551262389229" />
       <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/ordermessage/Producer.java" timestamp="1551178364349" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/producer/selector/SelectMessageQueueByHash.java" timestamp="1551176878296" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/command/message/CheckMsgSendRTCommand.java" timestamp="1551176981422" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/factory/MQClientInstance.java" timestamp="1551324687877" />
+      <file name="/fragment.java" timestamp="1551327053234">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="1" filename="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/consts.js" />
