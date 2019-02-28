@@ -3,9 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeDto.java" timestamp="1551262589420">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.3/jackson-databind-2.8.3-sources.jar!/com/fasterxml/jackson/databind/util/JSONPObject.java" timestamp="1551261586339" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/producer/DefaultMQProducerImpl.java" timestamp="1551347885833" />
-      <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/routeinfo/RouteInfoManager.java" timestamp="1551173761105" />
+      <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/routeinfo/RouteInfoManager.java" timestamp="1551349364902" />
       <file name="$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.2.RELEASE/lettuce-core-5.1.2.RELEASE-sources.jar!/io/lettuce/core/RedisConnectionException.java" timestamp="1551256851840" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPullConsumerImpl.java" timestamp="1551287116329" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/test/java/org/apache/rocketmq/client/consumer/DefaultMQPushConsumerTest.java" timestamp="1551288235156" />
@@ -18,12 +24,19 @@
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/body/ConsumerConnection.java" timestamp="1551318850480" />
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/ha/HAConnection.java" timestamp="1551339704459" />
       <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/benchmark/Consumer.java" timestamp="1551274242290" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1551262674708">
+        <mark key="[" line="629" column="57" />
+        <mark key="]" line="632" column="0" />
+        <mark key="." line="632" column="0" />
+        <mark key="^" line="631" column="19" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/test/java/org/apache/rocketmq/tools/command/topic/TopicRouteSubCommandTest.java" timestamp="1551345378452" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/listener/ConsumeOrderlyStatus.java" timestamp="1551273717352" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/test/java/org/apache/rocketmq/tools/command/connection/ConsumerConnectionSubCommandTest.java" timestamp="1551318768496" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/client/ClientHousekeepingService.java" timestamp="1551334220584" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/common/ThreadLocalIndex.java" timestamp="1551175276839" />
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/ClusterTestRequestProcessor.java" timestamp="1551288885284" />
+      <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/DefaultMessageStore.java" timestamp="1551351617084" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RocketMqConsumerConfiguration.java" timestamp="1551279022927" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/ClientConfig.java" timestamp="1551326942561" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/body/TopicConfigSerializeWrapper.java" timestamp="1551173196378" />
@@ -34,6 +47,18 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1551340329408" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RocketMqProducerConfiguration.java" timestamp="1551340358931" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/AdminBrokerProcessor.java" timestamp="1551335354683" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeApplyResponse.java" timestamp="1551263571679">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/GetBaiduResumeGetResult.java" timestamp="1551266581627">
+        <mark key="[" line="63" column="67" />
+        <mark key="]" line="63" column="37" />
+        <mark key="." line="63" column="37" />
+        <mark key="^" line="63" column="37" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/CreateTopic.java" timestamp="1551345217733">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="3" />
@@ -42,26 +67,31 @@
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551348023099" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/body/RegisterBrokerBody.java" timestamp="1551173519020" />
+      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1551353230824">
+        <mark key="[" line="54" column="33" />
+        <mark key="]" line="54" column="32" />
+        <mark key="^" line="54" column="32" />
+        <mark key="." line="54" column="32" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/FilterServerOuterAPI.java" timestamp="1551334810377" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/utils/HttpTinyClient.java" timestamp="1551277900555" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageQueue.java" timestamp="1551174134108" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResume.java" timestamp="1551241572520">
+        <mark key="[" line="2" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE-sources.jar!/org/springframework/data/redis/connection/lettuce/LettucePoolingConnectionProvider.java" timestamp="1551253416112" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/RemotingClient.java" timestamp="1551275057842" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/namesrv/TopAddressing.java" timestamp="1551280166963" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/namesrv/NamesrvConfig.java" timestamp="1551329196234" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/SendMessageRequestHeader.java" timestamp="1551178017870" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyServerConfig.java" timestamp="1551341438258" />
+      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/SendMessageProcessor.java" timestamp="1551351645244" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/latency/MQFaultStrategy.java" timestamp="1551179711551" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/route/QueueData.java" timestamp="1551168174162" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/TopicConfig.java" timestamp="1551173268035" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/command/topic/UpdateTopicSubCommand.java" timestamp="1551331653047" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/slave/SlaveSynchronize.java" timestamp="1551284418240" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeApplyResult.java" timestamp="1551242792038">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/BrokerStartup.java" timestamp="1551342733116" />
+      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/BrokerStartup.java" timestamp="1551350037255" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/crypto/Base64.java" timestamp="1551249760180" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisConnectionUtils.java" timestamp="1551253659493" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/namesrv/RegisterBrokerRequestHeader.java" timestamp="1551173447777" />
@@ -70,24 +100,37 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/BaiduJobTasks.java" timestamp="1551233138121" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/monitor/MonitorService.java" timestamp="1551278256357" />
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/CommitLog.java" timestamp="1551343861568" />
-      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Producer.java" timestamp="1551347099348">
-        <mark key="[" line="33" column="60" />
-        <mark key="]" line="33" column="60" />
-        <mark key="." line="33" column="60" />
+      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Producer.java" timestamp="1551352722750">
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="59" column="41" />
+        <mark key="." line="59" column="41" />
+        <mark key="^" line="59" column="41" />
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/out/BrokerOuterAPI.java" timestamp="1551285476308" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeGetRequest.java" timestamp="1551247966087">
+        <mark key="[" line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/client/net/Broker2Client.java" timestamp="1551335633102" />
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-common/4.3.0/rocketmq-common-4.3.0.jar!/org/apache/rocketmq/common/protocol/heartbeat/ConsumeType.class" timestamp="1551318552388" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/BaiduQzJobEntity.java" timestamp="1551240068508">
+        <mark key="[" line="139" column="25" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/FiltersrvController.java" timestamp="1551331493683" />
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/MessageStore.java" timestamp="1551343963014" />
-      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/BrokerConfig.java" timestamp="1551344651370" />
+      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/BrokerConfig.java" timestamp="1551350487504" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullMessageService.java" timestamp="1551287944351" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1551279093911" />
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/kvconfig/KVConfigManager.java" timestamp="1551168670744" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientManager.java" timestamp="1551288637571" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/command/MQAdminStartup.java" timestamp="1551331888474" />
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/ha/HAService.java" timestamp="1551339596816" />
-      <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/DefaultRequestProcessor.java" timestamp="1551282999172" />
+      <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/DefaultRequestProcessor.java" timestamp="1551349549719" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1551266547390">
+        <mark key="[" line="172" column="75" />
+        <mark key="]" line="172" column="74" />
+        <mark key="." line="172" column="74" />
+        <mark key="^" line="172" column="74" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.7.RELEASE/spring-web-4.3.7.RELEASE-sources.jar!/org/springframework/web/multipart/support/DefaultMultipartHttpServletRequest.java" timestamp="1551237409749" />
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/config/MessageStoreConfig.java" timestamp="1551331358769" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final-sources.jar!/io/netty/handler/codec/http/multipart/HttpPostRequestDecoder.java" timestamp="1551237454060" />
@@ -95,21 +138,28 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baidu_baipin.xml" timestamp="1551239027725" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/consumer/ConsumeFromWhere.java" timestamp="1551318858247" />
       <file name="$USER_HOME$/work/code/rocketmq/test/src/test/java/org/apache/rocketmq/test/client/producer/async/AsyncSendExceptionIT.java" timestamp="1551178108111" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPushConsumerImpl.java" timestamp="1551287224969">
-        <mark key="[" line="97" column="74" />
-        <mark key="]" line="97" column="74" />
-        <mark key="." line="97" column="74" />
-      </file>
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/MixAll.java" timestamp="1551340272696" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyClientConfig.java" timestamp="1551333366575" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/WorkService.java" timestamp="1551262389229" />
+      <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/RunningFlags.java" timestamp="1551351952222">
+        <mark key="[" line="71" column="34" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/NamesrvStartup.java" timestamp="1551329525679" />
       <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/ordermessage/Producer.java" timestamp="1551178364349" />
+      <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingServer.java" timestamp="1551335092623">
+        <mark key="[" line="120" column="66" />
+        <mark key="]" line="120" column="65" />
+        <mark key="^" line="120" column="65" />
+        <mark key="." line="120" column="65" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/producer/selector/SelectMessageQueueByHash.java" timestamp="1551176878296" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/command/message/CheckMsgSendRTCommand.java" timestamp="1551176981422" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/PullMessageProcessor.java" timestamp="1551343710398" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/command/broker/CleanExpiredCQSubCommand.java" timestamp="1551331758104" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/factory/MQClientInstance.java" timestamp="1551347993440" />
+      <file name="/fragment.java" timestamp="1551350943303">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="1" filename="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/consts.js" />
