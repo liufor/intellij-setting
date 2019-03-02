@@ -5,71 +5,95 @@
     <filemarks>
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/longpolling/PullRequestHoldService.java" timestamp="1551523996634" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/DefaultMQPullConsumer.java" timestamp="1551520136351" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPullConsumerImpl.java" timestamp="1551521453458" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPullConsumerImpl.java" timestamp="1551534890208" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/BrokerController.java" timestamp="1551524149571" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1551531334491">
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1551533398030">
         <mark key="[" line="207" column="100" />
         <mark key="]" line="207" column="98" />
         <mark key="." line="207" column="98" />
         <mark key="^" line="207" column="98" />
       </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalanceService.java" timestamp="1551533975589">
+        <mark key="[" line="40" column="12" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/PullMessageRequestHeader.java" timestamp="1551521833672" />
-      <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingAbstract.java" timestamp="1551526355499" />
+      <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingAbstract.java" timestamp="1551536806530" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1551531828860">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="14" column="8" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551526326712" />
-      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1551530170285">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/RequestCode.java" timestamp="1551536123866" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551536696011">
+        <mark key="[" line="594" column="108" />
+        <mark key="]" line="594" column="110" />
+        <mark key="." line="594" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullAPIWrapper.java" timestamp="1551524462327">
+      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1551533450258">
+        <mark key="[" line="74" column="16" />
+        <mark key="]" line="73" column="74" />
+        <mark key="." line="73" column="74" />
+        <mark key="^" line="73" column="74" />
+      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullAPIWrapper.java" timestamp="1551535888310">
         <mark key="[" line="148" column="32" />
         <mark key="]" line="148" column="32" />
         <mark key="." line="148" column="32" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeApplyResult.java" timestamp="1551242792038">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/DefaultMQPushConsumer.java" timestamp="1551537571106" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalancePushImpl.java" timestamp="1551533108515" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullRequest.java" timestamp="1551538835647">
+        <mark key="[" line="66" column="102" />
+        <mark key="]" line="66" column="102" />
+        <mark key="^" line="66" column="26" />
+        <mark key="." line="66" column="102" />
       </file>
-      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/SyncConsumer.java" timestamp="1551519579526">
-        <mark key="[" line="70" column="21" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ProcessQueue.java" timestamp="1551538211922">
+        <mark key="[" line="128" column="66" />
+        <mark key="]" line="128" column="59" />
+        <mark key="^" line="128" column="59" />
+        <mark key="." line="128" column="59" />
       </file>
-      <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingClient.java" timestamp="1551526337612" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/BaiduJobTasks.java" timestamp="1551429989271">
-        <mark key="[" line="35" column="75" />
-        <mark key="]" line="35" column="75" />
-        <mark key="." line="35" column="75" />
-      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingClient.java" timestamp="1551535938882" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullResultExt.java" timestamp="1551520645404" />
-      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Producer.java" timestamp="1551519773492">
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="28" />
-        <mark key="." line="58" column="28" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/BaiduQzJobEntity.java" timestamp="1551240068508">
+        <mark key="[" line="139" column="25" />
       </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageOrderlyService.java" timestamp="1551532184172" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/BrokerConfig.java" timestamp="1551522798367" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullMessageService.java" timestamp="1551525316426" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPushConsumerImpl.java" timestamp="1551531046374">
-        <mark key="[" line="291" column="45" />
-        <mark key="]" line="291" column="53" />
-        <mark key="." line="291" column="0" />
-        <mark key="^" line="286" column="43" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullMessageService.java" timestamp="1551533837842" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalanceImpl.java" timestamp="1551532988381" />
+      <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/ha/HAService.java" timestamp="1551514129322">
+        <mark key="[" line="175" column="68" />
+      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/store/RemoteBrokerOffsetStore.java" timestamp="1551534918102" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPushConsumerImpl.java" timestamp="1551538194672">
+        <mark key="[" line="340" column="116" />
+        <mark key="]" line="81" column="42" />
+        <mark key="." line="81" column="42" />
+        <mark key="^" line="81" column="42" />
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/stat/ConsumerStatsManager.java" timestamp="1551526582971" />
+      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/ResponseCode.java" timestamp="1551537066942" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/MixAll.java" timestamp="1551522298539">
         <mark key="[" line="350" column="45" />
         <mark key="]" line="352" column="0" />
         <mark key="." line="352" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/PullMessageProcessor.java" timestamp="1551524267475" />
-      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/simple/PullConsumer.java" timestamp="1551520613680" />
+      <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/RunningFlags.java" timestamp="1551351952222">
+        <mark key="[" line="71" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaidujobUtil.java" timestamp="1551423211059">
+        <mark key="[" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/PullMessageProcessor.java" timestamp="1551536218173" />
+      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/simple/PullConsumer.java" timestamp="1551535789782">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/factory/MQClientInstance.java" timestamp="1551533792968" />
       <file name="/fragment.java" timestamp="1551526819375">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
@@ -188,47 +212,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getMsgCount</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>OnSuccess</text>
+        <text>getMsgCount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsLnByaW50RGV0YWlsKCJwdWxsTWVzc2FnZUJlZ2luIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEF0b21pY0ludGVnZXIgaW5zdGFuY2VDb3VudGVyID0gbmV3IEF0b21pY0ludGVnZXIoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVXRpbC5wcmludERldGFpbCgicHVsbE1lc3NhZ2VBc3luYzpjYWxsYmFjayIscmVzcG9uc2UuZ2V0Q29kZSgpLHJlc3BvbnNlLmdldE9wYXF1ZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tLS0tIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRlYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lci51cGRhdGVDb25zdW1lT2Zmc2V0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZW1vdGVCcm9rZXJPZmZzZXRTdG9yZSBvZmZzZXRTdG9yZT0gbmV3IFJlbW90ZUJyb2tlck9mZnNldFN0b3JlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZW1vdGVCcm9rZXJPZmZzZXRTdG9yZSBvZmZzZXRTdG9yZT0gbmV3IFJlbW90ZUJyb2tlck9mZnNldFN0b3JlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkrIjpwdWxsTWVzc2FnZU9uU3VjY2VzcyIgKyAiOmJlZ2luOiIgKyAoYmVnaW5UaW1lc3RhbXApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tLS0tIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRlYyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>605</text>
