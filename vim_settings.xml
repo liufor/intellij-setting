@@ -7,9 +7,26 @@
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/DefaultMQPullConsumer.java" timestamp="1551520136351" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPullConsumerImpl.java" timestamp="1551521453458" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/BrokerController.java" timestamp="1551524149571" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1551531228482">
+        <mark key="[" line="207" column="100" />
+        <mark key="]" line="207" column="98" />
+        <mark key="." line="207" column="98" />
+        <mark key="^" line="207" column="98" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/PullMessageRequestHeader.java" timestamp="1551521833672" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingAbstract.java" timestamp="1551526355499" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1551531093514">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551526326712" />
+      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1551530170285">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullAPIWrapper.java" timestamp="1551524462327">
         <mark key="[" line="148" column="32" />
         <mark key="]" line="148" column="32" />
@@ -39,10 +56,11 @@
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/BrokerConfig.java" timestamp="1551522798367" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullMessageService.java" timestamp="1551525316426" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPushConsumerImpl.java" timestamp="1551527007847">
-        <mark key="[" line="289" column="41" />
-        <mark key="]" line="97" column="74" />
-        <mark key="." line="97" column="74" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPushConsumerImpl.java" timestamp="1551531046374">
+        <mark key="[" line="291" column="45" />
+        <mark key="]" line="291" column="53" />
+        <mark key="." line="291" column="0" />
+        <mark key="^" line="286" column="43" />
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/stat/ConsumerStatsManager.java" timestamp="1551526582971" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/MixAll.java" timestamp="1551522298539">
@@ -170,47 +188,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>group+&quot; &quot;+&quot;&quot;+&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBVdGlsLnByaW50RGV0YWlsKCJwdWxsTWVzc2FnZUJlZ2luIik7Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>group+&quot; &quot;+&quot;&quot;+&quot;</text>
+        <text>OnSuccess</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtcUFsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVdGlsLnByaW50RGV0YWlsKCJwdWxsTWVzc2FnZUJlZ2luIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkrIjpwdWxsTWVzc2FnZU9uU3VjY2VzcyIgKyAiOmJlZ2luOiIgKyAoYmVnaW5UaW1lc3RhbXApKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwdWxsUmVzdWx0KTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5yZWdpc3Rlck1lc3NhZ2VRdWV1ZUxpc3RlbmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5yZWcK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0SGFMaXN0ZW5Qb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRocmVhZDoiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5nZXRBbGxvY2F0ZU1lc3NhZ2VRdWV1ZVN0cmF0ZWd5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIENvbnN1bWVSZXF1ZXN0IGltcGxlbWVudHMgUnVubmFibGUgewo=</text>
       </register>
       <register name=":" type="4">
         <text>605</text>
