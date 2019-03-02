@@ -7,7 +7,7 @@
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/DefaultMQPullConsumer.java" timestamp="1551520136351" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPullConsumerImpl.java" timestamp="1551521453458" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/BrokerController.java" timestamp="1551524149571" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1551531228482">
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1551531334491">
         <mark key="[" line="207" column="100" />
         <mark key="]" line="207" column="98" />
         <mark key="." line="207" column="98" />
@@ -15,11 +15,11 @@
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/PullMessageRequestHeader.java" timestamp="1551521833672" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingAbstract.java" timestamp="1551526355499" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1551531093514">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1551531828860">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551526326712" />
       <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1551530170285">
@@ -189,7 +189,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsLnByaW50RGV0YWlsKCJwdWxsTWVzc2FnZUJlZ2luIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -204,31 +204,31 @@
         <text encoding="base64">ICAgICAgICBVdGlsLnByaW50RGV0YWlsKCJwdWxsTWVzc2FnZUJlZ2luIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkrIjpwdWxsTWVzc2FnZU9uU3VjY2VzcyIgKyAiOmJlZ2luOiIgKyAoYmVnaW5UaW1lc3RhbXApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tLS0tIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRlYyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkrIjpwdWxsTWVzc2FnZU9uU3VjY2VzcyIgKyAiOmJlZ2luOiIgKyAoYmVnaW5UaW1lc3RhbXApKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRocmVhZDoiICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIENvbnN1bWVSZXF1ZXN0IGltcGxlbWVudHMgUnVubmFibGUgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>605</text>
