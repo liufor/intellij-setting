@@ -43,11 +43,11 @@
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/MessageExtBrokerInner.java" timestamp="1551406482886" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551412816489" />
-      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1551501005227">
-        <mark key="[" line="37" column="101" />
-        <mark key="]" line="54" column="32" />
-        <mark key="^" line="54" column="32" />
-        <mark key="." line="54" column="32" />
+      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1551510324804">
+        <mark key="[" line="60" column="46" />
+        <mark key="]" line="61" column="40" />
+        <mark key="^" line="61" column="40" />
+        <mark key="." line="61" column="40" />
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/FilterServerOuterAPI.java" timestamp="1551334810377" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/MainTest.java" timestamp="1551431880874">
@@ -116,7 +116,7 @@
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/PullMessageProcessor.java" timestamp="1551366912857" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/command/broker/CleanExpiredCQSubCommand.java" timestamp="1551331758104" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/factory/MQClientInstance.java" timestamp="1551496894598" />
-      <file name="/fragment.java" timestamp="1551501009150">
+      <file name="/fragment.java" timestamp="1551510711041">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -136,6 +136,12 @@
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/client/ClientHousekeepingService.java" timestamp="1551440793577" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/common/ThreadLocalIndex.java" timestamp="1551175276839" />
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/ClusterTestRequestProcessor.java" timestamp="1551288885284" />
+      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer2.java" timestamp="1551511517757">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/ClientConfig.java" timestamp="1551439754707" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/body/TopicConfigSerializeWrapper.java" timestamp="1551173196378" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingAbstract.java" timestamp="1551441054090" />
@@ -178,7 +184,7 @@
       <file name="$USER_HOME$/work/code/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/FiltersrvController.java" timestamp="1551331493683" />
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/MessageStore.java" timestamp="1551343963014" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullMessageService.java" timestamp="1551287944351" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalanceImpl.java" timestamp="1551500398934" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalanceImpl.java" timestamp="1551509977894" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1551279093911" />
       <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/kvconfig/KVConfigManager.java" timestamp="1551168670744" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/command/MQAdminStartup.java" timestamp="1551331888474" />
@@ -187,7 +193,7 @@
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/store/LocalFileOffsetStore.java" timestamp="1551495595924" />
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/config/MessageStoreConfig.java" timestamp="1551365543612" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baidu_baipin.xml" timestamp="1551423514740" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPushConsumerImpl.java" timestamp="1551503616895">
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPushConsumerImpl.java" timestamp="1551510527778">
         <mark key="[" line="97" column="74" />
         <mark key="]" line="97" column="74" />
         <mark key="." line="97" column="74" />
@@ -319,14 +325,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>String.valueOf(System.currentTimeMillis())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -335,28 +341,28 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnB1dCgiZXJyQ291bnQiLCBtYXAuZ2V0KCJlcnJDb3VudCIpICsgcmVzdWx0LmdldCgiZXJyQ291bnQiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWNlci4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCA7IGkrKykgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBydW5PbmUoImluc3RhbmNlNCIpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBydW5PbmUoImluc3RhbmNlMyIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBydW5PbmUoImluc3RhbmNlMiIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nLnZhbHVlT2YoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29uc3VtZXIuZyk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWNlci4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
