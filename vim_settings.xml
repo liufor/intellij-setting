@@ -15,16 +15,25 @@
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/test/java/org/apache/rocketmq/tools/command/offset/ResetOffsetByTimeCommandTest.java" timestamp="1551694086562" />
       <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/admin/DefaultMQAdminExtImpl.java" timestamp="1551694269777" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageExt.java" timestamp="1551696630035" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1551689030196">
+        <mark key="[" line="394" column="106" />
+        <mark key="]" line="394" column="11" />
+        <mark key="." line="394" column="11" />
+        <mark key="^" line="394" column="11" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/listener/ConsumeOrderlyStatus.java" timestamp="1551687776672" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/rocketmq/RocketMqProducerService.java" timestamp="1551707159232" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/client/ClientHousekeepingService.java" timestamp="1551693779053" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalanceService.java" timestamp="1551693372617">
-        <mark key="[" line="40" column="12" />
-      </file>
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/DefaultMessageStore.java" timestamp="1551694624001" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/ClientConfig.java" timestamp="1551689709363" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/PullMessageRequestHeader.java" timestamp="1551521833672" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingAbstract.java" timestamp="1551678150059" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1551531828860">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalancePullImpl.java" timestamp="1551677802687" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/ResetOffsetRequestHeader.java" timestamp="1551694750405" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/RequestCode.java" timestamp="1551706497782" />
@@ -38,6 +47,7 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQAdminImpl.java" timestamp="1551709906489" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/store/OffsetStore.java" timestamp="1551690206125" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullAPIWrapper.java" timestamp="1551535888310">
         <mark key="[" line="148" column="32" />
@@ -45,9 +55,21 @@
         <mark key="." line="148" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageQueue.java" timestamp="1551539547608" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/DefaultMQPushConsumer.java" timestamp="1551687582690" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalancePushImpl.java" timestamp="1551674528798" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/DefaultMQPushConsumer.java" timestamp="1551708901544" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalancePushImpl.java" timestamp="1551709975685" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/rocketmq/MqPushMessageListener.java" timestamp="1551707046840" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullRequest.java" timestamp="1551538835647">
+        <mark key="[" line="66" column="102" />
+        <mark key="]" line="66" column="102" />
+        <mark key="^" line="66" column="26" />
+        <mark key="." line="66" column="102" />
+      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ProcessQueue.java" timestamp="1551692392531">
+        <mark key="[" line="128" column="66" />
+        <mark key="]" line="128" column="59" />
+        <mark key="^" line="128" column="59" />
+        <mark key="." line="128" column="59" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/header/namesrv/RegisterBrokerRequestHeader.java" timestamp="1551691898647" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyRemotingClient.java" timestamp="1551692670311" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullResultExt.java" timestamp="1551520645404" />
@@ -56,11 +78,24 @@
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageOrderlyService.java" timestamp="1551689193044" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/BrokerConfig.java" timestamp="1551522798367" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullMessageService.java" timestamp="1551685333442" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalanceImpl.java" timestamp="1551677743738" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/RebalanceImpl.java" timestamp="1551709811613" />
       <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/topic/TopicConfigManager.java" timestamp="1551691975043" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/store/RemoteBrokerOffsetStore.java" timestamp="1551689535130" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/consumer/store/RemoteBrokerOffsetStore.java" timestamp="1551710183447" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/RequestTask.java" timestamp="1551573776158" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1551682264977">
+        <mark key="[" line="104" column="9" />
+        <mark key="]" line="103" column="52" />
+        <mark key="." line="103" column="52" />
+        <mark key="^" line="103" column="52" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/ConsumeQueue.java" timestamp="1551694730745" />
+      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/consumer/ConsumeFromWhere.java" timestamp="1551710242073" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/DefaultMQPushConsumerImpl.java" timestamp="1551689667329">
+        <mark key="[" line="340" column="116" />
+        <mark key="]" line="81" column="42" />
+        <mark key="." line="81" column="42" />
+        <mark key="^" line="81" column="42" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/stat/ConsumerStatsManager.java" timestamp="1551526582971" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/ResponseCode.java" timestamp="1551537066942" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/MixAll.java" timestamp="1551522298539">
@@ -79,6 +114,12 @@
         <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/factory/MQClientInstance.java" timestamp="1551689318471" />
+      <file name="/fragment.java" timestamp="1551710137598">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="7" filename="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/tree.js" />
