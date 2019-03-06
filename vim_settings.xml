@@ -3,94 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1551783406258" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.1/rocketmq-client-4.3.1-sources.jar!/org/apache/rocketmq/client/producer/SendCallback.java" timestamp="1551771299559" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/producer/DefaultMQProducerImpl.java" timestamp="1551774916941" />
-      <file name="$USER_HOME$/work/code/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/routeinfo/RouteInfoManager.java" timestamp="1551782654887" />
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/producer/internals/DefaultPartitioner.java" timestamp="1551773311508" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduResumeController.java" timestamp="1551851483263">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/api/RequestOrResponse.scala" timestamp="1551770088638" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1551711136233">
-        <mark key="[" line="394" column="106" />
-        <mark key="]" line="394" column="11" />
-        <mark key="." line="394" column="11" />
-        <mark key="^" line="394" column="11" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1551873495372">
-        <mark key="[" line="690" column="15" />
-        <mark key="]" line="690" column="15" />
-        <mark key="." line="690" column="15" />
-        <mark key="^" line="204" column="30" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/tools/ConsumerOffsetChecker.scala" timestamp="1551784206807" />
-      <file name="$USER_HOME$/.ideaLibSources/spring-kafka-1.1.7.RELEASE-sources.jar!/org/springframework/kafka/listener/KafkaMessageListenerContainer.java" timestamp="1551783078907" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/Main02.java" timestamp="1551870128602">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-      </file>
-      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/processor/ClientManageProcessor.java" timestamp="1551775927821" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/stack/BlockedDemo.java" timestamp="1551839347655">
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-      </file>
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/producer/KafkaProducer.java" timestamp="1551773072901" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/api/OffsetRequest.scala" timestamp="1551769353013" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1551531828860">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="14" column="8" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/rocketmq/tools/src/main/java/org/apache/rocketmq/tools/command/topic/UpdateTopicPermSubCommand.java" timestamp="1551782008798" />
-      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageConst.java" timestamp="1551755669383">
-        <mark key="[" line="28" column="64" />
-        <mark key="]" line="28" column="64" />
-        <mark key="." line="28" column="64" />
-      </file>
-      <file name="$USER_HOME$/.ideaLibSources/kafka_2.11-0.10.1.1-sources.jar!/kafka/tools/ReplayLogProducer.scala" timestamp="1551783791216" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeApplyResponse.java" timestamp="1551876751199">
-        <mark key="[" line="40" column="48" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
-      </file>
-      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/RequestCode.java" timestamp="1551781951786" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/GetBaiduResumeGetResult.java" timestamp="1551871349015">
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="16" />
-        <mark key="^" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-      </file>
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/common/requests/AbstractRequest.java" timestamp="1551776515443" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551782048578">
-        <mark key="[" line="586" column="43" />
-        <mark key="]" line="586" column="43" />
-        <mark key="." line="586" column="43" />
-      </file>
-      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1551697428966">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicReference.java" timestamp="1551865654313" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQAdminImpl.java" timestamp="1551782629621" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullAPIWrapper.java" timestamp="1551535888310">
-        <mark key="[" line="148" column="32" />
-        <mark key="]" line="148" column="32" />
-        <mark key="." line="148" column="32" />
-      </file>
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java" timestamp="1551772162825" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/api/FetchResponse.scala" timestamp="1551770076791" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/utils/ZkUtils.scala" timestamp="1551784039378" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/io/File.java" timestamp="1551860890068" />
-      <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/netty/NettyEncoder.java" timestamp="1551769771705" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeDto.java" timestamp="1551885614149" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullRequest.java" timestamp="1551538835647">
         <mark key="[" line="66" column="102" />
         <mark key="]" line="66" column="102" />
@@ -103,33 +16,55 @@
         <mark key="^" line="128" column="59" />
         <mark key="." line="128" column="59" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.1/rocketmq-client-4.3.1-sources.jar!/org/apache/rocketmq/client/producer/DefaultMQProducer.java" timestamp="1551771290561" />
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/common/serialization/LongSerializer.java" timestamp="1551772993103" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicLong.java" timestamp="1551865586675" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.1/rocketmq-client-4.3.1-sources.jar!/org/apache/rocketmq/client/producer/SendStatus.java" timestamp="1551771196667" />
-      <file name="$USER_HOME$/.ideaLibSources/kafka_2.11-0.10.1.1-sources.jar!/kafka/server/KafkaApis.scala" timestamp="1551783610984" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/lib/tools.jar!/sun/tools/attach/BsdVirtualMachine.class" timestamp="1551848924718" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/api/FetchRequest.scala" timestamp="1551769252278" />
-      <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/tools/jstack/JStack.java" timestamp="1551860760094" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/api/ApiUtils.scala" timestamp="1551769646074" />
-      <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/com/sun/tools/attach/VirtualMachine.java" timestamp="1551860837684" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/network/Handler.scala" timestamp="1551770427756" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/coordinator/GroupCoordinator.scala" timestamp="1551775966028" />
-      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/Message.java" timestamp="1551772046546" />
-      <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/protocol/RemotingCommand.java" timestamp="1551769844630" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/network/SocketServer.scala" timestamp="1551770130237" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduResumeController.java" timestamp="1551851483263">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1551887624235">
+        <mark key="[" line="955" column="0" />
+        <mark key="]" line="955" column="0" />
+        <mark key="^" line="959" column="17" />
+        <mark key="." line="955" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1551711136233">
+        <mark key="[" line="394" column="106" />
+        <mark key="]" line="394" column="11" />
+        <mark key="." line="394" column="11" />
+        <mark key="^" line="394" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1551887435750">
+        <mark key="[" line="728" column="52" />
+        <mark key="]" line="730" column="0" />
+        <mark key="." line="730" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/Main02.java" timestamp="1551870128602">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/stack/BlockedDemo.java" timestamp="1551839347655">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1551877610161">
         <mark key="[" line="252" column="9" />
         <mark key="]" line="250" column="34" />
         <mark key="." line="250" column="34" />
         <mark key="^" line="250" column="34" />
       </file>
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/common/requests/JoinGroupRequest.java" timestamp="1551775258704" />
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java" timestamp="1551778196732" />
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/common/utils/Utils.java" timestamp="1551783398130" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baidu_baipin.xml" timestamp="1551829656242" />
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/producer/SendCallback.java" timestamp="1551771556249" />
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/producer/Callback.java" timestamp="1551770973628" />
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1551531828860">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/common/Oper.java" timestamp="1551886636625" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1551886642056">
+        <mark key="[" line="368" column="16" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/HttpUtil.java" timestamp="1551870025639">
         <mark key="[" line="48" column="61" />
         <mark key="]" line="48" column="59" />
@@ -142,23 +77,59 @@
         <mark key="." line="81" column="42" />
         <mark key="^" line="81" column="42" />
       </file>
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/producer/Producer.java" timestamp="1551770900828" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/MixAll.java" timestamp="1551522298539">
         <mark key="[" line="350" column="45" />
         <mark key="]" line="352" column="0" />
         <mark key="." line="352" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/common/protocol/ApiKeys.java" timestamp="1551776459326" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1551834026789" />
-      <file name="$USER_HOME$/work/code/rocketmq/broker/src/main/java/org/apache/rocketmq/broker/client/DefaultConsumerIdsChangeListener.java" timestamp="1551775841420" />
-      <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/consumer/internals/SubscriptionState.java" timestamp="1551783352790" />
+      <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/MessageConst.java" timestamp="1551755669383">
+        <mark key="[" line="28" column="64" />
+        <mark key="]" line="28" column="64" />
+        <mark key="." line="28" column="64" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeApplyResponse.java" timestamp="1551876751199">
+        <mark key="[" line="40" column="48" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="27" />
+        <mark key="^" line="38" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/GetBaiduResumeGetResult.java" timestamp="1551871349015">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="16" />
+        <mark key="^" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduResumeService.java" timestamp="1551887191665">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551782048578">
+        <mark key="[" line="586" column="43" />
+        <mark key="]" line="586" column="43" />
+        <mark key="." line="586" column="43" />
+      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1551697428966">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullAPIWrapper.java" timestamp="1551535888310">
+        <mark key="[" line="148" column="32" />
+        <mark key="]" line="148" column="32" />
+        <mark key="." line="148" column="32" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/simple/PullConsumer.java" timestamp="1551535789782">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/factory/MQClientInstance.java" timestamp="1551774892722" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/api/ProducerRequest.scala" timestamp="1551769156622" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/rocketmq/Topics.java" timestamp="1551878581674">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="63" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduApplyResult.java" timestamp="1551876791548">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="19" />
@@ -284,46 +255,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>BaiduResumeApplyResponse</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0YXR1czEoMSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0KCIxIixhcHAxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEb3plckNvbnZlcnRVdGlsLmNvbnZlcnQoKSAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihqb2JTZXJ2aWNlLmdldCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgbWFwUmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQmFpZHVSZXN1bWVFbnRpdHlNYXBwZXIgYmFpZHVSZXN1bWVFbnRpdHlNYXBwZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICBiZEFwcGx5TWFwcGVyLnNlbGVjdENvdW50KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFQUExZX1dPUktfU1VDQ0VTU0VTLmdldChmdW5jdGlvbk5hbWVXaXRoUHJlZml4KQo=</text>
+        <text encoding="base64">ICAgICAgICBjcml0ZXJpYS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJhaWR1am9iVXRpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGFtcGxlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbnROb2RlIHIK</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmQuc2V0Sm9iSWQoam9iSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>24</text>
