@@ -56,7 +56,12 @@
       </file>
       <file name="$USER_HOME$/.ideaLibSources/kafka_2.11-0.10.1.1-sources.jar!/kafka/tools/ReplayLogProducer.scala" timestamp="1551783791216" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/RequestCode.java" timestamp="1551781951786" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/GetBaiduResumeGetResult.java" timestamp="1551861961947" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/GetBaiduResumeGetResult.java" timestamp="1551871349015">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="16" />
+        <mark key="^" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/common/requests/AbstractRequest.java" timestamp="1551776515443" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1551782048578">
         <mark key="[" line="586" column="43" />
@@ -107,11 +112,11 @@
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/Message.java" timestamp="1551772046546" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/protocol/RemotingCommand.java" timestamp="1551769844630" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/network/SocketServer.scala" timestamp="1551770130237" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1551870228844">
-        <mark key="[" line="193" column="46" />
-        <mark key="]" line="277" column="0" />
-        <mark key="." line="277" column="0" />
-        <mark key="^" line="277" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1551872034536">
+        <mark key="[" line="214" column="41" />
+        <mark key="]" line="225" column="44" />
+        <mark key="." line="225" column="43" />
+        <mark key="^" line="225" column="43" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/common/requests/JoinGroupRequest.java" timestamp="1551775258704" />
       <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java" timestamp="1551778196732" />
@@ -266,47 +271,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>resumeResult.decrypt()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBBUFBMWV9XT1JLX0VYQ0VQVElPTjsK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>resumeResult.decrypt()</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCIgICAgPGxvYz4iKS5hcHBlbmQoZXNjYXBlci5lc2NhcGUocXpKb2IuZ2V0TG9jKCkrIiZwb3N0aWQ9IitxekpvYi5nZXRKb2JJZCgpKSkuYXBwZW5kKCI8L2xvYz4iKS5hcHBlbmQoIlxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBBUFBMWV9XT1JLX0VYQ0VQVElPTjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LiAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHJlc3VtZVJlc3VsdCA9IG5ldyBHZXRCYWlkdVJlc3VtZUdldFJlc3VsdChyZXN1bWVSZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5pbXBsLmNsaWVudC5IdHRwQ2xpZW50czsK</text>
+        <text encoding="base64">LiAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5pbXBsLmNsaWVudC5DbG9zZWFibGVIdHRwQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdW1lUmVzID0gbmV3IFN0cmluZyhyZXN1bWVEYXRhLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5pbXBsLmNsaWVudC5IdHRwQ2xpZW50czsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5pbXBsLmNsaWVudC5DbG9zZWFibGVIdHRwQ2xpZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhRGVmYXVsdC4K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdW1lUmVzID0gbmV3IFN0cmluZyhyZXN1bWVEYXRhLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDbG9zZWFibGVIdHRwQ2xpZW50IGFEZWZhdWx0ID0gSHR0cENsaWVudHMuY3JlYXRlRGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhRGVmYXVsdC4K</text>
       </register>
       <register name=":" type="4">
         <text>24</text>
