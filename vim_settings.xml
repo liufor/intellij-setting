@@ -39,6 +39,7 @@
       </file>
       <file name="$USER_HOME$/.ideaLibSources/kafka_2.11-0.10.1.1-sources.jar!/kafka/tools/ReplayLogProducer.scala" timestamp="1551783791216" />
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/protocol/RequestCode.java" timestamp="1551781951786" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/GetBaiduResumeGetResult.java" timestamp="1551861961947" />
       <file name="$USER_HOME$/.ideaLibSources/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/common/requests/AbstractRequest.java" timestamp="1551776515443" />
       <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1551697428966">
         <mark key="[" line="84" column="0" />
@@ -70,7 +71,7 @@
       <file name="$USER_HOME$/work/code/rocketmq/common/src/main/java/org/apache/rocketmq/common/message/Message.java" timestamp="1551772046546" />
       <file name="$USER_HOME$/work/code/rocketmq/remoting/src/main/java/org/apache/rocketmq/remoting/protocol/RemotingCommand.java" timestamp="1551769844630" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.10.1.1/kafka_2.11-0.10.1.1-sources.jar!/kafka/network/SocketServer.scala" timestamp="1551770130237" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1551852786039">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1551862651209">
         <mark key="[" line="287" column="71" />
         <mark key="]" line="277" column="0" />
         <mark key="." line="277" column="0" />
@@ -254,7 +255,7 @@
         <text encoding="base64">ICAgICAgICBjb25zdW1lci51cGRhdGVDb25zdW1lT2Zmc2V0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>605</text>
+        <text>24</text>
       </register>
     </registers>
     <search>
@@ -290,7 +291,6 @@
         <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
-        <entry>963</entry>
         <entry>3101</entry>
         <entry>80</entry>
         <entry>1076</entry>
@@ -310,6 +310,7 @@
         <entry>429</entry>
         <entry>737</entry>
         <entry>605</entry>
+        <entry>24</entry>
       </history-cmd>
       <history-expr />
       <history-input />
