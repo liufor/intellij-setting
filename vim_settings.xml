@@ -5,9 +5,6 @@
     <filemarks>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeDto.java" timestamp="1551885614149" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/APISample_06_Descriptions.java" timestamp="1552024580409" />
-      <file name="/a.dummy" timestamp="1552023291277">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/util/LibC.java" timestamp="1551949939853" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/target/generated-sources/annotations/com/liufor/visibility/HappendBeforeOnlyWorkOnPairAction_NonVolatileCounters_jcstress.java" timestamp="1552025700351" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1551711136233">
@@ -67,6 +64,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/Hbs.java" timestamp="1552060694893">
+        <mark key="[" line="73" column="29" />
+        <mark key="]" line="74" column="40" />
+        <mark key="." line="74" column="40" />
+        <mark key="^" line="74" column="40" />
+      </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/ConcurrencySample_02_ConcurrentHashMap.java" timestamp="1552024035777" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullRequest.java" timestamp="1551538835647">
         <mark key="[" line="66" column="102" />
@@ -100,7 +103,7 @@
       </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/APISample_04_Nesting.java" timestamp="1552023643829" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/production/dic.xml" timestamp="1552040076506" />
-      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/HappendBeforeOnlyWorkOnPairAction.java" timestamp="1552042297284">
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/HappendBeforeOnlyWorkOnPairAction.java" timestamp="1552058285019">
         <mark key="[" line="239" column="39" />
         <mark key="]" line="239" column="39" />
         <mark key="." line="239" column="39" />
@@ -125,11 +128,11 @@
         <mark key="." line="81" column="42" />
         <mark key="^" line="81" column="42" />
       </file>
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/sugar/TestY.java" timestamp="1552054347288">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/sugar/TestY.java" timestamp="1552060469352">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/VolatileCounters.java" timestamp="1552022655998" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduResumeService.java" timestamp="1551887191665">
@@ -265,46 +268,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RocmVhZC5zbGVlcCgwKTsKICAgICAgICAgICAgICAgICAgICBUaHJlYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVyYXRpb25Db3VudCsrOwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ACCEPTABLE</text>
+        <text>volatile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjEiLCBleHBlY3QgPSBFeHBlY3QuQUNDRVBUQUJMRSwgZGVzYyA9ICJsb3N0IHVwZGF0ZSIpCg==</text>
+        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjEsIDEiLCBleHBlY3QgPSBFeHBlY3QuQUNDRVBUQUJMRSwgZGVzYyA9ICIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RocmVhZC5zbGVlcCgwKTsKICAgICAgICAgICAgICAgICAgICBUaHJlYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVyYXRpb25Db3VudCsrOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHggIT0gMSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihob2xkZXIueCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIucjEgPSB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIucjEgPSB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgci5yMSA9IHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>24</text>
