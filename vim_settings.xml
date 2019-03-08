@@ -25,6 +25,7 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/IdentEntEntity.java" timestamp="1551889873698" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/IdentController.java" timestamp="1551889908449" />
+      <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/init/primitives/fenced/BooleanFencedTest.java" timestamp="1552036875308" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/stack/BlockedDemo.java" timestamp="1551839347655">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="22" column="22" />
@@ -37,6 +38,7 @@
         <mark key="." line="37" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/localvariable/LocalVariableCantAvoidReorderingTest.java" timestamp="1552022291425" />
+      <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/future/ThreadNames.java" timestamp="1552036838273" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-graphite/3.1.1/7349e4dd5a34acaed299bb4d58684518b36f049b/metrics-graphite-3.1.1-sources.jar!/com/codahale/metrics/graphite/GraphiteSender.java" timestamp="1552017789828" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1551531828860">
         <mark key="[" line="6" column="0" />
@@ -89,23 +91,25 @@
         <mark key="." line="955" column="71" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1551889756727" />
+      <file name="$USER_HOME$/conf/nginx/hosts/production/pay.server" timestamp="1552037571921" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/NonVolatileCounters.java" timestamp="1552023118434">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/APISample_04_Nesting.java" timestamp="1552023643829" />
-      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/HappendBeforeOnlyWorkOnPairAction.java" timestamp="1552033555050">
-        <mark key="[" line="127" column="24" />
-        <mark key="]" line="127" column="24" />
-        <mark key="." line="127" column="24" />
-        <mark key="^" line="148" column="29" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/production/dic.xml" timestamp="1552038282208" />
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/HappendBeforeOnlyWorkOnPairAction.java" timestamp="1552036618995">
+        <mark key="[" line="69" column="32" />
+        <mark key="]" line="69" column="32" />
+        <mark key="." line="69" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/sugar/ForeachDemo.java" timestamp="1552017670323">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1552037745818" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baidu_baipin.xml" timestamp="1551925755571" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/HttpUtil.java" timestamp="1551870025639">
         <mark key="[" line="48" column="61" />
@@ -139,7 +143,7 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1552025457924">
+      <file name="/fragment.java" timestamp="1552034983633">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="2" />
@@ -258,13 +262,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>LostUpdate</text>
+        <text>1000000</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>LostUpdate</text>
+        <text>1000000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
