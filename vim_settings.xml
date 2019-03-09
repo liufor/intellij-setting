@@ -14,11 +14,11 @@
         <mark key="^" line="394" column="11" />
       </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/volatiles/IRIWTest.java" timestamp="1552028029988" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1552136153718">
-        <mark key="[" line="172" column="47" />
-        <mark key="]" line="184" column="37" />
-        <mark key="^" line="184" column="37" />
-        <mark key="." line="184" column="37" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1552137648037">
+        <mark key="[" line="198" column="62" />
+        <mark key="]" line="198" column="32" />
+        <mark key="^" line="198" column="32" />
+        <mark key="." line="198" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/IdentEntEntity.java" timestamp="1551889873698" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/IdentController.java" timestamp="1551889908449" />
@@ -57,6 +57,12 @@
         <mark key="." line="31" column="16" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat/trunk/src/main/java/com/jzc/wechat/dao/facade/TradeHistoryDaoFacade.java" timestamp="1552039290589" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1552136913480">
+        <mark key="[" line="1862" column="58" />
+        <mark key="]" line="1865" column="46" />
+        <mark key="." line="1865" column="46" />
+        <mark key="^" line="1865" column="46" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/3.2.5/b385b4254766b7343733bb422ffeda3e10e10b34/metrics-core-3.2.5-sources.jar!/com/codahale/metrics/ScheduledReporter.java" timestamp="1552017725243" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/rocketmq/Topics.java" timestamp="1551878581674">
         <mark key="[" line="4" column="41" />
@@ -71,6 +77,7 @@
         <mark key="^" line="74" column="40" />
       </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/ConcurrencySample_02_ConcurrentHashMap.java" timestamp="1552024035777" />
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/index/query/RangeQueryBuilder.java" timestamp="1552136716279" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullRequest.java" timestamp="1551538835647">
         <mark key="[" line="66" column="102" />
         <mark key="]" line="66" column="102" />
@@ -114,7 +121,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1552131049104">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1552136783933">
         <mark key="[" line="156" column="92" />
         <mark key="]" line="156" column="91" />
         <mark key="." line="156" column="91" />
@@ -273,13 +280,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBcGlQYXJhbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtCg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>map.get(&quot;successCount&quot;) + result.get(&quot;successCount&quot;)</text>
+        <text>highJobId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -288,31 +295,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UpIExvbmcgaGlnaEpvYklkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBcGlQYXJhbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdC5nZXQoMCkuZ2V0d2VKb2JJZCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBBcGlQYXJhbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgTG9uZz4gbWFwID0gYmFpZHVKb2JTZXJ2aWNlLmNvbnZlcnRGcm9tRXNUb0RiTG9vcChjaXR5T3B0KTsKICAgICAgICAgICAgcmVzdWx0LnB1dCgiZXJyQ291bnQiLCBtYXAuZ2V0KCJlcnJDb3VudCIpICsgcmVzdWx0LmdldCgiZXJyQ291bnQiKSk7CiAgICAgICAgICAgIHJlc3VsdC5wdXQoInN1Y2Nlc3NDb3VudCIsIG1hcC5nZXQoInN1Y2Nlc3NDb3VudCIpICsgcmVzdWx0LmdldCgic3VjY2Vzc0NvdW50IikpOwo=</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVyYXRpb25Db3VudCsrOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgwKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgTG9uZz4gbWFwID0gYmFpZHVKb2JTZXJ2aWNlLmNvbnZlcnRGcm9tRXNUb0RiTG9vcChjaXR5T3B0KTsKICAgICAgICAgICAgcmVzdWx0LnB1dCgiZXJyQ291bnQiLCBtYXAuZ2V0KCJlcnJDb3VudCIpICsgcmVzdWx0LmdldCgiZXJyQ291bnQiKSk7CiAgICAgICAgICAgIHJlc3VsdC5wdXQoInN1Y2Nlc3NDb3VudCIsIG1hcC5nZXQoInN1Y2Nlc3NDb3VudCIpICsgcmVzdWx0LmdldCgic3VjY2Vzc0NvdW50IikpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVyYXRpb25Db3VudCsrOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHggIT0gMSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
