@@ -32,6 +32,12 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/IdentEntEntity.java" timestamp="1551889873698" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1552203752470" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/IdentController.java" timestamp="1551889908449" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/Main02.java" timestamp="1552217873239">
+        <mark key="[" line="29" column="68" />
+        <mark key="]" line="29" column="67" />
+        <mark key="." line="29" column="67" />
+        <mark key="^" line="29" column="67" />
+      </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/init/primitives/fenced/BooleanFencedTest.java" timestamp="1552036875308" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-core/src/main/java/org/openjdk/jcstress/annotations/Outcome.java" timestamp="1552187793550" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/stack/BlockedDemo.java" timestamp="1551839347655">
@@ -117,6 +123,7 @@
       </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/ConcurrencySample_02_ConcurrentHashMap.java" timestamp="1552189958681" />
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/index/query/RangeQueryBuilder.java" timestamp="1552136716279" />
+      <file name="$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/protocol/Protocol.java" timestamp="1552218495713" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullRequest.java" timestamp="1551538835647">
         <mark key="[" line="66" column="102" />
         <mark key="]" line="66" column="102" />
@@ -162,19 +169,19 @@
         <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/APISample_04_Nesting.java" timestamp="1552023643829" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1552215114389">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1552217809409">
         <mark key="[" line="299" column="26" />
-        <mark key="]" line="299" column="25" />
-        <mark key="." line="299" column="25" />
-        <mark key="^" line="299" column="25" />
+        <mark key="]" line="299" column="50" />
+        <mark key="." line="299" column="50" />
+        <mark key="^" line="299" column="50" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/methods/PostMethod.java" timestamp="1552214754970" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/production/dic.xml" timestamp="1552040076506" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/MySSLProtocolSocketFactory.java" timestamp="1552215790306">
-        <mark key="[" line="83" column="13" />
-        <mark key="]" line="82" column="30" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="75" column="16" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/MySSLProtocolSocketFactory.java" timestamp="1552218285173">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/ResumeEducation.java" timestamp="1552192422319" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1552213236416">
@@ -362,47 +369,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGl5dW4ub3NzLmNvbW1vbi5jb21tLlByb3RvY29sOwo=</text>
+      <register name="&quot;" type="4">
+        <text>security</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>getApiUrl</text>
+        <text>security</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjEsIDAsIDEiLCBleHBlY3QgPSBFeHBlY3QuQUNDRVBUQUJMRSxkZXNjID0gIlQxIHdpbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3NsY29udGV4dC5pbml0KG51bGwsIG5ldyBUcnVzdE1hbmFnZXJbXXtuZXcgVHJ1c3RBbnlUcnVzdE1hbmFnZXIoKX0sIG5ldyBqYXZhLnNlY3VyaXR5LlNlY3VyZVJhbmRvbSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGl5dW4ub3NzLmNvbW1vbi5jb21tLlByb3RvY29sOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdmkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNvY2tldDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGl5dW4ub3NzLmNvbW1vbi5jb21tLlByb3RvY29sOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNvY2tldDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhcHBsaWNhdGlvbi9qc29uIiwK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL0h0dHBIb3N0IGh0dHBIb3N0ID0gbmV3IEh0dHBIb3N0KGppYW5saUNvbmZpZy5nZXRIb3N0KCksLTEsIFByb3RvY29sLmdldFByb3RvY29sKCJodHRwcyIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhcHBsaWNhdGlvbi9qc29uIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDbG9zZWFibGVIdHRwQ2xpZW50IGh0dHBDbGllbnQgPSBIdHRwVXRpbC5nZXRIdHRwQ2xpZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0h0dHBIb3N0IGh0dHBIb3N0ID0gbmV3IEh0dHBIb3N0KGppYW5saUNvbmZpZy5nZXRIb3N0KCksLTEsIFByb3RvY29sLmdldFByb3RvY29sKCJodHRwcyIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwQ2xpZW50LmV4ZWN1dGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBDbG9zZWFibGVIdHRwQ2xpZW50IGh0dHBDbGllbnQgPSBIdHRwVXRpbC5nZXRIdHRwQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXQK</text>
+        <text encoding="base64">ICAgICAgICBodHRwQ2xpZW50LmV4ZWN1dGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
