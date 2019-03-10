@@ -91,13 +91,13 @@
         <mark key="." line="74" column="40" />
         <mark key="^" line="74" column="40" />
       </file>
-      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/jdkclass/MapTest.java" timestamp="1552188568065">
-        <mark key="[" line="64" column="45" />
-        <mark key="]" line="64" column="45" />
-        <mark key="." line="64" column="45" />
-        <mark key="^" line="63" column="53" />
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/jdkclass/MapTest.java" timestamp="1552190371398">
+        <mark key="[" line="191" column="27" />
+        <mark key="]" line="194" column="15" />
+        <mark key="." line="194" column="15" />
+        <mark key="^" line="194" column="15" />
       </file>
-      <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/ConcurrencySample_02_ConcurrentHashMap.java" timestamp="1552024035777" />
+      <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/ConcurrencySample_02_ConcurrentHashMap.java" timestamp="1552189958681" />
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0-sources.jar!/org/elasticsearch/index/query/RangeQueryBuilder.java" timestamp="1552136716279" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/PullRequest.java" timestamp="1551538835647">
         <mark key="[" line="66" column="102" />
@@ -177,7 +177,7 @@
         <mark key="[" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-graphite/3.1.1/7349e4dd5a34acaed299bb4d58684518b36f049b/metrics-graphite-3.1.1-sources.jar!/com/codahale/metrics/graphite/GraphiteReporter.java" timestamp="1552017833041" />
-      <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/ConcurrencySample_01_OperationAtomicity.java" timestamp="1552024215333" />
+      <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/ConcurrencySample_01_OperationAtomicity.java" timestamp="1552190060140" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduApplyResult.java" timestamp="1551876791548">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="19" />
@@ -302,14 +302,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ACCEPTABLE_INTERESTING</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ACCEPTABLE_INTERESTING</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -318,31 +318,31 @@
         <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjEsIDAsIDEiLCBleHBlY3QgPSBFeHBlY3QuQUNDRVBUQUJMRSxkZXNjID0gIlQxIHdpbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjEsIDIsIDIiLCBleHBlY3QgPSBFeHBlY3QuQUNDRVBUQUJMRV9JTlRFUkVTVElORyxkZXNjID0gIlQyIHdpbiwgYnV0IFQxIGFsc28gZW50ZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIucjEgPSBvYmplY3RUczEuZ2V0VHMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYob2JqZWN0VHMgPT0gbnVsbCl7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS5iY2VsLmludGVybmFsLmdlbmVyaWMuTkVXOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0VHMgb2JqZWN0VHMgPSBtYXAucHV0SWZBYnNlbnQoa2V5LCBvYmplY3RUczEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeC5zZXROYW1lKHJlc3VtZS5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjEsIDIsIDIiLCBleHBlY3QgPSBFeHBlY3QuQUNDRVBUQUJMRV9JTlRFUkVTVElORyxkZXNjID0gIlQyIHdpbiwgYnV0IFQxIGFsc28gZW50ZXIiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4LnNldE5hbWUocmVzdW1lLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeC5zZXRFbWFpbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS5iY2VsLmludGVybmFsLmdlbmVyaWMuTkVXOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4LnNldFBob25lKHJlc3VtZS5nZXRNb2JpbGUoKSk7CiAgICAgICAgeC5zZXRFbWFpbChyZXN1bWUuZ2V0RW1haWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeC5zZXROYW1lKHJlc3VtZS5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
