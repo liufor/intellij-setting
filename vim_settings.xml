@@ -5,9 +5,6 @@
     <filemarks>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeDto.java" timestamp="1551885614149" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/APISample_06_Descriptions.java" timestamp="1552024580409" />
-      <file name="/a.dummy" timestamp="1552023291277">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baiduresume/BaiduResumeController.java" timestamp="1552141851925">
         <mark key="[" line="17" column="65" />
         <mark key="]" line="17" column="63" />
@@ -16,6 +13,7 @@
       </file>
       <file name="$USER_HOME$/work/code/rocketmq/store/src/main/java/org/apache/rocketmq/store/util/LibC.java" timestamp="1551949939853" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/target/generated-sources/annotations/com/liufor/visibility/HappendBeforeOnlyWorkOnPairAction_NonVolatileCounters_jcstress.java" timestamp="1552025700351" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeIndexService.java" timestamp="1552205273144" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1551711136233">
         <mark key="[" line="394" column="106" />
         <mark key="]" line="394" column="11" />
@@ -23,13 +21,14 @@
         <mark key="^" line="394" column="11" />
       </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/volatiles/IRIWTest.java" timestamp="1552028029988" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1552144682729">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1552206095993">
         <mark key="[" line="278" column="36" />
         <mark key="]" line="278" column="34" />
         <mark key="^" line="278" column="34" />
         <mark key="." line="278" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/IdentEntEntity.java" timestamp="1551889873698" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1552203752470" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/IdentController.java" timestamp="1551889908449" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/init/primitives/fenced/BooleanFencedTest.java" timestamp="1552036875308" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-core/src/main/java/org/openjdk/jcstress/annotations/Outcome.java" timestamp="1552187793550" />
@@ -41,7 +40,7 @@
       </file>
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/localvariable/LocalVariableCantAvoidReorderingTest.java" timestamp="1552022291425" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/future/ThreadNames.java" timestamp="1552036838273" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/util/StringLogic.java" timestamp="1552191290549" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/util/StringLogic.java" timestamp="1552203906278" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-graphite/3.1.1/7349e4dd5a34acaed299bb4d58684518b36f049b/metrics-graphite-3.1.1-sources.jar!/com/codahale/metrics/graphite/GraphiteSender.java" timestamp="1552017789828" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1551531828860">
         <mark key="[" line="6" column="0" />
@@ -50,9 +49,6 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/common/Oper.java" timestamp="1551886636625" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1552144309607">
-        <mark key="[" line="319" column="34" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduResumeApplyResponse.java" timestamp="1551876751199">
         <mark key="[" line="40" column="48" />
         <mark key="]" line="38" column="27" />
@@ -113,11 +109,17 @@
         <mark key="^" line="128" column="59" />
         <mark key="." line="128" column="59" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujianlizhitou/BaidujianliDto.java" timestamp="1552192357922">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujianlizhitou/BaidujianliDto.java" timestamp="1552203258093">
         <mark key="[" line="288" column="0" />
         <mark key="]" line="42" column="13" />
         <mark key="." line="42" column="13" />
         <mark key="^" line="42" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/IntentionQzSalary.java" timestamp="1552204228330">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" timestamp="1551888939867">
         <mark key="[" line="955" column="72" />
@@ -129,11 +131,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1552191193692" />
       <file name="$USER_HOME$/conf/nginx/hosts/production/pay.server" timestamp="1552037571921" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/APISample_04_Nesting.java" timestamp="1552023643829" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1552192619767">
-        <mark key="[" line="68" column="9" />
-        <mark key="]" line="73" column="40" />
-        <mark key="." line="73" column="40" />
-        <mark key="^" line="73" column="40" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1552206077923">
+        <mark key="[" line="50" column="51" />
+        <mark key="]" line="73" column="38" />
+        <mark key="." line="73" column="38" />
+        <mark key="^" line="73" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/production/dic.xml" timestamp="1552040076506" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/ResumeEducation.java" timestamp="1552192422319" />
@@ -149,7 +151,17 @@
         <mark key="." line="239" column="39" />
         <mark key="^" line="240" column="48" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Random.java" timestamp="1552204371150" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/DistrictService.java" timestamp="1552191400126" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1552205294214">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="783" column="49" />
+        <mark key="]" line="783" column="15" />
+        <mark key="^" line="783" column="15" />
+        <mark key="." line="783" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/WorkManaController.java" timestamp="1552204264679" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/ResumeController.java" timestamp="1552203724451" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1552141453864">
         <mark key="[" line="156" column="92" />
         <mark key="]" line="156" column="91" />
@@ -173,9 +185,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentMap.java" timestamp="1552187160328" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/VolatileCounters.java" timestamp="1552022655998" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/volatiles/ReadAfterReadTest.java" timestamp="1552031259897" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujianlizhitou/Baidujianli.java" timestamp="1552141950630">
-        <mark key="[" line="2" column="24" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-graphite/3.1.1/7349e4dd5a34acaed299bb4d58684518b36f049b/metrics-graphite-3.1.1-sources.jar!/com/codahale/metrics/graphite/GraphiteReporter.java" timestamp="1552017833041" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/ConcurrencySample_01_OperationAtomicity.java" timestamp="1552190060140" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/BaiduApplyResult.java" timestamp="1551876791548">
@@ -184,6 +193,7 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/QzSalaryType.java" timestamp="1552204315354" />
       <file name="/fragment.java" timestamp="1552051420909">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
@@ -192,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="3" filename="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/dto/chat/TextAnswerItem.java" />
       <jump line="63" column="0" filename="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/beta/beta-domain/src/main/resources/ansj_library.properties" />
       <jump line="68" column="0" filename="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/object/request/ChatRequest.java" />
@@ -292,6 +301,7 @@
       <jump line="70" column="33" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/GetBaiduResumeGetResult.java" />
       <jump line="80" column="30" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujob/GetBaiduResumeGetResult.java" />
       <jump line="82" column="20" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -302,14 +312,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ResumeEducatio</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG93UmVzdW1lSWQgPSBNYXRoLm1heChyZXN1bWVTZXJ2aWNlLmdldHJlLCAxTCk7Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ResumeEducatio</text>
+        <text>getByKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -318,31 +328,31 @@
         <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjEsIDAsIDEiLCBleHBlY3QgPSBFeHBlY3QuQUNDRVBUQUJMRSxkZXNjID0gIlQxIHdpbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzdW1lRWR1Y2F0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG93UmVzdW1lSWQgPSBNYXRoLm1heChyZXN1bWVTZXJ2aWNlLmdldHJlLCAxTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bWVTZXJ2aWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4LnNldEVkdWNhdGlvbihSZXN1bWVFZHVjYXRpbyk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN1bWVTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4LnNldEpvYl9hcmVhKGRpc3RyaWN0U2VydmljZS5nZXROYW1lRnJvbUZ1bGxQYXRoV2l0aE91dFNlcGFyYXRvcihTdHJpbmdMb2dpYy5leHRyYWN0Rmlyc3Qoci4pKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHIucjEgPSBvYmplY3RUczEuZ2V0VHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGludGVudGlvbj0gbmV3IFN0cmluZ0J1aWxkZXIoIiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
