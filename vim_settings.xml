@@ -42,6 +42,7 @@
         <mark key="]" line="37" column="33" />
         <mark key="." line="37" column="33" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.2/mybatis-generator-core-1.3.2-sources.jar!/org/mybatis/generator/config/xml/mybatis-generator-config_1_0.dtd" timestamp="1552283873848" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/localvariable/LocalVariableCantAvoidReorderingTest.java" timestamp="1552022291425" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/future/ThreadNames.java" timestamp="1552036838273" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/util/StringLogic.java" timestamp="1552203906278" />
@@ -207,11 +208,11 @@
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1552037745818" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baidu_baipin.xml" timestamp="1551925755571" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1552281617988">
-        <mark key="[" line="379" column="34" />
-        <mark key="]" line="379" column="35" />
-        <mark key="." line="379" column="35" />
-        <mark key="^" line="379" column="35" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1552283833678">
+        <mark key="[" line="376" column="13" />
+        <mark key="]" line="376" column="12" />
+        <mark key="." line="376" column="12" />
+        <mark key="^" line="376" column="12" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/HttpUtil.java" timestamp="1552223716984">
         <mark key="[" line="118" column="45" />
@@ -363,13 +364,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>resume_id</text>
+        <text>generatedKey</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>resume_id</text>
+        <text>generatedKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
