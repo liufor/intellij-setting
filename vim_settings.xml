@@ -77,7 +77,7 @@
         <mark key="." line="1865" column="46" />
         <mark key="^" line="1865" column="46" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/BaiduJianliEntity.java" timestamp="1552278909306" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/BaiduJianliEntity.java" timestamp="1552281677257" />
       <file name="$USER_HOME$/work/code/rocketmq/example/src/main/java/org/apache/rocketmq/example/quickstart/Consumer.java" timestamp="1552280042445">
         <mark key="[" line="119" column="26" />
         <mark key="]" line="119" column="26" />
@@ -133,7 +133,7 @@
         <mark key="^" line="20" column="64" />
         <mark key="." line="20" column="65" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baiduzhitou/BaiduResumeUnionController.java" timestamp="1552279738339">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baiduzhitou/BaiduResumeUnionController.java" timestamp="1552281340966">
         <mark key="[" line="175" column="36" />
         <mark key="]" line="175" column="36" />
         <mark key="." line="175" column="36" />
@@ -150,12 +150,11 @@
         <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-samples/src/main/java/org/openjdk/jcstress/samples/APISample_04_Nesting.java" timestamp="1552023643829" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1552279659468">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1552281698457">
         <mark key="'" line="76" column="13" />
-        <mark key="[" line="294" column="15" />
-        <mark key="]" line="294" column="15" />
-        <mark key="." line="294" column="15" />
-        <mark key="^" line="294" column="21" />
+        <mark key="[" line="361" column="20" />
+        <mark key="]" line="294" column="0" />
+        <mark key="." line="294" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/org/apache/commons/httpclient/methods/PostMethod.java" timestamp="1552214754970" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/nature_config/wechat/production/dic.xml" timestamp="1552040076506" />
@@ -208,8 +207,11 @@
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1552037745818" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baidu_baipin.xml" timestamp="1551925755571" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1552233083258">
-        <mark key="[" line="377" column="16" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1552281617988">
+        <mark key="[" line="379" column="34" />
+        <mark key="]" line="379" column="35" />
+        <mark key="." line="379" column="35" />
+        <mark key="^" line="379" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/util/HttpUtil.java" timestamp="1552223716984">
         <mark key="[" line="118" column="45" />
@@ -361,13 +363,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>baiduJobService</text>
+        <text>resume_id</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>baiduJobService</text>
+        <text>resume_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -376,34 +378,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJtc2ciLCAi5L+h5oGv5Y+q5ZyoMuWIhumSn+WGheacieaViCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvISEhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvISEhIik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW50ZW50aW9uID0gamlhbmxpLmdldEludGVudGlvbigpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgY291bnQgPTE7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50Kys7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW50ZW50aW9uID0gamlhbmxpLmdldEludGVudGlvbigpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgY291bnQgPTE7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50Kys7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>53</text>
+        <text>197</text>
       </register>
     </registers>
     <search>
@@ -439,7 +441,6 @@
         <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
-        <entry>1076</entry>
         <entry>48</entry>
         <entry>84</entry>
         <entry>915</entry>
@@ -459,6 +460,7 @@
         <entry>24</entry>
         <entry>189</entry>
         <entry>53</entry>
+        <entry>197</entry>
       </history-cmd>
       <history-expr />
       <history-input />
