@@ -30,6 +30,7 @@
         <mark key="." line="40" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ContractLogService.java" timestamp="1552546411382" />
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/net/HttpHeaders.java" timestamp="1552551023913" />
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1552277546545">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -87,11 +88,10 @@
         <mark key="^" line="20" column="64" />
         <mark key="." line="20" column="65" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baiduzhitou/BaiduResumeUnionController.java" timestamp="1552547043733">
-        <mark key="[" line="128" column="75" />
-        <mark key="]" line="128" column="75" />
-        <mark key="^" line="128" column="80" />
-        <mark key="." line="128" column="75" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baiduzhitou/BaiduResumeUnionController.java" timestamp="1552552736450">
+        <mark key="[" line="71" column="48" />
+        <mark key="]" line="71" column="48" />
+        <mark key="." line="71" column="48" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1552546802235" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/sugar/Main03.java" timestamp="1552450015291">
@@ -288,13 +288,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>gzcAppKey</text>
+        <text>response</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>gzcAppKey</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -303,28 +303,28 @@
         <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGRhdGExOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgZCA9IDEuMDMgLSAwLjQyOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEpzb25OYW1pbmcodmFsdWUgPSBQcm9wZXJ0eU5hbWluZ1N0cmF0ZWd5LlNuYWtlQ2FzZVN0cmF0ZWd5LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgZCA9IDEuMDMgLSAwLjQyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMucmV2ZXJzZShkYXRhMSk7Cg==</text>
+        <text encoding="base64">QEpzb25OYW1pbmcodmFsdWUgPSBQcm9wZXJ0eU5hbWluZ1N0cmF0ZWd5LlNuYWtlQ2FzZVN0cmF0ZWd5LmNsYXNzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMucmV2ZXJzZShkYXRhMSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5qZGkuQm9vbGVhblR5cGVJbXBsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5qZGkuQm9vbGVhblR5cGVJbXBsOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
