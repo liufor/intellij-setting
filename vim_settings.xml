@@ -47,17 +47,22 @@
         <mark key="^" line="14" column="8" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/SynchronizedCantPreventReording.java" timestamp="1552656551921">
-        <mark key="[" line="126" column="41" />
-        <mark key="]" line="126" column="41" />
-        <mark key="." line="126" column="41" />
-        <mark key="^" line="146" column="12" />
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/SynchronizedCantPreventReording.java" timestamp="1552658866965">
+        <mark key="[" line="301" column="67" />
+        <mark key="]" line="302" column="70" />
+        <mark key="." line="302" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1552300783422">
         <mark key="[" line="324" column="22" />
         <mark key="]" line="322" column="0" />
         <mark key="^" line="322" column="38" />
         <mark key="." line="322" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/SO.java" timestamp="1552660641306">
+        <mark key="[" line="54" column="41" />
+        <mark key="]" line="54" column="41" />
+        <mark key="." line="54" column="41" />
+        <mark key="^" line="55" column="22" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/baidujianlizhitou/BaiduzhitouPushR.java" timestamp="1552226637184">
         <mark key="[" line="5" column="5" />
@@ -179,6 +184,12 @@
         <mark key="]" line="156" column="91" />
         <mark key="." line="156" column="91" />
         <mark key="^" line="156" column="91" />
+      </file>
+      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/PO.java" timestamp="1552659960629">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="41" column="20" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/lambda/NonCaptureLambda.java" timestamp="1552627315302">
         <mark key="[" line="50" column="0" />
@@ -343,46 +354,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ACCEPTABLE</text>
+        <text>ACCEPTABLE_INTERESTING</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>ACCEPTABLE</text>
+        <text>ACCEPTABLE_INTERESTING</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjIsIDAiLGV4cGVjdCA9IEV4cGVjdC5BQ0NFUFRBQkxFX0lOVEVSRVNUSU5HLGRlc2MgPSAicmVvcmRlcmluZyIpCg==</text>
+        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjEsIDAiLGV4cGVjdCA9IEV4cGVjdC5BQ0NFUFRBQkxFX0lOVEVSRVNUSU5HKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IDE7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHkgPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgci5yMSA9IHg7IC8vUE86IFcoeCwxKSBoYXBwZW5zLWJlZm9yZSBSKHgpPTEgLuS5n+WwseaYr+i/memHjAogICAgICAgICAgICByLnIyID0geTsKICAgICAgICAgICAgci5yMyA9IHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjIsIDAiLGV4cGVjdCA9IEV4cGVjdC5BQ0NFUFRBQkxFX0lOVEVSRVNUSU5HLGRlc2MgPSAicmVvcmRlcmluZyIpCg==</text>
+        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjEsIDIsIDIiLGV4cGVjdCA9IEV4cGVjdC5BQ0NFUFRBQkxFKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjIsIDEiLGV4cGVjdCA9IEV4cGVjdC5BQ0NFUFRBQkxFX0lOVEVSRVNUSU5HLGRlc2MgPSAicmVvcmRlcmluZyIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdXRjb21lKGlkID0gIjAsIDAiLGV4cGVjdCA9IEV4cGVjdC5BQ0NFUFRBQkxFX0lOVEVSRVNUSU5HLGRlc2MgPSAicmVvcmRlcmluZyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ZZWFyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name=":" type="4">
         <text>1020</text>
