@@ -25,7 +25,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java" timestamp="1552621796070" />
       <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/monitor200/TraceCommand.java" timestamp="1552533791834" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/ContractLogController.java" timestamp="1552546452054" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1552621623378" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1552625606996" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1552301466723">
         <mark key="[" line="276" column="12" />
         <mark key="]" line="276" column="11" />
@@ -78,11 +78,11 @@
         <mark key="." line="350" column="57" />
         <mark key="^" line="350" column="57" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/resources/templates/resume_detail.html" timestamp="1552619955376">
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="33" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/resources/templates/resume_detail.html" timestamp="1552626825908">
+        <mark key="[" line="379" column="30" />
+        <mark key="]" line="379" column="30" />
         <mark key="^" line="380" column="33" />
-        <mark key="." line="380" column="33" />
+        <mark key="." line="379" column="30" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/lambda/CaptureLambda.java" timestamp="1552623851770">
         <mark key="[" line="9" column="0" />
@@ -112,10 +112,10 @@
         <mark key="^" line="20" column="64" />
         <mark key="." line="20" column="65" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baiduzhitou/BaiduResumeUnionController.java" timestamp="1552619501246">
-        <mark key="[" line="111" column="62" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baiduzhitou/BaiduResumeUnionController.java" timestamp="1552625919630">
+        <mark key="[" line="107" column="62" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1552546802235" />
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/leetcode/sugar/Main03.java" timestamp="1552450015291">
@@ -155,7 +155,7 @@
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/resources/templates/resume_iframe.html" timestamp="1552621133579">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/resources/templates/resume_iframe.html" timestamp="1552626750780">
         <mark key="[" line="31" column="72" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -166,10 +166,11 @@
         <mark key="." line="156" column="91" />
         <mark key="^" line="156" column="91" />
       </file>
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/lambda/NonCaptureLambda.java" timestamp="1552624222463">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/lambda/NonCaptureLambda.java" timestamp="1552627315302">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1552283833678">
         <mark key="[" line="376" column="13" />
@@ -328,46 +329,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGkgPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRoaXMueCk7Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>NonCaptureLambda</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGRhdGExOwo=</text>
+        <text encoding="base64">ICAgICAgICBub25DYXB0dXJlTGFtYmRhLnRlc3RMYW1iZGEyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGkgPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRoaXMueCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGkgPSAyOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3MgPSAib3V0ZXIiOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5CaUZ1bmN0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmlGdW5jdGlvbi5hcHBseSgieCIsICJ5IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3MgPSAib3V0ZXIiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCaUZ1bmN0aW9uPFN0cmluZywgU3RyaW5nLCBTdHJpbmc+IGJpRnVuY3Rpb24gPSAoeCwgeSkgLT4gc3MgKyB5Owo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5CaUZ1bmN0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZW9wbGUuYWRkKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmlGdW5jdGlvbi5hcHBseSgieCIsICJ5IikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBCaUZ1bmN0aW9uPFN0cmluZywgU3RyaW5nLCBTdHJpbmc+IGJpRnVuY3Rpb24gPSAoeCwgeSkgLT4gc3MgKyB5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>1020</text>
