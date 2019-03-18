@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/lambda/CaputreLambda.java" timestamp="1552621718441">
+        <mark key="[" line="2" column="28" />
+      </file>
+      <file name="/a.dummy" timestamp="1552622619545">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1552558076747" />
       <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/monitor200/TraceCommand.java" timestamp="1552533791834" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" timestamp="1552918710863" />
@@ -23,11 +29,6 @@
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/jcstress-core/src/main/java/org/openjdk/jcstress/annotations/Mode.java" timestamp="1552662688041" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/atomicity/primitives/perbyte/VolatileCharAtomicityTest.java" timestamp="1552662232156" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/SocketTimeoutException.java" timestamp="1552711728100" />
-      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/SynchronizedCantPreventReording.java" timestamp="1552658866965">
-        <mark key="[" line="301" column="67" />
-        <mark key="]" line="302" column="70" />
-        <mark key="." line="302" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/SO.java" timestamp="1552706902002">
         <mark key="[" line="54" column="41" />
         <mark key="]" line="54" column="41" />
@@ -49,15 +50,10 @@
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/NonRegisteringDriver.java" timestamp="1552560587156" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/interrupt/ReentrantLockInterruptiblyTest.java" timestamp="1552707952065" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/locks/stamped/StampedLockPairwiseTests.java" timestamp="1552715197684" />
-      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/jcstress/tests/interrupt/ReentrantLockInterruptiblyTest.java" timestamp="1552707554615">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/OO.java" timestamp="1552665767348">
-        <mark key="[" line="97" column="30" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/GC/WhenToTenuredDemo.java" timestamp="1552923421235">
+        <mark key="]" line="15" column="43" />
+        <mark key="^" line="17" column="8" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1552638453177">
         <mark key="[" line="145" column="47" />
@@ -125,6 +121,10 @@
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/interrupt/TimeUnitSleepTest.java" timestamp="1552711817275" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/StampedLock.java" timestamp="1552714920906" />
       <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/advisor/Enhancer.java" timestamp="1552534985268" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/OOM/OOMTest.java" timestamp="1552922587931" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/GC/TenuredDemo.java" timestamp="1552922545929">
+        <mark key="[" line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/lambda/CaptureLambda.java" timestamp="1552623851770">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -136,11 +136,6 @@
       <file name="$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar!/org/jboss/netty/util/internal/ConcurrentHashMap.java" timestamp="1552557167797" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/interrupt/WeakReferenceTest.java" timestamp="1552712618031" />
       <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/monitor200/EnhancerCommand.java" timestamp="1552534265943" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baiduzhitou/BaiduResumeUnionController.java" timestamp="1552625919630">
-        <mark key="[" line="107" column="62" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/interrupt/CurrentThreadIsInterruptedMethodTest.java" timestamp="1552665943516" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/data/rmjzJobs.json" timestamp="1552919034723" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/interrupt/PlainBusyLoopTest.java" timestamp="1552705563056" />
@@ -264,47 +259,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>interrupted</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YU1hcC5wdXQoaSwgbmV3IGJ5dGVbXzIwTV0pOwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>interrupted</text>
+        <text>ArrayList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByLnIxID0gVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YU1hcC5wdXQoaSwgbmV3IGJ5dGVbXzIwTV0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YU1hcC5wdXQoaSwgbmV3IGJ5dGVbXzIwTV0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYysrKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YU1hcC5wdXQoaSwgbmV3IGJ5dGVbXzIwTV0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YXMuYWRkKG5ldyBieXRlW18yME1dKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgci5yMiA9IFRocmVhZC5jdXJyZW50VGhyZWFkKCkuZ2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByLnIxID0gVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXRJZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vcGVuamRrLmpjc3RyZXNzLmluZnJhLnJlc3VsdHMuTExfUmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YXMuYWRkKG5ldyBieXRlW18xME1dKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExMX1Jlc3VsdCByID0gbmV3IExMX1Jlc3VsdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsK</text>
       </register>
       <register name=":" type="4">
         <text>1020</text>
