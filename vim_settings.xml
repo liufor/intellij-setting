@@ -42,6 +42,7 @@
         <mark key="." line="75" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java" timestamp="1552707802762" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/WxPayProperties.java" timestamp="1552981275149" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/UserFollowService.java" timestamp="1552610403192" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ContractLogService.java" timestamp="1552546411382" />
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/net/HttpHeaders.java" timestamp="1552551023913" />
@@ -73,7 +74,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/logback-spring.xml" timestamp="1552972824477">
         <mark key="[" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1552546958744">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1552981410488">
         <mark key="[" line="346" column="49" />
         <mark key="]" line="350" column="57" />
         <mark key="." line="350" column="57" />
@@ -202,7 +203,7 @@
       </file>
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/atomicity/primitives/reflect/CharAtomicityTest.java" timestamp="1552662365934" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/target/generated-sources/annotations/com/liufor/visibility/OO_ThreadSleepTest_jcstress.java" timestamp="1552664402357" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/env/PropertySourcesPropertyResolver.java" timestamp="1552980503704" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/core/env/PropertySourcesPropertyResolver.java" timestamp="1552981847717" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java" timestamp="1552621796070" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/MoreJobs.vue" timestamp="1552918957977" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/ContractLogController.java" timestamp="1552546452054" />
@@ -224,11 +225,11 @@
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/locks/mutex/ReentrantLockMutexTests.java" timestamp="1552714011121" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/atomics/booleans/AtomicBooleanInitialValueTest.java" timestamp="1552662471022" />
       <file name="$USER_HOME$/work/code/openjdk/code-tools/jcstress/tests-custom/src/main/java/org/openjdk/jcstress/tests/atomicity/primitives/reflect/ByteAtomicityTest.java" timestamp="1552662326939" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NIO/select/Client.java" timestamp="1552966316266">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="62" column="24" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NIO/select/Client.java" timestamp="1552983256403">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="83" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/JedisSentinelPool.java" timestamp="1552979980850" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1552300783422">
@@ -271,7 +272,7 @@
       <file name="$USER_HOME$/work/code/arthas/core/src/main/java/com/taobao/arthas/core/command/monitor200/EnhancerCommand.java" timestamp="1552534265943" />
       <file name="$USER_HOME$/work/code/spring-project/spring-boot/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/logging/LoggingSystem.java" timestamp="1552971593794" />
       <file name="$USER_HOME$/work/code/spring-project/spring-boot/spring-boot-samples/spring-boot-sample-logback/src/main/resources/logback-spring.xml" timestamp="1552970398808" />
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NIO/select/Server.java" timestamp="1552966997004">
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/NIO/select/Server.java" timestamp="1552983356093">
         <mark key="[" line="61" column="68" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="28" column="12" />
@@ -433,13 +434,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiSU5GTyB0ZXN0IDEiKTsKICAgICAgICBsb2cudHJhY2UoIlRSQUNFIHRlc3QgMSIpOwo=</text>
+        <text encoding="base64">fQp9Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -448,31 +449,31 @@
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiSU5GTyB0ZXN0IDEiKTsKICAgICAgICBsb2cudHJhY2UoIlRSQUNFIHRlc3QgMSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdXQoNCxuZXcgQXRvbWljSW50ZWdlcigwKSk7Cg==</text>
+        <text encoding="base64">fQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdXQoNCxuZXcgQXRvbWljSW50ZWdlcigwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHdDb3VudE1hcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2xpZW50RCBjbGllbnREID0gbmV3IENsaWVudEQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSU9UZXN0LmNsaWVudCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1020</text>
