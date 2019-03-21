@@ -34,6 +34,12 @@
         <mark key="^" line="40" column="27" />
         <mark key="." line="40" column="27" />
       </file>
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/conc/VolatileIncTest.java" timestamp="1553141931182">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/work/code/rocketmq/client/src/main/java/org/apache/rocketmq/client/Util.java" timestamp="1552277546545">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -344,14 +350,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICImbG9nZ2VyPWNvbS5teXNxbC5qZGJjLmxvZy5TbGY0SkxvZ2dlciZwcm9maWxlU1FMPXRydWUiOyAvKuWPquaJk+WNsCBzcWwqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>volatile</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Connection</text>
+        <text>volatile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -360,25 +366,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICImbG9nZ2VyPWNvbS5teXNxbC5qZGJjLmxvZy5TbGY0SkxvZ2dlciZwcm9maWxlU1FMPXRydWUiOyAvKuWPquaJk+WNsCBzcWwqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWVVbml0LlNFQ09ORFMuc2xlZXAoMik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5EYXRlRm9ybWF0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWVVbml0LlNFQ09ORFMuc2xlZXAoMik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnRvb2xzLkphdmFDb21waWxlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5EYXRlRm9ybWF0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZpZWxkMVIgPSByZXN1bHRTZXQuZ2V0U3RyaW5nKDEpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnRvb2xzLkphdmFDb21waWxlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGRlc2MgPSBleHBlY3RSZXN1bHQuZXF1YWxzSWdub3JlQ2FzZShmaWVsZDFSKSA/ICLjgJBHT09E44CRIiA6ICLjgJBCQUQtdXBkYXRlIGJ5IG90aGVy44CRIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZpZWxkMVIgPSByZXN1bHRTZXQuZ2V0U3RyaW5nKDEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGRlc2MgPSBleHBlY3RSZXN1bHQuZXF1YWxzSWdub3JlQ2FzZShmaWVsZDFSKSA/ICLjgJBHT09E44CRIiA6ICLjgJBCQUQtdXBkYXRlIGJ5IG90aGVy44CRIjsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
