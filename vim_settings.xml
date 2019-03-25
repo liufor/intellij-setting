@@ -10,11 +10,11 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/conc/EscapeAnalysisDemo.java" timestamp="1553504369201">
-        <mark key="[" line="11" column="59" />
-        <mark key="]" line="13" column="26" />
-        <mark key="^" line="13" column="26" />
-        <mark key="." line="13" column="26" />
+      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/conc/EscapeAnalysisDemo.java" timestamp="1553506476124">
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="99" column="16" />
+        <mark key="^" line="65" column="18" />
+        <mark key="." line="99" column="16" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/BaiduzhitouSendResult.java" timestamp="1552226942264">
         <mark key="[" line="17" column="0" />
@@ -24,10 +24,8 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/feed/Feed.vue" timestamp="1553252796404" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/pom.xml" timestamp="1553248504027" />
+      <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/java/lang/invoke/LambdaForm.java" timestamp="1553505997425" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1553264017834" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" timestamp="1553254476568">
-        <mark key="[" line="106" column="194" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Runtime.java" timestamp="1553226136387" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/activity/Czhaojob.vue" timestamp="1553254112277">
         <mark key="[" line="9" column="56" />
@@ -150,9 +148,6 @@
         <mark key="^" line="74" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/log/Jdk14Logger.java" timestamp="1553090930671" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/activity/Zhaoren.vue" timestamp="1553255442297">
-        <mark key="[" line="5" column="19" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/activity/Bzhaoren.vue" timestamp="1553306225896">
         <mark key="[" line="9" column="76" />
         <mark key="]" line="9" column="75" />
@@ -324,9 +319,6 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/javaagent/BytecodeMockIntrinsicDemo.java" timestamp="1553225980404">
-        <mark key="[" line="45" column="29" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="68" column="0" filename="$USER_HOME$/work/code/beta/beta-api/src/main/java/com/beta/api/object/request/ChatRequest.java" />
@@ -439,14 +431,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFpbi5ub0VzY2FwZTEoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1haW4ubm9Fc2NhcGUyKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>extractCountDontInline</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>extractCountDontInline</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
