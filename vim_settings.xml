@@ -22,6 +22,7 @@
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/feed/Feed.vue" timestamp="1553252796404" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/pom.xml" timestamp="1553248504027" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/java/lang/invoke/LambdaForm.java" timestamp="1553505997425" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/SocialUserService.java" timestamp="1553672707702" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/router/index.js" timestamp="1553264017834" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/main/HomeC.vue" timestamp="1553254476568">
         <mark key="[" line="106" column="194" />
@@ -35,10 +36,16 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeIndexService.java" timestamp="1553670751413" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeIndexService.java" timestamp="1553671554317" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Shutdown.java" timestamp="1553226429864" />
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/event/Level.java" timestamp="1553482698394" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/Thread3Demo.java" timestamp="1553248428546" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/SocialUserGenerateResumeService.java" timestamp="1553673118052">
+        <mark key="[" line="106" column="13" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="106" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/2.0.1.RELEASE/spring-cloud-stream-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/StreamListener.java" timestamp="1553234574157" />
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41-sources.jar!/com/mysql/jdbc/log/Slf4JLogger.java" timestamp="1553090701944" />
       <file name="$USER_HOME$/work/code/jmhs/jmhs/src/main/java/com/liufor/jmhs/ea/MessageBench.java" timestamp="1553312203788">
@@ -47,7 +54,14 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/util/StringLogic.java" timestamp="1553671427144">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41-sources.jar!/com/mysql/jdbc/log/Jdk14Logger.java" timestamp="1553090910974" />
+      <file name="$USER_HOME$/work/code/ognl/src/test/java/org/ognl/test/ArrayElementsTest.java" timestamp="1553672442446" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_1.sql" timestamp="1553521155070">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -82,6 +96,7 @@
         <mark key="^" line="42" column="56" />
         <mark key="." line="42" column="56" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/ResumeEntity.java" timestamp="1553671849225" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baiduzhitou/BaiduResumeUnionController.java" timestamp="1553513386876">
         <mark key="[" line="93" column="58" />
         <mark key="]" line="93" column="57" />
@@ -108,6 +123,7 @@
         <mark key="." line="87" column="135" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/ResumeEducation.java" timestamp="1553243174920" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1553671943084" />
       <file name="$USER_HOME$/work/code/jmhs/jmhs/src/main/java/com/liufor/jmhs/ea/HeapAllocationEliminatedBench.java" timestamp="1553312360092" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/2.0.1.RELEASE/spring-cloud-stream-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/stream/binding/StreamListenerAnnotationBeanPostProcessor.java" timestamp="1553234586200" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1553230774262" />
@@ -251,14 +267,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2tpcENvdW50ICsrOwo=</text>
+      <register name="&quot;" type="4">
+        <text>birthday</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>job_category</text>
+        <text>birthday</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -267,31 +283,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2tpcENvdW50ICsrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5zZXJ0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VtZUVudGl0eS5zZXRCaXJ0aFllYXIoSW50ZWdlci52YWx1ZU9mKGJpcnRoZGF5KSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUIGNpdHksIGNvdW50KGlmKHNvdXJjZV9pZD4xLDEsTlVMTCApKSBkYW9ydSxjb3VudCgxKSB0b3RhbCxjb3VudChpZihzb3VyY2VfaWQ+MSxOVUxMICwxKSkgc2VsZiBGUk9NIHJlc3VtZSBXSEVSRSBjaXR5IElOICgKLyoidGoiLCovIDEyMDEsCi8qInNoIiwqLyAzMTAxLAovKiJiaiIsKi8gMTEwMSwKLyoic2giLCovIDMxMDEsCi8qImd6IiwqLyA0NDAxLAovKiJzeiIsKi8gNDQwMywKLyoidGoiLCovIDEyMDEsCi8qImNxIiwqLyA1MDAxLAovKiJ3aCIsKi8gNDIwCi8qImNkIiwqLyA1MTAxLAovKiJoeiIsKi8gMzMwMSwKLyoienoiLCovIDQxMDEsCi8qInhhIiwqLyA2MTAxLAovKiJkbCIsKi8yMTAyLAovKiJmeiIsKi8zNTAxLAovKiJubiIsKi80NTAxLAovKiJkZyIsKi80NDE5LAovKiJ4bSIsKi8zNTAyLAovKiJ3eCIsKi8zMjAyLAovKiJxZCIsKi8zNzAyLAovKiJ0eSIsKi8xNDAxLAovKiJzanoiLCovMTMwMSwKLyoibmoiLCovMzIwMSwKLyoiaGYiLCovMzQwMSwKLyoic3UiLCovMzIwNSwKLyoiY2MiLCovMjIwMSwKLyoiY3MiLCovNDMwMSwKLyoiaHJiIiwqLzIzMDEsCi8qInN5IiwqLzIxMDEsCi8qImppbmNoZW5nIiwqLzE0MDUsCi8qImh1IiwqLzE1MDEKCikKICBBTkQgcmVzdW1lLnJlc3VtZV9zdGF0ZT0xCkdST1VQIEJZIGNpdHk7CgoKLyoic2giLCovIDMxMDEsCi8qIm5qIiwqLzMyMDEsCi8qImpuIiwqLyAzNzAxLAovKiJjZCIsKi8gNTEwMSwKCgoKLyoic2p6IiwqLzEzMDEsCi8qInhtIiwqLzM1MDIsCi8qImRnIiwqLzQ0MTksCi8qIm5uIiwqLzQ1MDEsCi8qImhmIiwqLzM0MDEsCi8qInhhIiwqLyA2MTAxLAovKiJjcyIsKi80MzAxLAovKiJ0eSIsKi8xNDAxLAovKiJqaW5jaGVuZyIsKi8xNDA1LAovKiJzeSIsKi8yMTAxLAovKiJkbCIsKi8yMTAyLAovKiJjYyIsKi8yMjAxLAovKiJocmIiLCovMjMwMSwKCgpTRUxFQ1QgY291bnQoMSkKRlJPTSByZXN1bWUgcgpKT0lOIHJlc3VtZV90ZWwgdApPTiByLmlkID0gdC5yZXN1bWVfaWQKV0hFUkUgci5zb3VyY2VfaWQ+MQogICAgICBBTkQgci5jaXR5PTEzMDEKOwoKU0VMRUNUICoKRlJPTSByZXN1bWUgcgpXSEVSRSByLmNpdHkgPSA1MTAxIEFORCBzb3VyY2VfaWQ+MQpMSU1JVCAxMDsKCgpVUERBVEUgcmVzdW1lIHIKU0VUIHIucmVzdW1lX3N0YXRlID0gLTEsci5pbmRleGVkPS0xCldIRVJFIHIuc291cmNlX2lkPjEKQU5EICByLmNpdHk9CiAgICAgLyoic2giLCovIDMxMDEKICBMSU1JVCAyNzIyMDstLSAzMjIyMC01MDAwCjsKCgpVUERBVEUgcmVzdW1lIHIKU0VUIHIucmVzdW1lX3N0YXRlID0gLTEsci5pbmRleGVkPS0xCldIRVJFIHIuc291cmNlX2lkPjEKICAgICAgQU5EICByLmNpdHk9CiAgICAgICAgICAgLyoibmoiLCovMzIwMQpMSU1JVCA5NzczOy0tIDE0NzczLTUwMDAKOwoKVVBEQVRFIHJlc3VtZSByClNFVCByLnJlc3VtZV9zdGF0ZSA9IC0xLHIuaW5kZXhlZD0tMQpXSEVSRSByLnNvdXJjZV9pZD4xCiAgICAgIEFORCAgci5jaXR5PQogICAgICAgICAgIC8qImpuIiwqLyAzNzAxCkxJTUlUIDk5NTc7LS0gMTQ5NTctNTAwMAo7CgpVUERBVEUgcmVzdW1lIHIKU0VUIHIucmVzdW1lX3N0YXRlID0gLTEsci5pbmRleGVkPS0xCldIRVJFIHIuc291cmNlX2lkPjEKICAgICAgQU5EICByLmNpdHk9CiAgICAgICAgICAgLyoiY2QiLCovIDE0OTQxCkxJTUlUIDEyOTQxOy0tIDE0OTQxLTIwMDAKOwoKCi0tIOWmguaenOacieaLqOaJk+iusOW9le+8jOWwseS4jeWIoOmZpApVUERBVEUgcmVzdW1lIHIKICBKT0lOIHJlc3VtZV90ZWwgdCBPTiByLmlkPXQucmVzdW1lX2lkClNFVCByLnJlc3VtZV9zdGF0ZT0xLHIuaW5kZXhlZD0wCldIRVJFIHIuc291cmNlX2lkPjEKICAgICAgQU5EIGNpdHkgSU4gKAogIC8qInNoIiwqLyAzMTAxLAogIC8qIm5qIiwqLzMyMDEsCiAgLyoiam4iLCovIDM3MDEsCiAgLyoiY2QiLCovIDUxMDEKKTsKCgoKClNFTEVDVCAqCkZST00gcmVzdW1lCldIRVJFIGNpdHk9MTEwMSBBTkQgc291cmNlX2lkPjE7CgpTRUxFQ1QgKgpGUk9NIGpvYl9jYXRlZ29yeTsKClNFTEVDVCBqb2JfaW50ZW50aW9uLGNvdW50KDEpCkZST00gcmVzdW1lCldIRVJFIGNpdHk9MTEwMSBBTkQgam9iX2ludGVudGlvbiBJTiAoJzEyOCcsJycpCkdST1VQIEJZIGpvYl9pbnRlbnRpb247CgoKU0VMRUNUIGpvYl9pbnRlbnRpb24sY291bnQoMSkKRlJPTSByZXN1bWUKICBXSEVSRSBjaXR5PTExMDEKR1JPVVAgQlkgam9iX2ludGVudGlvbjsKCgojIERFTEVURSBGUk9NIHJlc3VtZQojIFdIRVJFIHJlc3VtZV9zdGF0ZSA9IC0xOwoKClVQREFURSByZXN1bWUgcgpTRVQgci5yZXN1bWVfc3RhdGUgPSAtMSxyLmluZGV4ZWQ9LTEKV0hFUkUgci5zb3VyY2VfaWQ+MQogICAgICBBTkQgIHIuY2l0eT0KICAgICAgICAgICAvKiJjZCIsKi8gNTEwMQpMSU1JVCAxMjk0MTstLSAxNDk0MS0yMDAwCjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmlydGhkYXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Lyoiam4iLCovIDM3MDEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBpbmxpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiaXJ0aGRheSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBsaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5TGlzdDxJbnRlZ2VyPiBsaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH19OyAvL+Wkp+WkmuaDheWGteaYr+WPquaciTHkuKrvvIzkvJjljJblpITnkIYgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQoaSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAge3sK</text>
       </register>
       <register name=":" type="4">
         <text>490</text>
