@@ -52,11 +52,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Shutdown.java" timestamp="1553226429864" />
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/event/Level.java" timestamp="1553482698394" />
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/Thread3Demo.java" timestamp="1553248428546" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1553746047029">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="308" column="11" />
-        <mark key="." line="308" column="11" />
-        <mark key="^" line="308" column="11" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/BaiduJobService.java" timestamp="1553754196264">
+        <mark key="[" line="87" column="5" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="86" column="45" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/reflect/WeakCache.java" timestamp="1553678547569" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/SocialUserGenerateResumeService.java" timestamp="1553675337736">
@@ -204,7 +204,7 @@
         <mark key="^" line="42" column="56" />
         <mark key="." line="42" column="56" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/BaiduJobTasks.java" timestamp="1553744328166">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/BaiduJobTasks.java" timestamp="1553754431907">
         <mark key="[" line="37" column="54" />
         <mark key="]" line="37" column="54" />
         <mark key="^" line="37" column="55" />
@@ -224,6 +224,7 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/SyncJobSearchTasks.java" timestamp="1553686762131" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/ResumeEntity.java" timestamp="1553671849225" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/BaiduQzJobEntity.java" timestamp="1553754209500" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/baiduzhitou/BaiduResumeUnionController.java" timestamp="1553513386876">
         <mark key="[" line="93" column="58" />
         <mark key="]" line="93" column="57" />
@@ -327,11 +328,11 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RedisConfiguration.java" timestamp="1553685585936" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/reflect/MethodAccessorGenerator.java" timestamp="1553678150461" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1553747249119">
-        <mark key="[" line="662" column="5" />
-        <mark key="]" line="632" column="32" />
-        <mark key="." line="632" column="32" />
-        <mark key="^" line="632" column="32" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/BaiduJobController.java" timestamp="1553753820337">
+        <mark key="[" line="663" column="55" />
+        <mark key="]" line="663" column="55" />
+        <mark key="." line="663" column="55" />
+        <mark key="^" line="671" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/jcstress_lab/jctest/src/main/java/com/liufor/visibility/PO.java" timestamp="1552659960629">
         <mark key="[" line="41" column="23" />
@@ -346,8 +347,8 @@
         <mark key="." line="50" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java" timestamp="1553678374466" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1553745485567">
-        <mark key="[" line="376" column="13" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1553754289625">
+        <mark key="[" line="283" column="34" />
         <mark key="]" line="376" column="12" />
         <mark key="." line="376" column="12" />
         <mark key="^" line="376" column="12" />
@@ -510,47 +511,47 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>boolean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>gongzuochong</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIHVuc3luY01pbkpvYklkID0gYmFpZHVKb2JTZXJ2aWNlLmdldFVuc3luY01pbkpvYklkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCLlr7zlhaXplJnor68iLCBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFpZHVRekpvYkVudGl0eU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUoYmFpZHVKb2IpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmFpZHVKb2IuZ2V0SWQoKSA9PSBudWxsIHx8IGJhaWR1Sm9iLmdldElkKCkgPT0gMCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cud2FybigiU3RhcnQgU3luY0JhaWR1SmlhbmxpVGFza3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhaWR1UXpKb2JFbnRpdHlNYXBwZXIuc2VsZWN0Ygo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCLlr7zlhaXplJnor68iLCBlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc1RlbXBsYXRlLm9wc0Zvckhhc2goKS5pbmNyZW1lbnQoZ2V0U3luY1RvQmFpZHVLZXkoKSwgZ2V0U3luY1RvQmFpZHVBbHJlYWR5KGRhdGUpLCBzdSkK</text>
+        <text encoding="base64">ICAgICAgICAuQXBpUGFyYW0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoTG9uZykgbGltaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>490</text>
