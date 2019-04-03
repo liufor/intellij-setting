@@ -64,6 +64,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/ServletRequest.java" timestamp="1554206505705" />
       <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1554206542184" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console.sql" timestamp="1554292338696">
+        <mark key="'" line="35" column="2" />
+        <mark key="[" line="35" column="1" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/conf/nginx/proxy.conf" timestamp="1554259551578">
         <mark key="[" line="0" column="47" />
       </file>
@@ -110,8 +117,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/regex/UnicodeProp.java" timestamp="1554039999462" />
     </filemarks>
     <jumps>
-      <jump line="5" column="48" filename="$USER_HOME$/work/code/beta/beta-domain/scripts/create_mapping.sh" />
-      <jump line="578" column="12" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/grab/ResumeGrabService.java" />
       <jump line="512" column="38" filename="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobController.java" />
       <jump line="399588" column="10" filename="$USER_HOME$/work/code/beta/beta-api/library/default.dic" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/beta/beta-api/library/default.dic" />
@@ -210,18 +215,15 @@
       <jump line="13" column="30" filename="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/lambda/CaptureLambda.java" />
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console_1.sql" />
       <jump line="5965" column="49" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Character.java" />
+      <jump line="12" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console.sql" />
+      <jump line="35" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03b5f4b1-75c8-45c7-816f-07d07215dd16/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <keys>
-          <key char="65" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+        <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>format</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -236,31 +238,31 @@
         <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZmlyc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWlkdUpvYi5zZXRKb2Jmb3VydGhjbGFzcyhudWxsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYWlkdUpvYi5zZXRKb2J0aGlyZGNsYXNzKG51bGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYWlkdUpvYi5zZXRKb2JzZWNvbmRjbGFzcyhmdWxsUGF0aC5nZXQoMikuZ2V0VGV4dCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiYWlkdUpvYi5zZXRKb2JmaXJzdGNsYXNzKGZ1bGxQYXRoLmdldCgxKS5nZXRUZXh0KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUpvYi5zZXRKb2Jmb3VydGhjbGFzcyhudWxsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IGpvYmNsYXNzZXMuc2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUpvYi5zZXRKb2J0aGlyZGNsYXNzKG51bGwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBmaXJzdD0gbmV3IFN0cmluZ1tzaXplXTsK</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUpvYi5zZXRKb2JzZWNvbmRjbGFzcyhmdWxsUGF0aC5nZXQoMikuZ2V0VGV4dCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICBiYWlkdUpvYi5zZXRKb2JmaXJzdGNsYXNzKGZ1bGxQYXRoLmdldCgxKS5nZXRUZXh0KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
