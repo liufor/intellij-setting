@@ -26,6 +26,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1555389427841" />
       <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Logger.java" timestamp="1555320725037" />
       <file name="/usr/local/go/src/internal/bytealg/indexbyte_amd64.s" timestamp="1555393332896" />
+      <file name="/usr/local/go/src/reflect/value.go" timestamp="1555476765128" />
       <file name="/usr/local/go/src/runtime/trace.go" timestamp="1555254895808" />
       <file name="/usr/local/go/src/runtime/mgcmark.go" timestamp="1555410767405" />
       <file name="/usr/local/go/src/internal/bytealg/bytealg.go" timestamp="1555393530576" />
@@ -41,6 +42,10 @@
       <file name="/usr/local/go/src/syscall/syscall.go" timestamp="1555231518141" />
       <file name="/usr/local/go/src/runtime/internal/atomic/stubs.go" timestamp="1555407883059" />
       <file name="/usr/local/go/src/runtime/runtime1.go" timestamp="1555409225757" />
+      <file name="$USER_HOME$/work/code/golang_lab/src/main/addressable_canset.go" timestamp="1555476691681">
+        <mark key="[" line="40" column="9" />
+        <mark key="^" line="40" column="3" />
+      </file>
       <file name="/usr/local/go/src/internal/cpu/cpu_x86.go" timestamp="1555392916277" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/reflect/AnnotatedElement.java" timestamp="1555322171792" />
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.0/elasticsearch-2.4.0.jar!/META-INF/maven/org.elasticsearch/elasticsearch/pom.xml" timestamp="1555299786850" />
@@ -157,46 +162,46 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0VUIGIuZ3pfY2F0ZWdvcnkgPSBjLnRleHQK</text>
+        <text encoding="base64">ICAgIC8vICAgCg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>interface</text>
+        <text>CanSet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCkK</text>
+        <text encoding="base64">ICAgIC8vICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VUIGIuZ3pfY2F0ZWdvcnkgPSBjLnRleHQK</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJUeXBlOiIsIHAxLlR5cGUoKSkgICAgICAgLy8gaW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJUeXBlOiIsIHAyLlR5cGUoKSkgICAgICAgLy8gKmludCAgIOiZveeEtnAy55qE57G75Z6L5pivICppbnTvvIzkuZ/lsLHmmK9hZGRyZXNzYWJsZe+8jOS9huaYr0NhblNldOS+neaXp+S4umZhbHNl77yM6L+Z5piv6Ziy5q2i56iL5bqP5ZGY5omL5q6L5ZWK44CCCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJUeXBlOiIsIHYuVHlwZSgpKSAgICAgICAvLyBpbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJSSUdIVCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJXUk9ORyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmF3VXJsID0gbG9jYXRpb24ucHJvdG9jb2wgKyByYXdVcmwuc3Vic3RyaW5nKDUpCg==</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJXUk9ORyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLiRyb3V0ZS5xdWVyeS51cmwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZSB7Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">IkNhbkFkZHI6IiwKIkNhblNldDoiLCAKIlR5cGU6IiwgICA=</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
