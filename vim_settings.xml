@@ -46,13 +46,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/CmsController.java" timestamp="1557213293302">
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="6" />
-        <mark key="^" line="37" column="6" />
-        <mark key="." line="37" column="6" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1556600616560">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1557287754398">
         <mark key="[" line="82" column="17" />
         <mark key="]" line="287" column="4" />
         <mark key="^" line="287" column="4" />
@@ -92,6 +86,7 @@
         <mark key="." line="139" column="42" />
         <mark key="^" line="139" column="42" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/pom.xml" timestamp="1557287058802" />
       <file name="$USER_HOME$/work/code/golang_lab/src/main.go" timestamp="1556104451590">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="21" column="7" />
@@ -105,17 +100,22 @@
         <mark key="^" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/netty/transport-native-epoll/src/main/java/io/netty/channel/epoll/EpollEventLoop.java" timestamp="1557226424133" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1556269319115">
-        <mark key="[" line="936" column="9" />
-        <mark key="]" line="936" column="8" />
-        <mark key="." line="936" column="8" />
-        <mark key="^" line="936" column="8" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1557288235200">
+        <mark key="[" line="135" column="35" />
+        <mark key="]" line="135" column="35" />
+        <mark key="." line="135" column="35" />
+        <mark key="^" line="135" column="41" />
       </file>
       <file name="$USER_HOME$/work/code/golang_lab/src/scanner/main.go" timestamp="1556252574666">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="43" column="17" />
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/SyncBaiduJianliTasks.java" timestamp="1557287377401">
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="45" column="25" />
+        <mark key="." line="45" column="25" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/push/AppPush.java" timestamp="1555902166115">
         <mark key="[" line="39" column="29" />
@@ -264,19 +264,19 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>getMinSyncedResumeId</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>getMinSyncedResumeId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIFVTRVJfMF9QVUJMSUNfVEwgPSAidGltZWxpbmU6cHVibGljOjAiOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIG1pblVuc3luY2VkUmVzdW1lSWQgPSBnZXRNaW5VbnN5bmNlZFJlc3VtZUlkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YXJncz4tSi1EdXNlci5sYW5ndWFnZT1lbjwvYXJncz4K</text>
