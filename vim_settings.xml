@@ -20,6 +20,11 @@
       <file name="/usr/local/go/src/syscall/asm_linux_386.s" timestamp="1557720035089" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ApplicationShutdownHooks.java" timestamp="1557747742870" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/FeedsState.java" timestamp="1557746464458" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/baidujianlilianmeng/BaidujianliService.java" timestamp="1557768173121">
+        <mark key="[" line="261" column="41" />
+        <mark key="]" line="252" column="0" />
+        <mark key="." line="252" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/shejiao/feed/feed.vue" timestamp="1557737551847">
         <mark key="[" line="348" column="10" />
         <mark key="]" line="351" column="10" />
@@ -35,6 +40,12 @@
       </file>
       <file name="/usr/local/go/src/syscall/asm_linux_amd64.s" timestamp="1557719325362" />
       <file name="/usr/local/go/src/cmd/asm/internal/arch/arch.go" timestamp="1557713249408" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/ResumeService.java" timestamp="1557767459519">
+        <mark key="[" line="893" column="5" />
+        <mark key="]" line="878" column="16" />
+        <mark key="^" line="878" column="19" />
+        <mark key="." line="878" column="16" />
+      </file>
       <file name="/usr/local/go/src/cmd/asm/internal/asm/testdata/amd64enc.s" timestamp="1557713214033" />
       <file name="/usr/local/go/src/cmd/internal/obj/link.go" timestamp="1557714382273" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1557751657471">
@@ -176,7 +187,7 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWJiaXRfbGF0aXR1ZGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -191,31 +202,31 @@
         <text encoding="base64">CWZtdC5QcmludGxuKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWJiaXRfbGF0aXR1ZGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWJiaXRfbG9uZ2l0dWRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihyZXN1bWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZ3JlZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWJiaXRfbGF0aXR1ZGUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYnNfc3luY190aW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWJiaXRfbG9uZ2l0dWRlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWlkdV9sb24sCg==</text>
+        <text encoding="base64">ICAgIGRlZ3JlZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWlkdV9sYXQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYnNfc3luY190aW1lLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWdyZWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWlkdV9sb24sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWJiaXRfcmVzdW1lX2lkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWlkdV9sYXQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBza2lsbCwKICAgICAgICAgICAgICAgICAgICBleHBlcmllbmNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWdyZWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>508</text>
