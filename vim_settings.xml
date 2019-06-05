@@ -10,7 +10,10 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1559718954600" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1559721810176">
+        <mark key="'" line="180" column="69" />
+        <mark key="[" line="595" column="62" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/message/dialoguePage.vue" timestamp="1559645375483">
         <mark key="[" line="62" column="18" />
       </file>
@@ -38,11 +41,15 @@
       <file name="$USER_HOME$/work/code/kafka/core/src/main/scala/kafka/log/Log.scala" timestamp="1559553725909" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/nio/file/FileSystem.java" timestamp="1559618158958" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/nio/ch/FileChannelImpl.java" timestamp="1559554545205" />
-      <file name="$USER_HOME$/work/code/gzc-h5/src/components/activity/ShengjiShow.vue" timestamp="1559719052495">
-        <mark key="[" line="50" column="34" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/components/activity/ShengjiShow.vue" timestamp="1559723274764">
+        <mark key="[" line="64" column="85" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="84" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/kafka/core/src/main/scala/kafka/server/FetchDataInfo.scala" timestamp="1559553663974" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/nio/channels/FileChannel.java" timestamp="1559554203330" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/jzc-wechat-frontend/client/platforms/ios/cordova/node_modules/cordova-registry-mapper/index.js" timestamp="1559722699694" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/components/JoLoadMore.vue" timestamp="1559618835800" />
       <file name="$USER_HOME$/work/code/kafka/clients/src/main/java/org/apache/kafka/common/network/TransportLayer.java" timestamp="1559554331580" />
       <file name="$USER_HOME$/work/code/gzc-h5/src/pages/job/JobDetail.vue" timestamp="1559645242350" />
@@ -68,7 +75,6 @@
       <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/ServletRequest.java" timestamp="1559644434446" />
     </filemarks>
     <jumps>
-      <jump line="120" column="53" filename="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" />
       <jump line="112" column="2" filename="$USER_HOME$/work/code/beta_h5/src/pages/users/aboutDia/MessageComponent.js" />
       <jump line="69" column="5" filename="$USER_HOME$/work/code/gzc-h5/src/pages/main/components/HomeHeaderC.vue" />
       <jump line="11" column="0" filename="$USER_HOME$/work/code/gzc_mp/pages/city/city.js" />
@@ -168,52 +174,53 @@
       <jump line="13" column="0" filename="$USER_HOME$/work/code/golang_lab/src/consistenthash/consistenthash.go" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/golang_lab/src/consistenthash/consistenthash.go" />
       <jump line="63" column="0" filename="$USER_HOME$/work/code/golang_lab/src/consistenthash/consistenthash.go" />
+      <jump line="180" column="69" filename="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW5jbHVkZSBob3N0cy9jb21tb24ubWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5vcGVuKCkK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>wechat_gzc</text>
+        <text>URL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRyZWZzLnByZXZpZXdlci5zaG93KGlkeCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMub3BlblVSbCgiaHR0cHM6Ly9hLmFwcC5xcS5jb20vby9zaW1wbGUuanNwP3BrZ25hbWU9Y29tLnJlbnJlbnlvdWh1by56cGMiLCJfc3lzdGVtIiwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5jbHVkZSBob3N0cy9jb21tb24ubWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5vcGVuKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5jbHVkZSBob3N0cy9jaXR5X2NhdGVnb3J5Lm1hcDsK</text>
+        <text encoding="base64">aW5jbHVkZSBob3N0cy9jb21tb24ubWFwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZSBob3N0cy9jaXR5X2NhdGVnb3J5Lm1hcDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgSG9uZ2Jhb1Nob3cgZnJvbSAnLi9jb21wb25lbnRzL2FjdGl2aXR5L0hvbmdiYW9TaG93Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxob25nYmFvLXNob3c+PC9ob25nYmFvLXNob3c+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgU2hlbmdqaVNob3cgZnJvbSAnLi9jb21wb25lbnRzL2FjdGl2aXR5L1NoZW5namlTaG93Jwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBpbXBvcnQgSG9uZ2Jhb1Nob3cgZnJvbSAnLi9jb21wb25lbnRzL2FjdGl2aXR5L0hvbmdiYW9TaG93Jwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxob25nYmFvLXNob3c+PC9ob25nYmFvLXNob3c+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBpbXBvcnQgU2hlbmdqaVNob3cgZnJvbSAnLi9jb21wb25lbnRzL2FjdGl2aXR5L1NoZW5namlTaG93Jwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzaGVuZ2ppLXNob3c+PC9zaGVuZ2ppLXNob3c+Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgSG9uZ2Jhb1Nob3cgZnJvbSAnLi9jb21wb25lbnRzL2FjdGl2aXR5L0hvbmdiYW9TaG93Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxob25nYmFvLXNob3c+PC9ob25nYmFvLXNob3c+Cg==</text>
+        <text encoding="base64">ICAgIDxzaGVuZ2ppLXNob3c+PC9zaGVuZ2ppLXNob3c+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>508</text>
