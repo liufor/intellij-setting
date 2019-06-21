@@ -22,9 +22,10 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/spring-context-5.2.0.BUILD-20190612.224129-450.jar!/org/springframework/scheduling/support/CronSequenceGenerator.class" timestamp="1561000892310" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/config/RocketMqConsumerConfiguration.java" timestamp="1561015244928" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/LikesController.java" timestamp="1560944853023" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1561014931490">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1561096470146">
         <mark key="[" line="326" column="24" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/AliImageService.java" timestamp="1561096357553" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/feed/FeedOp.java" timestamp="1561037133819">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="11" column="0" />
@@ -76,7 +77,12 @@
         <mark key="^" line="31" column="56" />
         <mark key="." line="31" column="48" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/UserController.java" timestamp="1561088257759" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/UserController.java" timestamp="1561096435308">
+        <mark key="[" line="98" column="41" />
+        <mark key="]" line="98" column="41" />
+        <mark key="^" line="98" column="25" />
+        <mark key="." line="98" column="41" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1560996710137" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/FakeMobileTasks.java" timestamp="1560957017812" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedKeys.java" timestamp="1561038318074" />
@@ -230,14 +236,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZihTdHJpbmdzLmlzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>getTukuImageCdnUrl</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>CONSUME_SUCCESS</text>
+        <text>getTukuImageCdnUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
