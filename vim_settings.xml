@@ -38,17 +38,13 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/nio/Bits.java" timestamp="1561104474980" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-web-base/src/main/java/com/gongzuochong/web/base/exception/ApiExceptionHandlerAdvice.java" timestamp="1561363480878" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/util/RandomUtil.java" timestamp="1560938613680">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-dev.yml" timestamp="1561347088751">
         <mark key="[" line="39" column="4" />
         <mark key="]" line="39" column="4" />
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="4" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/enums/SmsType.java" timestamp="1561370667168" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/InternalUserService.java" timestamp="1561008730515">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="30" column="26" />
@@ -70,13 +66,9 @@
         <mark key="]" line="1035" column="4" />
         <mark key="." line="1035" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/Demo.java" timestamp="1561118918901">
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1560996710137" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/lhygapi/LoginLhygController.java" timestamp="1561367603378" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/RedisService.java" timestamp="1561371003393" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/lhygapi/LoginLhygController.java" timestamp="1561371013456" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1560960134972">
         <mark key="[" line="145" column="62" />
         <mark key="]" line="145" column="48" />
@@ -147,16 +139,6 @@
         <mark key="[" line="228" column="17" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/AliImageService.java" timestamp="1561346308896" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/feed/FeedOp.java" timestamp="1561037133819">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/asm/asm/src/test/java/org/objectweb/asm/ClassWriterTest.java" timestamp="1560742382613">
-        <mark key="[" line="165" column="25" />
-        <mark key="]" line="165" column="25" />
-        <mark key="." line="165" column="25" />
-      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-parent/install_taobao_sdk.sh" timestamp="1561012878285" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/InitOppDataTasks.java" timestamp="1560956705811" />
       <file name="$USER_HOME$/work/code/gzc-h5/build/pre_process.sh" timestamp="1561352362294" />
@@ -217,6 +199,7 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/VerifyController.java" timestamp="1561370403708" />
     </filemarks>
     <jumps>
       <jump line="11" column="0" filename="$USER_HOME$/work/code/gzc_mp/pages/city/city.js" />
