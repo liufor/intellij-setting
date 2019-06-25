@@ -62,11 +62,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1560996710137" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/RedisService.java" timestamp="1561371820003" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/TicketService.java" timestamp="1561434419652" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/lhygapi/LoginLhygController.java" timestamp="1561459305539">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="175" column="69" />
-        <mark key="." line="175" column="69" />
-        <mark key="^" line="175" column="69" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/lhygapi/LoginLhygController.java" timestamp="1561464173376">
+        <mark key="[" line="160" column="39" />
+        <mark key="]" line="160" column="39" />
+        <mark key="." line="160" column="39" />
+        <mark key="^" line="160" column="39" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1560960134972">
         <mark key="[" line="145" column="62" />
@@ -156,7 +156,7 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/InitOppDataTasks.java" timestamp="1560956705811" />
       <file name="$USER_HOME$/work/code/gzc-h5/build/pre_process.sh" timestamp="1561352362294" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1561457881557" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1561463721113" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/rocketmq/MqPushMessageListener.java" timestamp="1561037117749">
         <mark key="[" line="88" column="46" />
         <mark key="]" line="88" column="45" />
@@ -187,7 +187,7 @@
         <mark key="." line="31" column="48" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1561346216030" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/UserController.java" timestamp="1561458411745">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/UserController.java" timestamp="1561464127278">
         <mark key="[" line="101" column="43" />
         <mark key="]" line="101" column="43" />
         <mark key="." line="101" column="43" />
@@ -325,14 +325,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+      <register name="&quot;" type="4">
+        <text>request</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>GetMapping</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
