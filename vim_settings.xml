@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1561456551301">
+      <file name="/a.dummy" timestamp="1561459544709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/common/mvc/ActionDecryptInterceptor.java" timestamp="1561364900773" />
@@ -62,11 +62,11 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1560996710137" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/RedisService.java" timestamp="1561371820003" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/TicketService.java" timestamp="1561434419652" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/lhygapi/LoginLhygController.java" timestamp="1561457550030">
-        <mark key="[" line="95" column="63" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="88" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/lhygapi/LoginLhygController.java" timestamp="1561459305539">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="175" column="69" />
+        <mark key="." line="175" column="69" />
+        <mark key="^" line="175" column="69" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1560960134972">
         <mark key="[" line="145" column="62" />
@@ -111,7 +111,7 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/feed/DelayFeedOps.java" timestamp="1560931438490">
         <mark key="[" line="2" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1561377112725">
+      <file name="/fragment.java" timestamp="1561459549581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/lhyg/LhygUserRegisterRequest.java" timestamp="1561457499731">
@@ -156,7 +156,7 @@
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/InitOppDataTasks.java" timestamp="1560956705811" />
       <file name="$USER_HOME$/work/code/gzc-h5/build/pre_process.sh" timestamp="1561352362294" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1561456867447" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/LoginController.java" timestamp="1561457881557" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/rocketmq/MqPushMessageListener.java" timestamp="1561037117749">
         <mark key="[" line="88" column="46" />
         <mark key="]" line="88" column="45" />
@@ -187,7 +187,7 @@
         <mark key="." line="31" column="48" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-core/src/main/java/com/gongzuochong/core/GzcProperties.java" timestamp="1561346216030" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/UserController.java" timestamp="1561373686622">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/UserController.java" timestamp="1561458411745">
         <mark key="[" line="101" column="43" />
         <mark key="]" line="101" column="43" />
         <mark key="." line="101" column="43" />
@@ -217,7 +217,7 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/VerifyController.java" timestamp="1561376863975" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/VerifyController.java" timestamp="1561458788590" />
     </filemarks>
     <jumps>
       <jump line="10" column="7" filename="$USER_HOME$/work/code/gzc_mp/pages/city/city.js" />
@@ -326,46 +326,46 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGludml0ZUNvZGU7Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>GetMapping</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExoeWdCKDExLCLngbXmtLvnlKjlt6VCIiksCg==</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGludml0ZUNvZGU7Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQXBpRXhjZXB0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlckNvbgo=</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi6I635Y+W55+t5L+h6aqM6K+B56CBIiwgbm90ZXM9ICJ0eXBlIDE65rOo5YaMIDI65b+r6YCf55m75b2VIDM65om+5Zue5a+G56CBIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPU1NJbWFnZSBvc3NJbWFnZSA9IE9TU0ltYWdlLkVYQ0VMOwo=</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIuiOt+WPluWbvueJh+mqjOivgeeggSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQXBpRXhjZXB0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExpc3Q8U3RyaW5nPj4gYyA9IG5ldyBBcnJheUxpc3Q8PigpOyAK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwaG9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
