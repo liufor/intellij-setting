@@ -35,6 +35,12 @@
         <mark key="." line="19" column="28" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/SocialUserDetailResponse.java" timestamp="1561433218132" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1561541641168">
+        <mark key="[" line="574" column="9" />
+        <mark key="]" line="560" column="38" />
+        <mark key="." line="560" column="38" />
+        <mark key="^" line="560" column="38" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-scheduling/src/main/java/com/gongzuochong/scheduling/tasks/MockLikesTasks.java" timestamp="1560957148974">
         <mark key="[" line="26" column="24" />
         <mark key="]" line="26" column="24" />
@@ -65,6 +71,12 @@
         <mark key="^" line="448" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/Scheduled.java" timestamp="1560999911850" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" timestamp="1561542419765">
+        <mark key="[" line="696" column="28" />
+        <mark key="]" line="691" column="38" />
+        <mark key="^" line="691" column="38" />
+        <mark key="." line="691" column="38" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1560996710137" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/redis/RedisService.java" timestamp="1561371820003" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/TicketService.java" timestamp="1561434419652" />
@@ -335,13 +347,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>request</text>
+        <text>paged</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>paged</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -350,31 +362,31 @@
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQXBpRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi6I635Y+W55+t5L+h6aqM6K+B56CBIiwgbm90ZXM9ICJ0eXBlIDE65rOo5YaMIDI65b+r6YCf55m75b2VIDM65om+5Zue5a+G56CBIikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIuiOt+WPluWbvueJh+mqjOivgeeggSIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgQXBpRXhjZXB0aW9uCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi6I635Y+W55+t5L+h6aqM6K+B56CBIiwgbm90ZXM9ICJ0eXBlIDE65rOo5YaMIDI65b+r6YCf55m75b2VIDM65om+5Zue5a+G56CBIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIuiOt+WPluWbvueJh+mqjOivgeeggSIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQXBpRXhjZXB0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwaG9uZQo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
