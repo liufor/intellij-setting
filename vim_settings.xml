@@ -4,6 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/cms/list.jsp" timestamp="1562057477467" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/AliOssService.java" timestamp="1561346817934">
+        <mark key="[" line="78" column="58" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1561953373654" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/www.xingfuxiaotu.server" timestamp="1561963296818" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/TimelineService.java" timestamp="1562159431933">
@@ -66,11 +71,10 @@
         <mark key="." line="127" column="87" />
         <mark key="^" line="127" column="87" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1562162538705">
-        <mark key="[" line="332" column="47" />
-        <mark key="]" line="332" column="46" />
-        <mark key="." line="332" column="46" />
-        <mark key="^" line="332" column="46" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1562163412583">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedsController.java" timestamp="1562162344603">
         <mark key="[" line="706" column="18" />
@@ -211,14 +215,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MAX_VALUE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>MAX_VALUE</text>
+        <text>15621592073881111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -227,28 +231,28 @@
         <text encoding="base64">ICAgIGZtdC5QcmludGxuKGxlbihhNCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGVuID8gKHRoaXMuZmVlZHNbbGVuIC0gMV0uZmVlZHNSZXBvc2l0b3J5Lm9yZGVyU2NvcmUgfHwpIDogMDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgYT0xNTYyMTU5MjA3Mzg4MTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTE1NjIxNTkyMDczODgxMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExRDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGVuID8gKHRoaXMuZmVlZHNbbGVuIC0gMV0uZmVlZHNSZXBvc2l0b3J5Lm9yZGVyU2NvcmUgfHwpIDogMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVlZHMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNpemU7IGkrKykgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmVlZHMK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9ja0xpa2VTZXJ2aWNlLnB1Ymxpc2hGZWVkQ3JlYXRlZChmZWVkSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNpemU7IGkrKykgewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
