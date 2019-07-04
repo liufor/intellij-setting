@@ -4,15 +4,19 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/cms/list.jsp" timestamp="1562057477467" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/LhOrderEntity.java" timestamp="1562222107484" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1561953373654" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/www.xingfuxiaotu.server" timestamp="1561963296818" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/TimelineService.java" timestamp="1562210787872">
-        <mark key="[" line="284" column="45" />
-        <mark key="]" line="193" column="60" />
-        <mark key="^" line="193" column="65" />
-        <mark key="." line="193" column="60" />
+        <mark key="[" line="2" column="45" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/core/ZSetOperations.java" timestamp="1562148655208" />
+      <file name="$USER_HOME$/work/code/linghuoyonggong/package.json" timestamp="1561988576874">
+        <mark key="[" line="10" column="34" />
+      </file>
+      <file name="/dlv-debug.txt" timestamp="1561966332075">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/UserFollowController.java" timestamp="1561703945139" />
       <file name="$USER_HOME$/work/code/gzc-h5/package.json" timestamp="1561988570320" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/LikesController.java" timestamp="1561703369503" />
@@ -20,14 +24,17 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/util/ResourceUtils.java" timestamp="1561722099916" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1562125054475" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/request/UserLoginRequest.java" timestamp="1561964048965" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobService.java" timestamp="1561721548201" />
       <file name="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/9525ca117f93f00d00f1e1c1d9b87e9c/Message/MessageTemp/62f5f663aca1357cae2e547194935e36/File/nginx.conf" timestamp="1562146602814" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/connection/jedis/JedisConnection.java" timestamp="1562157905944" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedCommentsController.java" timestamp="1561703644693" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/lhygapi/OrderController.java" timestamp="1562222116385" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat_gzc.server" timestamp="1562143348081" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobManaController.java" timestamp="1562219960173" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/www.server" timestamp="1562142419128" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/lhygapi/ExcelController.java" timestamp="1561951117749">
-        <mark key="[" line="77" column="51" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobController.java" timestamp="1562221318464">
+        <mark key="]" line="693" column="24" />
+        <mark key="^" line="693" column="24" />
+        <mark key="." line="693" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/ALG/src/main/java/com/liufor/StringLen.java" timestamp="1561968645853">
         <mark key="[" line="20" column="34" />
@@ -59,14 +66,10 @@
         <mark key="." line="127" column="87" />
         <mark key="^" line="127" column="87" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1562210152574">
-        <mark key="[" line="142" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedsController.java" timestamp="1562210081553">
-        <mark key="[" line="716" column="5" />
-        <mark key="]" line="706" column="18" />
-        <mark key="^" line="714" column="37" />
-        <mark key="." line="706" column="18" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedsController.java" timestamp="1562219692081">
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/golang_lab/src/main/stringlen.go" timestamp="1561968407683">
         <mark key="[" line="17" column="22" />
@@ -74,11 +77,17 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/lhyg/LhygOrderCreateRequest.java" timestamp="1562221716764" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1562209024762">
         <mark key="[" line="390" column="26" />
         <mark key="]" line="390" column="26" />
         <mark key="^" line="390" column="36" />
         <mark key="." line="390" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/MockLikeService.java" timestamp="1561546402242">
+        <mark key="]" line="62" column="30" />
+        <mark key="^" line="62" column="30" />
+        <mark key="." line="62" column="30" />
       </file>
       <file name="/usr/local/go/src/unicode/utf8/utf8.go" timestamp="1561955471193" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisZSetCommands.java" timestamp="1562210760294" />
@@ -91,6 +100,9 @@
         <mark key="]" line="48" column="3" />
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="3" />
+      </file>
+      <file name="/fragment.java" timestamp="1561968613847">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -200,19 +212,19 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>doubleValue</text>
+        <text>jobService.countByUidAndFirstCate(identEntEntity.getUid(), JobCateFirst.JZ)</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>doubleValue</text>
+        <text>jobService.countByUidAndFirstCate(identEntEntity.getUid(), JobCateFirst.JZ)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKGxlbihhNCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHF6Q291bnQgPSBqb2JTZXJ2aWNlLmNvdW50QnlVaWRBbmRGaXJzdENhdGUoaWRlbnRFbnRFbnRpdHkuZ2V0VWlkKCksIEpvYkNhdGVGaXJzdC5KWik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkb3VibGUgbm9uZUhvdFNjb3JlVXBwZXIgPSBnZXRNYXhGZWVkSWQoKSArIDFEOy8v6Z2eaG90IGZlZWTnmoTliIbmlbDkuIrnur/vvIzkuI3ljIXmi6wK</text>
