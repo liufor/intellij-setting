@@ -79,8 +79,8 @@
         <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/lhyg/LhygOrderCreateRequest.java" timestamp="1562221716764" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1562209024762">
-        <mark key="[" line="390" column="26" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/generator/generatorConfig.xml" timestamp="1562226766211">
+        <mark key="[" line="392" column="16" />
         <mark key="]" line="390" column="26" />
         <mark key="^" line="390" column="36" />
         <mark key="." line="390" column="26" />
@@ -92,9 +92,16 @@
       </file>
       <file name="/usr/local/go/src/unicode/utf8/utf8.go" timestamp="1561955471193" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisZSetCommands.java" timestamp="1562210760294" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/JobController.java" timestamp="1562226836680" />
       <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/Protocol.java" timestamp="1562157624978" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultBoundZSetOperations.java" timestamp="1562148719698" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/app/angular-service.js" timestamp="1562057438666" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/FeedsController.java" timestamp="1562226872017">
+        <mark key="[" line="179" column="28" />
+        <mark key="]" line="179" column="16" />
+        <mark key="." line="179" column="16" />
+        <mark key="^" line="179" column="16" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/Double.java" timestamp="1562159516178" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/FeedsRepository.java" timestamp="1562151982174">
         <mark key="[" line="48" column="4" />
@@ -212,14 +219,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>jobService.countByUidAndFirstCate(identEntEntity.getUid(), JobCateFirst.JZ)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>jobService.countByUidAndFirstCate(identEntEntity.getUid(), JobCateFirst.JZ)</text>
+        <text>batchAudit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -228,31 +235,31 @@
         <text encoding="base64">ICAgICAgICBsb25nIHF6Q291bnQgPSBqb2JTZXJ2aWNlLmNvdW50QnlVaWRBbmRGaXJzdENhdGUoaWRlbnRFbnRFbnRpdHkuZ2V0VWlkKCksIEpvYkNhdGVGaXJzdC5KWik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgbm9uZUhvdFNjb3JlVXBwZXIgPSBnZXRNYXhGZWVkSWQoKSArIDFEOy8v6Z2eaG90IGZlZWTnmoTliIbmlbDkuIrnur/vvIzkuI3ljIXmi6wK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVlZC5zZXRPcmRlclNjb3JlKGZlZWQuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgbm9uZUhvdFNjb3JlVXBwZXIgPSBnZXRNYXhGZWVkSWQoKSArIDFEOy8v6Z2eaG90IGZlZWTnmoTliIbmlbDkuIrnur/vvIzkuI3ljIXmi6wK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG90RmVlZHNFbnRpdHlNYXBwZXIuaW5zZXJ0U2VsZWN0aXZlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVlZC5zZXRPcmRlclNjb3JlKGZlZWQuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBob3RGZWVkc0VudGl0eU1hcHBlci5pbnNlcnRTZWxlY3RpdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG90RmVlZHNFbnRpdHlNYXBwZXIuaW5zZXJ0U2VsZWN0aXZlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzIGdldE1heEZlZWRJZAo=</text>
+        <text encoding="base64">ICAgICAgICBob3RGZWVkc0VudGl0eU1hcHBlci5pbnNlcnRTZWxlY3RpdmUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzIGdldE1heEZlZWRJZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGFtcGxlLm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmZWVkcwo=</text>
+        <text encoding="base64">ICAgICAgICBleGFtcGxlLm9yKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IGZlZWRzLnNpemUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmZWVkcwo=</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
