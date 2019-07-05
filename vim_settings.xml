@@ -7,9 +7,21 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/LhOrderEntity.java" timestamp="1562222107484" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1561953373654" />
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/www.xingfuxiaotu.server" timestamp="1561963296818" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/TimelineService.java" timestamp="1562210787872">
+        <mark key="[" line="2" column="45" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.7.3.RELEASE/spring-data-redis-1.7.3.RELEASE-sources.jar!/org/springframework/data/redis/core/ZSetOperations.java" timestamp="1562148655208" />
+      <file name="$USER_HOME$/work/code/linghuoyonggong/package.json" timestamp="1561988576874">
+        <mark key="[" line="10" column="34" />
+      </file>
+      <file name="/dlv-debug.txt" timestamp="1561966332075">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/UserFollowController.java" timestamp="1561703945139" />
       <file name="$USER_HOME$/work/code/gzc-h5/package.json" timestamp="1561988570320" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/response/IdentEntInfoResponse.java" timestamp="1562294102299">
+        <mark key="[" line="79" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/LikesController.java" timestamp="1561703369503" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dto/common/Oper.java" timestamp="1562209002040" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE-sources.jar!/org/springframework/util/ResourceUtils.java" timestamp="1561722099916" />
@@ -20,6 +32,7 @@
         <mark key="^" line="109" column="66" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/resources/application-prod.yml" timestamp="1562125054475" />
+      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/constraints/Null.java" timestamp="1562294634607" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/request/UserLoginRequest.java" timestamp="1561964048965" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/hotfeeds/sort.jsp" timestamp="1562252478983">
         <mark key="[" line="19" column="11" />
@@ -33,7 +46,12 @@
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedCommentsController.java" timestamp="1561703644693" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/lhygapi/OrderController.java" timestamp="1562222116385" />
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/DistrictService.java" timestamp="1562231275359" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/IdentEntController.java" timestamp="1562293516387" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/IdentEntController.java" timestamp="1562294825603">
+        <mark key="[" line="83" column="31" />
+        <mark key="]" line="83" column="11" />
+        <mark key="." line="83" column="11" />
+        <mark key="^" line="83" column="11" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/wechat_gzc.server" timestamp="1562143348081" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/dao/generated/entity/HotFeedsEntity.java" timestamp="1562234624131" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/wapi/controller/JobManaController.java" timestamp="1562219960173" />
@@ -118,6 +136,9 @@
         <mark key="]" line="48" column="3" />
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="3" />
+      </file>
+      <file name="/fragment.java" timestamp="1561968613847">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -226,14 +247,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>UserEntity</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>RequestMapping</text>
+        <text>UserEntity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -242,28 +263,28 @@
         <text encoding="base64">ICAgICAgICBMaXN0PEhvdEZlZWREdG8+IGR0b0xpc3QxID0gRG96ZXJDb252ZXJ0VXRpbC5jb252ZXJ0TGlzdChob3RzLCBIb3RGZWVkRHRvLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXNlckVudGl0eSB1c2VyID0gdXNlclNlcnZpY2UuZ2V0VXNlcihpbmZvUmVzcG9uc2UuZ2V0VWlkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGVhck9sZGVyQ2FuZGlkYXRlcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZyh2YWx1ZSA9ICIvaG90L2NhbmRpZGF0ZVRvSG90IikK</text>
+        <text encoding="base64">ICAgICAgICBpbmZvUmVzcG9uc2Uuc2V0VmlwKHVzZXJTZXJ2aWNlLmdldCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGVhck9sZGVyQ2FuZGlkYXRlcygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZyh2YWx1ZSA9ICIvaG90L2NhbmRpZGF0ZVRvSG90IikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
