@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/datafilter/impl/CurrentAbstractDataFilter.java" timestamp="1562585826099" />
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/interfaces/readwrite/IAttributeExtendRWResource.java" timestamp="1562582301590" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/datafilter/DataFilter.java" timestamp="1562585288309" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/cms/list.jsp" timestamp="1562495423008" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/security/Principal.java" timestamp="1562571442256" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/handler/SSMethodSecurityExpressionHandler.java" timestamp="1562560095168" />
@@ -11,7 +13,10 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/ClientDetailsService.java" timestamp="1562575731635" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/jwt/JWTAuthenticationProvider.java" timestamp="1562560226068" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/AbstractAuthenticationToken.java" timestamp="1562572738283" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/datafilter/impl/RoleDataFilter.java" timestamp="1562585902057" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/track/TrackFilter.java" timestamp="1562586257789" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/security/acl/Group.java" timestamp="1562571570675" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/datafilter/impl/CfgDataFilter.java" timestamp="1562585694027" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/core/Authentication.java" timestamp="1562573276820" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/callback/support/MultipleLoadUserFailedCallBackDelegate.java" timestamp="1562559994846" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/core/GrantedAuthority.java" timestamp="1562573297454" />
@@ -23,33 +28,42 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/ClientDetails.java" timestamp="1562575845479" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/access/expression/method/DefaultMethodSecurityExpressionHandler.java" timestamp="1562574810973" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/javax/annotation/Resource.java" timestamp="1562559914951" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/track/RequestManager.java" timestamp="1562586276193" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/ldap/ipa/dao/UserDao.java" timestamp="1562576926275" />
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/bean/UserIdentityType.java" timestamp="1562583392189" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/handler/SSAuthenticationFailureHandler.java" timestamp="1562560071654" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/cache/GrpCache.java" timestamp="1562586495828" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/config/configurations/SingleSignOutFilterConfigure.java" timestamp="1562559817978" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.12/tomcat-embed-core-9.0.12-sources.jar!/org/apache/catalina/users/AbstractUser.java" timestamp="1562571503456" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/io/File.java" timestamp="1562574918875" />
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/apicontrol/server/CallerCredential.java" timestamp="1562583287931" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/jaas/JaasGrantedAuthority.java" timestamp="1562573455092" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/datafilter/impl/AbstractDataFilter.java" timestamp="1562585390869" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/expression/OAuth2SecurityExpressionMethods.java" timestamp="1562574667902" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/ProfileService.java" timestamp="1562585229866" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/nio/file/attribute/UserPrincipal.java" timestamp="1562571692103" />
       <file name="$USER_HOME$/work/code/UniAuth/examples/custom-ssclient/src/main/resources/spring-context.xml" timestamp="1562582960969" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/datafilter/FilterData.java" timestamp="1562585734250" />
       <file name="$USER_HOME$/Documents/OpenJDKSrc/openjdk/jdk/src/share/classes/sun/security/krb5/Realm.java" timestamp="1562571093182" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyUtils.java" timestamp="1562574051977" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/UniauthPermissionEvaluator.java" timestamp="1562560106460" />
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/bean/request/PageParam.java" timestamp="1562583373210" />
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/bean/request/AttributeExtendParam.java" timestamp="1562582309152" />
+      <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/java/com/dianrong/common/uniauth/cas/service/TenancyService.java" timestamp="1562585666735" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/core/token/Token.java" timestamp="1562572854299" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/UserProfileService.java" timestamp="1562583473468" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/metrics/custom/DbHealthCheck.java" timestamp="1562586020890" />
       <file name="$USER_HOME$/work/code/UniAuth/examples/custom-ssclient/src/main/java/com/dianrong/uniauth/ssclient/bean/SSClientUserExtInfo.java" timestamp="1562582973221" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/provisioning/GroupManager.java" timestamp="1562572798761" />
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/client/enums/CasPermissionControlType.java" timestamp="1562582902509" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/switchuser/SwitchUserGrantedAuthority.java" timestamp="1562573429248" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/cache/AttributeExtendCache.java" timestamp="1562586471112" />
       <file name="$USER_HOME$/work/code/UniAuth/share-rw/src/main/java/com/dianrong/common/uniauth/sharerw/facade/UARWFacade.java" timestamp="1562582211856" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchy.java" timestamp="1562573726943" />
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/bean/request/CfgParam.java" timestamp="1562583339030" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/callback/impl/SimpleLoadUserSucessCallBack.java" timestamp="1562560011396" />
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/client/DomainDefine.java" timestamp="1562582952057" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/datafilter/impl/MultiTenancyCheck.java" timestamp="1562585599015" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/expression/OAuth2WebSecurityExpressionHandler.java" timestamp="1562574831991" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/client/JdbcClientDetailsService.java" timestamp="1562575819884" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/core/authority/SimpleGrantedAuthority.java" timestamp="1562573124032" />
@@ -57,6 +71,7 @@
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/auth/AuthenticationTagHolder.java" timestamp="1562559903648" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/expression/OAuth2MethodSecurityExpressionHandler.java" timestamp="1562574820647" />
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/apicontrol/client/ClientStatus.java" timestamp="1562583267535" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/ldap/ipa/dao/GroupDao.java" timestamp="1562585985131" />
       <file name="$USER_HOME$/work/code/UniAuth/techops/src/main/java/com/dianrong/common/techops/action/AuditAction.java" timestamp="1562582119521" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/OAuth2Authentication.java" timestamp="1562572693222" />
     </filemarks>
