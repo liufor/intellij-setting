@@ -36,6 +36,11 @@
       <file name="$MAVEN_REPOSITORY$/io/undertow/undertow-core/2.0.14.Final/undertow-core-2.0.14.Final-sources.jar!/io/undertow/security/idm/Account.java" timestamp="1562590448807" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl.java" timestamp="1562574018761" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/callback/LoadUserFailedCallBack.java" timestamp="1562559974266" />
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/www.ziyouhou.location" timestamp="1562670103966">
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/data/entity/HrDept.java" timestamp="1562642300634" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/ClientDetails.java" timestamp="1562575845479" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/feeds/list.jsp" timestamp="1562659410491">
@@ -69,6 +74,7 @@
       <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/upstream.server" timestamp="1562668212066" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/ProfileService.java" timestamp="1562585229866" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/nio/file/attribute/UserPrincipal.java" timestamp="1562571692103" />
+      <file name="$USER_HOME$/work/code/gzc-h5/src/lib/util.js" timestamp="1562670579330" />
       <file name="$USER_HOME$/work/code/UniAuth/examples/custom-ssclient/src/main/resources/spring-context.xml" timestamp="1562582960969" />
       <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/java/com/dianrong/common/uniauth/cas/action/CustomLoginGenerateLoginTicketAction.java" timestamp="1562642617113" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/datafilter/FilterData.java" timestamp="1562585734250" />
@@ -127,7 +133,7 @@
         <mark key="." line="98" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/java/com/dianrong/common/uniauth/cas/action/LoginTypeDecisionAction.java" timestamp="1562642625087" />
-      <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/www.xingfuxiaotu.location" timestamp="1562668343263">
+      <file name="$USER_HOME$/work/code/gzc_new/youhuo/subversion/production/hosts/production/www.xingfuxiaotu.location" timestamp="1562670064588">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="51" />
         <mark key="." line="27" column="51" />
@@ -247,8 +253,8 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQkJCSAgICAg</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgIAoJCgkKCQoJCgkKCQoJCiAgICA=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -262,32 +268,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgic3VjY2Vzc0NvdW50IixpZHMuc2l6ZSgpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBseUhvdEZlZWRzKCk7Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAoJCgkKCQoJCgkKCQoJCiAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRUb0hvdFRhYmxlKHRvSG90SWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBhcHBseUhvdEZlZWRzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhZGRUb0hvdFRhYmxlKHRvSG90SWRzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdIb3QoZmVlZHNSZXBvcywgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEZlZWRzUmVwb3NpdG9yeT4gZmVlZHNSZXBvcyA9IGdldEZlZWRzUmVwb0J5UGlwZWxpbmUodG9Ib3RJZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0YWdIb3QoZmVlZHNSZXBvcywgdHJ1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL+aWsOWinuaWsOeahAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PEZlZWRzUmVwb3NpdG9yeT4gZmVlZHNSZXBvcyA9IGdldEZlZWRzUmVwb0J5UGlwZWxpbmUodG9Ib3RJZHMpOwo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvL+aWsOWinuaWsOeahAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdIb3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEZlZWRzUmVwb3NpdG9yeT4gZmVlZHNSZXBvcyA9IGdldEZlZWRzUmVwb0J5UGlwZWxpbmUodG9Ib3RJZHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
