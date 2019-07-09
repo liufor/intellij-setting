@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/callback/LoadUserFailedCallBack.java" timestamp="1562559974266" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/data/entity/HrDept.java" timestamp="1562642300634" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/ClientDetails.java" timestamp="1562575845479" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/feeds/list.jsp" timestamp="1562652638473">
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/feeds/list.jsp" timestamp="1562657288837">
         <mark key="[" line="109" column="62" />
         <mark key="]" line="109" column="62" />
         <mark key="." line="109" column="62" />
@@ -44,11 +44,10 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/javax/annotation/Resource.java" timestamp="1562559914951" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/track/RequestManager.java" timestamp="1562586276193" />
       <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/java/com/dianrong/common/uniauth/cas/action/UniauthTerminateSessionAction.java" timestamp="1562642655489" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/hotfeeds/sort.jsp" timestamp="1562654100129">
-        <mark key="[" line="165" column="21" />
-        <mark key="]" line="165" column="21" />
-        <mark key="^" line="165" column="26" />
-        <mark key="." line="165" column="21" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/hotfeeds/sort.jsp" timestamp="1562655255807">
+        <mark key="[" line="160" column="30" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/ldap/ipa/dao/UserDao.java" timestamp="1562576926275" />
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-security/9.4.7.v20170914/jetty-security-9.4.7.v20170914-sources.jar!/org/eclipse/jetty/security/IdentityService.java" timestamp="1562590879103" />
@@ -91,16 +90,17 @@
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/bean/request/CfgParam.java" timestamp="1562583339030" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/callback/impl/SimpleLoadUserSucessCallBack.java" timestamp="1562560011396" />
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/client/DomainDefine.java" timestamp="1562582952057" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/BaseController.java" timestamp="1562656490341" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/datafilter/impl/MultiTenancyCheck.java" timestamp="1562585599015" />
       <file name="$MAVEN_REPOSITORY$/io/undertow/undertow-core/2.0.14.Final/undertow-core-2.0.14.Final-sources.jar!/io/undertow/security/idm/IdentityManager.java" timestamp="1562590660880" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/expression/OAuth2WebSecurityExpressionHandler.java" timestamp="1562574831991" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/client/JdbcClientDetailsService.java" timestamp="1562575819884" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/core/authority/SimpleGrantedAuthority.java" timestamp="1562573124032" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1562652972155">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="^" line="193" column="0" />
-        <mark key="." line="193" column="0" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1562655070862">
+        <mark key="[" line="304" column="42" />
+        <mark key="]" line="304" column="19" />
+        <mark key="^" line="304" column="19" />
+        <mark key="." line="304" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/access/PermissionCacheOptimizer.java" timestamp="1562572973630" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/java/com/dianrong/common/uniauth/client/custom/auth/AuthenticationTagHolder.java" timestamp="1562559903648" />
@@ -108,12 +108,18 @@
       <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/apicontrol/client/ClientStatus.java" timestamp="1562583267535" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/ldap/ipa/dao/GroupDao.java" timestamp="1562585985131" />
       <file name="$USER_HOME$/work/code/UniAuth/techops/src/main/java/com/dianrong/common/techops/action/AuditAction.java" timestamp="1562582119521" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/webapp/WEB-INF/views/hotfeeds/configHotFeeds.jsp" timestamp="1562657892804">
+        <mark key="[" line="135" column="14" />
+        <mark key="]" line="135" column="19" />
+        <mark key="^" line="135" column="19" />
+        <mark key="." line="135" column="19" />
+      </file>
       <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/java/com/dianrong/common/uniauth/cas/action/LoginTypeDecisionAction.java" timestamp="1562642625087" />
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/FeedsController.java" timestamp="1562653234456">
-        <mark key="[" line="198" column="5" />
-        <mark key="]" line="174" column="4" />
-        <mark key="^" line="174" column="4" />
-        <mark key="." line="174" column="4" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-manage/src/main/java/com/gongzuochong/manage/controller/FeedsController.java" timestamp="1562656654961">
+        <mark key="[" line="200" column="8" />
+        <mark key="]" line="199" column="42" />
+        <mark key="." line="199" column="0" />
+        <mark key="^" line="198" column="53" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/OAuth2Authentication.java" timestamp="1562572693222" />
     </filemarks>
@@ -224,46 +230,46 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>normalIdsStr</text>
+        <text>channel</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>normalIdsStr</text>
+        <text>channel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEhvdEZlZWREdG8+IGR0b0xpc3QxID0gRG96ZXJDb252ZXJ0VXRpbC5jb252ZXJ0TGlzdChob3RzLCBIb3RGZWVkRHRvLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2NvcGUucmVxLnJlcGxhY2VDYW5kaWRhdGVzU3RyID0gcmV0LmNhbmRpZGF0ZUlkc1N0cjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzaG9ydFR5cGU6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJob3RJZHNTdHIiLGhvdElkc1N0cik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXNVcmw6ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtdWx0aUxpbmVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqb2JJZHM6ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzaG9ydFR5cGU6IDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjYV9rOiAnJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXNVcmw6ICcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBqb2JJZHM6ICcnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXNlckVudGl0eSB1c2VyID0gdXNlclNlcnZpY2UuZ2V0VXNlcihpbmZvUmVzcG9uc2UuZ2V0VWlkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjYV9rOiAnJywK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvUmVzcG9uc2Uuc2V0VmlwKHVzZXJTZXJ2aWNlLmdldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXNlckVudGl0eSB1c2VyID0gdXNlclNlcnZpY2UuZ2V0VXNlcihpbmZvUmVzcG9uc2UuZ2V0VWlkKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
