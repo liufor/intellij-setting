@@ -17,8 +17,19 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/cas/cas-management-overlay/etc/cas/config/management.properties" timestamp="1563262905614">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/Aries/Makefile" timestamp="1563179666456" />
-      <file name="$USER_HOME$/bm_work/code/cas/cas-overlay-template/build.sh" timestamp="1563258863375" />
+      <file name="$USER_HOME$/bm_work/code/cas/cas-overlay-template/build.sh" timestamp="1563261966473">
+        <mark key="[" line="113" column="3" />
+        <mark key="]" line="113" column="3" />
+        <mark key="." line="113" column="3" />
+        <mark key="^" line="113" column="3" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/LICENSE" timestamp="1563238902621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -32,6 +43,7 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/kong/kong-build-tools/release-kong.sh" timestamp="1563180817577" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/response/UserInfoResponse.java" timestamp="1563184650222" />
+      <file name="$USER_HOME$/bm_work/code/cas/cas-overlay-template/pom.xml" timestamp="1563263328188" />
       <file name="$USER_HOME$/bm_work/code/kong/Makefile" timestamp="1563183509537" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/SocialUserController.java" timestamp="1563184826487" />
       <file name="$USER_HOME$/bm_work/code/kong_proj/README.md" timestamp="1563238707813">
@@ -40,10 +52,12 @@
       <file name="$USER_HOME$/bm_work/code/kong/kong-build-tools/fpm-entrypoint.sh" timestamp="1563181022093" />
       <file name="$USER_HOME$/bm_work/code/kong/kong-build-tools/entrypoint.sh" timestamp="1563186885657" />
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong/Makefile" timestamp="1563192598609" />
+      <file name="$USER_HOME$/bm_work/code/cas/cas-management-overlay/build.cmd" timestamp="1563262200164" />
       <file name="$USER_HOME$/bm_work/code/Aries/kong-build-tools/test/Dockerfile.deb" timestamp="1563176215826" />
       <file name="$USER_HOME$/bm_work/code/kong/kong-build-tools/Dockerfile.kong" timestamp="1563182062017" />
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-build-tools/docker-compose.yml" timestamp="1563188134962" />
       <file name="$USER_HOME$/bm_work/code/kong/.requirements" timestamp="1563181862357" />
+      <file name="$USER_HOME$/bm_work/code/cas/cas-overlay-template/build.cmd" timestamp="1563260538901" />
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-build-tools/README-English.md" timestamp="1563238615175" />
       <file name="$USER_HOME$/bm_work/code/Aries/kong-build-tools/Dockerfile.fpm" timestamp="1563172176400" />
       <file name="$USER_HOME$/bm_work/code/cas/cas-overlay-template/maven/maven-wrapper.properties" timestamp="1563258290738">
@@ -176,14 +190,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3JlcG9zaXRvcnkuYXBhY2hlLm9yZy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcy9vcmcvYXBhY2hlL21hdmVuL2FwYWNoZS1tYXZlbi8zLjUuMi9hcGFjaGUtbWF2ZW4tMy41LjItYmluLnppcAo=</text>
+      <register name="&quot;" type="4">
+        <text>cas_managment</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQkJCSAgICAg</text>
+        <text>cas_managment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
