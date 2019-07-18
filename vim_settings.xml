@@ -9,11 +9,6 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/liufordemo/web-all-in-one/src/main/java/com/liufor/weballinone/AppConfig.java" timestamp="1563417410330">
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="26" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/bm_work/code/Aries/kong-build-tools/Makefile" timestamp="1563179807411">
         <mark key="[" line="22" column="36" />
         <mark key="]" line="57" column="61" />
@@ -31,10 +26,6 @@
         <mark key="]" line="9" column="37" />
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/SOFADemo/SOFADemo/pom.xml" timestamp="1563419151742">
-        <mark key="[" line="25" column="22" />
-        <mark key="^" line="24" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alipay/sofa/sofaboot-dependencies/3.1.5/sofaboot-dependencies-3.1.5.pom" timestamp="1563427662668" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.1.6.RELEASE/spring-boot-starter-parent-2.1.6.RELEASE.pom" timestamp="1563349423374" />
@@ -240,6 +231,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/spring-cloud-sofastack-samples/sofastack-cloud-sys-auth/src/main/resources/application-localhost.yml" timestamp="1563431468541" />
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp1/src/main/resources/application.properties" timestamp="1563419744619">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="22" />
@@ -303,6 +295,7 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/spring-cloud-sofastack-samples/logs/sys-user/common-default.log" timestamp="1563430626051" />
       <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1562666294087">
         <mark key="[" line="253" column="58" />
         <mark key="]" line="167" column="50" />
@@ -328,6 +321,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="24" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/spring-cloud-sofastack-samples/sofastack-cloud-sys-user/src/main/resources/application-localhost.properties" timestamp="1563431149484">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
       </file>
       <file name="$USER_HOME$/bm_work/code/beiming-build/pom.xml" timestamp="1563350276695">
         <mark key="[" line="27" column="52" />
@@ -508,14 +507,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdCb290QXBwbGljYXRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>${jdbc.password}</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>spring-boot-transform-sample</text>
+        <text>${jdbc.password}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
