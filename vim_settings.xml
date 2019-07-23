@@ -11,8 +11,9 @@
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp1/src/main/java/com/beiming/sofa/webapp1/controller/ResourceController.java" timestamp="1563500569500">
         <mark key="[" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/cn/beiming/aries/server/api/vo/internal/RouteConf.java" timestamp="1563869917158">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/cn/beiming/aries/server/api/vo/internal/RouteConf.java" timestamp="1563872476920">
+        <mark key="[" line="23" column="0" />
+        <mark key="^" line="33" column="3" />
       </file>
       <file name="/a.dummy" timestamp="1563869859671">
         <mark key="[" line="0" column="0" />
@@ -33,8 +34,8 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/cn/beiming/aries/server/api/vo/internal/TransformationConf.java" timestamp="1563869874412">
-        <mark key="[" line="5" column="33" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/cn/beiming/aries/server/api/vo/internal/TransformationConf.java" timestamp="1563871269810">
+        <mark key="[" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp1/src/main/java/com/beiming/sofa/webapp1/controller/HelloController.java" timestamp="1563506126374">
         <mark key="[" line="20" column="22" />
@@ -43,6 +44,9 @@
         <mark key="[" line="12" column="1" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/resources/app.json" timestamp="1563871018662">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp2/src/main/resources/application.properties" timestamp="1563506163304">
         <mark key="[" line="3" column="24" />
@@ -87,6 +91,7 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/resources/service.json" timestamp="1563872916325" />
       <file name="$USER_HOME$/bm_work/code/beiming-cloud/samples/commonlib/pom.xml" timestamp="1563639895253">
         <mark key="[" line="6" column="35" />
       </file>
@@ -94,6 +99,9 @@
         <mark key="[" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/pigx/pigx-common/pigx-common-data/pom.xml" timestamp="1563851077410" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/cn/beiming/aries/server/api/vo/Site.java" timestamp="1563871235468">
+        <mark key="[" line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp1/src/main/resources/templates/index.html" timestamp="1563505883185">
         <mark key="[" line="8" column="0" />
       </file>
@@ -380,13 +388,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>methods</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -395,31 +403,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJlcVNvdXJjZVR5cGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBudWxsYWJsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSB2YWliaGF2IG9uIDEzLzA2LzE3Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIudmFpYmhhdnNpbmhhLmtvbmcubW9kZWwuY29tbW9uLkFic3RyYWN0RW50aXR5TGlzdDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
+        <text encoding="base64">ICAgIEBudWxsYWJsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSB2YWliaGF2IG9uIDEzLzA2LzE3Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
