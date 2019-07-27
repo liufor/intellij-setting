@@ -18,12 +18,16 @@
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/ISiteService.java" timestamp="1563982857320">
         <mark key="[" line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/domain/AriesSite.java" timestamp="1564032765982">
+        <mark key="[" line="71" column="29" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/kong-java-sdk/src/main/java/cn/beiming/kong/model/admin/service/Service.java" timestamp="1563862249542">
         <mark key="[" line="53" column="4" />
         <mark key="]" line="57" column="27" />
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/internal/plugin/security/RetrofitAclService.java" timestamp="1564217613302" />
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp1/src/main/java/com/beiming/sofa/webapp1/controller/HelloController.java" timestamp="1563506126374">
         <mark key="[" line="20" column="22" />
       </file>
@@ -70,7 +74,10 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/impl/service/plugin/authentication/BasicAuthServiceImpl.java" timestamp="1564128534801" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/rio_site_独立域名.json" timestamp="1564122414509">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/impl/service/plugin/authentication/BasicAuthServiceImpl.java" timestamp="1564217633315" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-web/pom.xml" timestamp="1563768526375">
         <mark key="[" line="11" column="53" />
         <mark key="]" line="10" column="29" />
@@ -82,6 +89,9 @@
         <mark key="]" line="18" column="16" />
         <mark key="^" line="15" column="36" />
         <mark key="." line="18" column="16" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/mapper/ManualServiceMapper.java" timestamp="1564066303310">
+        <mark key="[" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-admin/src/main/java/cn/beiming/web/controller/aries/OrganizationController.java" timestamp="1564115541943">
         <mark key="[" line="129" column="30" />
@@ -154,11 +164,23 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/mapper/ManualAriesServiceMapper.java" timestamp="1564117280245">
+        <mark key="[" line="11" column="30" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-admin/src/main/java/cn/beiming/web/controller/aries/CheckController.java" timestamp="1563949540761">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="13" column="28" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/domain/AriesService.java" timestamp="1564056135080">
+        <mark key="[" line="120" column="29" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/enums/ReportLogTypeEnum.java" timestamp="1564220006693">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/admin/consumer/Consumer.java" timestamp="1563933734381">
         <mark key="[" line="6" column="0" />
@@ -171,6 +193,12 @@
         <mark key="]" line="12" column="19" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/Constants.java" timestamp="1564220186050">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="20" />
       </file>
       <file name="$USER_HOME$/bm_work/code/beiming-cloud/beiming-cloud-build/beiming-cloud-dependencies/pom.xml" timestamp="1563847330584">
         <mark key="[" line="21" column="46" />
@@ -236,7 +264,7 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/internal/admin/RetrofitTargetService.java" timestamp="1564018999633">
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/internal/admin/RetrofitTargetService.java" timestamp="1564218493748">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="13" column="47" />
         <mark key="." line="13" column="47" />
@@ -281,6 +309,9 @@
       <file name="$USER_HOME$/bm_work/code/jarslink-demo/multi-web-app-sample/app-one/pom.xml" timestamp="1563760051563">
         <mark key="[" line="60" column="21" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/site2.json" timestamp="1564030675846">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp2/.gitignore" timestamp="1563506632873">
         <mark key="[" line="31" column="0" />
       </file>
@@ -321,6 +352,9 @@
         <mark key="]" line="8" column="29" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/ServiceRouteConf.java" timestamp="1564126261259">
+        <mark key="[" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/AriesServiceDtoResponse.java" timestamp="1564125695246">
         <mark key="[" line="8" column="3" />
@@ -386,14 +420,17 @@
       <file name="$USER_HOME$/bm_work/code/beiming-cloud/samples/multi-web/allinone/conf/ark/bootstrap.properties" timestamp="1563642228224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/admin/upstream/Upstream.java" timestamp="1563933220078">
-        <mark key="[" line="10" column="22" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/admin/upstream/Upstream.java" timestamp="1564219738045">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="31" column="23" />
+        <mark key="^" line="31" column="23" />
+        <mark key="." line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/AriesServiceDtoServiceImpl.java" timestamp="1564141451805">
-        <mark key="[" line="222" column="29" />
-        <mark key="]" line="225" column="0" />
-        <mark key="^" line="225" column="0" />
-        <mark key="." line="225" column="0" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/AriesServiceDtoServiceImpl.java" timestamp="1564219894123">
+        <mark key="[" line="252" column="30" />
+        <mark key="]" line="252" column="29" />
+        <mark key="." line="252" column="29" />
+        <mark key="^" line="252" column="29" />
       </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedsController.java" timestamp="1564134107142" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/test/src/cn.beiming.aries.kong/RetrofitPluginServiceTest.java" timestamp="1564130378515" />
@@ -402,6 +439,9 @@
         <mark key="]" line="20" column="18" />
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-admin/src/main/resources/application-test.yml" timestamp="1564108068275">
+        <mark key="[" line="60" column="6" />
       </file>
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp2/src/main/java/com/beiming/sofa/webapp2/controller/ResourceController.java" timestamp="1563500538399">
         <mark key="[" line="2" column="31" />
@@ -432,6 +472,9 @@
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/cn/beiming/aries/server/Webapp1Application.java" timestamp="1563844772805">
         <mark key="[" line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/site.json" timestamp="1564031128211">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/admin/api/ApiList.java" timestamp="1563963596380">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -445,6 +488,9 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/cn/beiming/aries/server/dao/entity/User.java" timestamp="1563847168586">
         <mark key="[" line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/api/admin/TargetService.java" timestamp="1564218484715">
+        <mark key="[" line="14" column="51" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/AriesSiteServiceImpl.java" timestamp="1564032517678">
         <mark key="[" line="86" column="46" />
@@ -572,8 +618,8 @@
         <mark key="[" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/impl/helper/CustomGsonResponseBodyConverter.java" timestamp="1564021160240" />
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/RouteConf.java" timestamp="1564126272865">
-        <mark key="[" line="25" column="27" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/RouteConf.java" timestamp="1564219082919">
+        <mark key="[" line="52" column="26" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-admin/src/main/java/cn/beiming/web/controller/aries/ApplicationController.java" timestamp="1564115531667">
         <mark key="[" line="129" column="30" />
@@ -581,11 +627,11 @@
         <mark key="^" line="127" column="7" />
         <mark key="." line="129" column="30" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/internal/admin/RetrofitUpstreamService.java" timestamp="1563985178017">
-        <mark key="[" line="25" column="38" />
-        <mark key="]" line="25" column="36" />
-        <mark key="." line="25" column="36" />
-        <mark key="^" line="25" column="36" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/internal/admin/RetrofitUpstreamService.java" timestamp="1564218073941">
+        <mark key="[" line="26" column="69" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8754cb1c-20b8-49d3-b735-0bb42330354b/console.sql" timestamp="1564048261751">
         <mark key="[" line="0" column="0" />
@@ -599,7 +645,7 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/cn/beiming/aries/server/api/vo/Service.java" timestamp="1564031166673">
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/cn/beiming/aries/server/api/vo/Service.java" timestamp="1564219252704">
         <mark key="[" line="41" column="1" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="39" column="18" />
@@ -627,8 +673,8 @@
         <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/mapper/ServiceMapper.java" timestamp="1564049333505" />
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/test/src/cn.beiming.aries.kong/RetrofitTargetServiceTest.java" timestamp="1563958518722">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/test/src/cn.beiming.aries.kong/RetrofitTargetServiceTest.java" timestamp="1564218663054">
+        <mark key="[" line="30" column="87" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -744,6 +790,9 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/resources/mapper/aries/ManualApplicationMapper.xml" timestamp="1564036556891">
+        <mark key="[" line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/liufordemo/web-app2/src/main/java/com/liufor/webapp2/overlay/ApplicationConfig.java" timestamp="1563355452107">
         <mark key="[" line="1" column="0" />
       </file>
@@ -759,11 +808,14 @@
         <mark key="^" line="18" column="33" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/region/ServerRegion.java" timestamp="1564118600316">
-        <mark key="[" line="9" column="18" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/region/ServerRegion.java" timestamp="1564217239865">
+        <mark key="[" line="24" column="27" />
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/IAriesSiteService.java" timestamp="1564032497359">
+        <mark key="[" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/IUniqueCheckService.java" timestamp="1564111815690">
         <mark key="[" line="11" column="73" />
@@ -839,6 +891,9 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/TransformationConf.java" timestamp="1564044832675">
+        <mark key="[" line="12" column="28" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/region/DeployRegion.java" timestamp="1564137285087" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/test/src/cn.beiming.aries.kong/RetrofitUpstreamServiceTest.java" timestamp="1564017182633">
         <mark key="[" line="71" column="90" />
@@ -897,6 +952,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/beiming_site_demo.json" timestamp="1564070675697">
+        <mark key="[" line="38" column="6" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/rio_site_wwq.json" timestamp="1564122018713" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/admin/consumer/ConsumerList.java" timestamp="1564129307062">
         <mark key="[" line="9" column="3" />
@@ -904,10 +962,10 @@
         <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/resources/mapper/aries/AriesServiceMapper.xml" timestamp="1564066470503" />
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/api/admin/UpstreamService.java" timestamp="1563985079192">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/api/admin/UpstreamService.java" timestamp="1564218056973">
+        <mark key="[" line="18" column="96" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/impl/helper/RetrofitServiceCreator.java" timestamp="1563935581098">
         <mark key="[" line="13" column="0" />
@@ -919,6 +977,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/resources/mapper/aries/ManualAriesServiceMapper.xml" timestamp="1564117347722">
+        <mark key="[" line="7" column="30" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/bmsk_site_demo.json" timestamp="1564123654398">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="31" column="19" />
@@ -927,6 +988,9 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/beiming-cloud/samples/multi-web/allinone/src/main/java/com/beiming/sofa/allinone/controller/HelloController.java" timestamp="1563532608150">
         <mark key="[" line="21" column="35" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-admin/src/main/resources/application-prod.yml" timestamp="1564108076879">
+        <mark key="[" line="60" column="6" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/internal/admin/RetrofitPluginRepoService.java" timestamp="1564130237934">
         <mark key="[" line="7" column="0" />
@@ -1102,13 +1166,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>RequestTransformer</text>
+        <text>Integer</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>RequestTransformer</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -1117,31 +1181,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIFBMVUdJTl9OQU1FID0gImp3dCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldE5hbWUoUExVR0lOX05BTUUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdVJlcXVlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldElkKFBMVUdJTl9JRCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmJlaW1pbmcuYXJpZXMua29uZy5tb2RlbC5hZG1pbi5jb25zdW1lci5Db25zdW1lcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IExvbmcgdG90YWw7CiAgICBTdHJpbmcgbmV4dDsKICAgIExpc3Q8Q29uc3VtZXI+IGRhdGE7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVDb25mLmdldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAicHJvdG9jb2xzIjogWyJodHRwIiwgImh0dHBzIl0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga1NydlJlcXVlc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGFkZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAga1NydlJlcXVlc3Quc2V0Y29uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga1NydlJlcXVlc3Quc2V0cHIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5ybWkucm1pYy5paW9wLklETE5hbWVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2Zyb250ZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJSZWdpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0TGlzdC4K</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
