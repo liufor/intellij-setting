@@ -91,11 +91,11 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/bmsk_service_request_transform.json" timestamp="1564279371804">
-        <mark key="[" line="92" column="5" />
-        <mark key="]" line="92" column="5" />
-        <mark key="^" line="92" column="8" />
-        <mark key="." line="92" column="5" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/bmsk_service_request_transform.json" timestamp="1564280763345">
+        <mark key="[" line="84" column="12" />
+        <mark key="]" line="80" column="11" />
+        <mark key="^" line="80" column="11" />
+        <mark key="." line="80" column="11" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/transform/ResponseTransConf.java" timestamp="1564050763732">
         <mark key="[" line="5" column="26" />
@@ -420,6 +420,7 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong/kong/constants.lua" timestamp="1564280200737" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/AriesSiteServiceImpl.java" timestamp="1564032517678">
         <mark key="[" line="86" column="46" />
         <mark key="]" line="88" column="0" />
@@ -725,11 +726,10 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/transform/request/RequestDefaultConfigs.java" timestamp="1564278888144">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/transform/request/RequestDefaultConfigs.java" timestamp="1564280580093">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/admin/pluginv2/PluginV2.java" timestamp="1564131732897">
         <mark key="[" line="10" column="21" />
@@ -1034,14 +1034,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>remove</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>remove</text>
+        <text>X-Kong-Proxy-Latency</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -1050,31 +1050,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlT3JVcGRhdGVQbHVnaW4oa1NlcnZpY2VJZCwgcmVxVHJhbnNQLGFTZXJ2aWNlRHRvKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFJlcXVlc3RUcmFuc2Zvcm1Db25mIENPTU1PTiA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSU5TVEFOQ0U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUmVxdWVzdFRyYW5zZm9ybUNvbmYgZ2V0SU5TVEFOQ0UoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFJlcXVlc3RUcmFuc2Zvcm1Db25mIElOU1RBTkNFOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
