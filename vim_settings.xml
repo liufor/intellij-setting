@@ -239,6 +239,9 @@
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/DeserializationFeature.java" timestamp="1564383990808" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/domain/AriesSystem.java" timestamp="1564395886772" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperMethod.java" timestamp="1564288642291" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/JobCreationRequest.java" timestamp="1564410394024">
+        <mark key="[" line="71" column="29" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/k/KInfo.java" timestamp="1564366727790">
         <mark key="[" line="21" column="24" />
         <mark key="]" line="21" column="24" />
@@ -486,11 +489,11 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1564409714971">
-        <mark key="[" line="63" column="38" />
-        <mark key="]" line="319" column="6" />
-        <mark key="^" line="319" column="6" />
-        <mark key="." line="319" column="6" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1564410540232">
+        <mark key="[" line="646" column="9" />
+        <mark key="]" line="644" column="31" />
+        <mark key="." line="644" column="31" />
+        <mark key="^" line="644" column="31" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/application/AriesAppIdName.java" timestamp="1564398574468">
         <mark key="[" line="7" column="0" />
@@ -559,6 +562,7 @@
         <mark key="]" line="8" column="19" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/feed/FeedsService.java" timestamp="1564410297115" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/admin/upstream/Upstream.java" timestamp="1564219738045">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="31" column="23" />
@@ -571,7 +575,7 @@
         <mark key="^" line="224" column="32" />
         <mark key="." line="224" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedsController.java" timestamp="1564409710386" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/feed/FeedsController.java" timestamp="1564410242388" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/test/src/cn.beiming.aries.kong/RetrofitPluginServiceTest.java" timestamp="1564130378515" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/IAriesServiceService.java" timestamp="1564064080659">
         <mark key="[" line="28" column="21" />
@@ -691,6 +695,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/SerializationFeature.java" timestamp="1564388111234" />
+      <file name="$MAVEN_REPOSITORY$/com/gongzuochong/gzc-domain/1.0.0-SNAPSHOT/gzc-domain-1.0.0-SNAPSHOT.jar!/com/gongzuochong/domain/service/feed/FeedsService.class" timestamp="1564410285942" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/kong-java-sdk/src/main/java/cn/beiming/kong/utils/UrlUtil.java" timestamp="1563857705853">
         <mark key="[" line="56" column="45" />
         <mark key="]" line="58" column="0" />
@@ -1505,14 +1510,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>dto.getApp().getAppId()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhLnNldEZlZWRJZChmZWVkSWQpOwo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>dto.getApp().getAppId()</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -1521,31 +1526,31 @@
         <text encoding="base64">ICAgICAgICBlbnRpdHkuc2V0QXBwSWQoZHRvLmdldEFwcCgpLmdldEFwcElkKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0QXBwbGljYXRpb24obmV3IElkT3JOYW1lKGVudGl0eS5nZXRBcHBJZCgpLCBlbnRpdHkuZ2V0QXBwTmFtZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLnNldEZlZWRJZChmZWVkSWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKekpvYkNyZWF0aW9uUmVxdWVzdCBkYXRhID0gam9iMkp6Sm9iKHNhdmUpOwogICAgICAgIGRhdGEuc2V0RmVlZElkKGZlZWRJZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSWRPck5hbWUgYXBwbGljYXRpb247Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vVE9ET++8jOWQr+eUqOS7o+abv2FwcGxpY2F0aW9uCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBMb25nIGZlZWRJZCA9IGNyZWF0ZUpvYkZlZWRzKHNhdmUpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkdG8uc2V0QXBwbGljYXRpb24obmV3IElkT3JOYW1lKGVudGl0eS5nZXRBcHBJZCgpLCBlbnRpdHkuZ2V0QXBwTmFtZSgpKSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSWRPck5hbWUgYXBwbGljYXRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHkuc2V0QXBwSWQoZHRvLmdldEFwcGxpY2F0aW9uKCkuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSWRPck5hbWUgYXBwbGljYXRpb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG9yZ0lkOwo=</text>
+        <text encoding="base64">ICAgIC8vVE9ET++8jOWQr+eUqOS7o+abv2FwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
