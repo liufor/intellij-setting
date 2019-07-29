@@ -302,8 +302,8 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/AriesServiceDtoServiceImpl.java" timestamp="1564368785590">
-        <mark key="[" line="410" column="15" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/AriesServiceDtoServiceImpl.java" timestamp="1564371725502">
+        <mark key="[" line="409" column="15" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
@@ -324,7 +324,7 @@
       <file name="$USER_HOME$/work/code/gzc-spider/src/main/resources/1.js" timestamp="1563786268641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564048728867">
+      <file name="/Dummy.txt" timestamp="1564371011099">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/domain/Supplier.java" timestamp="1563982528753">
@@ -427,11 +427,12 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1564368865530">
-        <mark key="[" line="232" column="23" />
-        <mark key="]" line="232" column="23" />
-        <mark key="." line="232" column="23" />
-        <mark key="^" line="232" column="26" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1564371645791">
+        <mark key="'" line="408" column="31" />
+        <mark key="[" line="429" column="5" />
+        <mark key="]" line="426" column="0" />
+        <mark key="^" line="426" column="28" />
+        <mark key="." line="426" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/ServiceRouteConf.java" timestamp="1564031253891">
         <mark key="[" line="6" column="29" />
@@ -781,7 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4645" column="28" filename="$USER_HOME$/work/code/gzc-spider/src/main/resources/wubaQzCategoryData.json" />
       <jump line="4783" column="18" filename="$USER_HOME$/work/code/gzc-h5/index2.html" />
       <jump line="1" column="9" filename="$USER_HOME$/work/code/gzc-spider/src/main/resources/1.txt" />
       <jump line="52" column="1" filename="$USER_HOME$/work/code/gzc-spider/src/main/java/com/gongzuochong/service/rawdata/wubamp/WubaMpQzRawDataServiceImpl.java" />
@@ -881,19 +881,20 @@
       <jump line="8" column="6" filename="$USER_HOME$/bm_work/code/SOFADemo/webapp1/src/main/resources/templates/user/add.html" />
       <jump line="15" column="8" filename="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/transform/request/RequestTransformConf.java" />
       <jump line="157" column="26" filename="$USER_HOME$/bm_work/code/oa/beiming-admin/src/main/java/cn/beiming/web/controller/aries/ServiceController.java" />
+      <jump line="409" column="31" filename="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>targetList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>targetList</text>
+        <text>kServiceName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -902,31 +903,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFqYXhSZXN1bHQuZXJyb3IoImVycm9yIixjaGVjayk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwbHVnaW4uZ2V0TmFtZSgpLmVxdWFscyhwbHVnaW5OYW1lKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9sb2cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBrUGx1Z2luU2VydmljZS5saXN0U2VydmljZVBsdWdpbnMoa1NlcnZpY2VJZCwgcGx1Z2luTmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtBcGlCdWlsZGVyLmtJZFRhcmdldCh0UmVzcG9uc2UuZ2V0SWQoKSwgbmV3IEtvbmdJZE9yTmFtZSh0UmVzcG9uc2UuZ2V0SWQoKSwgdFJlc3BvbnNlLmdldFRhcmdldCgpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrUGx1Z2luU2VydmljZS5saXN0U2VydmljZVBsdWdpbnMoa1NlcnZpY2VJZCwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBrUGx1Z2luU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwbHVnaW4uZ2V0TmFtZSgpLmVxdWFscyhwbHVnaW5OYW1lKSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
