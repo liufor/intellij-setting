@@ -681,11 +681,11 @@
         <mark key="^" line="29" column="24" />
         <mark key="." line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1564639383011">
-        <mark key="[" line="517" column="68" />
-        <mark key="]" line="519" column="36" />
-        <mark key="." line="519" column="36" />
-        <mark key="^" line="519" column="36" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1564639902956">
+        <mark key="[" line="394" column="20" />
+        <mark key="]" line="394" column="20" />
+        <mark key="." line="394" column="20" />
+        <mark key="^" line="394" column="35" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/ServiceRouteConf.java" timestamp="1564031253891">
         <mark key="[" line="6" column="29" />
@@ -1152,6 +1152,9 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/KNameGenerator.java" timestamp="1564640020982">
+        <mark key="[" line="11" column="31" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/resources/mapper/aries/AriesServiceMapper.xml" timestamp="1564554822088" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/impl/helper/RetrofitServiceCreator.java" timestamp="1564391733316">
         <mark key="[" line="34" column="72" />
@@ -1363,13 +1366,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>PubServerRegion</text>
+        <text>kRouteRespList</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>PubServerRegion</text>
+        <text>kRouteRespList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -1378,31 +1381,31 @@
         <text encoding="base64">ICAgICAgICBpZiAocGF0aHMgPT0gbnVsbCB8fCBwYXRocy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga1JvdXRlUmVxLnNldE5hbWUobnVsbCk7IC8v6Lev55Sx5peg5ZCNCg==</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIl8iKS5hcHBlbmQoaWROYW1lLmdldElkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihrUm91dGUuZ2V0SG9zdCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIOWPquaciVRhcmdldFBhdGjvvIzmsqHmnIlQdWJQYXRoLiDlm6DkuLpTaXRl5LiN5YWB6K645Lik6ICF5LiN5LiA5qC3Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ0aW1lb3V0SW5NaWxsaXNlY29uZCI6IDMwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAga1JvdXRlUmVxLnNldE5hbWUobnVsbCk7IC8v6Lev55Sx5peg5ZCNCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUm91dGVDb25mLnNldFRhcmdldFBhdGgoIi9yZXF1ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUm91dGVDb25mLnNldFB1YlBhdGgoIi9lYnVzL2Jtc2thcHBpZDEvdGVzdHNydjAwMSIpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByUmVxdWVzdC5zZXRQYXRocyhMaXN0cy5uZXdBcnJheUxpc3QoYXJpZXNTZXJ2aWNlLmdldFJvdXRlKCkuZ2V0UHViUGF0aCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIOWPquaciVRhcmdldFBhdGjvvIzmsqHmnIlQdWJQYXRoLiDlm6DkuLpTaXRl5LiN5YWB6K645Lik6ICF5LiN5LiA5qC3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>362</text>
