@@ -169,11 +169,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/PathRouteConf.java" timestamp="1564629136259">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="36" column="44" />
-        <mark key="^" line="36" column="44" />
-        <mark key="." line="36" column="44" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/PathRouteConf.java" timestamp="1564638799630">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="33" column="44" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/cn/beiming/aries/server/api/vo/internal/DeployRegion.java" timestamp="1563891170428">
         <mark key="[" line="10" column="19" />
@@ -500,6 +500,7 @@
       <file name="$USER_HOME$/bm_work/code/beiming-cloud/samples/multi-web/allinone/conf/ark/bootstrap.properties" timestamp="1563642228224">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/k/KRoute.java" timestamp="1564639104262" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/admin/upstream/Upstream.java" timestamp="1564219738045">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="31" column="23" />
@@ -680,8 +681,11 @@
         <mark key="^" line="29" column="24" />
         <mark key="." line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1564636118819">
-        <mark key="[" line="360" column="4" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1564639383011">
+        <mark key="[" line="517" column="68" />
+        <mark key="]" line="519" column="36" />
+        <mark key="." line="519" column="36" />
+        <mark key="^" line="519" column="36" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/ServiceRouteConf.java" timestamp="1564031253891">
         <mark key="[" line="6" column="29" />
@@ -976,8 +980,8 @@
         <mark key="^" line="18" column="33" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/region/ServerRegion.java" timestamp="1564543178286">
-        <mark key="[" line="34" column="21" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/region/ServerRegion.java" timestamp="1564638905567">
+        <mark key="[" line="26" column="3" />
         <mark key="]" line="36" column="16" />
         <mark key="^" line="36" column="16" />
         <mark key="." line="36" column="16" />
@@ -1358,14 +1362,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0aW1lb3V0SW5NaWxsaXNlY29uZCI6IDMwMDAK</text>
+      <register name="&quot;" type="4">
+        <text>PubServerRegion</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>服务测试RequestTransform</text>
+        <text>PubServerRegion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -1374,31 +1378,31 @@
         <text encoding="base64">ICAgICAgICBpZiAocGF0aHMgPT0gbnVsbCB8fCBwYXRocy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0aW1lb3V0SW5NaWxsaXNlY29uZCI6IDMwMDAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUm91dGVDb25mLnNldFRhcmdldFBhdGgoIi9yZXF1ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga1JvdXRlUmVxLnNldE5hbWUobnVsbCk7IC8v6Lev55Sx5peg5ZCNCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUm91dGVDb25mLnNldFB1YlBhdGgoIi9lYnVzL2Jtc2thcHBpZDEvdGVzdHNydjAwMSIpOwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByUmVxdWVzdC5zZXRQYXRocyhMaXN0cy5uZXdBcnJheUxpc3QoYXJpZXNTZXJ2aWNlLmdldFJvdXRlKCkuZ2V0UHViUGF0aCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUm91dGVDb25mLnNldFRhcmdldFBhdGgoIi9yZXF1ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAqIOWPquaciVRhcmdldFBhdGjvvIzmsqHmnIlQdWJQYXRoLiDlm6DkuLpTaXRl5LiN5YWB6K645Lik6ICF5LiN5LiA5qC3Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUm91dGVDb25mLnNldFB1YlBhdGgoIi9lYnVzL2Jtc2thcHBpZDEvdGVzdHNydjAwMSIpOwo=</text>
+        <text encoding="base64">ICAgICJ0aW1lb3V0SW5NaWxsaXNlY29uZCI6IDMwMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUm91dGVDb25mLnNldFRhcmdldFBhdGgoIi9yZXF1ZXN0Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUm91dGVDb25mLnNldFB1YlBhdGgoIi9lYnVzL2Jtc2thcHBpZDEvdGVzdHNydjAwMSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQYXRoUm91dGVDb25mIGJhc2VUYXJnZXRQYXRoID0gUGF0aFV0aWxzLmdldEJhc2VUYXJnZXRQYXRoKGR0by5nZXRSb3V0ZSgpLmdldFBhdGhzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByUmVxdWVzdC5zZXRQYXRocyhMaXN0cy5uZXdBcnJheUxpc3QoYXJpZXNTZXJ2aWNlLmdldFJvdXRlKCkuZ2V0UHViUGF0aCgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>362</text>
