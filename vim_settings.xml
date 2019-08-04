@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1564914561161">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1564915892953">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="6" />
         <mark key="." line="14" column="6" />
@@ -91,7 +91,7 @@
         <mark key="." line="2" column="57" />
       </file>
       <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/aries.location" timestamp="1564904281477" />
-      <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/custom-services/AriesOIDC-100.json" timestamp="1564903108914">
+      <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/custom-services/AriesOIDC-100.json" timestamp="1564916092732">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="33" />
         <mark key="^" line="8" column="45" />
@@ -101,6 +101,12 @@
       <file name="$USER_HOME$/conf/nginx/proxy.conf" timestamp="1564902840576" />
       <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/konga.server" timestamp="1564909635628">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/oidc.http" timestamp="1564916134060">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/application-prod.yml" timestamp="1564894098127">
         <mark key="[" line="5" column="14" />
@@ -261,13 +267,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>kong-oidc</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>kong-oidc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
