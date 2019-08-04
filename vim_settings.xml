@@ -26,6 +26,7 @@
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp2/src/main/resources/application.properties" timestamp="1563506163304">
         <mark key="[" line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-oidc-auth/src/schema.lua" timestamp="1564933070893" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/domain/Organization.java" timestamp="1563982521335">
         <mark key="[" line="17" column="13" />
       </file>
@@ -61,6 +62,12 @@
       </file>
       <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/web1.server" timestamp="1564909615100" />
       <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/upstream.server" timestamp="1564912627612" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1564933716190">
+        <mark key="[" line="583" column="12" />
+        <mark key="]" line="582" column="26" />
+        <mark key="^" line="582" column="26" />
+        <mark key="." line="582" column="26" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/ServiceRouteConf.java" timestamp="1564031253891">
         <mark key="[" line="6" column="29" />
       </file>
@@ -127,6 +134,7 @@
       <file name="$USER_HOME$/bm_work/code/cas/cas/support/cas-server-support-oidc/src/main/java/org/apereo/cas/oidc/web/controllers/OidcDynamicClientRegistrationEndpointController.java" timestamp="1564731563187">
         <mark key="[" line="94" column="132" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/PathRouteConf.java" timestamp="1564933531201" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/AriesSiteType.java" timestamp="1564476233515">
         <mark key="[" line="4" column="22" />
       </file>
@@ -169,6 +177,12 @@
         <mark key="]" line="66" column="12" />
         <mark key="^" line="66" column="12" />
         <mark key="." line="66" column="12" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/Constants.java" timestamp="1564933853474">
+        <mark key="[" line="18" column="81" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="80" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/ISystemService.java" timestamp="1563982865126">
         <mark key="[" line="10" column="18" />
@@ -367,11 +381,11 @@
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/k/KUpsteam.java" timestamp="1564563092827">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/plugin/authentication/oidc/OidcConfig.java" timestamp="1564932991032">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/plugin/authentication/oidc/OidcConfig.java" timestamp="1564933807941">
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="41" column="30" />
+        <mark key="^" line="41" column="30" />
+        <mark key="." line="41" column="30" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/AriesOrangizationDtoServiceImpl.java" timestamp="1564656361287">
         <mark key="[" line="13" column="0" />
@@ -597,20 +611,20 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>hhader</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUklFU19PSURDX0F1dGhvcml6ZVVybCA9ICIiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEFSSUVTX09JRENfdG9rZW5VcmwgPSAiIjsK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>hhader</text>
+        <text>oidcConfig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5neC5oZWFkZXJbIlgtT2F1dGgtVXNlckluZm8iXSA9IGNqc29uLmVuY29kZSh1c2VySW5mbykK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUklFU19PSURDX0F1dGhvcml6ZVVybCA9ICIiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEFSSUVTX09JRENfdG9rZW5VcmwgPSAiIjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2V0ICRzZXNzaW9uX2Nvb2tpZV9zYW1lc2l0ZSBvZmY7Cg==</text>
