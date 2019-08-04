@@ -27,7 +27,7 @@
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/service/AriesAppIdName.java" timestamp="1564396917501">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/conf/nginx/hosts/production/cas.location" timestamp="1564837991058">
+      <file name="$USER_HOME$/conf/nginx/hosts/production/cas.location" timestamp="1564885256132">
         <mark key="[" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oidcdemo/src/main/resources/templates/index.html" timestamp="1564849348137">
@@ -90,7 +90,7 @@
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/ISupplierService.java" timestamp="1563982905469">
         <mark key="[" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/spring-webmvc-pac4j-boot-demo/src/main/java/org/pac4j/demo/spring/CallbackX.java" timestamp="1564882978956">
+      <file name="$USER_HOME$/bm_work/code/spring-webmvc-pac4j-boot-demo/src/main/java/org/pac4j/demo/spring/CallbackX.java" timestamp="1564884694507">
         <mark key="[" line="61" column="27" />
         <mark key="]" line="57" column="68" />
         <mark key="." line="57" column="68" />
@@ -108,6 +108,7 @@
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/AriesSiteType.java" timestamp="1564476233515">
         <mark key="[" line="4" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oauth/5.3.11/cas-server-support-oauth-5.3.11.jar!/org/apereo/cas/support/oauth/web/endpoints/OAuth20AccessTokenEndpointController.class" timestamp="1564885545493" />
       <file name="$USER_HOME$/bm_work/code/oidcdemo/src/main/resources/templates/protectedIndex.html" timestamp="1564849243174">
         <mark key="[" line="0" column="18" />
       </file>
@@ -138,6 +139,7 @@
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/IAriesServiceService1.java" timestamp="1564056302603">
         <mark key="[" line="11" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oidc/5.3.11/cas-server-support-oidc-5.3.11-sources.jar!/org/apereo/cas/oidc/web/controllers/OidcAuthorizeEndpointController.java" timestamp="1564885460923" />
       <file name="$USER_HOME$/bm_work/code/liufordemo/web-app2/src/main/java/com/liufor/webapp2/controller/StatusController.java" timestamp="1563414207262">
         <mark key="[" line="26" column="5" />
       </file>
@@ -206,6 +208,12 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp2/.gitignore" timestamp="1563506632873">
         <mark key="[" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/conf/nginx/commons/ssl-corp.bm-sk.cn.common" timestamp="1564884497830">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="2" column="57" />
+        <mark key="^" line="1" column="56" />
+        <mark key="." line="2" column="57" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/domain/RreisSupplier.java" timestamp="1564395642290">
         <mark key="[" line="17" column="13" />
@@ -354,6 +362,12 @@
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/application-dev.yml" timestamp="1564881186632">
         <mark key="[" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/conf/nginx/hosts/production/cas.server" timestamp="1564884524693">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="33" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/domain/Site.java" timestamp="1563982506905">
         <mark key="[" line="17" column="13" />
       </file>
@@ -363,10 +377,10 @@
       <file name="$USER_HOME$/bm_work/code/SOFADemo/webapp2/src/main/java/com/beiming/sofa/webapp2/service/HelloService.java" timestamp="1563426874365">
         <mark key="[" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/conf/nginx/hosts/production/aries.server" timestamp="1564835064120">
-        <mark key="[" line="2" column="32" />
+      <file name="$USER_HOME$/conf/nginx/hosts/production/aries.server" timestamp="1564884567408">
+        <mark key="[" line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1564882458317">
+      <file name="/fragment.java" timestamp="1564885544349">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -476,14 +490,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRva2VuVVJsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>fullchain1</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>100001abcdeft</text>
+        <text>fullchain1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
