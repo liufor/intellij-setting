@@ -27,7 +27,7 @@
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/service/AriesAppIdName.java" timestamp="1564396917501">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/conf/nginx/hosts/production/cas.location" timestamp="1564886770973">
+      <file name="$USER_HOME$/conf/nginx/hosts/production/cas.location" timestamp="1564895710710">
         <mark key="[" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oidcdemo/src/main/resources/templates/index.html" timestamp="1564849348137">
@@ -90,7 +90,7 @@
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/ISupplierService.java" timestamp="1563982905469">
         <mark key="[" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/spring-webmvc-pac4j-boot-demo/src/main/java/org/pac4j/demo/spring/CallbackX.java" timestamp="1564884694507">
+      <file name="$USER_HOME$/bm_work/code/spring-webmvc-pac4j-boot-demo/src/main/java/org/pac4j/demo/spring/CallbackX.java" timestamp="1564895953568">
         <mark key="[" line="61" column="27" />
         <mark key="]" line="57" column="68" />
         <mark key="." line="57" column="68" />
@@ -235,15 +235,16 @@
       <file name="$USER_HOME$/bm_work/code/SOFADemo/allinone/.gitignore" timestamp="1563506638353">
         <mark key="[" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/custom-services/AriesOIDC-100.json" timestamp="1564882156861">
-        <mark key="[" line="8" column="77" />
-        <mark key="]" line="8" column="43" />
+      <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/custom-services/AriesOIDC-100.json" timestamp="1564896018796">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="33" />
         <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="43" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/IApplicationService.java" timestamp="1563982916557">
         <mark key="[" line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/application.properties" timestamp="1564896708383" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/region/PubServerRegion.java" timestamp="1564543577314">
         <mark key="[" line="11" column="27" />
       </file>
@@ -295,7 +296,7 @@
       <file name="$USER_HOME$/bm_work/code/spring-webmvc-pac4j-boot-demo/src/main/java/org/pac4j/demo/spring/Application.java" timestamp="1564850220484">
         <mark key="[" line="122" column="5" />
       </file>
-      <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1564890255417">
+      <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1564895676266">
         <mark key="[" line="63" column="1" />
         <mark key="]" line="42" column="28" />
         <mark key="^" line="42" column="28" />
@@ -403,7 +404,9 @@
       <file name="/fragment.java" timestamp="1564890491515">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/conf/nginx/hosts/production/web1.location" timestamp="1564890236084" />
+      <file name="$USER_HOME$/conf/nginx/hosts/production/web1.location" timestamp="1564895713743">
+        <mark key="[" line="11" column="36" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="56" column="11" filename="$USER_HOME$/conf/nginx/hosts/production/wechat.server" />
@@ -512,13 +515,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>longblob,</text>
+        <text>aries</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>longblob,</text>
+        <text>aries</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
