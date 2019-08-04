@@ -118,6 +118,11 @@
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/k/KInfoOld.java" timestamp="1564366521336">
         <mark key="[" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/log4j2.xml" timestamp="1564891072864">
+        <mark key="[" line="231" column="26" />
+        <mark key="]" line="231" column="26" />
+        <mark key="." line="231" column="26" />
+      </file>
       <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/JobCreationRequest.java" timestamp="1564410394024">
         <mark key="[" line="71" column="29" />
       </file>
@@ -287,8 +292,11 @@
       <file name="$USER_HOME$/bm_work/code/spring-webmvc-pac4j-boot-demo/src/main/java/org/pac4j/demo/spring/Application.java" timestamp="1564850220484">
         <mark key="[" line="122" column="5" />
       </file>
-      <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1564886778281">
-        <mark key="[" line="50" column="24" />
+      <file name="$USER_HOME$/conf/nginx/hosts/production/upstream.server" timestamp="1564890255417">
+        <mark key="[" line="63" column="1" />
+        <mark key="]" line="42" column="28" />
+        <mark key="^" line="42" column="28" />
+        <mark key="." line="42" column="28" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/k/KUpsteam.java" timestamp="1564563092827">
         <mark key="[" line="2" column="23" />
@@ -314,11 +322,11 @@
         <mark key="^" line="52" column="54" />
         <mark key="." line="52" column="54" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-build-tools/docker-compose.yml" timestamp="1564822974054">
-        <mark key="[" line="58" column="9" />
-        <mark key="]" line="58" column="9" />
-        <mark key="^" line="58" column="10" />
-        <mark key="." line="58" column="9" />
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-build-tools/docker-compose.yml" timestamp="1564892596791">
+        <mark key="[" line="77" column="9" />
+        <mark key="]" line="77" column="9" />
+        <mark key="^" line="75" column="12" />
+        <mark key="." line="77" column="9" />
       </file>
       <file name="$USER_HOME$/bm_work/code/beiming-cloud/samples/multi-web/allinone/src/main/java/com/beiming/sofa/allinone/controller/HelloController.java" timestamp="1563532608150">
         <mark key="[" line="21" column="35" />
@@ -326,7 +334,7 @@
       <file name="$USER_HOME$/bm_work/code/spring-webmvc-pac4j-boot-demo/src/main/resources/application.properties" timestamp="1564848163767">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564882458333">
+      <file name="/Dummy.txt" timestamp="1564890491547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/domain/Supplier.java" timestamp="1563982528753">
@@ -365,8 +373,11 @@
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-build-tools/.gitignore" timestamp="1563241761045">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/application-dev.yml" timestamp="1564887447298">
+      <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/application-dev.yml" timestamp="1564890731731">
         <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="21" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="20" column="21" />
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/cas.server" timestamp="1564884524693">
         <mark key="[" line="7" column="35" />
@@ -386,9 +397,10 @@
       <file name="$USER_HOME$/conf/nginx/hosts/production/aries.server" timestamp="1564884567408">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1564885544349">
+      <file name="/fragment.java" timestamp="1564890491515">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/conf/nginx/hosts/production/web1.location" timestamp="1564890236084" />
     </filemarks>
     <jumps>
       <jump line="56" column="11" filename="$USER_HOME$/conf/nginx/hosts/production/wechat.server" />
@@ -497,13 +509,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fullchain1</text>
+        <text>8000</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>fullchain1</text>
+        <text>8000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
