@@ -192,7 +192,11 @@
         <mark key="^" line="23" column="58" />
         <mark key="." line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-oidc-auth/src/access.lua" timestamp="1565053090950" />
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-oidc-auth/src/access.lua" timestamp="1565071439147">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/ISystemService.java" timestamp="1563982865126">
         <mark key="[" line="10" column="18" />
       </file>
@@ -449,7 +453,7 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/apitest/service_testoidc1.http" timestamp="1565067465629">
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/apitest/service_testoidc1.http" timestamp="1565070092721">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="7" column="31" />
         <mark key="^" line="7" column="31" />
@@ -673,14 +677,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5JTkZPLCAiZmluaXNoIGdldCBhY2Nlc3MgdG9rZW4gZnJvbSAiIC4uIGNvbmYudG9rZW5fdXJsKQo=</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>begin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
@@ -689,31 +693,31 @@
         <text encoding="base64">ICAgICAgICBmaWx0ZXJDaGFpbkRlZmluaXRpb25NYXAucHV0KCIvbG9naW4iICwgImFub24sY2FwdGNoYVZhbGlkYXRlIiApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5JTkZPLCAiZmluaXNoIGdldCBhY2Nlc3MgdG9rZW4gZnJvbSAiIC4uIGNvbmYudG9rZW5fdXJsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWtkaXIgLXAgL29wdC9rb25nX3BsdWdpbnNfcGF0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9jay5zZXRsbygic3lzIik7Cg==</text>
+        <text encoding="base64">bWtkaXIgLXAgL29wdC9rb25nX3BsdWdpbnNfcGF0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9jay5zZXRsbygic3lzIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29uCiAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSRVRjbwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29uCiAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihhU2VydmljZUR0by5nZXRDb250ZW50VHJhbnNmb3JtKQo=</text>
+        <text encoding="base64">ICAgICAgICBSRVRjbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYVNlcnZpY2VEdG8uZ2V0UmVzcG9uYzJzZVRyYW5zZm9ybSgpID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZihhU2VydmljZUR0by5nZXRDb250ZW50VHJhbnNmb3JtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
