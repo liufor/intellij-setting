@@ -162,10 +162,11 @@
         <mark key="^" line="116" column="21" />
         <mark key="." line="116" column="21" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-oidc-auth/src/access.lua" timestamp="1565088783568">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-oidc-auth/src/access.lua" timestamp="1565091226029">
+        <mark key="[" line="12" column="101" />
+        <mark key="]" line="12" column="99" />
+        <mark key="." line="12" column="99" />
+        <mark key="^" line="12" column="99" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oidc/5.3.11/cas-server-support-oidc-5.3.11-sources.jar!/org/apereo/cas/oidc/web/controllers/OidcAuthorizeEndpointController.java" timestamp="1565083038071" />
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/java/cn/bmsk/cas/controller/TestController.java" timestamp="1564917540281">
@@ -256,7 +257,7 @@
       </file>
       <file name="/data/service/nginx/conf.d/hosts/production/upstream.server" timestamp="1565016007571" />
       <file name="$USER_HOME$/bm_work/code/spring-security-pac4j-boot-demo/src/main/java/cn/bmsk/cas/oidc/BmskOidcProperties.java" timestamp="1565082957115" />
-      <file name="$USER_HOME$/bm_work/code/bmsk-cas/apitest/oidc_profile.http" timestamp="1565085381195">
+      <file name="$USER_HOME$/bm_work/code/bmsk-cas/apitest/oidc_profile.http" timestamp="1565091246784">
         <mark key="[" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/cas.server" timestamp="1564884524693">
@@ -373,13 +374,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>getRequestParameters()</text>
+        <text>{attr = {a1=1}</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>getRequestParameters()</text>
+        <text>{attr = {a1=1}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
