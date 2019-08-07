@@ -201,11 +201,11 @@
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-plugin-url-rewrite/kong-plugin-url-rewrite-0.4.0-0.rockspec" timestamp="1565148148651" />
       <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/web1.server" timestamp="1564909615100" />
       <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/upstream.server" timestamp="1565005375706" />
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1565163306210">
-        <mark key="[" line="561" column="96" />
-        <mark key="]" line="563" column="37" />
-        <mark key="." line="563" column="37" />
-        <mark key="^" line="563" column="37" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1565165628376">
+        <mark key="[" line="580" column="38" />
+        <mark key="]" line="580" column="38" />
+        <mark key="." line="580" column="38" />
+        <mark key="^" line="580" column="54" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1565086867586" />
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/custom-services/oidc.json" timestamp="1565073591128" />
@@ -474,14 +474,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgImF1dGhlbnRpY2F0b3IiOiJhcmllcy1vaWRjIgo=</text>
+      <register name="&quot;" type="4">
+        <text>prometheus_metrics</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>site</text>
+        <text>prometheus_metrics</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
