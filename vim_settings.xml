@@ -5,6 +5,9 @@
     <filemarks>
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/apig-response-transform/kong/plugins/apig-response-transform/handler.lua" timestamp="1565018393934" />
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-spec-expose/kong-spec-expose-0.2-1.rockspec" timestamp="1565148172536" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/Test.java" timestamp="1565175286306">
+        <mark key="[" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/bmsk_service_oidc.json" timestamp="1565062015860">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="21" column="20" />
@@ -18,6 +21,10 @@
         <mark key="." line="389" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-oidc-auth/src/schema.lua" timestamp="1564992629379" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/SiteRouteConf.java" timestamp="1565175656481">
+        <mark key="[" line="35" column="31" />
+        <mark key="^" line="32" column="34" />
+      </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/cas.location" timestamp="1564895710710">
         <mark key="[" line="15" column="19" />
       </file>
@@ -50,10 +57,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/service/AriesServiceDto.java" timestamp="1564806588519">
-        <mark key="[" line="83" column="49" />
-        <mark key="]" line="83" column="48" />
-        <mark key="." line="83" column="48" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/service/AriesServiceDto.java" timestamp="1565175556730">
+        <mark key="[" line="88" column="4" />
+        <mark key="]" line="88" column="4" />
+        <mark key="." line="88" column="4" />
         <mark key="^" line="83" column="48" />
       </file>
       <file name="$USER_HOME$/conf/pub_conf/conf.d/commons/proxy.conf" timestamp="1564904338554">
@@ -69,8 +76,11 @@
         <mark key="." line="277" column="110" />
         <mark key="^" line="277" column="110" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/PathRouteConf.java" timestamp="1565162747825">
-        <mark key="[" line="21" column="33" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/PathRouteConf.java" timestamp="1565175948040">
+        <mark key="[" line="44" column="74" />
+        <mark key="]" line="44" column="74" />
+        <mark key="^" line="44" column="80" />
+        <mark key="." line="44" column="74" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-core-authentication-api/5.3.11/cas-server-core-authentication-api-5.3.11.jar!/org/apereo/cas/authentication/principal/SimplePrincipal.class" timestamp="1565086473378" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/plugin/trafficcontrol/proxycaching/KProxyCachingConfig.java" timestamp="1565172479385">
@@ -79,20 +89,13 @@
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/Constants.java" timestamp="1565169341723">
-        <mark key="[" line="20" column="57" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/Constants.java" timestamp="1565176311153">
+        <mark key="[" line="16" column="62" />
         <mark key="]" line="23" column="54" />
         <mark key="^" line="23" column="58" />
         <mark key="." line="23" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/builder/CompareToBuilder.java" timestamp="1565144576845" />
-      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/test_remove.sh" timestamp="1565157937485">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/conf/nginx/nginx.conf" timestamp="1564903250756" />
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oidc/5.3.11/cas-server-support-oidc-5.3.11-sources.jar!/org/apereo/cas/oidc/profile/OidcProfileScopeToAttributesFilter.java" timestamp="1565087264600" />
       <file name="/AriesOIDC-100.json" timestamp="1564974243854" />
@@ -119,7 +122,12 @@
         <mark key="^" line="1" column="56" />
         <mark key="." line="2" column="57" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/ServiceRouteConf.java" timestamp="1565074309384" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/ServiceRouteConf.java" timestamp="1565175617374">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+      </file>
       <file name="$USER_HOME$/conf/nginx/proxy.conf" timestamp="1564902840576" />
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-oidc/kong/plugins/oidc/utils.lua" timestamp="1565092865997" />
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong/servroot/logs/error.log" timestamp="1565171872540" />
@@ -142,6 +150,12 @@
         <mark key="]" line="3" column="21" />
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/PathUtils.java" timestamp="1565175331658">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="41" />
+        <mark key="^" line="27" column="41" />
+        <mark key="." line="27" column="41" />
       </file>
       <file name="$USER_HOME$/bm_work/code/spring-security-pac4j-boot-demo/src/main/java/org/pac4j/demo/spring/Application.java" timestamp="1565077796715" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/AriesServiceDtoServiceImpl.java" timestamp="1565169317107">
@@ -205,9 +219,18 @@
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-plugin-url-rewrite/kong-plugin-url-rewrite-0.4.0-0.rockspec" timestamp="1565148148651" />
       <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/web1.server" timestamp="1564909615100" />
       <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/upstream.server" timestamp="1565005375706" />
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1565169062348" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1565175059267">
+        <mark key="]" line="568" column="4" />
+        <mark key="^" line="568" column="4" />
+        <mark key="." line="568" column="4" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1565086867586" />
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/custom-services/oidc.json" timestamp="1565073591128" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/model/plugin/contenttransform/KJson2XmlConfig.java" timestamp="1565053131599">
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oauth/5.3.11/cas-server-support-oauth-5.3.11.jar!/org/apereo/cas/support/oauth/web/endpoints/OAuth20AuthorizeEndpointController.class" timestamp="1565083169054" />
       <file name="$USER_HOME$/bm_work/code/spring-webmvc-pac4j-boot-demo/src/main/java/org/pac4j/demo/spring/CallbackX.java" timestamp="1564895953568">
         <mark key="[" line="61" column="27" />
@@ -476,14 +499,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCJhcHBsaWNhdGlvbi95bWw7IGNoYXJzZXQ9dXRmLTgiCg==</text>
+      <register name="&quot;" type="4">
+        <text>targetPath</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>charset</text>
+        <text>targetPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
@@ -492,31 +515,34 @@
         <text encoding="base64">ICAgICAgICAgICAgLCJhcHBsaWNhdGlvbi95bWw7IGNoYXJzZXQ9dXRmLTgiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRoLm5vcm1hbGl6ZSgpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsUHJveHlDYWNoZVBsdWdpbihrUm91dGVJZCwgcGF0aCkK</text>
+      <register name="4" type="4">
+        <text>/**
+     * 参数合理化.
+     */
+    public void normalize() { //做一些属性补全的事情</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgImF1dGhlbnRpY2F0b3IiOiJhcmllcy1vaWRjIgo=</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YWxsUHJveHlDYWNoZVBsdWdpbihrUm91dGVJZCwgcGF0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChyb3V0ZUNvbmYuZ2V0UGF0aCgpKSwK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>126</text>
