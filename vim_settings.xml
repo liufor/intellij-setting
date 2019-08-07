@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/apig-response-transform/kong/plugins/apig-response-transform/handler.lua" timestamp="1565018393934" />
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-spec-expose/kong-spec-expose-0.2-1.rockspec" timestamp="1565148172536" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/bmsk_service_oidc.json" timestamp="1565062015860">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="21" column="20" />
@@ -17,6 +18,11 @@
         <mark key="." line="389" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-oidc-auth/src/schema.lua" timestamp="1564992629379" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/SiteRouteConf.java" timestamp="1565073974681">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/conf/nginx/hosts/production/cas.location" timestamp="1564895710710">
         <mark key="[" line="15" column="19" />
       </file>
@@ -128,11 +134,10 @@
         <mark key="." line="366" column="0" />
         <mark key="^" line="371" column="8" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/plugins.txt" timestamp="1565054822941">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/plugins.txt" timestamp="1565148577066">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/install_by_luarocks_install.sh" timestamp="1565058350297">
         <mark key="[" line="1" column="30" />
@@ -142,6 +147,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oidc/5.3.11/cas-server-support-oidc-5.3.11-sources.jar!/org/apereo/cas/oidc/web/controllers/OidcUserProfileEndpointController.java" timestamp="1565086402361" />
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oidc/5.3.11/cas-server-support-oidc-5.3.11-sources.jar!/org/apereo/cas/oidc/web/controllers/OidcWellKnownEndpointController.java" timestamp="1564917513517" />
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/plugins_name.text" timestamp="1565149104281">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="93" />
+        <mark key="^" line="0" column="93" />
+        <mark key="." line="0" column="93" />
+      </file>
       <file name="/data/service/nginx/conf.d/hosts/production/cas.location" timestamp="1565083365223">
         <mark key="[" line="14" column="32" />
       </file>
@@ -166,6 +177,7 @@
         <mark key="." line="0" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oauth/5.3.11/cas-server-support-oauth-5.3.11.jar!/org/apereo/cas/support/oauth/profile/DefaultOAuth20UserProfileDataCreator.class" timestamp="1565086740801" />
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-plugin-api-transformer/kong-plugin-api-transformer-0.1.0-0.rockspec" timestamp="1565148122638" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" timestamp="1564915892953">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="6" />
@@ -185,8 +197,14 @@
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/custom-services/a.http" timestamp="1564923087547">
         <mark key="[" line="5" column="109" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-plugin-url-rewrite/kong-plugin-url-rewrite-0.4.0-0.rockspec" timestamp="1565148148651" />
       <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/web1.server" timestamp="1564909615100" />
       <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/upstream.server" timestamp="1565005375706" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/KongService.java" timestamp="1565075550348">
+        <mark key="[" line="556" column="0" />
+        <mark key="]" line="556" column="0" />
+        <mark key="." line="556" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1565086867586" />
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/custom-services/oidc.json" timestamp="1565073591128" />
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oauth/5.3.11/cas-server-support-oauth-5.3.11.jar!/org/apereo/cas/support/oauth/web/endpoints/OAuth20AuthorizeEndpointController.class" timestamp="1565083169054" />
@@ -209,6 +227,11 @@
         <mark key="]" line="231" column="82" />
         <mark key="." line="231" column="82" />
         <mark key="^" line="231" column="82" />
+      </file>
+      <file name="$USER_HOME$/conf/pub_conf/conf.d/hosts/production/cas.location" timestamp="1564904347819">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/oa/beiming-admin/src/main/resources/application-dev.yml" timestamp="1564982033359">
         <mark key="[" line="64" column="38" />
@@ -238,6 +261,7 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-service-virtualization/kong-service-virtualization-0.2-1.rockspec" timestamp="1565148162626" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-framework/src/main/java/cn/beiming/framework/config/ShiroConfig.java" timestamp="1565059722814">
         <mark key="[" line="265" column="44" />
         <mark key="]" line="265" column="73" />
@@ -267,6 +291,11 @@
         <mark key="]" line="40" column="24" />
         <mark key="." line="40" column="24" />
       </file>
+      <file name="$USER_HOME$/conf/pub_conf/conf.d/commons/ssl-corp.bm-sk.cn.common" timestamp="1564904701820">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/oidcdemo/src/main/resources/templates/notProtected.html" timestamp="1564849233862">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="7" />
@@ -280,11 +309,11 @@
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/custom-services/AriesOIDC-100.json" timestamp="1565144354120">
         <mark key="[" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/manual_install.sh" timestamp="1565141659607">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="1" />
-        <mark key="." line="11" column="1" />
-        <mark key="^" line="11" column="1" />
+      <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/manual_install.sh" timestamp="1565149331759">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/application.properties" timestamp="1564896708383" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/api/admin/ServiceService.java" timestamp="1564936020438" />
@@ -353,6 +382,11 @@
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="33" />
+      </file>
+      <file name="$USER_HOME$/conf/nginx/hosts/production/web1.location" timestamp="1564904591285">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -462,7 +496,7 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5ERUJVRywpCg==</text>
+        <text encoding="base64">ICBlY2hvICIkbGluZSIK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
@@ -477,31 +511,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGtSb3V0ZVJlcS5zZXRQYXRocyhMaXN0cy5uZXdBcnJheUxpc3QocGF0aC5nZXRQdWJQYXRoKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5ERUJVRywpCg==</text>
+        <text encoding="base64">ICBlY2hvICIkbGluZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5JTkZPLCAiYmVnaW4gZ2V0IGFjY2VzcyB0b2tlbiBmcm9tICIgLi4gY29uZi50b2tlbl91cmwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5JTkZPLCAiZmluaXNoIGdldCBhY2Nlc3MgdG9rZW4iKQo=</text>
+        <text encoding="base64">YXBpZy1yZXNwb25zZS10cmFuc2Zvcm0sb2lkYyxrb25nLW9pZGMtYXV0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmd4LnNheSgieHh4eCIpO2xvY2FsIGNqc29uID0gcmVxdWlyZSAiY2pzb24uc2FmZSI7bG9jYWwgb2JqPXthdHRyID0ge2ExPTF9fTtsb2NhbCBqID0gY2pzb24uZW5jb2RlKG9iaik7IG5neC5zYXkoaik7IG5neC5zYXkob2JqLmF0dHIuYTEpCg==</text>
+        <text encoding="base64">cm0gLXJmICR7a29uZ19wbHVnaW5zX3BhdGh9L2ZvcmNlLXNzbCAmJiBjcCAtcmYgLi9rb25nLWZvcmNlLXNzbC9zcmMgJHtrb25nX3BsdWdpbnNfcGF0aH0vZm9yY2Utc3NsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5ERUJVRywpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5JTkZPLCAiYmVnaW4gZ2V0IGFjY2VzcyB0b2tlbiBmcm9tICIgLi4gY29uZi50b2tlbl91cmwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5JTkZPLCAiZmluaXNoIGdldCBhY2Nlc3MgdG9rZW4iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmd4LnNheSgieHh4eCIpO2xvY2FsIGNqc29uID0gcmVxdWlyZSAiY2pzb24uc2FmZSI7bG9jYWwgb2JqPXthdHRyID0ge2ExPTF9fTtsb2NhbCBqID0gY2pzb24uZW5jb2RlKG9iaik7IG5neC5zYXkoaik7IG5neC5zYXkob2JqLmF0dHIuYTEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>126</text>
