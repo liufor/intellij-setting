@@ -52,6 +52,7 @@
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/custom-services/cas.json" timestamp="1564991808922">
         <mark key="[" line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/JobCategoryService.java" timestamp="1565191040218" />
       <file name="$USER_HOME$/bm_work/code/oidcdemo/src/main/resources/application.properties" timestamp="1564844406763">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -242,11 +243,11 @@
         <mark key="." line="57" column="68" />
         <mark key="^" line="57" column="68" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/DnsServiceImpl.java" timestamp="1565182425734">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="101" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="36" column="29" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/DnsServiceImpl.java" timestamp="1565191083400">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oauth/5.3.11/cas-server-support-oauth-5.3.11.jar!/org/apereo/cas/support/oauth/web/endpoints/OAuth20AccessTokenEndpointController.class" timestamp="1565084770987" />
       <file name="$USER_HOME$/bm_work/code/spring-security-pac4j-boot-demo/pom.xml" timestamp="1565077236253" />
@@ -510,14 +511,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBpbnNlcnRTcWwgPSAiaW5zZXJ0IGludG8gYm1za2NuKGBuYW1lYCx0dGwscmR0eXBlLHJkYXRhKSB2YWx1ZSAoPyw/LD8sPyk7IjsK</text>
+      <register name="&quot;" type="4">
+        <text>new MysqlDataSource()</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>getString</text>
+        <text>new MysqlDataSource()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
@@ -526,16 +527,16 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBpbnNlcnRTcWwgPSAiaW5zZXJ0IGludG8gYm1za2NuKGBuYW1lYCx0dGwscmR0eXBlLHJkYXRhKSB2YWx1ZSAoPyw/LD8sPyk7IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZShpbnNlcnRTcWwsIGRvbWFpbiwgNjAwLCAnQScsIG5ld0lwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJtc2tEbnMuZ2V0UmRhdGEoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -547,7 +548,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZShpbnNlcnRTcWwsIGRvbWFpbiwgNjAwLCAnQScsIG5ld0lwKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
