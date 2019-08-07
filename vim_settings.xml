@@ -42,6 +42,7 @@
       </file>
       <file name="/data/service/nginx/conf.d/commons/proxy.conf" timestamp="1565083249329" />
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/apig-response-transform/apig-response-transform-0.1.0-1.rockspec" timestamp="1565157437333" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.1.3.RELEASE/spring-jdbc-5.1.3.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" timestamp="1565180864855" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/apitest/site_testoidc2.http" timestamp="1565073911082">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="35" />
@@ -70,6 +71,12 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/kong-oidc/kong/plugins/oidc/handler.lua" timestamp="1565092229069" />
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/dns/BmskDns.java" timestamp="1565181470120">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/spring-security-pac4j-boot-demo/src/main/java/org/pac4j/demo/spring/SecurityConfig.java" timestamp="1565078184212">
         <mark key="[" line="277" column="105" />
         <mark key="]" line="277" column="110" />
@@ -109,11 +116,6 @@
         <mark key="]" line="206" column="71" />
         <mark key="^" line="206" column="71" />
         <mark key="." line="206" column="71" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/dto/route/BaseRouteConf.java" timestamp="1565162213209">
-        <mark key="]" line="44" column="8" />
-        <mark key="^" line="44" column="8" />
-        <mark key="." line="44" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oauth/5.3.11/cas-server-support-oauth-5.3.11.jar!/org/apereo/cas/support/oauth/web/endpoints/OAuth20UserProfileEndpointController.class" timestamp="1565086433245" />
       <file name="$USER_HOME$/conf/nginx/commons/ssl-corp.bm-sk.cn.common" timestamp="1564884497830">
@@ -181,6 +183,12 @@
       <file name="/data/service/nginx/conf.d/hosts/production/aries-console.location" timestamp="1565172844762">
         <mark key="[" line="11" column="52" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/IDnsService.java" timestamp="1565180732485">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/kong_proj/kong-custom-plugins/plugins_name.text" timestamp="1565160691514">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="161" />
@@ -233,6 +241,12 @@
         <mark key="]" line="57" column="68" />
         <mark key="." line="57" column="68" />
         <mark key="^" line="57" column="68" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/service/impl/DnsServiceImpl.java" timestamp="1565182425734">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="101" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="36" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-oauth/5.3.11/cas-server-support-oauth-5.3.11.jar!/org/apereo/cas/support/oauth/web/endpoints/OAuth20AccessTokenEndpointController.class" timestamp="1565084770987" />
       <file name="$USER_HOME$/bm_work/code/spring-security-pac4j-boot-demo/pom.xml" timestamp="1565077236253" />
@@ -314,6 +328,7 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/src/main/resources/application.properties" timestamp="1564896708383" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/kong/api/admin/ServiceService.java" timestamp="1564936020438" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/javax/sql/DataSource.java" timestamp="1565180883673" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-aries/src/main/java/cn/beiming/aries/apitest/site_demo1.http" timestamp="1565075748636">
         <mark key="[" line="33" column="40" />
       </file>
@@ -495,35 +510,32 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>targetPath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBpbnNlcnRTcWwgPSAiaW5zZXJ0IGludG8gYm1za2NuKGBuYW1lYCx0dGwscmR0eXBlLHJkYXRhKSB2YWx1ZSAoPyw/LD8sPyk7IjsK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>targetPath</text>
+        <text>getString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cHN0cmVhbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCJhcHBsaWNhdGlvbi95bWw7IGNoYXJzZXQ9dXRmLTgiCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBpbnNlcnRTcWwgPSAiaW5zZXJ0IGludG8gYm1za2NuKGBuYW1lYCx0dGwscmR0eXBlLHJkYXRhKSB2YWx1ZSAoPyw/LD8sPyk7IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgamRiY1RlbXBsYXRlLnVwZGF0ZShpbnNlcnRTcWwsIGRvbWFpbiwgNjAwLCAnQScsIG5ld0lwKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoLm5vcm1hbGl6ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>/**
-     * 参数合理化.
-     */
-    public void normalize() { //做一些属性补全的事情</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -535,10 +547,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsUHJveHlDYWNoZVBsdWdpbihrUm91dGVJZCwgcGF0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>126</text>
