@@ -4,16 +4,27 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/util/function/KeyMatchFunc.java" timestamp="1565605634924" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/persist/Adapter.java" timestamp="1565611134703" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/src/test/java/org/casbin/jcasbin/main/ModelUnitTest.java" timestamp="1565605826052" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/model/Assertion.java" timestamp="1565610799026" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/examples/rbac_with_hierarchy_policy.csv" timestamp="1565605403199" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/examples/rbac_with_deny_model.conf" timestamp="1565605124606" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/examples/rbac_with_resource_roles_policy.csv" timestamp="1565605517706" />
       <file name="$MAVEN_REPOSITORY$/com/googlecode/aviator/aviator/4.1.2/aviator-4.1.2.jar!/com/googlecode/aviator/ClassExpression.class" timestamp="1565603709374" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/examples/rbac_with_domains_model.conf" timestamp="1565605310149" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/examples/rbac_model.conf" timestamp="1565604962897" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/rbac/GroupRoleManager.java" timestamp="1565610521123" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/rbac/DefaultRoleManager.java" timestamp="1565609996079" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/config/Config.java" timestamp="1565610547970" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/main/InternalEnforcer.java" timestamp="1565611066780" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/effect/DefaultEffector.java" timestamp="1565610698863" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/main/Enforcer.java" timestamp="1565611078772" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/rbac/RoleManager.java" timestamp="1565610443298" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/effect/Effector.java" timestamp="1565610635009" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/examples/keymatch_model.conf" timestamp="1565605916859" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/util/Util.java" timestamp="1565610918624" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/examples/ipmatch_model.conf" timestamp="1565605596872" />
-      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/main/CoreEnforcer.java" timestamp="1565603810471" />
+      <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/main/CoreEnforcer.java" timestamp="1565610778640" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/examples/rbac_with_domains_policy.csv" timestamp="1565605361177" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/util/BuiltInFunctions.java" timestamp="1565605970096" />
       <file name="$USER_HOME$/bm_work/code/jcasbin/src/main/java/org/casbin/jcasbin/effect/Effect.java" timestamp="1565603781700" />
