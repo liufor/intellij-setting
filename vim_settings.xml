@@ -9,6 +9,12 @@
         <mark key="^" line="28" column="59" />
         <mark key="." line="28" column="59" />
       </file>
+      <file name="/data/service/nginx/conf.d/hosts/production/zeus.server" timestamp="1566375283593">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+      </file>
       <file name="/a.dummy" timestamp="1566279108237">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,10 +41,8 @@
         <mark key="^" line="71" column="7" />
       </file>
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/build/libs/zeus/BOOT-INF/lib/opc-common-2.1.17/opc-common-context.xml" timestamp="1566353941033" />
-      <file name="$USER_HOME$/bm_work/code/aemon/zeus/client/package.json" timestamp="1566189608591">
-        <mark key="[" line="80" column="20" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/common-uniauth-ssclient/2.0.39.RELEASE/7d2dd1b00ed5e0184fd8538c06c27d995d04e109/common-uniauth-ssclient-2.0.39.RELEASE-sources.jar!/com/dianrong/common/uniauth/client/config/UniauthSecurityConfig.java" timestamp="1566372259632" />
+      <file name="$USER_HOME$/bm_work/code/aemon/zeus/client/nginx.conf" timestamp="1566374381639" />
       <file name="$USER_HOME$/work/code/UniAuth/README.MD" timestamp="1566372124902" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-configuration/build.gradle" timestamp="1566300792616">
         <mark key="[" line="10" column="89" />
@@ -49,20 +53,12 @@
         <mark key="." line="36" column="9" />
         <mark key="^" line="36" column="9" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/common/ZeusSystemConfig.java" timestamp="1566364711105">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
-      </file>
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/otherchange/zk-init.txt" timestamp="1566317629571" />
       <file name="$USER_HOME$/bm_work/code/oa/beiming-admin/src/main/java/cn/beiming/web/controller/aries/SiteController.java" timestamp="1565773888185">
         <mark key="[" line="160" column="0" />
         <mark key="]" line="86" column="35" />
         <mark key="^" line="86" column="35" />
         <mark key="." line="86" column="35" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app-service/src/main/java/com/dianrong/zeus/appservice/remote/feign/DataSourceRemoteClient.java" timestamp="1566318395673">
-        <mark key="[" line="13" column="53" />
       </file>
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/resources/test/db-beans.xml" timestamp="1566229965501">
         <mark key="[" line="39" column="43" />
@@ -101,6 +97,7 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/web/auth/LoginController.java" timestamp="1566376000209" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/dbchange/RT237_drzeus.sql" timestamp="1566315966435" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-common/src/main/resources/opc-common-context.xml" timestamp="1566366389335">
         <mark key="[" line="13" column="0" />
@@ -113,9 +110,6 @@
         <mark key="]" line="31" column="35" />
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/config/MybatisDbConfig.java" timestamp="1566358009675">
-        <mark key="[" line="37" column="21" />
       </file>
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/sql/merged2.sql" timestamp="1566316150493">
         <mark key="[" line="2002" column="5" />
@@ -137,10 +131,8 @@
         <mark key="." line="2" column="33" />
       </file>
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-workflow/src/main/sql/mysql/create/workflow.mysql.create.sql" timestamp="1566316008190" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/common-uniauth-ssclient/2.0.39.RELEASE/4f5d01116f31eb8883a2ee916498e36e5bd6b207/common-uniauth-ssclient-2.0.39.RELEASE.jar!/ss-uniauth-client.xml" timestamp="1566372547278" />
-      <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-common/src/main/java/com/dianrong/opc/common/remote/oss/OSSExService.java" timestamp="1566366933043">
-        <mark key="[" line="26" column="4" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/common-uniauth-ssclient/2.0.39.RELEASE/4f5d01116f31eb8883a2ee916498e36e5bd6b207/common-uniauth-ssclient-2.0.39.RELEASE.jar!/ss-uniauth-client.xml" timestamp="1566373128238" />
+      <file name="/data/service/nginx/conf.d/commons/ssl-corp.bm-sk.cn.common" timestamp="1566374704247" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/build.gradle" timestamp="1566312718798">
         <mark key="[" line="86" column="5" />
         <mark key="]" line="11" column="12" />
@@ -150,7 +142,7 @@
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/script/sql/merge/merged.sql" timestamp="1566203870473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/config/Swagger2Config.java" timestamp="1566364685193" />
+      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/config/Swagger2Config.java" timestamp="1566373389360" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/applicationContext-oss.xml" timestamp="1566357733859" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/build/libs/zeus/BOOT-INF/lib/common-2.0.39.RELEASE/ss-uniauth-common.xml" timestamp="1566353516271" />
       <file name="$USER_HOME$/work/code/UniAuth/examples/casclient/src/main/resources/spring-context.xml" timestamp="1566354566712" />
@@ -181,6 +173,7 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/zkcfg/2.0.39.RELEASE/5a3ebf628657924abe43e486d672848ec94d665a/zkcfg-2.0.39.RELEASE-sources.jar!/com/dianrong/platform/open/cfg/CfgGroup.java" timestamp="1566354708825" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/build/libs/zeus/BOOT-INF/lib/zkcfg-2.0.53.RELEASE-sources/com/dianrong/platform/open/cfg/CfgGroup.java" timestamp="1566354635191" />
+      <file name="/data/service/nginx/conf.d/hosts/production/zeus.location" timestamp="1566374148118" />
       <file name="$USER_HOME$/work/code/UniAuth/techops/src/main/resources/logback.xml" timestamp="1566269297297">
         <mark key="[" line="66" column="20" />
       </file>
@@ -220,19 +213,23 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-configuration/src/test/resources/env.properties" timestamp="1566316305565">
-        <mark key="[" line="1" column="37" />
-      </file>
       <file name="/Dummy.txt" timestamp="1566212220163">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/data/service/nginx/conf.d/hosts/production/upstream.server" timestamp="1566374333019">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+      </file>
+      <file name="/data/service/nginx/conf.d/hosts/production/web1.location" timestamp="1566374260253" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/client/src/services/user.js" timestamp="1566190644264">
         <mark key="[" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-workflow/build.gradle" timestamp="1566301831903">
         <mark key="[" line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/aemon/zeus/readme.md" timestamp="1566319461855" />
+      <file name="$USER_HOME$/bm_work/code/aemon/zeus/readme.md" timestamp="1566373580998" />
       <file name="/fragment.java" timestamp="1566367569451">
         <mark key="[" line="0" column="0" />
       </file>
@@ -344,13 +341,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DynamicStringProperty</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>DynamicStringProperty</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
@@ -359,31 +356,31 @@
         <text encoding="base64">LS0yMzQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ibG9jYXRpb24iIHZhbHVlPSJlbnYucHJvcGVydGllcyIvPgo=</text>
+        <text encoding="base64">CQkJIyBwcm94eV9wYXNzIGh0dHA6Ly8xMC44LjEyLjExODo5MDkxLzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJIyBwcm94eV9wYXNzIGh0dHA6Ly8xMC44LjEzLjg6OTA5MS87Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">CWwKCXMKCXM=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0yMzkK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ibG9jYXRpb24iIHZhbHVlPSJlbnYucHJvcGVydGllcyIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0yMzgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0QWNjZXNza2V5KG9zc1Jlc3VsdC5nZXRBY2Nlc3NLZXkoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPU1NBY2Nlc3NSZXN1bHQgb3NzUmVzdWx0ID0gb3NzU2VydmljZS5wdXRPYmplY3QoQ0FURUdPUlksIHRhcmdldEZpbGVOYW1lLCBmaWxlLmdldElucHV0U3RyZWFtKCksIGZpbGUuZ2V0U2l6ZSgpKTsK</text>
+        <text encoding="base64">LS0yMzkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT1NTU2VydmljZSBvc3NTZXJ2aWNlOwo=</text>
+        <text encoding="base64">LS0yMzgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0QWNjZXNza2V5KG9zc1Jlc3VsdC5nZXRBY2Nlc3NLZXkoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>126</text>
