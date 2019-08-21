@@ -9,7 +9,7 @@
         <mark key="^" line="28" column="59" />
         <mark key="." line="28" column="59" />
       </file>
-      <file name="/data/service/nginx/conf.d/hosts/production/zeus.server" timestamp="1566375283593">
+      <file name="/data/service/nginx/conf.d/hosts/production/zeus.server" timestamp="1566383913311">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="29" />
         <mark key="^" line="11" column="29" />
@@ -19,8 +19,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/script/sql_test/sql_test.sql" timestamp="1566356413447" />
+      <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-auth/src/main/resources/opc-domestic-auth.xml" timestamp="1566384307107" />
+      <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-workflow/src/main/resources/opc-workflow-context.xml" timestamp="1566384429188" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/readme.md" timestamp="1566316339708" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jasig.cas.client/cas-client-core/3.2.2/d1870fa6c5d4009d48929c9468ae694dcbe030c6/cas-client-core-3.2.2-sources.jar!/org/jasig/cas/client/validation/Cas20ProxyReceivingTicketValidationFilter.java" timestamp="1566372393350" />
+      <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/java/com/dianrong/common/uniauth/cas/service/DomainService.java" timestamp="1566383248102" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-workflow/src/main/sql/opc-workflow/opc.workflow.mysql.create.sql" timestamp="1566316052462" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/TenancyService.java" timestamp="1566379824842" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/build/libs/zeus/BOOT-INF/lib/opc-common-2.1.17/opc-common-context.xml" timestamp="1566353941033" />
@@ -32,13 +35,12 @@
         <mark key="[" line="10" column="89" />
       </file>
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/otherchange/zk-init.txt" timestamp="1566317629571" />
-      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app-service/src/main/java/com/dianrong/zeus/appservice/remote/feign/DataSourceRemoteClient.java" timestamp="1566318395673">
-        <mark key="[" line="13" column="53" />
-      </file>
       <file name="$USER_HOME$/work/code/UniAuth/common/build.gradle" timestamp="1566378569110" />
+      <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/webapp/WEB-INF/view/jsp/default/ui/includes/login.jsp" timestamp="1566383194441" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-test/build.gradle" timestamp="1566301096311">
         <mark key="[" line="9" column="4" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-workflow/src/test/resources/test-auth-context.xml" timestamp="1566384392022" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/otherchange/zk-rt226.txt" timestamp="1566357396005" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/otherchange/zk-rt228.txt" timestamp="1566318027351" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/1.8.3.RELEASE/24a9e735cb220187cf2309c9827f774e44ddd362/spring-data-redis-1.8.3.RELEASE-sources.jar!/org/springframework/data/redis/connection/jedis/JedisClusterConnection.java" timestamp="1566368094769" />
@@ -56,16 +58,13 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/web/auth/LoginController.java" timestamp="1566381833761" />
+      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/web/auth/LoginController.java" timestamp="1566384731162" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/dbchange/RT237_drzeus.sql" timestamp="1566315966435" />
-      <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-common/src/main/resources/opc-common-context.xml" timestamp="1566366389335">
+      <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-common/src/main/resources/opc-common-context.xml" timestamp="1566383761038">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="11" column="68" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/config/MybatisDbConfig.java" timestamp="1566358009675">
-        <mark key="[" line="37" column="21" />
       </file>
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/sql/merged2.sql" timestamp="1566316150493">
         <mark key="[" line="2002" column="5" />
@@ -88,9 +87,6 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-workflow/src/main/sql/mysql/create/workflow.mysql.create.sql" timestamp="1566316008190" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/common-uniauth-ssclient/2.0.39.RELEASE/4f5d01116f31eb8883a2ee916498e36e5bd6b207/common-uniauth-ssclient-2.0.39.RELEASE.jar!/ss-uniauth-client.xml" timestamp="1566373128238" />
-      <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-common/src/main/java/com/dianrong/opc/common/remote/oss/OSSExService.java" timestamp="1566366933043">
-        <mark key="[" line="26" column="4" />
-      </file>
       <file name="/data/service/nginx/conf.d/commons/ssl-corp.bm-sk.cn.common" timestamp="1566374704247" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/script/sql/merge/merged.sql" timestamp="1566203870473">
         <mark key="[" line="0" column="0" />
@@ -102,6 +98,7 @@
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/config/AppConfig.java" timestamp="1566358609960" />
       <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/java/com/dianrong/common/uniauth/cas/service/TenancyService.java" timestamp="1566379507514" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-auth/src/main/java/com/dianrong/opc/auth/service/UniAuthServiceImpl.java" timestamp="1566381695351" />
+      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/build的副本/libs/zeus/BOOT-INF/lib/opc-auth-2.1.17/opc-auth-context.xml" timestamp="1566384453246" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-workflow/src/test/resources/env.properties" timestamp="1566318652126">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="38" />
@@ -110,6 +107,7 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/zkcfg/2.0.39.RELEASE/5a3ebf628657924abe43e486d672848ec94d665a/zkcfg-2.0.39.RELEASE-sources.jar!/com/dianrong/platform/open/cfg/CfgGroup.java" timestamp="1566354708825" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/build/libs/zeus/BOOT-INF/lib/zkcfg-2.0.53.RELEASE-sources/com/dianrong/platform/open/cfg/CfgGroup.java" timestamp="1566354635191" />
+      <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-auth/src/main/resources/opc-auth-context.xml" timestamp="1566384296740" />
       <file name="/data/service/nginx/conf.d/hosts/production/zeus.location" timestamp="1566374148118" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/cache/TenancyCache.java" timestamp="1566379903414" />
       <file name="$USER_HOME$/work/code/UniAuth/techops/src/main/resources/logback.xml" timestamp="1566269297297">
@@ -120,15 +118,13 @@
       </file>
       <file name="$USER_HOME$/work/code/UniAuth/dianrong-lib/zkcfg/src/test/resources/applicationContext-cfg-group-test.xml" timestamp="1566354484727" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/common/2.0.39.RELEASE/e2c545d78fef8b0ea81f91cc11c4bddaf7f72d79/common-2.0.39.RELEASE.jar!/ss-uniauth-common.xml" timestamp="1566372537029" />
+      <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/webapp/WEB-INF/webflow/login/login-webflow.xml" timestamp="1566383222999" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/build的副本/libs/zeus/BOOT-INF/lib/common-uniauth-ssclient-2.0.39.RELEASE/ss-uniauth-client.xml" timestamp="1566372472158" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/zeus-app.txt" timestamp="1566357587118">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-configuration/src/test/resources/env.properties" timestamp="1566316305565">
-        <mark key="[" line="1" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1566381534072">
         <mark key="[" line="0" column="0" />
@@ -145,9 +141,6 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-workflow/build.gradle" timestamp="1566301831903">
         <mark key="[" line="31" column="4" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/bmsk-cas/run.sh" timestamp="1566378003681">
-        <mark key="[" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/resource/TenancyResource.java" timestamp="1566379818862" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/readme.md" timestamp="1566373580998" />
