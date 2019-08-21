@@ -22,8 +22,9 @@
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/readme.md" timestamp="1566316339708" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jasig.cas.client/cas-client-core/3.2.2/d1870fa6c5d4009d48929c9468ae694dcbe030c6/cas-client-core-3.2.2-sources.jar!/org/jasig/cas/client/validation/Cas20ProxyReceivingTicketValidationFilter.java" timestamp="1566372393350" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-workflow/src/main/sql/opc-workflow/opc.workflow.mysql.create.sql" timestamp="1566316052462" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/TenancyService.java" timestamp="1566379824842" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/build/libs/zeus/BOOT-INF/lib/opc-common-2.1.17/opc-common-context.xml" timestamp="1566353941033" />
-      <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/java/com/dianrong/common/uniauth/cas/controller/TenancyController.java" timestamp="1566377285625" />
+      <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/java/com/dianrong/common/uniauth/cas/controller/TenancyController.java" timestamp="1566379433590" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/common-uniauth-ssclient/2.0.39.RELEASE/7d2dd1b00ed5e0184fd8538c06c27d995d04e109/common-uniauth-ssclient-2.0.39.RELEASE-sources.jar!/com/dianrong/common/uniauth/client/config/UniauthSecurityConfig.java" timestamp="1566372259632" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/client/nginx.conf" timestamp="1566374381639" />
       <file name="$USER_HOME$/work/code/UniAuth/README.MD" timestamp="1566372124902" />
@@ -47,6 +48,7 @@
         <mark key="^" line="74" column="39" />
         <mark key="." line="74" column="39" />
       </file>
+      <file name="$USER_HOME$/work/code/UniAuth/common/src/main/java/com/dianrong/common/uniauth/common/interfaces/read/ITenancyResource.java" timestamp="1566379789786" />
       <file name="$USER_HOME$/work/code/UniAuth/dianrong-lib/zkcfg/src/test/java/dianrong/cfg/zookeeper/CfgGroupDynamicTest.java" timestamp="1566354448512" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-common/src/main/java/com/dianrong/opc/common/config/CommonSystemConfig.java" timestamp="1566366639672">
         <mark key="[" line="33" column="37" />
@@ -98,6 +100,7 @@
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/build/libs/zeus/BOOT-INF/lib/common-2.0.39.RELEASE/ss-uniauth-common.xml" timestamp="1566353516271" />
       <file name="$USER_HOME$/work/code/UniAuth/examples/casclient/src/main/resources/spring-context.xml" timestamp="1566354566712" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/config/AppConfig.java" timestamp="1566358609960" />
+      <file name="$USER_HOME$/work/code/UniAuth/cas/src/main/java/com/dianrong/common/uniauth/cas/service/TenancyService.java" timestamp="1566379507514" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-workflow/src/test/resources/env.properties" timestamp="1566318652126">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="38" />
@@ -107,7 +110,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/zkcfg/2.0.39.RELEASE/5a3ebf628657924abe43e486d672848ec94d665a/zkcfg-2.0.39.RELEASE-sources.jar!/com/dianrong/platform/open/cfg/CfgGroup.java" timestamp="1566354708825" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/build/libs/zeus/BOOT-INF/lib/zkcfg-2.0.53.RELEASE-sources/com/dianrong/platform/open/cfg/CfgGroup.java" timestamp="1566354635191" />
       <file name="/data/service/nginx/conf.d/hosts/production/zeus.location" timestamp="1566374148118" />
-      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/cache/TenancyCache.java" timestamp="1566378707815" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/cache/TenancyCache.java" timestamp="1566379903414" />
       <file name="$USER_HOME$/work/code/UniAuth/techops/src/main/resources/logback.xml" timestamp="1566269297297">
         <mark key="[" line="66" column="20" />
       </file>
@@ -145,8 +148,9 @@
       <file name="$USER_HOME$/bm_work/code/bmsk-cas/run.sh" timestamp="1566378003681">
         <mark key="[" line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/resource/TenancyResource.java" timestamp="1566379818862" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/readme.md" timestamp="1566373580998" />
-      <file name="/fragment.java" timestamp="1566377822052">
+      <file name="/fragment.java" timestamp="1566379852356">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
