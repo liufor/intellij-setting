@@ -60,6 +60,7 @@
         <mark key="^" line="39" column="43" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-cas/4.0.4.RELEASE/9041e7ce18efcdb9d44d4470715cb6009be39bd8/spring-security-cas-4.0.4.RELEASE-sources.jar!/org/springframework/security/cas/ServiceProperties.java" timestamp="1566388879983" />
+      <file name="/RedisConfig.java" timestamp="1566441160373" />
       <file name="$USER_HOME$/bm_work/code/aemon/opc-public/opc-workflow/src/test/resources/test-auth-context.xml" timestamp="1566389108668" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/otherchange/zk-rt226.txt" timestamp="1566357396005" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/otherchange/zk-rt228.txt" timestamp="1566318027351" />
@@ -85,15 +86,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jasig.cas/cas-server-webapp-support/4.1.7/b7b3d11aad3e92c002159a2cdae4a4a4cb3efa95/cas-server-webapp-support-4.1.7-sources.jar!/org/jasig/cas/web/ServiceValidateController.java" timestamp="1566388307731" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/web/auth/LoginController.java" timestamp="1566384731162" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/dbchange/RT237_drzeus.sql" timestamp="1566315966435" />
-      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/config/RedisConfig.java" timestamp="1566371911853">
-        <mark key="[" line="38" column="44" />
-        <mark key="]" line="31" column="35" />
-        <mark key="^" line="31" column="35" />
-        <mark key="." line="31" column="35" />
-      </file>
+      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/config/RedisConfig.java" timestamp="1566441354282" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/resources/bootstrap.yml" timestamp="1566348997395" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/common-uniauth-ssclient/2.0.39.RELEASE/7d2dd1b00ed5e0184fd8538c06c27d995d04e109/common-uniauth-ssclient-2.0.39.RELEASE-sources.jar!/com/dianrong/common/uniauth/client/custom/filter/UniauthAbstractAuthenticationFilter.java" timestamp="1566386528041" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-workflow/src/main/sql/mysql/create/workflow.mysql.create.sql" timestamp="1566316008190" />
+      <file name="$USER_HOME$/bm_work/code/aemon/zeus/zeus-app/src/main/java/com/dianrong/zeus/restful/config/RedisConfig.java.bak" timestamp="1566441429118" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dianrong.common.uniauth/common-uniauth-ssclient/2.0.39.RELEASE/4f5d01116f31eb8883a2ee916498e36e5bd6b207/common-uniauth-ssclient-2.0.39.RELEASE.jar!/ss-uniauth-client.xml" timestamp="1566373128238" />
       <file name="$USER_HOME$/work/code/UniAuth/ss-client/src/main/resources/ss-uniauth-client.xml" timestamp="1566389071317" />
       <file name="/data/service/nginx/conf.d/commons/ssl-corp.bm-sk.cn.common" timestamp="1566374704247" />
@@ -175,7 +172,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jasig.cas/cas-server-core/4.1.7/475db2b1f7f93ca2a73b388bba4050a2dbe9a352/cas-server-core-4.1.7-sources.jar!/org/jasig/cas/remoting/server/RemoteCentralAuthenticationService.java" timestamp="1566387461481" />
       <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/resource/TenancyResource.java" timestamp="1566379818862" />
       <file name="$USER_HOME$/bm_work/code/aemon/zeus/readme.md" timestamp="1566373580998" />
-      <file name="/fragment.java" timestamp="1566389583761">
+      <file name="/fragment.java" timestamp="1566441241135">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
