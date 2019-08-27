@@ -3,6 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/request/QzJobCreationRequest.java" timestamp="1566913088589" />
+      <file name="$MAVEN_REPOSITORY$/com/gongzuochong/gzc-domain/1.0.0-SNAPSHOT/gzc-domain-1.0.0-SNAPSHOT.jar!/com/gongzuochong/domain/dao/generated/entity/JobEntity.class" timestamp="1566913017891" />
       <file name="$USER_HOME$/Downloads/riojs/README.md" timestamp="1566903969307">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="36" column="5" />
@@ -14,6 +16,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-jdbc-authentication/5.3.11/cas-server-support-jdbc-authentication-5.3.11-sources.jar!/org/apereo/cas/adaptors/jdbc/QueryDatabaseAuthenticationHandler.java" timestamp="1566874085947" />
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-core-authentication-api/5.3.11/cas-server-core-authentication-api-5.3.11-sources.jar!/org/apereo/cas/authentication/AbstractCredential.java" timestamp="1566873812020" />
       <file name="$MAVEN_REPOSITORY$/org/apereo/cas/cas-server-support-jdbc-authentication/5.3.11/cas-server-support-jdbc-authentication-5.3.11-sources.jar!/org/apereo/cas/adaptors/jdbc/SearchModeSearchDatabaseAuthenticationHandler.java" timestamp="1566875158818" />
+      <file name="$USER_HOME$/work/code/gzc_code/gzc-pc-api/src/main/java/com/gongzuochong/api/mapi/controller/JobManaController.java" timestamp="1566913744299">
+        <mark key="[" line="591" column="47" />
+        <mark key="]" line="591" column="46" />
+        <mark key="^" line="591" column="46" />
+        <mark key="." line="591" column="46" />
+      </file>
       <file name="$USER_HOME$/Downloads/riojs/rio/mp.js" timestamp="1566903887236" />
       <file name="$USER_HOME$/Downloads/riojs/rio/auth/auth.js" timestamp="1566903829271" />
     </filemarks>
@@ -124,13 +132,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="4">
-        <text>rio.request</text>
+        <text>Job</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>rio.request</text>
+        <text>Job</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
@@ -145,25 +153,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0Sm9iUmVzcG9uc2UgYWxsRGF0YSA9IGpvYlV0aWwuam9iMkxpc3RKb2Ioam9iU2VhcmNoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdHMuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmkK</text>
+        <text encoding="base64">ICAgICAgICAvL+mHkeefv+iBjOS9jQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmluZEZpcnN0KCkuZ2V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKChlKS0+ZS5nZXRDb2RlKCkuZXF1YWxzKGNvZGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBleHRNYXAucHV0KCJ0eXBlIiwgRmVlZFR5cGUuSm9iLmdldFZhbHVlKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgUHVibGljS2V5Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHRNYXAucHV0KCJjTiIsIENpdHlNYXAuZ2V0U2hvcnQoam9iU2VhcmNoLmdldENpdHkoKSkub3JFbHNlKCJiaiIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwSWRMaXN0UmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICAgICBleHRNYXAucHV0KCJ0aXRsZSIsIGpvYlNlYXJjaC5nZXRUaXRsZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>126</text>
