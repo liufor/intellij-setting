@@ -35,6 +35,7 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/target/generated-sources/annotations/com/digibms/aries/iam/server/db/converter/AccountConverterImpl.java" timestamp="1567146113032" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digims/aries/alm/db/entity/AriesSupplier.java" timestamp="1567159822628" />
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-admin-console/index.html" timestamp="1566973365726">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="9" column="0" />
@@ -89,8 +90,7 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/pom.xml" timestamp="1567157959698">
-        <mark key="[" line="13" column="10" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/pom.xml" timestamp="1567159764767">
         <mark key="]" line="13" column="9" />
         <mark key="." line="13" column="9" />
         <mark key="^" line="13" column="9" />
@@ -120,12 +120,14 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digims/aries/alm/db/entity/AriesAuthenticator.java" timestamp="1567159804500" />
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/controller/TokenController.java" timestamp="1567154284046">
         <mark key="[" line="25" column="34" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digims/aries/alm/service/AriesApplicationService.java" timestamp="1567159655096" />
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/resource/AccountResource.java" timestamp="1567134243400">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -149,6 +151,12 @@
         <mark key="]" line="14" column="15" />
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digims/aries/alm/db/entity/AriesApplication.java" timestamp="1567159781444">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/db/entity/App.java" timestamp="1567066587559">
         <mark key="[" line="7" column="0" />
@@ -408,7 +416,7 @@
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-client-api/src/main/java/com/digibms/aries/iam/api/client/interfaces/ITenancyResource.java" timestamp="1566984690484">
         <mark key="[" line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/pom.xml" timestamp="1567158215874">
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/pom.xml" timestamp="1567159754166">
         <mark key="[" line="105" column="13" />
         <mark key="]" line="73" column="33" />
         <mark key="." line="73" column="33" />
@@ -445,6 +453,7 @@
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/dto2/app/TenancyDto.java" timestamp="1566985084670">
         <mark key="[" line="8" column="49" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digims/aries/alm/domain/AriesApplication.java" timestamp="1567159557469" />
       <file name="$USER_HOME$/bm_work/code/beiming-cloud/settings.xml" timestamp="1566973024122">
         <mark key="[" line="135" column="24" />
       </file>
@@ -665,13 +674,13 @@
         <text>f jkllhh</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGU+a29uZy1qYXZhLXNkazwvbW9kdWxlPgo=</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5FcXVhbHNBbmRIYXNoQ29kZTsK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>cloud</text>
+        <text>Data</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
@@ -680,10 +689,10 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIngtcmlvLXBhYXNpZDogIitwYXNzaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGU+a29uZy1qYXZhLXNkazwvbW9kdWxlPgo=</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5FcXVhbHNBbmRIYXNoQ29kZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtb2R1bGU+a29uZy1qYXZhLXNkazwvbW9kdWxlPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -692,16 +701,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiIK</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWkgPSBuZXcgU3RyaW5nKGRpZ2VzdCwgIlVURi04Iik7Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWkgPSBuZXcgU3RyaW5nKGRpZ2VzdCwgIlVURi04Iik7Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
