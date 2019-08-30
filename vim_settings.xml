@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/resource/IAccountProfileResource.java" timestamp="1567055967064">
         <mark key="[" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-client-api/src/main/java/com/digibms/aries/iam/api/client/interfaces/IAccountProfileResource.java" timestamp="1567041654587">
-        <mark key="[" line="52" column="13" />
-        <mark key="]" line="52" column="12" />
-        <mark key="." line="52" column="12" />
-        <mark key="^" line="52" column="12" />
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-client-api/src/main/java/com/digibms/aries/iam/api/client/interfaces/IAccountProfileResource.java" timestamp="1567128443703">
+        <mark key="[" line="48" column="61" />
+        <mark key="]" line="48" column="60" />
+        <mark key="." line="48" column="60" />
+        <mark key="^" line="48" column="60" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/ThirdAccountType.java" timestamp="1566980280130">
         <mark key="[" line="10" column="7" />
@@ -56,8 +56,8 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="60" column="35" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/Response.java" timestamp="1567066735575">
-        <mark key="[" line="16" column="37" />
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/Response.java" timestamp="1567128157650">
+        <mark key="[" line="21" column="38" />
         <mark key="]" line="16" column="37" />
         <mark key="." line="16" column="37" />
         <mark key="^" line="16" column="40" />
@@ -90,6 +90,12 @@
         <mark key="]" line="3" column="3" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/resource/AccountProfileResource.java" timestamp="1567128707175">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/db/entity/AttrDefinition.java" timestamp="1567064470639">
         <mark key="[" line="7" column="0" />
@@ -270,6 +276,9 @@
         <mark key="]" line="8" column="44" />
         <mark key="." line="8" column="44" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/request/account/AccountIdentityParam.java" timestamp="1567128268571">
+        <mark key="[" line="9" column="38" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/resource/AppResource.java" timestamp="1567078419202">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="28" column="34" />
@@ -378,6 +387,7 @@
         <mark key="^" line="26" column="59" />
         <mark key="." line="26" column="59" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/request/PageParam.java" timestamp="1567128418934" />
       <file name="/Dummy.txt" timestamp="1567077610324">
         <mark key="[" line="0" column="0" />
       </file>
@@ -438,7 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="561" column="12" filename="$USER_HOME$/work/code/gzc_code/gzc-domain/src/main/java/com/gongzuochong/domain/service/UserService.java" />
       <jump line="1632" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/net/Socket.java" />
       <jump line="2265" column="11" filename="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/MysqlIO.java" />
       <jump line="19" column="13" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" />
@@ -538,6 +547,7 @@
       <jump line="635" column="21" filename="$USER_HOME$/bm_work/code/oa/beiming-admin/src/main/resources/templates/aries/site/add.html" />
       <jump line="182" column="164" filename="$USER_HOME$/bm_work/code/oa/beiming-admin/src/main/resources/templates/aries/site/add.html" />
       <jump line="7" column="0" filename="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/package-info.java" />
+      <jump line="26" column="56" filename="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/resource/AccountProfileResource.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
