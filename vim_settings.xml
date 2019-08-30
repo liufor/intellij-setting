@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/ThirdAccountType.java" timestamp="1566980280130">
         <mark key="[" line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/target/generated-sources/annotations/com/digibms/aries/iam/server/db/converter/AccountConverterImpl.java" timestamp="1567146113032" />
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-admin-console/index.html" timestamp="1566973365726">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="9" column="0" />
@@ -76,11 +77,11 @@
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-client-api/src/main/java/com/digibms/aries/iam/api/client/interfaces/IAccountAttrResource.java" timestamp="1567041209176">
         <mark key="[" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/controller/AccountController.java" timestamp="1567143893691">
-        <mark key="[" line="111" column="29" />
-        <mark key="]" line="110" column="59" />
-        <mark key="^" line="110" column="59" />
-        <mark key="." line="110" column="59" />
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/controller/AccountController.java" timestamp="1567147168080">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="95" column="21" />
+        <mark key="^" line="95" column="21" />
+        <mark key="." line="95" column="21" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/AccountIdentityType.java" timestamp="1567142362945">
         <mark key="[" line="6" column="28" />
@@ -149,11 +150,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/dto/account/AccountRegistryDto.java" timestamp="1567143359969">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="30" />
-        <mark key="^" line="7" column="30" />
-        <mark key="." line="7" column="30" />
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/dto/account/AccountRegistryDto.java" timestamp="1567145569388">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/db/mapper/AttrDefinitionMapper.java" timestamp="1567064554009">
         <mark key="[" line="0" column="46" />
@@ -183,6 +184,11 @@
         <mark key="[" line="9" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.0/mybatis-plus-core-3.1.0-sources.jar!/com/baomidou/mybatisplus/core/conditions/query/LambdaQueryWrapper.java" timestamp="1567141692917" />
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/dto/AppIdBasedDto.java" timestamp="1567145345087">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/resource/AppResource.java" timestamp="1567078419202">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="28" column="34" />
@@ -209,16 +215,17 @@
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/exp/IamException.java" timestamp="1567068949047">
         <mark key="[" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/db/entity/Account.java" timestamp="1567136839487">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/db/entity/Account.java" timestamp="1567146759474">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/dto/account/AccountDto.java" timestamp="1567130148585">
-        <mark key="[" line="83" column="1" />
-        <mark key="]" line="82" column="36" />
-        <mark key="." line="82" column="36" />
-        <mark key="^" line="82" column="36" />
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/dto/account/AccountDto.java" timestamp="1567145965759">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="86" column="36" />
+        <mark key="." line="86" column="36" />
+        <mark key="^" line="86" column="36" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/request2/app/AppParam.java" timestamp="1566984881804">
         <mark key="[" line="2" column="48" />
@@ -227,7 +234,7 @@
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/dto2/account/AccountProfile.java" timestamp="1566990799634">
         <mark key="[" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/UserService.java" timestamp="1567144224747" />
+      <file name="$USER_HOME$/work/code/UniAuth/uniauth-server/src/main/java/com/dianrong/common/uniauth/server/service/UserService.java" timestamp="1567144397675" />
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/request2/Operator.java" timestamp="1566983886650">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="12" column="57" />
@@ -244,7 +251,7 @@
         <mark key="." line="26" column="59" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/request/PageParam.java" timestamp="1567128418934" />
-      <file name="/Dummy.txt" timestamp="1567077610324">
+      <file name="/Dummy.txt" timestamp="1567146005508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/request2/PageParam.java" timestamp="1566981900544">
@@ -263,7 +270,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1567133775102">
+      <file name="/fragment.java" timestamp="1567146005498">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/resource/IAccountProfileResource.java" timestamp="1567055967064">
@@ -296,6 +303,12 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/dto2/attr/AttributeDto.java" timestamp="1566990205005">
         <mark key="[" line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/apirequest/registry.http" timestamp="1567147130985">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/request2/account/AccountIdentityParam.java" timestamp="1566983912002">
         <mark key="[" line="11" column="29" />
@@ -336,8 +349,8 @@
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-client-api/src/main/java/com/digibms/aries/iam/api/client/interfaces/ITenancyResource.java" timestamp="1566984690484">
         <mark key="[" line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/pom.xml" timestamp="1567077532256">
-        <mark key="[" line="74" column="17" />
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/pom.xml" timestamp="1567146265794">
+        <mark key="[" line="105" column="13" />
         <mark key="]" line="73" column="33" />
         <mark key="." line="73" column="33" />
         <mark key="^" line="73" column="33" />
@@ -384,11 +397,11 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/service/AccountService.java" timestamp="1567144292578">
-        <mark key="[" line="142" column="35" />
-        <mark key="]" line="142" column="35" />
-        <mark key="." line="142" column="35" />
-        <mark key="^" line="142" column="33" />
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/service/AccountService.java" timestamp="1567147057184">
+        <mark key="[" line="122" column="32" />
+        <mark key="]" line="122" column="29" />
+        <mark key="." line="122" column="29" />
+        <mark key="^" line="122" column="29" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server-api/pom.xml" timestamp="1566977876569">
         <mark key="[" line="31" column="17" />
@@ -574,14 +587,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>userId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>accountService</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
@@ -590,31 +603,31 @@
         <text encoding="base64">ICAgIEFjY291bnREdG8gcG8yZHRvKEFjY291bnQgZW50aXR5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2FibGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBY2NvdW50IG5ld1BvID0gbmV3IEFjY291bnQoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY3J5cHRvLnBhc3N3b3JkLlBhc3N3b3JkRW5jb2RlcjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2FibGUoKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhY2NvdW50U2VydmljZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB1c2FibGUoKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwby5zZXRlbQo=</text>
+        <text encoding="base64">ICAgICAgICBBY2NvdW50IG5ld1BvID0gbmV3IEFjY291bnQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
