@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/dto/attr/AttrDefineDto.java" timestamp="1567133591401">
         <mark key="[" line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digibms/aries/alm/service/IAriesUniqueDtoService.java" timestamp="1567162968961">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/service/AttrDefinitionService.java" timestamp="1567136399230">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="46" column="0" />
@@ -121,6 +127,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digibms/aries/alm/service/IUniqueCheckService.java" timestamp="1567162421805" />
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/resource/AccountProfileResource.java" timestamp="1567134204394">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="34" column="0" />
@@ -138,6 +145,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/src/main/java/com/digibms/aries/alm/service/impl/AriesApplicationServiceImpl.java" timestamp="1567162182644" />
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/request2/account/AccountQuery.java" timestamp="1566983793105">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="26" />
@@ -155,7 +163,7 @@
         <mark key="." line="13" column="9" />
         <mark key="^" line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/pom.xml" timestamp="1567160777211" />
+      <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/pom.xml" timestamp="1567162063513" />
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-client-api/src/main/java/com/digibms/aries/iam/api/client/interfaces/IAccountAttrResource.java" timestamp="1567041209176">
         <mark key="[" line="12" column="27" />
       </file>
@@ -240,6 +248,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/src/main/java/com/digibms/aries/alm/service/AriesUniqueService.java" timestamp="1567162427280">
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/pom.xml" timestamp="1567160763390">
         <mark key="[" line="105" column="13" />
@@ -342,6 +353,7 @@
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/request2/attr/AttrMetaParam.java" timestamp="1567041565029">
         <mark key="[" line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/src/main/java/com/digibms/aries/alm/service/AriesApplicationService.java" timestamp="1567162186410" />
       <file name="$USER_HOME$/bm_work/code/beiming-cloud/settings.xml" timestamp="1566973024122">
         <mark key="[" line="135" column="24" />
       </file>
@@ -376,8 +388,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digibms/aries/alm/service/impl/AriesOrganizationServiceImpl.java" timestamp="1567161069261">
-        <mark key="[" line="3" column="28" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digibms/aries/alm/service/impl/AriesOrganizationServiceImpl.java" timestamp="1567162225047">
+        <mark key="[" line="15" column="105" />
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
@@ -393,6 +405,12 @@
         <mark key="]" line="122" column="29" />
         <mark key="." line="122" column="29" />
         <mark key="^" line="122" column="29" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digibms/aries/alm/service/impl/AriesUniqueServiceImpl.java" timestamp="1567163109442">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server-api/pom.xml" timestamp="1566977876569">
         <mark key="[" line="31" column="17" />
@@ -422,6 +440,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digibms/aries/alm/service/impl/UniqueCheckServiceImpl.java" timestamp="1567163104557">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="18" column="47" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/exp/IamException.java" timestamp="1567068949047">
         <mark key="[" line="5" column="10" />
@@ -500,6 +523,12 @@
         <mark key="^" line="26" column="59" />
         <mark key="." line="26" column="59" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digibms/aries/alm/service/AriesUniqueService.java" timestamp="1567162982172">
+        <mark key="[" line="14" column="67" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+      </file>
       <file name="/Dummy.txt" timestamp="1567146005508">
         <mark key="[" line="0" column="0" />
       </file>
@@ -561,7 +590,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1567161059710">
+      <file name="/fragment.java" timestamp="1567163000487">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -671,14 +700,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQGRhdGUgMjAxOS0wNy0yMwo=</text>
+      <register name="&quot;" type="4">
+        <text>IUniqueCheckService</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Data</text>
+        <text>IUniqueCheckService</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
