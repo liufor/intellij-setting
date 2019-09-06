@@ -18,7 +18,6 @@
       <mapping pattern="sqlite_new" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="location" type="PLAIN_TEXT" />
       <mapping ext="vue2" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
@@ -27,12 +26,14 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="server" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="xxx" type="PLAIN_TEXT" />
       <mapping ext="common" type="PLAIN_TEXT" />
       <mapping ext="defaut" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="PLAIN_TEXT" />
       <mapping ext="sh2" type="PLAIN_TEXT" />
-      <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
