@@ -426,6 +426,9 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
+      <file name="/Dummy.txt" timestamp="1568093139901">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-server/src/main/java/com/digibms/aries/alm/dto/network/ZoneExt.java" timestamp="1567507622899">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="7" column="29" />
@@ -467,6 +470,9 @@
         <mark key="]" line="27" column="37" />
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
+      </file>
+      <file name="/fragment.java" timestamp="1568093308957">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/MyApp/Detail.vue" timestamp="1567502607375">
         <mark key="[" line="169" column="74" />
@@ -576,7 +582,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/ralgo-admin/ralgo-cu/src/main/java/cn/ralgo/cu/sdsdk/getToken.http" timestamp="1568087085844">
+      <file name="$USER_HOME$/bm_work/code/ralgo-admin/ralgo-cu/src/main/java/cn/ralgo/cu/sdsdk/getToken.http" timestamp="1568093172632">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="14" column="2" />
         <mark key="^" line="14" column="2" />
@@ -742,11 +748,11 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/ralgo-admin/ralgo-cu/src/main/java/cn/ralgo/cu/sdsdk/SDClient.java" timestamp="1568083440092">
-        <mark key="[" line="34" column="38" />
-        <mark key="]" line="34" column="38" />
-        <mark key="^" line="34" column="44" />
-        <mark key="." line="34" column="38" />
+      <file name="$USER_HOME$/bm_work/code/ralgo-admin/ralgo-cu/src/main/java/cn/ralgo/cu/sdsdk/SDClient.java" timestamp="1568093837311">
+        <mark key="[" line="61" column="32" />
+        <mark key="]" line="61" column="31" />
+        <mark key="^" line="61" column="31" />
+        <mark key="." line="61" column="31" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/CreateOrUpdate.vue" timestamp="1567740746446">
         <mark key="[" line="527" column="13" />
@@ -844,6 +850,7 @@
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/ralgo-admin/ralgo-admin/src/main/java/cn/ralgo/web/core/sdyxwh/SdyxwhAuthInterceptor.java" timestamp="1568092592379" />
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/AppIdBasedService.java" timestamp="1567067260686">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="4" />
@@ -1039,14 +1046,14 @@
       <register name="a" type="4">
         <text>f jkllhh</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TWFwPFN0cmluZyxTdHJpbmc+</text>
       </register>
       <register name="h" type="4">
         <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">TWFwPFN0cmluZyxTdHJpbmc+</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
@@ -1055,31 +1062,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5kZWxlZ2F0ZS5nZXRUb2tlbnMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZTsK</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RNYXBwZXIucmVhZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBRdWFsaWZpZXIoInNkUmVzdFRlbXBsYXRlIikK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHJlc3RUZW1wbGF0ZS5yZSAK</text>
+        <text encoding="base64">ICAgIEBRdWFsaWZpZXIoInNkUmVzdFRlbXBsYXRlIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIHJlc3RUZW1wbGF0ZS5yZSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXh0ZW5kcyBCYXNlQ29udHJvbGxlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXh0ZW5kcyBCYXNlQ29udHJvbGxlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg44CNCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAg44CNCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>125</text>
