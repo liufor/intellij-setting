@@ -3,20 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/ant-design-pro-vue/src/views/form/stepForm/StepForm.vue" timestamp="1568716856198" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/steps/Step2.vue" timestamp="1568716988150">
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/ant-design-pro-vue/src/views/form/advancedForm/RepositoryForm.vue" timestamp="1568717912784" />
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/.env.preview" timestamp="1568719707569" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/utils/request.js" timestamp="1568280406700">
         <mark key="[" line="55" column="16" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/CreateOrUpdate/Step2.vue" timestamp="1568722117005">
-        <mark key="[" line="120" column="38" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/CreateOrUpdate/Step2.vue" timestamp="1568772603289">
+        <mark key="[" line="166" column="17" />
+        <mark key="]" line="166" column="15" />
+        <mark key="." line="166" column="15" />
+        <mark key="^" line="166" column="15" />
       </file>
       <file name="$USER_HOME$/bm_work/code/beiming-cloud/bmsk-cloud-biz-parent/pom.xml" timestamp="1568272223231">
         <mark key="[" line="15" column="35" />
@@ -30,6 +28,9 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="13" />
         <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/dto/network/package-info.java" timestamp="1568770634813">
+        <mark key="[" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-common/src/main/java/com/digibms/aries/iam/common/bean/Info.java" timestamp="1568274872958">
         <mark key="[" line="7" column="0" />
@@ -54,9 +55,14 @@
         <mark key="^" line="141" column="51" />
         <mark key="." line="141" column="51" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/ant-design-pro-vue/src/views/form/BasicForm.vue" timestamp="1568715381943" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/steps/Step4.vue" timestamp="1568717153896">
         <mark key="[" line="1" column="2" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/CreateOrUpdate/Step3.vue" timestamp="1568771918339">
+        <mark key="[" line="127" column="5" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1568604542156">
         <mark key="[" line="0" column="0" />
@@ -119,7 +125,6 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/ant-design-pro-vue/src/views/form/advancedForm/TaskForm.vue" timestamp="1568713348014" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/CreateOrUpdate/Step1.vue" timestamp="1568720817838">
         <mark key="[" line="247" column="7" />
         <mark key="]" line="3" column="8" />
@@ -134,13 +139,13 @@
       <file name="$USER_HOME$/bm_work/code/AriesWeb/ant-design-pro-vue/src/views/form/stepForm/Step1.vue" timestamp="1568718903893">
         <mark key="[" line="80" column="8" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/dto/service/AriesServiceDto.java" timestamp="1568772697758" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/permission.js" timestamp="1568279896499">
         <mark key="[" line="23" column="40" />
         <mark key="]" line="51" column="24" />
         <mark key="^" line="51" column="24" />
         <mark key="." line="51" column="24" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/NetworkController.java" timestamp="1568719759295" />
       <file name="/fragment.java" timestamp="1568604542147">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,42 +156,37 @@
         <text encoding="base64">ICAgICAgU3RlcDMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvck9mCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvck9mCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyQ29sOiB7bGc6IHtzcGFuOiAxOX0sIHNtOiB7c3BhbjogMTl9fSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbENvbDoge2xnOiB7c3BhbjogNX0sIHNtOiB7c3BhbjogNX19LAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoem9uZXMgJiYgem9uZXMubGVuZ3RoID4gMCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudm8K</text>
+        <text encoding="base64">ICAgICAgICAvL3pvbmVzIOWSjCDlt7LpgInnmoRtYXJnZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogJ+WwhuS4gOS4quWGl+mVv+aIlueUqOaIt+S4jeeGn+aCieeahOihqOWNleS7u+WKoeWIhuaIkOWkmuS4quatpemqpO+8jOaMh+WvvOeUqOaIt+WujOaIkOOAgicsCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB6b25lVm9zID0gey4uLn07Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">IAogCiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB6b25lcyA9IG5ld1ZhbC56b25lczsK</text>
       </register>
-      <register name="8" type="8">
-        <text>:vo=&quot;vo&quot;
-:vo=&quot;vo&quot;
-:vo=&quot;vo&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKCkgCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>/steps
-/steps
-/steps
-/steps</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKSAK</text>
       </register>
       <register name="-" type="4">
-        <text>myprop</text>
+        <text>selectedRegionId</text>
       </register>
     </registers>
     <search>
