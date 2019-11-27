@@ -17,12 +17,13 @@
         <mark key="." line="8" column="27" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/VideoRecognitionRequest.java" timestamp="1574753050980" />
-      <file name="/a.dummy" timestamp="1574408801063">
+      <file name="/a.dummy" timestamp="1574852005821">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE-sources.jar!/org/springframework/util/StopWatch.java" timestamp="1574304352361" />
       <file name="$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java/3.0.108/tencentcloud-sdk-java-3.0.108-sources.jar!/com/tencentcloudapi/faceid/v20180301/FaceidClient.java" timestamp="1574412998967" />
       <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.9.2/aspectjtools-1.9.2.jar!/org/aspectj/org/eclipse/jdt/core/dom/AST.class" timestamp="1574765656794" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/VideoDetectRequest.java" timestamp="1574853352549" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/dto/FaceIdResponse.java" timestamp="1574407691070">
         <mark key="[" line="2" column="29" />
       </file>
@@ -44,7 +45,9 @@
       <file name="$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java/3.0.108/tencentcloud-sdk-java-3.0.108-sources.jar!/com/tencentcloudapi/faceid/v20180301/models/ImageRecognitionRequest.java" timestamp="1574408778337" />
       <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-all/4.5.16/hutool-all-4.5.16-sources.jar!/cn/hutool/json/JSONUtil.java" timestamp="1574752810626" />
       <file name="$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java/3.0.108/tencentcloud-sdk-java-3.0.108-sources.jar!/com/tencentcloudapi/faceid/v20180301/models/LivenessRecognitionRequest.java" timestamp="1574408479061" />
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/ImageRecognitionRequest.java" timestamp="1574752994542" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/ImageRecognitionRequest.java" timestamp="1574851943068">
+        <mark key="[" line="12" column="29" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/pom.xml" timestamp="1574407931585">
         <mark key="[" line="171" column="17" />
       </file>
@@ -53,12 +56,12 @@
         <mark key="]" line="45" column="83" />
         <mark key="." line="45" column="83" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/ImageRecognition.java" timestamp="1574756243748" />
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" timestamp="1574753121511">
-        <mark key="[" line="46" column="52" />
-        <mark key="]" line="46" column="52" />
-        <mark key="^" line="46" column="66" />
-        <mark key="." line="46" column="52" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/ImageRecognition.java" timestamp="1574851852312" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" timestamp="1574853058325">
+        <mark key="[" line="144" column="45" />
+        <mark key="]" line="143" column="57" />
+        <mark key="." line="143" column="57" />
+        <mark key="^" line="143" column="57" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/iam-server/src/main/java/com/digibms/aries/iam/server/controller/AccountController.java" timestamp="1574748288728" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/AccController.java" timestamp="1574407279217" />
@@ -73,6 +76,7 @@
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java/3.0.108/tencentcloud-sdk-java-3.0.108-sources.jar!/com/tencentcloudapi/faceid/v20180301/models/ImageRecognitionResponse.java" timestamp="1574852346832" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/controller/FaceIdController.java" timestamp="1574751773023">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="18" />
@@ -82,12 +86,16 @@
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/common/BaseModel.java" timestamp="1574413192874">
         <mark key="[" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/VideoDetectResponse.java" timestamp="1574852969966">
+        <mark key="[" line="35" column="19" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/AriesAppController.java" timestamp="1574732095324" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/apitest/service_testoidc1.http" timestamp="1574751700356" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/iam/web/AccessTokenInterceptor.java" timestamp="1574752296264">
         <mark key="[" line="25" column="121" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.9.2/aspectjtools-1.9.2-sources.jar!/org/aspectj/org/eclipse/jdt/core/dom/ASTNode.java" timestamp="1574768995081" />
+      <file name="$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java/3.0.108/tencentcloud-sdk-java-3.0.108-sources.jar!/com/tencentcloudapi/common/AbstractModel.java" timestamp="1574852569823" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/dto/ImageRecognitionRequest.java" timestamp="1574412755099">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="28" column="21" />
@@ -110,31 +118,32 @@
       <file name="/fragment.java" timestamp="1574755796732">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/VideoRecognitionResponse.java" timestamp="1574851306119" />
     </filemarks>
     <jumps>
       <jump line="147" column="11" filename="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/CreateOrUpdate/StepForm.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parseObj</text>
+        <text>ImageRecognition</text>
       </register>
       <register name="-" type="4">
-        <text>parseObj</text>
+        <text>ImageRecognition</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGlkQ2FyZE5hbWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3VjY2VzcyhudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoInJlY29nbnRpb25UeXBlIi5lcXVhbHMocmVjb2dudGlvblR5cGUpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -143,13 +152,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3VjY2VzcyhudWxsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRmxvYXQgaW1hZ2VCYXNlNjQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoInJlY29nbnRpb25UeXBlIi5lcXVhbHMocmVjb2dudGlvblR5cGUpKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
