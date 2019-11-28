@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-all/4.5.16/hutool-all-4.5.16-sources.jar!/cn/hutool/core/bean/copier/CopyOptions.java" timestamp="1574938479867" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/dto/VideoRecognitionRequest.java" timestamp="1574413264587">
         <mark key="[" line="14" column="36" />
         <mark key="]" line="41" column="19" />
@@ -90,10 +91,11 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" timestamp="1574937055034">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="85" column="24" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" timestamp="1574939067310">
+        <mark key="[" line="81" column="9" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="81" column="8" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/dto/ImageRecognitionResponse.java" timestamp="1574416584538">
         <mark key="[" line="12" column="37" />
@@ -141,17 +143,21 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-all/4.5.16/hutool-all-4.5.16-sources.jar!/cn/hutool/core/img/ImgUtil.java" timestamp="1574938810339" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/common/BaseResponseModel.java" timestamp="1574855271007">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="9" column="28" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-all/4.5.16/hutool-all-4.5.16-sources.jar!/cn/hutool/core/codec/Base64.java" timestamp="1574938822902" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/package-info.java" timestamp="1574406912331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1574935954953">
+      <file name="/fragment.java" timestamp="1574938615711">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -159,45 +165,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnN1Y2Nlc3MoaW1hZ2UocmVxKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3VjY2VzcyhkYXRhKTsK</text>
+        <text encoding="base64">UnVudGltZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICBCZWFuVXRpbHMuY29weVByb3BlcnRpZXMocmVxRnJvbVBhcmFtcywgcmVxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCZWFuVXRpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3VjY2VzcyhkYXRhKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>@RequestParam(&quot;type&quot;) String type,
-                                                         @RequestParam(value = &quot;provider&quot;, defaultValue = &quot;aries&quot;)
-                                                                 String provider,
-                                                         @RequestParam(value = &quot;debugResult&quot;,
-                                                                 required = false/*上线以后去除*/)
-                                                                 String debugResul</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBCZWFuVXRpCg==</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
