@@ -79,10 +79,10 @@
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/pom.xml" timestamp="1574407931585">
         <mark key="[" line="171" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/ALMServer.http" timestamp="1574936205683">
-        <mark key="[" line="60" column="54" />
-        <mark key="]" line="45" column="83" />
-        <mark key="." line="45" column="83" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/ALMServer.http" timestamp="1574936332278">
+        <mark key="[" line="61" column="46" />
+        <mark key="]" line="61" column="46" />
+        <mark key="." line="61" column="46" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/ConvertedBase64Response.java" timestamp="1574855262271">
         <mark key="[" line="6" column="36" />
@@ -90,11 +90,10 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" timestamp="1574936198077">
-        <mark key="[" line="137" column="57" />
-        <mark key="]" line="75" column="19" />
-        <mark key="." line="75" column="19" />
-        <mark key="^" line="75" column="19" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" timestamp="1574937055034">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="85" column="24" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/dto/ImageRecognitionResponse.java" timestamp="1574416584538">
         <mark key="[" line="12" column="37" />
@@ -159,46 +158,46 @@
       <jump line="147" column="11" filename="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/CreateOrUpdate/StepForm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getVideoBase64</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>getVideoBase64</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnN1Y2Nlc3MoaW1hZ2UocmVxKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCZWFuVXRpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3VjY2VzcyhkYXRhKTsK</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBCZWFuVXRpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>@RequestParam(&quot;type&quot;) String type,
                                                          @RequestParam(value = &quot;provider&quot;, defaultValue = &quot;aries&quot;)
                                                                  String provider,
                                                          @RequestParam(value = &quot;debugResult&quot;,
                                                                  required = false/*上线以后去除*/)
                                                                  String debugResul</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3VjY2VzcygpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaWdpYm1zLmFyaWVzLmFsbS5vcGVuYXBpLmNvbW1vbi5CYXNlTW9kZWw7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
