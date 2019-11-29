@@ -31,6 +31,12 @@
       <file name="/a.dummy" timestamp="1574996863527">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/HealthController.java" timestamp="1575011267546">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="23" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="20" column="23" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/common/ResultFactory.java" timestamp="1574996988988">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="5" column="0" />
@@ -47,9 +53,6 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/dto/FaceIdBaseRequest.java" timestamp="1574413212098">
         <mark key="[" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/ImageDetectRequest.java" timestamp="1574934519259">
-        <mark key="[" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/dto/VideoRecognitionResponse.java" timestamp="1574647441282">
         <mark key="[" line="12" column="37" />
@@ -149,12 +152,6 @@
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/common/BaseModel.java" timestamp="1574413192874">
         <mark key="[" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/FaceIdBaseRequest.java" timestamp="1574934790124">
-        <mark key="[" line="10" column="50" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/VideoDetectResponse.java" timestamp="1574995566500">
-        <mark key="[" line="30" column="19" />
-      </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/iam/web/AccessTokenInterceptor.java" timestamp="1574752296264">
         <mark key="[" line="25" column="121" />
       </file>
@@ -210,11 +207,11 @@
       <jump line="69" column="81" filename="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>JSONObject</text>
       </register>
       <register name="-" type="4">
-        <text>RequestBody</text>
+        <text>JSONObject</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnN1Y2Nlc3MoaW1hZ2UocmVxKSk7Cg==</text>
