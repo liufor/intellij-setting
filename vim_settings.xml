@@ -114,11 +114,11 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" timestamp="1574998522527">
-        <mark key="[" line="68" column="34" />
-        <mark key="]" line="68" column="34" />
-        <mark key="." line="68" column="34" />
-        <mark key="^" line="246" column="17" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" timestamp="1575005195818">
+        <mark key="'" line="69" column="81" />
+        <mark key="[" line="97" column="44" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/exception/AriesCommonResultCode.java" timestamp="1574992469863">
         <mark key="[" line="2" column="18" />
@@ -207,43 +207,44 @@
     </filemarks>
     <jumps>
       <jump line="147" column="11" filename="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/CreateOrUpdate/StepForm.vue" />
+      <jump line="69" column="81" filename="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>produces</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>produces</text>
+        <text>RequestBody</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnN1Y2Nlc3MoaW1hZ2UocmVxKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC50cmFuc2Zvcm0uUmVzdWx0Owo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFJlcXVlc3RJZChyZXF1ZXN0SWQpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjb2RlOwo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmYWNlSWRSZXN1bHRcXFxcXFxcXAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC50cmFuc2Zvcm0uUmVzdWx0Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UnVudGltZQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFJlcXVlc3RJZChyZXF1ZXN0SWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
