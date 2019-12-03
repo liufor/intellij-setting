@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-all/4.5.16/hutool-all-4.5.16-sources.jar!/cn/hutool/core/bean/copier/CopyOptions.java" timestamp="1574938479867" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/dto/VideoRecognitionRequest.java" timestamp="1574413264587">
         <mark key="[" line="14" column="36" />
         <mark key="]" line="41" column="19" />
@@ -69,23 +68,34 @@
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/FaceIdService.java" timestamp="1575351303898">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="50" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/dto/ImageFaceIdRequest.java" timestamp="1574407666076">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/LiveCodeResponse.java" timestamp="1575349904632">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="6" column="49" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/ConvertBase64Response.java" timestamp="1574854337254">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/exp/OpenApiException.java" timestamp="1574991946976" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/exception/CommonResultCode.java" timestamp="1574996213788">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" timestamp="1574991157189" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/config/KongConfig.java" timestamp="1575350527223" />
       <file name="$USER_HOME$/bm_work/code/creditchina/credit-china-ui2/src/szgd_modules/cui/sdk/extend.js" timestamp="1571731110009">
         <mark key="[" line="102" column="24" />
         <mark key="]" line="102" column="8" />
@@ -103,26 +113,36 @@
         <mark key="]" line="61" column="46" />
         <mark key="." line="61" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java/3.0.108/tencentcloud-sdk-java-3.0.108-sources.jar!/com/tencentcloudapi/common/exception/TencentCloudSDKException.java" timestamp="1574991674100" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/ConvertedBase64Response.java" timestamp="1574855262271">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="5" column="4" />
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/exception/CommonResult.java" timestamp="1574996247644" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/config/TencentCloudSDKConfig.java" timestamp="1575350928173">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/exception/FaceIdResultCode.java" timestamp="1574995802460">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="4" column="6" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" timestamp="1575012405622">
-        <mark key="'" line="69" column="81" />
-        <mark key="[" line="97" column="44" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="133" column="0" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" timestamp="1575352638304">
+        <mark key="'" line="80" column="81" />
+        <mark key="[" line="66" column="20" />
+        <mark key="]" line="66" column="20" />
+        <mark key="." line="66" column="20" />
+        <mark key="^" line="67" column="35" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/impl/TencentCloudFaceIdServiceImpl.java" timestamp="1575353021767">
+        <mark key="[" line="39" column="63" />
+        <mark key="]" line="40" column="36" />
+        <mark key="." line="40" column="36" />
+        <mark key="^" line="40" column="36" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/exception/AriesCommonResultCode.java" timestamp="1574992469863">
         <mark key="[" line="2" column="18" />
@@ -153,10 +173,10 @@
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/common/BaseModel.java" timestamp="1574413192874">
         <mark key="[" line="2" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java/3.0.108/tencentcloud-sdk-java-3.0.108-sources.jar!/com/tencentcloudapi/faceid/v20180301/models/GetLiveCodeResponse.java" timestamp="1575349845135" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/iam/web/AccessTokenInterceptor.java" timestamp="1574752296264">
         <mark key="[" line="25" column="121" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE-sources.jar!/org/springframework/util/unit/DataSize.java" timestamp="1575014574570" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/faceid/dto/ImageRecognitionRequest.java" timestamp="1574412755099">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="28" column="21" />
@@ -174,6 +194,9 @@
         <mark key="]" line="41" column="58" />
         <mark key="^" line="41" column="58" />
         <mark key="." line="41" column="58" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/config/RestConfig.java" timestamp="1575350361788">
+        <mark key="[" line="13" column="5" />
       </file>
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/common/CommonResultEnum.java" timestamp="1574998305677">
         <mark key="[" line="8" column="5" />
@@ -193,14 +216,13 @@
         <mark key="." line="82" column="21" />
         <mark key="^" line="82" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-all/4.5.16/hutool-all-4.5.16-sources.jar!/cn/hutool/core/img/ImgUtil.java" timestamp="1574938810339" />
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/common/BaseResponseModel.java" timestamp="1574855271007">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/common/BaseResponseModel.java" timestamp="1575352220144">
+        <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="28" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-all/4.5.16/hutool-all-4.5.16-sources.jar!/cn/hutool/core/codec/Base64.java" timestamp="1574938822902" />
+      <file name="$MAVEN_REPOSITORY$/com/tencentcloudapi/tencentcloud-sdk-java/3.0.108/tencentcloud-sdk-java-3.0.108-sources.jar!/com/tencentcloudapi/faceid/v20180301/models/GetLiveCodeRequest.java" timestamp="1575349537147" />
       <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/openapi/package-info.java" timestamp="1574406912331">
         <mark key="[" line="0" column="0" />
       </file>
@@ -210,7 +232,7 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="20" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1575010277443">
+      <file name="/fragment.java" timestamp="1575352709854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -221,41 +243,41 @@
       <jump line="69" column="81" filename="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/controller/FaceIdController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>liveCode</text>
       </register>
       <register name="-" type="4">
-        <text>JSONObject</text>
+        <text>liveCode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnN1Y2Nlc3MoaW1hZ2UocmVxKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxpdmVDb2RlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBodHRwOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ZW5jZW50Y2xvdWRhcGkuZmFjZWlkLnYyMDE4MDMwMS5tb2RlbHMuR2V0TGl2ZUNvZGVSZXF1ZXN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmYWNlSWRSZXN1bHRcXFxcXFxcXAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5jb250ZXh0LnByb3BlcnRpZXMuQ29uZmlndXJhdGlvblByb3BlcnRpZXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC50cmFuc2Zvcm0uUmVzdWx0Owo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJrb25nIiwgaWdub3JlVW5rbm93bkZpZWxkcyA9IGZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
