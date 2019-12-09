@@ -4,55 +4,25 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/bm_work/code/AriesIAM/pom.xml" timestamp="1575873330205" />
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/FaceIdService.java" timestamp="1575351303898">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="50" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/FaceIdDetectRequest.java" timestamp="1575357096192">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="12" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/dto/LiveCodeResponse.java" timestamp="1575363322697">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="6" column="49" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/config/TencentCloudSDKConfig.java" timestamp="1575623614812">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/iam/common/bean/Response.java" timestamp="1575366315838">
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="18" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/alm/openapi/faceid/impl/TencentCloudFaceIdServiceImpl.java" timestamp="1575509882290">
-        <mark key="[" line="39" column="63" />
-        <mark key="]" line="40" column="36" />
-        <mark key="." line="40" column="36" />
-        <mark key="^" line="40" column="36" />
-      </file>
-      <file name="/data/service/nginx/conf.d/hosts/production/bjt.location" timestamp="1575535432768">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/connector/oidc/oidc.go" timestamp="1575856986518" />
-      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/storage/static.go" timestamp="1575872014025" />
-      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/api/api.pb.go" timestamp="1575871756836" />
-      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/storage/sql/crud.go" timestamp="1575873802627" />
-      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/storage/storage.go" timestamp="1575874247671" />
-      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/connector/connector.go" timestamp="1575857066386" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/vendor/golang.org/x/crypto/bcrypt/bcrypt.go" timestamp="1575877448966" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/storage/etcd/types.go" timestamp="1575885414524" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/server/internal/types.pb.go" timestamp="1575882693611" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/storage/sql/config.go" timestamp="1575876917053" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/server/handlers.go" timestamp="1575887998105" />
+      <file name="/usr/local/go/src/net/http/request.go" timestamp="1575879046687" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/connector/oidc/oidc.go" timestamp="1575885798104" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/storage/static.go" timestamp="1575876874165" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/server/oauth2.go" timestamp="1575883939922" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/server/server.go" timestamp="1575887695038" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/storage/etcd/etcd.go" timestamp="1575877100944" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/api/api.pb.go" timestamp="1575877479556" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/storage/sql/crud.go" timestamp="1575883698469" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/storage/memory/memory.go" timestamp="1575877016557" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/storage/storage.go" timestamp="1575882667833" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/connector/connector.go" timestamp="1575885810981" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/web/templates/login.html" timestamp="1575884117972" />
       <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/cmd/dex/serve.go" timestamp="1575871843947" />
+      <file name="$USER_HOME$/go_workspace/beego_demo/src/github.com/dexidp/dex/server/api.go" timestamp="1575877814799" />
     </filemarks>
     <jumps>
       <jump line="147" column="11" filename="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/CreateOrUpdate/StepForm.vue" />
