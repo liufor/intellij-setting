@@ -3,17 +3,58 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/bm_work/code/Blitz/BUI-samples/gwzw/src/app.js" timestamp="1576060816779">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
+      <file name="/a.dummy" timestamp="1576472863840">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/bmsk-cas-master/pom.xml" timestamp="1576471695536" />
+      <file name="$USER_HOME$/Downloads/liujunhong-qywx/pom.xml" timestamp="1576473755523">
+        <mark key="[" line="49" column="5" />
+      </file>
+      <file name="$USER_HOME$/Downloads/bmsk-cas-master/pom.xml" timestamp="1576472911745" />
       <file name="$USER_HOME$/bm_work/code/Blitz/BUI-samples/gwzw/dist/weapp/components/main/m-footer/index.wxml" timestamp="1576061054089">
         <mark key="[" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Downloads/bmsk-cas-master/src/main/java/cn/bmsk/cas/controller/QyWxController.java" timestamp="1576471745148" />
+      <file name="$USER_HOME$/Downloads/liujunhong-qywx/src/main/java/com/liujunhong/example/qxwxdemo/controller/ZwwxAuthNController.java" timestamp="1576473375367">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/Downloads/bmsk-cas-master/src/main/java/cn/bmsk/cas/qywx/ZService.java" timestamp="1576471775474" />
+      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/github/binarywang/demo/wx/cp/controller/WxPortalController.java" timestamp="1576475043876">
+        <mark key="[" line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/liujunhong-qywx/src/main/java/com/liujunhong/example/qxwxdemo/controller/AuthnByZwwxController.java" timestamp="1576472608722">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/Downloads/liujunhong-qywx/src/main/java/com/liujunhong/example/qxwxdemo/controller/ZwwxController.java" timestamp="1576472597122">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/resources/application.yml" timestamp="1576475330729">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="54" />
+        <mark key="^" line="10" column="54" />
+        <mark key="." line="10" column="15" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-cp/3.6.0/weixin-java-cp-3.6.0-sources.jar!/me/chanjar/weixin/cp/api/WxCpOAuth2Service.java" timestamp="1576473863586" />
+      <file name="$USER_HOME$/Downloads/bmsk-cas-master/src/main/java/cn/bmsk/cas/controller/QyWxController.java" timestamp="1576473460974" />
+      <file name="$USER_HOME$/Downloads/liujunhong-qywx/src/main/java/com/liujunhong/example/qxwxdemo/dto/ZwwxAuthnRequest.java" timestamp="1576472935839">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/liujunhong-qywx/src/main/java/com/liujunhong/example/qxwxdemo/controller/HrController.java" timestamp="1576474926223">
+        <mark key="[" line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/pom.xml" timestamp="1576474848564" />
+      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/github/binarywang/demo/wx/cp/controller/HrController.java" timestamp="1576474929343">
+        <mark key="[" line="2" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="147" column="11" filename="$USER_HOME$/bm_work/code/AriesWeb/aries-console/src/views/app/Service/CreateOrUpdate/StepForm.vue" />
@@ -21,40 +62,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10.1.10.106</text>
+        <text>QyWxAuthnRequest</text>
       </register>
       <register name="-" type="4">
-        <text>10.1.10.106</text>
+        <text>QyWxAuthnRequest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPyAnaHR0cHM6Ly90LWFyaWVzLmNvcnAuYm0tc2suY24nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwYWdlcy9oNS9oNSIsCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5BY2Nlc3NMZXZlbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwYWdlcy9idXNpbmVzcy9ub0F1dGgvbm9BdXRoIiwK</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHBlcmltZW50YWwuRmllbGREZWZhdWx0czsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwYWdlcy9idXNpbmVzcy9pc0F1dGgvaXNBdXRoIiwK</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5HZXR0ZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJwYWdlcy9jYXJkL2luZGV4L2luZGV4IiwK</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5TZXR0ZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJwYWdlcy9jYXJkL2RldGFpbC9kZXRhaWwiLAo=</text>
+        <text encoding="base64">QFNldHRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwYWdlcy9jYXJkL2FkZC9hZGQiLAo=</text>
+        <text encoding="base64">QEdldHRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwYWdlcy90b2RvL2xpc3QvbGlzdCIsCg==</text>
+        <text encoding="base64">QEZpZWxkRGVmYXVsdHMobGV2ZWwgPSBBY2Nlc3NMZXZlbC5QUklWQVRFKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwYWdlcy9nc2QtdWkvZy13ZWItcGFnZS9nLXdlYi1wYWdlIiwK</text>
+        <text encoding="base64">QFJlc3RDb250cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJwYWdlcy9nc2QtdWkvZy1hdXRoL3NvdGVyL3NvdGVyIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
