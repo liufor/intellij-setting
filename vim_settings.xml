@@ -20,7 +20,7 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/resources/application.yml" timestamp="1576487273588">
+      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/resources/application.yml" timestamp="1576491985961">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="10" column="54" />
         <mark key="^" line="10" column="54" />
@@ -79,11 +79,14 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/liujunhong/demo/zwwx/controller/ZwwxAuthnController.java" timestamp="1576487905062">
-        <mark key="[" line="54" column="89" />
-        <mark key="]" line="54" column="26" />
-        <mark key="^" line="54" column="26" />
-        <mark key="." line="54" column="26" />
+      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/liujunhong/demo/zwwx/controller/ZwwxAuthnController.java" timestamp="1576494829821">
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="16" />
+        <mark key="." line="38" column="16" />
+        <mark key="^" line="38" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/liujunhong-qywx/pom.xml" timestamp="1576473755523">
+        <mark key="[" line="49" column="5" />
       </file>
       <file name="$USER_HOME$/Downloads/bmsk-cas-master/pom.xml" timestamp="1576472911745" />
       <file name="$USER_HOME$/bm_work/code/Blitz/BUI-samples/gwzw/dist/weapp/components/main/m-footer/index.wxml" timestamp="1576061054089">
@@ -96,12 +99,13 @@
         <mark key="." line="14" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-cp/3.6.0/weixin-java-cp-3.6.0-sources.jar!/me/chanjar/weixin/cp/api/impl/BaseWxCpServiceImpl.java" timestamp="1576481568670" />
-      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/liujunhong/demo/zwwx/controller/ZwwxPortalController.java" timestamp="1576483249779" />
-      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/liujunhong/demo/zwwx/controller/InfoController.java" timestamp="1576487547042">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="32" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="32" />
+      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/liujunhong/demo/zwwx/controller/ZwwxPortalController.java" timestamp="1576495222718">
+        <mark key="[" line="27" column="25" />
+      </file>
+      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/liujunhong/demo/zwwx/controller/InfoController.java" timestamp="1576493187930">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/bmsk-cas-master/src/main/java/cn/bmsk/cas/qywx/ZService.java" timestamp="1576471775474" />
       <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/github/binarywang/demo/wx/cp/controller/WxPortalController.java" timestamp="1576476223544">
@@ -129,6 +133,7 @@
       <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/liujunhong/demo/zwwx/dto/HrUser.java" timestamp="1576484584493">
         <mark key="[" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/liujunhong/demo/zwwx/handler/MsgHandler.java" timestamp="1576494192870" />
       <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/github/binarywang/demo/wx/cp/handler/MsgHandler.java" timestamp="1576482375661">
         <mark key="[" line="59" column="28" />
         <mark key="]" line="35" column="8" />
@@ -136,6 +141,9 @@
         <mark key="^" line="35" column="8" />
       </file>
       <file name="$USER_HOME$/Downloads/bmsk-cas-master/src/main/java/cn/bmsk/cas/controller/QyWxController.java" timestamp="1576473460974" />
+      <file name="$USER_HOME$/Downloads/liujunhong-qywx/src/main/java/com/liujunhong/example/qxwxdemo/controller/HrController.java" timestamp="1576474926223">
+        <mark key="[" line="3" column="27" />
+      </file>
       <file name="$USER_HOME$/Downloads/liujunhong-zwwx/src/main/java/com/github/binarywang/demo/wx/cp/controller/HrController.java" timestamp="1576474929343">
         <mark key="[" line="2" column="27" />
       </file>
@@ -150,40 +158,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new</text>
+        <text>toQyWxAuth</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>toQyWxAuth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgSHJVc2VyRW50aXR5KDEsICLliJjkv4rnuqIyIiwgMSwgbmV3IERhdGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbkNvb2tpZVZhbHVlCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5saXVqdW5ob25nLmRlbW8uend3eC5zZXJ2aWNlLkhyVXNlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHJVc2VyU2VydmljZS5nZXRIclVzZXJCeUhyVWlkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIclVzZXJFbnRpdHkgbG9naW5Vc2VyID0gbmV3IEhyVXNlclNlcnZpY2UoKS5nZXRIclVzZXJCeUhyVWlkKDEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5saXVqdW5ob25nLmRlbW8uend3eC51dGlscy5TZXNzaW9uVXRpbHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzZXNzaW9uQ29va2llVmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBIclVzZXJTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbkNvb2tpZVZhbHVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHJVc2VyU2VydmljZS5nZXRIclVzZXJCeUhyVWlkKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
