@@ -3,12 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1578025074228">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/bjt/getWeshopTaskZipTest/store/index.js" timestamp="1577708113942" />
       <file name="$USER_HOME$/bm_work/code/bjt/getWeshopTaskZipTest/zhengminhudong/pages/beijing/homeResult/homeResult.js" timestamp="1577706093532" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/service/impl/UserInfoServiceImpl.java" timestamp="1578024737503" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/controller/AuthController.java" timestamp="1578024428951" />
+      <file name="$USER_HOME$/bm_work/code/AriesWeb/aries-alm-server/src/main/java/com/digibms/aries/iam/server/db/converter/AppConverter.java" timestamp="1577176515288">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/dto/UserSessionDTO.java" timestamp="1578024375352" />
       <file name="$USER_HOME$/bm_work/code/bjt/getWeshopTaskZipTest/haidianzhengwufuwu/store/user.js" timestamp="1577705501893" />
       <file name="$USER_HOME$/bm_work/code/bjt/getWeshopTaskZipTest/pages/mine/index/index.js" timestamp="1577707304767" />
       <file name="$USER_HOME$/bm_work/code/bjt/getWeshopTaskZipTest/components/gsd-sdk/core/flow.js" timestamp="1577708920263" />
       <file name="$USER_HOME$/bm_work/code/bjt/getWeshopTaskZipTest/haidianzhengwufuwu/pages/zong/zong.js" timestamp="1577706191431" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/pom.xml" timestamp="1577613051332">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="15" column="28" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-rio-auth/src/main/java/cn/gov/gxzf/rio.auth/interceptor/GatewayAuthInterceptor.java" timestamp="1577613747671">
+        <mark key="[" line="12" column="121" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/creditchina/credit-china-cloud/credit-china-auth/src/main/java/cn/creditchina/auth/interceptor/AuthenticationInterceptor.java" timestamp="1577682844476" />
       <file name="$USER_HOME$/bm_work/code/bjt/bjt-server/bjt-common/src/main/java/com/bjt/enums/HeaderCode.java" timestamp="1577706502739" />
       <file name="$USER_HOME$/bm_work/code/bjt/bjt-server/bjt-common/src/main/java/com/bjt/utils/WgUtil.java" timestamp="1577706751610" />
@@ -17,6 +41,12 @@
       <file name="$USER_HOME$/bm_work/code/bjt/bjt-server/bjt-common/src/main/java/com/bjt/utils/UserInfoUtil.java" timestamp="1577706950374" />
       <file name="$USER_HOME$/bm_work/code/bjt/getWeshopTaskZipTest/pages/gsd-ui/g-auth/face/face.js" timestamp="1577708787838" />
       <file name="$USER_HOME$/bm_work/code/bjt/getWeshopTaskZipTest/components/gsd-sdk/core/session.js" timestamp="1577707233499" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/controller/WxMpController.java" timestamp="1578025311172">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="21" column="21" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/bjt/bjt-server/bjt-shenfenrenzheng/src/main/java/com/bjt/Entity/AISeeEntity.java" timestamp="1577707324066" />
     </filemarks>
     <jumps>
@@ -25,7 +55,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG92Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>package</text>
@@ -34,31 +64,31 @@
         <text encoding="base64">QFJlc3RDb250cm9sbGVyCkBSZXF1ZXN0TWFwcGluZygiYXBpL2RjL2RhdGFzcmMvY2F0ZSIpCnB1YmxpYyBjbGFzcyBQdWJDb25mQ2F0ZUNvbnRyb2xsZXIgewoKICAgIEBQb3N0TWFwcGluZygiY3JlYXRlIikKICAgIHB1YmxpYyBSZXNwb25zZTxEY0NhdGVnb3J5RHRvPiBjcmVhdGUoRGNDYXRlZ29yeUR0byBkdG8pewogICAgICAgIHJldHVybiBSZXNwb25zZS5zdWNjZXNzKG5ldyBEY0NhdGVnb3J5RHRvKCkpOwogICAgfQoKICAgIEBHZXRNYXBwaW5nKCJnZXQiKQogICAgcHVibGljIFJlc3BvbnNlPERjQ2F0ZWdvcnlEdG8+IGdldChEY0NhdGVnb3J5SWROYW1lIHBhcmFtKXsKICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3VjY2VzcyhuZXcgRGNDYXRlZ29yeUR0bygpKTsKICAgIH0KCgp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHByZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5jbGllbnQuQ2xpZW50SHR0cFJlcXVlc3RJbnRlcmNlcHRvcjsK</text>
+        <text encoding="base64">ICAgIG92Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHByZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQGRhdGU6IDIwMTkvMTIvNSAgODo0NSDkuIvljYgK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQGF1dGhvcjogYW5ndXMK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5jbGllbnQuQ2xpZW50SHR0cFJlcXVlc3RJbnRlcmNlcHRvcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmNyZWRpdGNoaW5hLmF1dGguY29uc3RhbnRzLmVudW1zLlBlcm1pc3Npb25FbnVtOwo=</text>
+        <text encoding="base64">ICogQGRhdGU6IDIwMTkvMTIvNSAgODo0NSDkuIvljYgK</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
