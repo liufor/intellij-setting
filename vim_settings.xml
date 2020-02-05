@@ -102,12 +102,11 @@
       <file name="$USER_HOME$/bm_work/code/Blitz/xxx.js" timestamp="1578649611530">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2b950486-fbc6-4d6d-9ac4-86d987b11d70/console.sql" timestamp="1580923651235">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="6" />
-        <mark key="^" line="23" column="6" />
-        <mark key="." line="23" column="195" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2b950486-fbc6-4d6d-9ac4-86d987b11d70/console.sql" timestamp="1580928151386">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/bm_work/code/gongxinbu/yingjiwuzi-cloud/yingji-auth/src/main/java/cn/gov/yiqing/auth/ChangRuan.java" timestamp="1580533633277">
         <mark key="[" line="14" column="37" />
@@ -149,13 +148,14 @@
       <jump line="72" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2b950486-fbc6-4d6d-9ac4-86d987b11d70/console.sql" />
       <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2b950486-fbc6-4d6d-9ac4-86d987b11d70/console.sql" />
       <jump line="1" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2b950486-fbc6-4d6d-9ac4-86d987b11d70/console.sql" />
+      <jump line="0" column="264" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2b950486-fbc6-4d6d-9ac4-86d987b11d70/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>from</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -164,31 +164,31 @@
         <text encoding="base64">ICAgICAgIHJlcGxhY2UocmVjZWl2ZV9vcmRlcl9ubywnMDIwNScsJzAyMDQnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSA7Cg==</text>
+        <text encoding="base64">c2V0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoK</text>
+        <text encoding="base64">ZnJvbSA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmU7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0ICA9IAo=</text>
+        <text encoding="base64">d2hlcmU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXBkYXRlIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">d2hlcmU7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">c2V0ICA9IAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXBkYXRlIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">d2hlcmU7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">dXBkYXRlIGRvbl9wcm9kdWN0X3JlY2VpdmVfb3JkZXIK</text>
+        <text encoding="base64">c2V0ICA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmU7Cg==</text>
+        <text encoding="base64">dXBkYXRlIGRvbl9wcm9kdWN0X3JlY2VpdmVfb3JkZXIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/,/\t/g</text>
