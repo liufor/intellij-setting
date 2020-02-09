@@ -91,11 +91,10 @@
         <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/TwoStatisticsController.java" timestamp="1581089159377" />
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/impl/DonMoneyAllocateOrderServiceImpl.java" timestamp="1581177672753">
-        <mark key="[" line="115" column="72" />
-        <mark key="]" line="115" column="72" />
-        <mark key="." line="115" column="72" />
-        <mark key="^" line="115" column="72" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/impl/DonMoneyAllocateOrderServiceImpl.java" timestamp="1581221061783">
+        <mark key="[" line="113" column="17" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/IDonProductReceiveOrderService.java" timestamp="1581125746483" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/resources/mapper/system/SysDeptMapper.xml" timestamp="1581143377866" />
@@ -155,8 +154,8 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/mapper/BBBDonProductReceiveOrderMapper.java" timestamp="1581085093565" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/DonProductReceiveOrderListRequest.java" timestamp="1581121354619" />
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/ConfirmPeriodUtil.java" timestamp="1581155102352">
-        <mark key="[" line="19" column="51" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/ConfirmPeriodUtil.java" timestamp="1581221135256">
+        <mark key="[" line="27" column="38" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
         <mark key="^" line="90" column="0" />
@@ -301,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmJlaW1pbmcueXFzYi5jb21tb24uY29uc3RhbnQuU2VjdXJpdHlDb25zdGFudHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sysDepts</text>
+        <text>getAllocateTime</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -313,31 +312,31 @@
         <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmJlaW1pbmcueXFzYi5jb21tb24uY29uc3RhbnQuU2VjdXJpdHlDb25zdGFudHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUudXRpbC5Vc2VySW5mb1V0aWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZih1LmdldEFsbG9jYXRlVGltZSgpID4gMCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUuZXhjZXB0aW9uLkF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLmJlaW1pbmcueXFzYi5jb21tb24uY29uc3RhbnQuU2VjdXJpdHlDb25zdGFudHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUuZHRvLlVzZXJTZXNzaW9uRFRPOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUudXRpbC5Vc2VySW5mb1V0aWw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUuY29uc3RhbnQuU2VjdXJpdHlDb25zdGFudHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUuZXhjZXB0aW9uLkF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZXREYXRhVGFibGUoc3lzRGVwdHMpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUuZHRvLlVzZXJTZXNzaW9uRFRPOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2Fybigi5YW25a6e5pyJ5pe26Ze077yM5Lmf5LiN5om/6K6k77yM6K6ycmVjZWl2ZSB0aW1lIGFsbG9jYXRlIHRpbWXph43nva7kuLrmj5DkuqTml7bpl7QiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUuY29uc3RhbnQuU2VjdXJpdHlDb25zdGFudHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/,/\t/g</text>
