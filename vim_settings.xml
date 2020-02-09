@@ -65,13 +65,24 @@
         <mark key="." line="55" column="4" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/resources/mapper/system/DonRegionMapper.xml" timestamp="1581143778121" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/exception/AuthenticationException.java" timestamp="1581217695327" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/resources/templates/main.html" timestamp="1581052027740" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/enums/ReceiveOrderStatus.java" timestamp="1581126233281">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.7/pagehelper-5.1.7.jar!/com/github/pagehelper/PageSerializable.class" timestamp="1581160549425" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/StatisticsUtil.java" timestamp="1581124785532">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
         <mark key="^" line="15" column="50" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/interceptor/AuthenticationInterceptor.java" timestamp="1581217835952">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/domain/MoneyDonorTargetObj.java" timestamp="1581039857655">
         <mark key="[" line="19" column="3" />
@@ -139,6 +150,11 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="32" column="16" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/domain/DonMoneyReceiveOrder.java" timestamp="1581102359555">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/resources/templates/report/donProductAllocateOrder/addInit.html" timestamp="1581154730707">
         <mark key="[" line="35" column="73" />
         <mark key="]" line="16" column="29" />
@@ -170,6 +186,7 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/resources/mapper/report/DonProductMapperManual.xml" timestamp="1581082519826" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/resources/mapper/report/DonProductMapper.xml" timestamp="1581083033407" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/dto/MsgDTO.java" timestamp="1581217875863" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/domain/ProductDonorTargetObj.java" timestamp="1581039864889">
         <mark key="[" line="21" column="26" />
       </file>
@@ -262,6 +279,7 @@
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/resources/mapper/report/DonProductReceiveOrderMapper.xml" timestamp="1581120903523">
         <mark key="[" line="94" column="21" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/BasicDataController.java" timestamp="1581217587914" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/mapper/DonRegionMapper.java" timestamp="1581142852941" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e38108dc-a18b-47b6-b329-e1a9f8dbcc74/console_3.sql" timestamp="1580891740059">
         <mark key="[" line="14" column="9" />
@@ -282,6 +300,7 @@
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/domain/DonProductAllocateOrder.java" timestamp="1581156567508">
         <mark key="[" line="16" column="36" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/common/dto/UserWxBindingDTO.java" timestamp="1581217903516" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/resources/templates/report/donProductReceiveOrder/addInit.html" timestamp="1581136042340">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="35" column="39" />
@@ -304,7 +323,7 @@
         <mark key="^" line="86" column="12" />
         <mark key="." line="86" column="12" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/StatisticsController.java" timestamp="1581125199716">
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/StatisticsController.java" timestamp="1581217600379">
         <mark key="[" line="423" column="55" />
         <mark key="]" line="425" column="19" />
         <mark key="^" line="425" column="19" />
@@ -415,7 +434,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZXREYXRhVGFibGUoc3lzRGVwdHMpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUudXRpbC5Vc2VySW5mb1V0aWw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sysDepts</text>
@@ -427,31 +446,31 @@
         <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZXREYXRhVGFibGUoc3lzRGVwdHMpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUudXRpbC5Vc2VySW5mb1V0aWw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2Fybigi5YW25a6e5pyJ5pe26Ze077yM5Lmf5LiN5om/6K6k77yM6K6ycmVjZWl2ZSB0aW1lIGFsbG9jYXRlIHRpbWXph43nva7kuLrmj5DkuqTml7bpl7QiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUuZXhjZXB0aW9uLkF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUuZHRvLlVzZXJTZXNzaW9uRFRPOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2hvdyBjcmVhdGUgdGFibGUgZG9uX21vbmV5X3JlY2VpdmVfb3JkZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUuY29uc3RhbnQuU2VjdXJpdHlDb25zdGFudHM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLmdvdi55aXFpbmcuY29tbW9uLmNvcmUuZXhjZXB0aW9uLkF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZXREYXRhVGFibGUoc3lzRGVwdHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkIGNvbHVtbiBgZGF0YV90eXBlX2NvZGVgIHZhcmNoYXIoMjApIERFRkFVTFQgJ0MwMDhfU0lOR0xFJyBDT01NRU5UICfmlbDmja7nsbvlnovnvJbnoIEnIGFmdGVyICwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cud2Fybigi5YW25a6e5pyJ5pe26Ze077yM5Lmf5LiN5om/6K6k77yM6K6ycmVjZWl2ZSB0aW1lIGFsbG9jYXRlIHRpbWXph43nva7kuLrmj5DkuqTml7bpl7QiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkb25fcHJvZHVjdF9yZWNlaXZlX29yZGVyCm9yZGVyIGJ5ICBpZCBkZXNjICBsaW1pdCAxMDsKCnNlbGVjdCAqCmZyb20gZG9uX3Byb2R1Y3RfYWxsb2NhdGVfb3JkZXIKb3JkZXIgYnkgIGlkIGRlc2MgIGxpbWl0IDEwOwoKc2VsZWN0ICoKZnJvbSBkb25fbW9uZXlfcmVjZWl2ZV9vcmRlcgpvcmRlciBieSAgaWQgZGVzYyAgbGltaXQgMTA7CgpzZWxlY3QgKgpmcm9tIGRvbl9tb25leV9hbGxvY2F0ZV9vcmRlcgpvcmRlciBieSAgaWQgZGVzYyAgbGltaXQgMTA7CgoKdXBkYXRlIHN5c191c2VyCnNldCBsb2dpbl9uYW1lID0gdXNlcl9uYW1lLAogICAgcGFzc3dvcmQ9J2IxZjMzMTFjMTQ4MmM5ZDRkYzRjMjhhYjEyNjU5OTBmJywKICAgIHNhbHQ9JzViZGUyZCcsCiAgICBzc2hhX3Bhc3N3b3JkPSd6WEZNd3p6OUkrZFBRVXk3aTVlSC9nPT0nCndoZXJlICAxNzkxIDw9IHVzZXJfaWQgYW5kIHVzZXJfaWQgPD0gMTc5NDsKCnNlbGVjdCAqCmZyb20gc3lzX3VzZXIKd2hlcmUgdXNlcl9pZCA9IDE3OTE7CgoKc2VsZWN0ICoKZnJvbSBkb25fZGljdF9kYXRhOwoKCnNlbGVjdCAqCmZyb20gc3lzX2RlcHQ7CgoKc2VsZWN0ICoKZnJvbSBkb25fbW9uZXlfYWxsb2NhdGVfb3JkZXIKb3JkZXIgYnkgaWQgZGVzYyA7CgoKCgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/,/\t/g</text>
