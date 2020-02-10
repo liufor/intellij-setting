@@ -167,11 +167,10 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/ConfirmPeriodUtil.java" timestamp="1581333454559" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/domain/OneProductDonationTargetInfo.java" timestamp="1581347976454" />
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/DonationBase.java" timestamp="1581349899496">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/DonationBase.java" timestamp="1581350493654">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/product/receive/ProductReceiveAddReq.java" timestamp="1581346169356">
         <mark key="[" line="10" column="33" />
@@ -220,6 +219,7 @@
         <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/resources/templates/report/donProductAllocateOrder/donProductAllocateOrder.html" timestamp="1581295856983" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/domain/DonProductAllocateOrder.java" timestamp="1581350433867" />
       <file name="$USER_HOME$/bm_work/code/Blitz/master.json" timestamp="1578990118868">
         <mark key="[" line="0" column="0" />
       </file>
@@ -272,6 +272,9 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/response/ProductReceiveOrderAddReq.java" timestamp="1581342904311" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/domain/OneMoneyDonationTargetInfo.java" timestamp="1581347905619" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/ResBase.java" timestamp="1581350708341">
+        <mark key="[" line="16" column="21" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console_3.sql" timestamp="1581320672677" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/ConfirmPeriodUtil2.java" timestamp="1581273911904">
         <mark key="[" line="75" column="0" />
@@ -279,7 +282,7 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1581349947841">
+      <file name="/fragment.java" timestamp="1581350412058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="1" />
@@ -341,7 +344,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbCh2YWx1ZSA9ICIiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>donationTarget</text>
@@ -353,31 +356,31 @@
         <text encoding="base64">ICAgICAgIHNob3codDFTdHIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbCh2YWx1ZSA9ICIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQmlnRGVjaW1hbCBhc01vbmV5QW1vdW50Owo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQmlnRGVjaW1hbCBhbW91bnQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQmlnRGVjaW1hbCBhc01vbmV5QW1vdW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICog5rOo5oSP5YaZ5pWw5o2u5pe277yM5a2X5q615ZCN5LiN5LiA5qC355qE5aSE55CGLgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQmlnRGVjaW1hbCBhbW91bnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogUHJvZHVjdCDlkowgTW9uZXkg57uf5LiA55So6L+Z5LiqLgo=</text>
+        <text encoding="base64">ICog5rOo5oSP5YaZ5pWw5o2u5pe277yM5a2X5q615ZCN5LiN5LiA5qC355qE5aSE55CGLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIOWkmuS4quaNkOi1oOWvueixoeeahEpTT04K</text>
+        <text encoding="base64">ICogUHJvZHVjdCDlkowgTW9uZXkg57uf5LiA55So6L+Z5LiqLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5xdWFydHouU2ltcGxlVHJpZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAqIOWkmuS4quaNkOi1oOWvueixoeeahEpTT04K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRvbmF0aW9uVGFyZ2V0c0pzb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5xdWFydHouU2ltcGxlVHJpZ2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/,/\t/g</text>
