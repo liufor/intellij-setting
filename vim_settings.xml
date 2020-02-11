@@ -217,6 +217,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-cloud/yingji-shixiang/yingji-shixiang-jingxinju/src/main/java/cn/gov/yiqing/shixiang/jingxinju/controller/HealthRegisterController.java" timestamp="1581399724489" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/product/receive/ProductReceiveAddReq.java" timestamp="1581346169356">
         <mark key="[" line="10" column="33" />
       </file>
@@ -476,7 +477,7 @@
         <text encoding="base64">ICAgICAgICBEb25Qcm9kdWN0UmVjZWl2ZU9yZGVyIG9yZGVyID0gZG9uUHJvZHVjdFJlY2VpdmVPcmRlclNlcnZpY2Uuc2VsZWN0RG9uUHJvZHVjdFJlY2VpdmVPcmRlckJ5T3JkZXJDb2RlKHJlY2VpdmVPcmRlck5vKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/,/\t/g</text>
+        <text>256</text>
       </register>
     </registers>
     <search>
@@ -504,6 +505,7 @@
         <entry>%s/, /\t</entry>
         <entry>%s/, /\t/g</entry>
         <entry>%s/,/\t/g</entry>
+        <entry>256</entry>
       </history-cmd>
       <history-expr />
       <history-input />
