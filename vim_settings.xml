@@ -253,6 +253,11 @@
         <mark key="[" line="74" column="37" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/product/receive/ProductReceiveAddOrUpdateRes.java" timestamp="1581346592428" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/mapper/SysDeptMapper.java" timestamp="1581422628887">
+        <mark key="[" line="121" column="24" />
+        <mark key="]" line="121" column="24" />
+        <mark key="." line="121" column="24" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/Blitz/2.js" timestamp="1579156365091">
         <mark key="[" line="0" column="0" />
       </file>
@@ -438,11 +443,11 @@
       <jump line="1" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICoK</text>
+      <register name="&quot;" type="4">
+        <text>selectRoleDeptTree</text>
       </register>
       <register name="-" type="4">
-        <text>dict_label</text>
+        <text>selectRoleDeptTree</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
