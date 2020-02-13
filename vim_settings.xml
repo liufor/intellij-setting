@@ -476,11 +476,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" timestamp="1581571452255">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" timestamp="1581590259179">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/IWxUserService.java" timestamp="1581247908189">
         <mark key="[" line="56" column="39" />
@@ -537,46 +537,47 @@
       <jump line="10" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" />
       <jump line="11" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" />
       <jump line="7" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" />
+      <jump line="4" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ProductReceiveOrderReqBase</text>
+        <text>是否转拨</text>
       </register>
       <register name="-" type="4">
-        <text>ProductReceiveOrderReqBase</text>
+        <text>是否转拨</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIGFkZCBjb2x1bW4gdHJhbnNmZXJfdHlwZV9jb2RlIGludCgxMSkgY29tbWVudCAn5piv5ZCm6L2s5ouoJyBkZWZhdWx0IDAgYWZ0ZXIgaWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIOWhq+aKpeaXtumXtC4g5pWF5oSP5YaZ55qE5qih57OK77yM5oCV5LiH5LiA5Lul5ZCO6L+Z5Liq5a2X5q615LiN5piv5aGr5oql55qE5oSP5oCd5LqG44CCCg==</text>
+        <text encoding="base64">ICAgIGFkZCBjb2x1bW4gaXNfdHJhbnNmZXIgaW50KDExKSBjb21tZW50ICfmmK/lkKbovazmi6gnIGRlZmF1bHQgMCBhZnRlciBpZCwgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIOWhq+aKpeaXtumXtC4g5pWF5oSP5YaZ55qE5qih57OK77yM5oCV5LiH5LiA5Lul5ZCO6L+Z5Liq5a2X5q615LiN5piv5aGr5oql55qE5oSP5oCd5LqG44CCCg==</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkb25fcHJvZHVjdF9yZWNlaXZlX29yZGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzeXNfZGVwdApncm91cCBieSBkZXB0X2lkIGRlc2MgOwoKLS0gMTgwMDAwTVoKCi0tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICog5o2Q6LWg5a+56LGhLgo=</text>
+        <text encoding="base64">ICAgICAqIOWhq+aKpeaXtumXtC4g5pWF5oSP5YaZ55qE5qih57OK77yM5oCV5LiH5LiA5Lul5ZCO6L+Z5Liq5a2X5q615LiN5piv5aGr5oql55qE5oSP5oCd5LqG44CCCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIOWhq+aKpeaXtumXtC4g5pWF5oSP5YaZ55qE5qih57OK77yM5oCV5LiH5LiA5Lul5ZCO6L+Z5Liq5a2X5q615LiN5piv5aGr5oql55qE5oSP5oCd5LqG44CCCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JkZXIgYnkgb3Blcl9pZCBkZXNjIDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2hlcmUgb3Blcl9uYW1lPScyMDAwMDAwMDA2MDEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzeXNfb3Blcl9sb2cK</text>
+        <text encoding="base64">ICog5o2Q6LWg5a+56LGhLgo=</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
