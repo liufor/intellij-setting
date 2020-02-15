@@ -181,11 +181,11 @@
         <mark key="." line="191" column="32" />
         <mark key="^" line="191" column="32" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/impl/DonProductAllocateOrderServiceImpl.java" timestamp="1581777500043">
-        <mark key="[" line="87" column="12" />
-        <mark key="]" line="87" column="12" />
-        <mark key="." line="87" column="12" />
-        <mark key="^" line="87" column="22" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/impl/DonProductAllocateOrderServiceImpl.java" timestamp="1581778372409">
+        <mark key="[" line="699" column="0" />
+        <mark key="]" line="695" column="65" />
+        <mark key="." line="695" column="65" />
+        <mark key="^" line="695" column="65" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/AllocateOrderResBase.java" timestamp="1581733104515">
         <mark key="[" line="18" column="33" />
@@ -508,8 +508,8 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/impl/DonProductReceiveOrderServiceImpl.java" timestamp="1581776819261">
-        <mark key="[" line="684" column="5" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/impl/DonProductReceiveOrderServiceImpl.java" timestamp="1581778203124">
+        <mark key="[" line="647" column="55" />
         <mark key="]" line="683" column="27" />
         <mark key="." line="683" column="27" />
         <mark key="^" line="683" column="27" />
@@ -766,10 +766,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MoneyReceiveOrderLogic</text>
+        <text>setAllocateOrderNo</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -778,31 +778,31 @@
         <text encoding="base64">ICAgIGludCBkZWxldGUoU3RyaW5nIG9yZGVyTm8sIFN5c1VzZXIgc3lzVXNlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByRGV0YWlsUmVzIHIgPSBjLnBvMmRldGFpbChsaXN0LnN0cmVhbSgpLmZpbmRGaXJzdCgpLm9yRWxzZShuZXcgRG9uUHJvZHVjdFJlY2VpdmVPcmRlcigpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWVlZWVlZWVlZXR1cm4gZG9uUHJvZHVjdFJlY2VpdmVPcmRlck1hcHBlci5kZWxldGVEb25Qcm9kdWN0UmVjZWl2ZU9yZGVyQnlJZChkYi5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByRGV0YWlsUmVzIHIgPSBjLnBvMmRldGFpbChsaXN0LnN0cmVhbSgpLmZpbmRGaXJzdCgpLm9yRWxzZShuZXcgRG9uUHJvZHVjdFJlY2VpdmVPcmRlcigpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXh0ZW5kRG9uUHJvZHVjdFJlY2VpdmVPcmRlck1hcHBlci5kZWxldGVEb25Qcm9kdWN0UmVjZWl2ZU9yZGVyQnlPcmRlck5vKGRlbGV0ZSk7Cg==</text>
+        <text encoding="base64">ZWVlZWVlZWVlZXR1cm4gZG9uUHJvZHVjdFJlY2VpdmVPcmRlck1hcHBlci5kZWxldGVEb25Qcm9kdWN0UmVjZWl2ZU9yZGVyQnlJZChkYi5nZXRJZCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0U3RhdHVzKFJlY2VpdmVPcmRlclN0YXR1cy5IQVNfU1VCTUlUVEVELmdldENvZGUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHRvLnNldFN0YXR1cyhSZWNlaXZlT3JkZXJTdGF0dXMuSEFTX1NVQk1JVFRFRC5nZXRDb2RlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>483</text>
