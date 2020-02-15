@@ -14,7 +14,7 @@
         <mark key="^" line="10" column="64" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1581732870224">
+      <file name="/a.dummy" timestamp="1581733958700">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="28" />
       </file>
@@ -241,19 +241,14 @@
         <mark key="." line="49" column="26" />
         <mark key="^" line="47" column="28" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/resources/templates/admin/donMoneyReceiveOrder/donMoneyReceiveOrder.html" timestamp="1581569033987">
-        <mark key="[" line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/product/ApiProductAllocateOrderController.java" timestamp="1581731676317">
-        <mark key="[" line="76" column="45" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/product/ApiProductAllocateOrderController.java" timestamp="1581733876550">
+        <mark key="[" line="121" column="12" />
         <mark key="]" line="76" column="36" />
         <mark key="^" line="76" column="36" />
         <mark key="." line="76" column="36" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/product/allocate/request/ProductAllocateOrderListReq.java" timestamp="1581730046097" />
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/constant/Constants.java" timestamp="1581655868022">
-        <mark key="[" line="63" column="63" />
-      </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/allocate/response/MoneyAllocateOrderListRes.java" timestamp="1581733540090" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/money/MoneyOrderBaseDto.java" timestamp="1581656284782">
         <mark key="[" line="15" column="35" />
         <mark key="]" line="15" column="27" />
@@ -261,26 +256,17 @@
         <mark key="^" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/domain/SysUser.java" timestamp="1581685697097" />
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/java/cn/beiming/web/controller/common/RegionController.java" timestamp="1581693338642">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/product/receive/request/ProductReceiveOrderDeleteReq.java" timestamp="1581653460822" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/product/converter/ProductAllocateOrderConverter.java" timestamp="1581604139095">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/allocate/request/ProductReceiveOrderDeleteReq.java" timestamp="1581730353457">
-        <mark key="[" line="6" column="20" />
-      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/product/allocate/request/ProductAllocateOrderUpdateReq.java" timestamp="1581558920732">
         <mark key="[" line="11" column="65" />
         <mark key="]" line="11" column="65" />
         <mark key="^" line="11" column="65" />
         <mark key="." line="11" column="65" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/AllocateOrderBulkOprateDto.java" timestamp="1581642746053">
-        <mark key="[" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/exception/UnAuthorizedDataAccessException.java" timestamp="1581643330561">
         <mark key="[" line="8" column="23" />
@@ -300,9 +286,6 @@
         <mark key="]" line="35" column="60" />
         <mark key="^" line="35" column="60" />
         <mark key="." line="35" column="60" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1581695548445">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-framework/src/main/java/cn/beiming/framework/web/service/DictService.java" timestamp="1581693364997" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/receive/request/MoneyReceiveOrderSubmitReq.java" timestamp="1581731377493">
@@ -335,12 +318,18 @@
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/DonProductReceiveOrderListRequest.java" timestamp="1581656651991">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/receive/response/MoneyReceiveOrderDetailRes.java" timestamp="1581660315896">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/receive/response/MoneyReceiveOrderDetailRes.java" timestamp="1581733497626">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/service/ISysDeptService.java" timestamp="1581686842287" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/product/receive/response/ProductReceiveOrderListRes.java" timestamp="1581733362856">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/enums/AllocationStatus.java" timestamp="1581659836103" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/config/WebConfig.java" timestamp="1581658365534" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/OrderNoBulkOperateDto.java" timestamp="1581652448351" />
@@ -366,11 +355,6 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/mapper/SysDeptMapper.java" timestamp="1581686945228" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/mapper/DonRegionMapper.java" timestamp="1581694872204" />
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/allocate/request/MoneyReceiveOrderDeleteReq.java" timestamp="1581730403425">
-        <mark key="]" line="11" column="31" />
-        <mark key="^" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/product/receive/UpdateReq.java" timestamp="1581383724466">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="19" />
@@ -391,8 +375,8 @@
         <mark key="^" line="12" column="75" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/service/impl/SysDeptServiceImpl.java" timestamp="1581695987749" />
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/product/ApiProductReceiveOrderController.java" timestamp="1581731788274">
-        <mark key="[" line="74" column="26" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/product/ApiProductReceiveOrderController.java" timestamp="1581733919413">
+        <mark key="[" line="128" column="12" />
         <mark key="]" line="74" column="32" />
         <mark key="^" line="74" column="32" />
         <mark key="." line="74" column="32" />
@@ -416,26 +400,17 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/product/ProductOrderBaseDto.java" timestamp="1581596645847">
-        <mark key="[" line="2" column="32" />
-      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/product/receive/ProductReceiveOrderReqBase.java" timestamp="1581558768429">
         <mark key="[" line="0" column="67" />
         <mark key="]" line="0" column="67" />
         <mark key="^" line="0" column="67" />
         <mark key="." line="0" column="67" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/allocate/request/ProductReceiveOrderSubmitReq.java" timestamp="1581730363538">
-        <mark key="[" line="8" column="19" />
-      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/java/cn/beiming/admin/controller/DictController.java" timestamp="1581690095375">
         <mark key="[" line="112" column="75" />
         <mark key="]" line="112" column="75" />
         <mark key="^" line="109" column="35" />
         <mark key="." line="112" column="75" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-ui/src/constant/index.js" timestamp="1581641580977">
-        <mark key="[" line="42" column="27" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/money/allocate/MoneyAllocateOrderDto.java" timestamp="1581656303768">
         <mark key="[" line="13" column="50" />
@@ -479,9 +454,6 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/product/allocate/request/ProductAllocateOrderSubmitReq.java" timestamp="1581653186480">
-        <mark key="[" line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/resources/mapper/report/WxUserMapper.xml" timestamp="1581237700663">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="35" />
@@ -496,9 +468,6 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/OrderBaseDto.java" timestamp="1581651691383">
         <mark key="[" line="10" column="26" />
-      </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/impl/IOrderServiceImpl.java" timestamp="1581598021359">
-        <mark key="[" line="2" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console_5.sql" timestamp="1581696289939">
         <mark key="[" line="32" column="20" />
@@ -529,9 +498,6 @@
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/OrderBulkOperateDto.java" timestamp="1581642800777">
         <mark key="[" line="9" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1581675614896">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/service/impl/DonRegionServiceImpl.java" timestamp="1581695227590">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="0" />
@@ -551,17 +517,17 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/ApiMoneyReceiveOrderController.java" timestamp="1581731596683">
-        <mark key="[" line="176" column="106" />
-        <mark key="]" line="174" column="45" />
-        <mark key="." line="174" column="45" />
-        <mark key="^" line="174" column="45" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/ApiMoneyReceiveOrderController.java" timestamp="1581733760270">
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="61" column="37" />
+        <mark key="." line="61" column="37" />
+        <mark key="^" line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/ApiMoneyAllocateOrderController.java" timestamp="1581732906175">
-        <mark key="[" line="173" column="55" />
-        <mark key="]" line="173" column="55" />
-        <mark key="^" line="173" column="55" />
-        <mark key="." line="173" column="55" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/ApiMoneyAllocateOrderController.java" timestamp="1581733999807">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="122" column="31" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/AllocateBase.java" timestamp="1581381600499">
         <mark key="[" line="9" column="27" />
@@ -569,6 +535,7 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/allocate/response/MoneyAllocateOrderGetRes.java" timestamp="1581733568421" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/exception/IllegalOperateException.java" timestamp="1581645728392">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="24" />
@@ -587,7 +554,7 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1581732865912">
+      <file name="/fragment.java" timestamp="1581733405988">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="1" />
@@ -653,11 +620,11 @@
       <jump line="15" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console_4.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>orderNo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBBcGlQYXJhbShuYW1lID0gIuiwg+aLqOWNleWPtyIsIHZhbHVlID0gImFsbG9jYXRlT3JkZXJObyIsIHJlcXVpcmVkID0gdHJ1ZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>orderNo</text>
+        <text>MoneyReceiveOrderGetRes</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -666,31 +633,31 @@
         <text encoding="base64">ICAgIGFkZCBjb2x1bW4gcF9yZWdpb25fY29kZSB2YXJjaGFyKDIwKSBjb21tZW50ICfniLbnuqcnIGFmdGVyIHJlZ2lvbl9sZXZlbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSBTdHJpbmcgb3JkZXJObykgewo=</text>
+        <text encoding="base64">ICAgIEBBcGlQYXJhbShuYW1lID0gIuiwg+aLqOWNleWPtyIsIHZhbHVlID0gImFsbG9jYXRlT3JkZXJObyIsIHJlcXVpcmVkID0gdHJ1ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RIZWFkZXIoU2VjdXJpdHlDb25zdGFudHMuU0VTU0lPTl9JRCkgU3RyaW5nIHNpZCwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEFwaVBhcmFtKG5hbWUgPSAi5Y2V5Y+35Y+3IiwgdmFsdWUgPSAib3JkZXJObyIsIHJlcXVpcmVkID0gdHJ1ZSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSBTdHJpbmcgb3JkZXJObykgewo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RIZWFkZXIoU2VjdXJpdHlDb25zdGFudHMuU0VTU0lPTl9JRCkgU3RyaW5nIHNpZCwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaVBhcmFtKG5hbWUgPSAi5Y2V5Y+35Y+3IiwgdmFsdWUgPSAib3JkZXJObyIsIHJlcXVpcmVkID0gdHJ1ZSkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBtb25leVJlY2VpdmVPcmRlckxpc3RSZXEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSBTdHJpbmcgb3JkZXJObykgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWNlaXZlT3JkZWRkck5vCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBtb25leVJlY2VpdmVPcmRlckxpc3RSZXEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2lnbmF0dXJlV3JpdGVyCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZWNlaXZlT3JkZWRkck5vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdGg6dmFsdWU9IiR7ZGVwdC5yZWdpb25OYW1lfSIgcmVhZG9ubHk9InRydWUiIHR5cGU9InRleHQiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2lnbmF0dXJlV3JpdGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IGlkPSJteklkIiBuYW1lPSJteklkIiB0aDpmaWVsZD0iKntteklkfSIgdHlwZT0iaGlkZGVuIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdGg6dmFsdWU9IiR7ZGVwdC5yZWdpb25OYW1lfSIgcmVhZG9ubHk9InRydWUiIHR5cGU9InRleHQiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>483</text>
