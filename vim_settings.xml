@@ -14,10 +14,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console_8.sql" timestamp="1581853425862">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console_8.sql" timestamp="1581855590812">
         <mark key="[" line="5" column="29" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/product/allocate/ProductAllocateOrderCreateReq.java" timestamp="1581558005255">
         <mark key="[" line="10" column="51" />
@@ -402,6 +403,12 @@
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/constant/Constants.java" timestamp="1581768905626">
         <mark key="[" line="63" column="63" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/CharityOrgService.java" timestamp="1581855541103">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/money/MoneyOrderBaseDto.java" timestamp="1581779394394">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="16" column="27" />
@@ -460,6 +467,7 @@
         <mark key="." line="60" column="42" />
         <mark key="^" line="60" column="42" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/resources/mapper/report/DonIncKeyValueMapper.xml" timestamp="1581854395686" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/http/product/allocate/list.http" timestamp="1581817383841">
         <mark key="[" line="0" column="53" />
       </file>
@@ -489,6 +497,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="^" line="50" column="20" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/impl/DonIncKeyValueServiceImpl.java" timestamp="1581854848045">
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="84" column="57" />
+        <mark key="^" line="84" column="57" />
+        <mark key="." line="84" column="57" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/OneProductDonationTarget.java" timestamp="1581833972338">
         <mark key="[" line="40" column="0" />
@@ -568,6 +582,12 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/enums/AllocationStatus.java" timestamp="1581765512262">
         <mark key="[" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/resources/mapper/report/ExtendDonIncKeyValueMapper.xml" timestamp="1581855918847">
+        <mark key="[" line="47" column="38" />
+        <mark key="]" line="47" column="38" />
+        <mark key="." line="47" column="38" />
+        <mark key="^" line="47" column="47" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/product/receive/ProductReceiveOrderDto.java" timestamp="1581781146137">
         <mark key="[" line="20" column="3" />
@@ -913,6 +933,12 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/IDonIncKeyValueService.java" timestamp="1581854682090">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="54" column="32" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1581848329781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -981,40 +1007,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>charityTypeCode</text>
+        <text>resultType</text>
       </register>
       <register name="-" type="4">
-        <text>charityTypeCode</text>
+        <text>resultType</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiBwcmVmaXggKyAiL3NlbGVjdERlcHRUcmVlLyIgKyAoJCgiI216SWQiKS52YWwoKXx8MCkrIj9zalBpZD0iKyQoIiN0cmVlSWQiKS52YWwoKSwK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgaW5jKFN0cmluZyBrZXkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwdC5zZXREZXB0Q29kZShkZXB0LmdldFJlZ2lvbkNvZGUoKSsiIik7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEb25JbmNLZXlWYWx1ZSBjcmVhdGVLZXkoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwdC5zZXRSZWdpb25Db2RlKG16LmdldFJlZ2lvbkNvZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVwdC5zZXREZXB0Q29kZShkZXB0LmdldFJlZ2lvbkNvZGUoKSsiIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwdC5zZXREZXB0Q29kZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVwdC5zZXRSZWdpb25Db2RlKG16LmdldFJlZ2lvbkNvZGUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
