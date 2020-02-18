@@ -357,7 +357,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/CharityOrgService.java" timestamp="1582004500697">
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/CharityOrgService.java" timestamp="1582036293555">
         <mark key="[" line="71" column="26" />
         <mark key="]" line="71" column="25" />
         <mark key="." line="71" column="25" />
@@ -633,11 +633,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/service/impl/SysUserServiceImpl.java" timestamp="1582016296024">
-        <mark key="[" line="514" column="9" />
-        <mark key="]" line="511" column="0" />
-        <mark key="." line="511" column="0" />
-        <mark key="^" line="512" column="22" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/service/impl/SysUserServiceImpl.java" timestamp="1582036338486">
+        <mark key="[" line="518" column="48" />
+        <mark key="]" line="518" column="15" />
+        <mark key="." line="518" column="15" />
+        <mark key="^" line="518" column="15" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report2/ReqBase.java" timestamp="1581348675966">
         <mark key="[" line="9" column="22" />
@@ -881,10 +881,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" timestamp="1582033314257">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" timestamp="1582036021654">
+        <mark key="'" line="27" column="12" />
+        <mark key="[" line="63" column="7" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/IWxUserService.java" timestamp="1581247908189">
         <mark key="[" line="56" column="39" />
@@ -946,10 +948,12 @@
       <jump line="15" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console_4.sql" />
       <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console_8.sql" />
       <jump line="0" column="940" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" />
+      <jump line="32" column="64" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" />
+      <jump line="27" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">d2hlcmUgcmVnaW9uX25hbWUnJzsK</text>
+        <text encoding="base64">d2hlcmUgIGNyZWF0ZV90aW1lID4gJzIwMjAtMDItMTggMjE6NTY6NDQnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>dept_id</text>
@@ -958,34 +962,34 @@
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZml4ID0gIjIiOwo=</text>
+        <text encoding="base64">ICAgIGFkZCBjb2x1bW4gYWxsb2NhdGlvbl9zdGF0dXNfY29kZSB2YXJjaGFyKDIwKSBjb21tZW50ICfosIPmi6jnirbmgIEnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hlcmUgcmVnaW9uX25hbWUnJzsK</text>
+        <text encoding="base64">d2hlcmUgIGNyZWF0ZV90aW1lID4gJzIwMjAtMDItMTggMjE6NTY6NDQnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlICBmcm9tIHN5c191c2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICIzIiArIHJlZ2lvbkNvZGUgKyAiMDAwIiArIFN0cmluZy52YWx1ZU9mKG9yZGVyTnVtKTsK</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICIyIiArIHJlZ2lvbkNvZGUgKyAgKyBTdHJpbmcudmFsdWVPZihvcmRlck51bSk7Cg==</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICIxIiArIHJlZ2lvbkNvZGUgKyAiMDAwIiArIFN0cmluZy52YWx1ZU9mKG9yZGVyTnVtKTsK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzeXNfdXNlcgp3aGVyZSBsb2dpbl9uYW1lPScxMTUyNTAxMDAwMSc7CgpzZWxlY3QgKgpmcm9tIHN5c19kZXB0CndoZXJlIGRlcHRfaWQ9Mzk5OwoKc2VsZWN0ICoKZnJvbSBzeXNfZGVwdAp3aGVyZSBkZXB0X25hbWUgbGlrZSAn5LqM6L+e5rWp54m5JSc7CgpzZWxlY3QgKgpmcm9tIGRvbl9yZWdpb24Kd2hlcmUgcmVnaW9uX25hbWUgbGlrZSAnJeS6jOi/nua1qeeJuSUnOwoKCnNlbGVjdCAqCmZyb20gZG9uX3JlZ2lvbgp3aGVyZSBjaXR5X2NvZGUgPSAnMTUyNTAwJzsKCgoKYWx0ZXIgdGFibGUgZG9uX3Byb2R1Y3RfcmVjZWl2ZV9vcmRlcgogICAgYWRkIGNvbHVtbiBhbGxvY2F0aW9uX3N0YXR1c19jb2RlIHZhcmNoYXIoMjApIGNvbW1lbnQgJ+iwg+aLqOeKtuaAgScsCiAgICBhZGQgY29sdW1uIGFsbG9jYXRpb25fc3RhdHVzX25hbWUgdmFyY2hhcigyMCkgY29tbWVudCAn6LCD5ouo54q25oCBJzsKCgoKCmFsdGVyIHRhYmxlIGRvbl9tb25leV9yZWNlaXZlX29yZGVyCiAgICBhZGQgY29sdW1uIGFsbG9jYXRpb25fc3RhdHVzX2NvZGUgdmFyY2hhcigyMCkgY29tbWVudCAn6LCD5ouo54q25oCBJywKICAgIGFkZCBjb2x1bW4gYWxsb2NhdGlvbl9zdGF0dXNfbmFtZSB2YXJjaGFyKDIwKSBjb21tZW50ICfosIPmi6jnirbmgIEnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3lzVXNlck9yZ1R5cGU9IjEiOwo=</text>
+        <text encoding="base64">d2hlcmUgcmVnaW9uX25hbWUnJzsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>225</text>
