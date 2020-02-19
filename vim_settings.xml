@@ -814,12 +814,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" timestamp="1582081575787">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="10" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" timestamp="1582088892431">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/IWxUserService.java" timestamp="1581247908189">
         <mark key="[" line="56" column="39" />
@@ -886,10 +885,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzeXNfdXNlcjsKCnNlbGVjdCAqCmZyb20gc3lzX3VzZXJfcG9zdDsKCnNlbGVjdCAqCmZyb20gc3lzX2RlcHQKd2hlcmUgZGVwdF9uYW1lIGxpa2UgJ+WGheiSmeWPpOawkeaUv+WOhSc7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -898,31 +897,33 @@
         <text encoding="base64">ICAgIGFkZCBjb2x1bW4gYWxsb2NhdGlvbl9zdGF0dXNfY29kZSB2YXJjaGFyKDIwKSBjb21tZW50ICfosIPmi6jnirbmgIEnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzeXNfdXNlcjsKCnNlbGVjdCAqCmZyb20gc3lzX3VzZXJfcG9zdDsKCnNlbGVjdCAqCmZyb20gc3lzX2RlcHQKd2hlcmUgZGVwdF9uYW1lIGxpa2UgJ+WGheiSmeWPpOawkeaUv+WOhSc7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0IGxlbmd0aChsb2dpbl9uYW1lKSxsb2dpbl9uYW1lLHVzZXJfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzeXNfdXNlcgo=</text>
+        <text encoding="base64">d2hlcmU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgZGVwdF9pZD0yNzg7Cg==</text>
+        <text encoding="base64">c2V0ICA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgbGVuZ3RoKGxvZ2luX25hbWUpID0gMTE7Cg==</text>
+        <text encoding="base64">dXBkYXRlIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSA7Cg==</text>
+        <text encoding="base64">d2hlcmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICoK</text>
+        <text encoding="base64">c2V0ICA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzeXNfdXNlcl9yb2xlOwo=</text>
+        <text encoding="base64">dXBkYXRlIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICoK</text>
+      <register name="9" type="4">
+        <text>select *
+from sys_dept
+where parent_id=103;</text>
       </register>
       <register name=":" type="4">
         <text>73</text>
@@ -978,6 +979,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
