@@ -87,7 +87,7 @@
         <mark key="^" line="19" column="24" />
         <mark key="." line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/product/receive/request/ProductReceiveOrderCreateReq.java" timestamp="1581923025688">
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/dto/product/receive/request/ProductReceiveOrderCreateReq.java" timestamp="1582178015388">
         <mark key="[" line="72" column="38" />
         <mark key="]" line="22" column="31" />
         <mark key="^" line="22" column="31" />
@@ -249,6 +249,9 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/resources/mapper/system/SysDeptMapper.xml" timestamp="1582180242072">
+        <mark key="[" line="105" column="13" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-framework/src/main/java/cn/beiming/framework/web/exception/GlobalExceptionHandler.java" timestamp="1582007995191">
         <mark key="[" line="123" column="40" />
         <mark key="]" line="124" column="19" />
@@ -260,6 +263,12 @@
         <mark key="]" line="17" column="55" />
         <mark key="^" line="17" column="55" />
         <mark key="." line="17" column="55" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/resources/templates/system/dept/dept.html" timestamp="1582179910175">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="40" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/money/dto/MoneyReceiveC.java" timestamp="1581929436896">
         <mark key="[" line="24" column="39" />
@@ -537,6 +546,7 @@
         <mark key="." line="88" column="54" />
         <mark key="^" line="88" column="54" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/java/cn/beiming/web/controller/system/SysDeptController.java" timestamp="1582179387993" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/report/OneMoneyDonationTarget.java" timestamp="1581737137672">
         <mark key="[" line="32" column="40" />
         <mark key="]" line="33" column="29" />
@@ -561,6 +571,7 @@
         <mark key="^" line="19" column="24" />
         <mark key="." line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/mapper/SysDeptMapper.java" timestamp="1582179931553" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/http/money/allocate/create.http" timestamp="1581917059649">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="37" />
@@ -814,11 +825,10 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" timestamp="1582175791102">
-        <mark key="[" line="93" column="28" />
-        <mark key="]" line="95" column="8" />
-        <mark key="^" line="95" column="8" />
-        <mark key="." line="95" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" timestamp="1582179796414">
+        <mark key="[" line="126" column="27" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/IWxUserService.java" timestamp="1581247908189">
         <mark key="[" line="56" column="39" />
@@ -885,43 +895,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2NjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkNIQVJJVFkiPuaFiOWWhOe7hOe7hzwvb3B0aW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>sys_user</text>
+        <text>region_name</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzeXNfZGVwdCB3aGVyZSBkZXB0X2lkPTU3ODsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkNIQVJJVFkiPuaFiOWWhOe7hOe7hzwvb3B0aW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2NjCg==</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoSlNPTi5zdHJpbmdpZnkocm93KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0ICA9IAo=</text>
+        <text encoding="base64">c2VsZWN0ICogZGVsbGV0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzeXNfdXNlciB1Owo=</text>
+        <text encoding="base64">Y2NjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0IGxvY2F0ZSh1LmRlcHRfaWQsdS5kYXRhX3Njb3BlKSx1LmRhdGFfc2NvcGUsdS5kZXB0X2lkCg==</text>
+        <text encoding="base64">d2hlcmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0ICA9IAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgdXBkYXRlX2J5Owo=</text>
+        <text encoding="base64">ZnJvbSBzeXNfdXNlciB1Owo=</text>
       </register>
       <register name=":" type="4">
         <text>73</text>
