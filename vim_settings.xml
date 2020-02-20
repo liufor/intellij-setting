@@ -18,20 +18,26 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/CharityOrgService.java" timestamp="1582183052898">
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/report/service/CharityOrgService.java" timestamp="1582209352365">
         <mark key="[" line="117" column="28" />
         <mark key="]" line="116" column="69" />
         <mark key="^" line="116" column="69" />
         <mark key="." line="116" column="69" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/java/cn/beiming/web/controller/system/SysUserController.java" timestamp="1582188624229">
-        <mark key="[" line="262" column="29" />
-        <mark key="]" line="262" column="26" />
-        <mark key="^" line="262" column="26" />
-        <mark key="." line="262" column="26" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/java/cn/beiming/web/controller/system/SysUserController.java" timestamp="1582211436879">
+        <mark key="[" line="256" column="71" />
+        <mark key="]" line="256" column="35" />
+        <mark key="^" line="256" column="35" />
+        <mark key="." line="256" column="35" />
       </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/java/cn/beiming/web/controller/system/SysDeptController.java" timestamp="1582207805363" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/mapper/SysDeptMapper.java" timestamp="1582179931553" />
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/service/impl/SysUserServiceImpl.java" timestamp="1582211458826">
+        <mark key="[" line="590" column="49" />
+        <mark key="]" line="563" column="29" />
+        <mark key="." line="563" column="29" />
+        <mark key="^" line="563" column="29" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/service/impl/SysDeptServiceImpl.java" timestamp="1582182780225">
         <mark key="[" line="295" column="25" />
         <mark key="]" line="562" column="0" />
@@ -43,6 +49,18 @@
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/dto/StringIntegerTuple.java" timestamp="1582211285440">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-system/src/main/java/cn/beiming/system/service/ISysUserService.java" timestamp="1582211297873">
+        <mark key="[" line="196" column="47" />
+        <mark key="]" line="208" column="46" />
+        <mark key="^" line="208" column="46" />
+        <mark key="." line="208" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" timestamp="1582206604602">
         <mark key="[" line="25" column="19" />
@@ -107,11 +125,11 @@
       <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1eb36927-485d-4eec-83a8-f41a57fafc29/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHdSb290ID0gd2l0aFJvb3QgPT0gMTsgLy/ohb7orq/kuqflk4EK</text>
+      <register name="&quot;" type="4">
+        <text>rderNum</text>
       </register>
       <register name="-" type="4">
-        <text>wRoot</text>
+        <text>rderNum</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -120,31 +138,31 @@
         <text encoding="base64">ICAgICAgICBib29sZWFuIHdSb290ID0gd2l0aFJvb3QgPT0gMTsgLy/ohb7orq/kuqflk4EK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSA7Cg==</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IGNuLmJlaW1pbmcuY29tbW9uLmFubm90YXRpb24uRGF0YVNjb3BlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2NDc4NThlOGE2MzcwZmExYzQ4ZTBiMWU0N2MyYzA0YTBhM2RkYTc4Cg==</text>
+        <text encoding="base64">QERhdGFTY29wZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrdnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyaXR5T3JnU2VydmljZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ZnJvbSA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoSlNPTi5zdHJpbmdpZnkocm93KSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>73</text>
