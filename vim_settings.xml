@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0-sources.jar!/okhttp3/Request.java" timestamp="1582372558249" />
-      <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-shixiang-cloud/src/main/java/cn/gov/yiqing/shixiang/jiaoyubu/Test3.java" timestamp="1582380232480">
+      <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-shixiang-cloud/src/main/java/cn/gov/yiqing/shixiang/jiaoyubu/Test3.java" timestamp="1582381335131">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="50" />
         <mark key="^" line="34" column="40" />
@@ -22,7 +22,7 @@
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/pom.xml" timestamp="1582338575008" />
       <file name="$MAVEN_REPOSITORY$/cn/hutool/hutool-all/4.5.16/hutool-all-4.5.16-sources.jar!/cn/hutool/core/util/URLUtil.java" timestamp="1582377188534" />
       <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-shixiang-cloud/src/main/java/cn/gov/yiqing/shixiang/jiaoyubu/interceptor/CurrentUserMethodArgumentResolver.java" timestamp="1582378224648" />
-      <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-shixiang-cloud/src/main/java/cn/gov/yiqing/shixiang/jiaoyubu/Test.java" timestamp="1582377597476">
+      <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-shixiang-cloud/src/main/java/cn/gov/yiqing/shixiang/jiaoyubu/Test.java" timestamp="1582381419048">
         <mark key="[" line="27" column="57" />
         <mark key="]" line="27" column="55" />
         <mark key="^" line="27" column="55" />
@@ -86,6 +86,12 @@
         <mark key="]" line="8" column="18" />
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-shixiang-cloud/src/main/java/cn/gov/yiqing/shixiang/jiaoyubu/OkTest.java" timestamp="1582382001645">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-shixiang-cloud/src/main/java/cn/gov/yiqing/shixiang/jiaoyubu/controller/SchoolRegisterController.java" timestamp="1582360983341" />
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-okhttp/10.7.0/feign-okhttp-10.7.0-sources.jar!/feign/okhttp/OkHttpClient.java" timestamp="1582365174362" />
@@ -186,10 +192,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>urlSafe</text>
+        <text>baiduUrl</text>
       </register>
       <register name="-" type="4">
-        <text>urlSafe</text>
+        <text>baiduUrl</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
