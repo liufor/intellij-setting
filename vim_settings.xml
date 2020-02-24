@@ -52,7 +52,7 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/entity/QrcInfo.java" timestamp="1582474341842" />
+      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/entity/QrcInfo.java" timestamp="1582515994524" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/assembly/更新说明.txt" timestamp="1582472058216" />
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-okhttp/10.7.0/feign-okhttp-10.7.0.pom" timestamp="1582363424744" />
       <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-cloud/yingji-shixiang/yingji-shixiang-jingxinju/src/main/java/cn/gov/yiqing/shixiang/jingxinju/controller/request/CommunityRegisterInfoReq.java" timestamp="1582426743713" />
@@ -61,7 +61,8 @@
       <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/controller/ReportController.java" timestamp="1582476611857" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/entity/GridOperator.java" timestamp="1582510894786" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-back/src/main/java/com/tsit/hljwyj/config/RedisTemplateConfig.java" timestamp="1582508293504" />
-      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/service/qrcinfo/QrcInfoServiceImpl.java" timestamp="1582477794587" />
+      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/entity/QrcRelation.java" timestamp="1582514805743" />
+      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/service/qrcinfo/QrcInfoServiceImpl.java" timestamp="1582516669574" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-back/src/main/java/com/tsit/hljwyj/service/rule/Rule.java" timestamp="1582508026451" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE-sources.jar!/org/springframework/web/util/UriUtils.java" timestamp="1582369217833" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-miniprogram/packages/health-code/components/status-tag/index.wxml" timestamp="1582508917341" />
@@ -90,7 +91,7 @@
         <mark key="." line="15" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-okhttp/10.7.0/feign-okhttp-10.7.0-sources.jar!/feign/okhttp/OkHttpClient.java" timestamp="1582365174362" />
-      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/entity/PassRecord.java" timestamp="1582474764576" />
+      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/entity/PassRecord.java" timestamp="1582516793550" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-miniprogram/packages/health-code/pages/workbench/index.wxml" timestamp="1582511714718" />
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0-sources.jar!/feign/template/UriUtils.java" timestamp="1582382676871" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-miniprogram/packages/health-code/pages/verification/index.wxml" timestamp="1582512331910" />
@@ -105,6 +106,8 @@
       </file>
       <file name="$USER_HOME$/bm_work/code/jingxinju/wyq-ui/pages/enterpriseReporting/enterpriseReporting.js" timestamp="1582462613713" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-back/src/main/java/com/tsit/hljwyj/service/beans/Brand.java" timestamp="1582507847468" />
+      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/bean/response/QRCodeDto.java" timestamp="1582515657530" />
+      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/dao/QrcRelationMapper.java" timestamp="1582516333693" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/pom.xml" timestamp="1582389987831" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-miniprogram/packages/health-code/pages/report-health/index.wxml" timestamp="1582511866985" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-back/src/main/java/com/tsit/hljwyj/service/QrcInfoService.java" timestamp="1582508080422" />
@@ -116,11 +119,11 @@
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-admin/src/main/java/cn/beiming/web/core/config/GracefulShutdown.java" timestamp="1582387447431" />
       <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0-sources.jar!/okhttp3/HttpUrl.java" timestamp="1582365794969" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/bean/VerCodeHelper.java" timestamp="1582473864674" />
-      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/controller/QRCodeController.java" timestamp="1582513077362" />
+      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/controller/QRCodeController.java" timestamp="1582516930288" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-miniprogram/packages/health-code/pages/inputcode/index.wxml" timestamp="1582512155783" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-ui/src/bui/utils/validType.ts" timestamp="1582294820253" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/scheduled/GridManageTask.java" timestamp="1582512840120" />
-      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/controller/GridManageController.java" timestamp="1582512968610" />
+      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/controller/GridManageController.java" timestamp="1582515354161" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-miniprogram/packages/health-code/pages/inputidcard/index.wxml" timestamp="1582512387448" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-miniprogram/packages/health-code/pages/new-workbench/new-workbench.wxml" timestamp="1582512114570" />
       <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0-sources.jar!/okhttp3/internal/http/RealInterceptorChain.java" timestamp="1582373497796" />
@@ -135,7 +138,7 @@
       <file name="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar!/org/apache/commons/codec/binary/Base64.java" timestamp="1582375470158" />
       <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-shixiang-cloud/src/main/java/cn/gov/yiqing/shixiang/jiaoyubu/controller/SchoolRegisterController.java" timestamp="1582360983341" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-back/src/main/java/com/tsit/hljwyj/service/beans/ReportPneumoniaRequest.java" timestamp="1582508331160" />
-      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/service/mq/ReportMQService.java" timestamp="1582474562496" />
+      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/service/mq/ReportMQService.java" timestamp="1582514257980" />
       <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-shixiang-cloud/src/main/java/cn/gov/yiqing/shixiang/jiaoyubu/config/FeignAuthConfig.java" timestamp="1582365037523">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -154,6 +157,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/BASE64Decoder.class" timestamp="1582384669703" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-miniprogram/packages/health-code/pages/inputcode/index.js" timestamp="1582512195390" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/entity/GridManage.java" timestamp="1582510868705" />
+      <file name="$USER_HOME$/bm_work/code/hljwyj/code/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/bean/response/QrcCodeReportDto.java" timestamp="1582515865967" />
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/parent/10.7.0/parent-10.7.0.pom" timestamp="1582364893864" />
     </filemarks>
     <jumps>
