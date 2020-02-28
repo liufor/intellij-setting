@@ -5,16 +5,26 @@
     <filemarks>
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/pom.xml" timestamp="1582866060717" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-back/pom.xml" timestamp="1582871769667" />
+      <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/wyj-web-admin-saas-release_2.6.2/src/pages/login/views/login.vue" timestamp="1582888682136" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-api/src/main/java/cn/beiming/yqsb/web/controller/api/stat/TwoStatisticsController.java" timestamp="1582868959639" />
       <file name="$USER_HOME$/bm_work/code/mzb/wzsb-cloud/yqsb-common/src/main/java/cn/beiming/common/ConfirmPeriodUtil.java" timestamp="1582866303339" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-back/src/main/resources/application.yml" timestamp="1582870539601" />
+      <file name="/a.sql" timestamp="1582886566198">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/wll-mgr/wll-service/src/main/java/com/tencent/wll/service/impl/ManagerUserServiceImpl.java" timestamp="1582856003278" />
       <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/wll-mgr/wll-api-manager/src/main/java/com/tencent/wll/api/manager/controller/LoginController.java" timestamp="1582825617443" />
-      <file name="/Dummy.txt" timestamp="1582885958720">
+      <file name="/Dummy.txt" timestamp="1582886968592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-back/数据库脚本ireport.sql" timestamp="1582871269848">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f6d85ac9-636d-479f-bd00-c027604a9f51/console.sql" timestamp="1582888712892">
+        <mark key="[" line="935" column="45" />
+        <mark key="]" line="935" column="45" />
+        <mark key="^" line="935" column="45" />
+        <mark key="." line="935" column="45" />
       </file>
       <file name="/user.js" timestamp="1582824366117" />
       <file name="$USER_HOME$/bm_work/code/hljwyj/hljwyj-back/src/main/java/com/tsit/hljwyj/controller/AuthController.java" timestamp="1582872989400" />
@@ -79,10 +89,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>13552451098</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>13552451098</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -91,31 +101,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmcGhvbmUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3JvdXAgYnk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ZnJvbTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">d2hlcmU7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2V0ICA9IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXBkYXRlIHN5cwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkb25faW5jX2tleV92YWx1ZTsKCgpzZWxlY3QgKgpmcm9tIGRvbl9kaWN0X2RhdGE7CgoKc2VsZWN0ICoKZnJvbSBzeXNfZGVwdAp3aGVyZSBkZXB0X25hbWUgPSAn5YaF6JKZ5Y+k6Z2S5bCR5bm05Y+R5bGV5Z+66YeR5LyaJzsKCgpzZWxlY3QgKgpmcm9tIHN5c19tZW51OwonJwoKc2VsZWN0ICoKZnJvbSBkb25fbW9uZXlfcmVjZWl2ZV9vcmRlcgp3aGVyZSBkYXRhX3Njb3BlIGxpa2UgJyXlhoXokpnlj6TpnZLlsJHlubTlj5HlsZXln7rph5HkvJolJzsKCgpzZWxlY3QgKgpmcm9tIHN5c19kZXB0IGQxCiAgICAgICBqb2luIHN5c191c2VyIGQyCiAgICAgICBqb2luIGRvbl9wcm9kdWN0X3JlY2VpdmVfb3JkZXIgZDMgb24gZDEuZGVwdF9pZCA9IGQyLmRlcHRfaWQgYW5kIGQzLnVwZGF0ZV9ieSA9IGQyLmxvZ2luX25hbWUKd2hlcmUgZDMuY2hhcml0eV9vcmdfbmFtZSBsaWtlICcl5YyX5Lqs57qi5Y2B5a2X5LyaJScKICBhbmQgZG9ub3JfbmFtZSA9ICfkvIrmnJfkvIrmlq/lhbDlhbHlkozlm70nOwoKLS0g6K+K5pat6ISa5pys77ya5Yik5pat5p+Q5Liq57uE57uH5piv5ZCm5Zyo55So57O757uf77yI5piv5ZCm5bey5Yib5bu6b3JkZXLvvIkKc2VsZWN0IGQxLmRlcHRfaWQsIGQxLmRlcHRfbmFtZSwgZDIubG9naW5fbmFtZSwgZDMuaWQKZnJvbSBzeXNfZGVwdCBkMQogICAgICAgam9pbiBzeXNfdXNlciBkMgogICAgICAgam9pbiBkb25fbW9uZXlfcmVjZWl2ZV9vcmRlciBkMyBvbiBkMS5kZXB0X2lkID0gZDIuZGVwdF9pZCBhbmQgZDMudXBkYXRlX2J5ID0gZDIubG9naW5fbmFtZQp3aGVyZSBkMy5jaGFyaXR5X29yZ19uYW1lIGxpa2UgJyXkuovkuJrlj5HlsZXln7rph5HkvJolJwp1bmlvbiBhbGwKCnNlbGVjdCBkMS5kZXB0X2lkLCBkMS5kZXB0X25hbWUsIGQyLmxvZ2luX25hbWUsIGQzLmlkCmZyb20gc3lzX2RlcHQgZDEKICAgICAgIGpvaW4gc3lzX3VzZXIgZDIKICAgICAgIGpvaW4gZG9uX21vbmV5X2FsbG9jYXRlX29yZGVyIGQzIG9uIGQxLmRlcHRfaWQgPSBkMi5kZXB0X2lkIGFuZCBkMy51cGRhdGVfYnkgPSBkMi5sb2dpbl9uYW1lCndoZXJlIGQzLmNoYXJpdHlfb3JnX25hbWUgbGlrZSAnJeS6i+S4muWPkeWxleWfuumHkeS8miUnCnVuaW9uIGFsbAoKc2VsZWN0IGQxLmRlcHRfaWQsIGQxLmRlcHRfbmFtZSwgZDIubG9naW5fbmFtZSwgZDMuaWQKZnJvbSBzeXNfZGVwdCBkMQogICAgICAgam9pbiBzeXNfdXNlciBkMgogICAgICAgam9pbiBkb25fcHJvZHVjdF9yZWNlaXZlX29yZGVyIGQzIG9uIGQxLmRlcHRfaWQgPSBkMi5kZXB0X2lkIGFuZCBkMy51cGRhdGVfYnkgPSBkMi5sb2dpbl9uYW1lCndoZXJlIGQzLmNoYXJpdHlfb3JnX25hbWUgbGlrZSAnJeS6i+S4muWPkeWxleWfuumHkeS8miUnCnVuaW9uIGFsbAoKc2VsZWN0IGQxLmRlcHRfaWQsIGQxLmRlcHRfbmFtZSwgZDIubG9naW5fbmFtZSwgZDMuaWQKZnJvbSBzeXNfZGVwdCBkMQogICAgICAgam9pbiBzeXNfdXNlciBkMgogICAgICAgam9pbiBkb25fcHJvZHVjdF9hbGxvY2F0ZV9vcmRlciBkMyBvbiBkMS5kZXB0X2lkID0gZDIuZGVwdF9pZCBhbmQgZDMudXBkYXRlX2J5ID0gZDIubG9naW5fbmFtZQp3aGVyZSBkMy5jaGFyaXR5X29yZ19uYW1lIGxpa2UgJyXkuovkuJrlj5HlsZXln7rph5HkvJolJzsKCi0tIOiviuaWreiEmuacrO+8muWIoOmZpOafkOS4quaNkOi1oOiAheeJqei1hOaOpeaUtuWNleeahOWNleWtkApzZWxlY3QgY29uY2F0KCdkZWxldGUgZnJvbSBkb25fcHJvZHVjdF9yZWNlaXZlX29yZGVyIHdoZXJlIGRvbm9yX25hbWUgPVwnJyxkMy5kb25vcl9uYW1lLCdcJyBhbmQgaWQ9JyxkMy5pZCwnOycpICxkMy5pZCwgZDMudXBkYXRlX2J5LCBkMy5kb25vcl9uYW1lLCBwcm9kdWN0X2Ftb3VudCwgbGVmdF9wcm9kdWN0X2Ftb3VudApmcm9tIHN5c19kZXB0IGQxCiAgICAgICBqb2luIHN5c191c2VyIGQyCiAgICAgICBqb2luIGRvbl9wcm9kdWN0X3JlY2VpdmVfb3JkZXIgZDMgb24gZDEuZGVwdF9pZCA9IGQyLmRlcHRfaWQgYW5kIGQzLnVwZGF0ZV9ieSA9IGQyLmxvZ2luX25hbWUKd2hlcmUgZDMuZG9ub3JfbmFtZSA9ICfkuYzlhbnliKvlhYvmlq/lnablhbHlkozlm73mlL/lupwnOwoKCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSA7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Z3JvdXAgYnk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2VsZWN0ICoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">d2hlcmU7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">c2V0ICA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
