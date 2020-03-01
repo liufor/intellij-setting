@@ -3,14 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/es/ElasticSearchService.class" timestamp="1583070193253" />
+      <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/es/ElasticSearchService.class" timestamp="1583079638146" />
       <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/utils/AESUtil.class" timestamp="1583071707043" />
-      <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/es/CommunityPassRegRepository.class" timestamp="1583070744168" />
+      <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/es/CommunityPassRegRepository.class" timestamp="1583079604938" />
       <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/service/mq/CommunityPassRegMQService.class" timestamp="1583068572744" />
-      <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/Test.java" timestamp="1583074823703">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/Test.java" timestamp="1583079823567">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="90" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="80" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.4.3/amqp-client-5.4.3-sources.jar!/com/rabbitmq/client/Channel.java" timestamp="1583068707076" />
       <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/entity/CommunityPassReg.class" timestamp="1583070848187" />
@@ -29,7 +30,7 @@
       <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/prominent-citizens/src/main/resources/sqlmap/QrcRelationMapper.xml" timestamp="1583072166574" />
       <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/es/PassRecordRepository.class" timestamp="1583074948378" />
       <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/entity/QrcInfo.class" timestamp="1583074592889" />
-      <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/controller/QRCodeController.class" timestamp="1583075086670" />
+      <file name="$USER_HOME$/bm_work/code/weiyingji/tencent-weiyingji-standard/jars/prod/prominent-citizens/lib/prominent-citizens-1.0.0.jar!/com/tencent/wll/prominentcitizens/controller/QRCodeController.class" timestamp="1583079250612" />
       <file name="/fragment.java" timestamp="1583072255709">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,7 +95,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZW5jZW50LndsbC5wcm9taW5lbnRjaXRpemVucy51dGlscy5BRVNVdGlsOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hTb3VyY2VCdWlsZGVyLnF1ZXJ5KFF1ZXJ5QnVpbGRlcnMucmFuZ2VRdWVyeSgiY3JlYXRlVGltZSIpLmZyb20obGltaXREYXRlKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>13552451098</text>
@@ -103,7 +104,7 @@
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmcGhvbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hTb3VyY2VCdWlsZGVyLnF1ZXJ5KFF1ZXJ5QnVpbGRlcnMucmFuZ2VRdWVyeSgiY3JlYXRlVGltZSIpLmZyb20obGltaXREYXRlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS50ZW5jZW50LndsbC5wcm9taW5lbnRjaXRpemVucy51dGlscy5BRVNVdGlsOwo=</text>
