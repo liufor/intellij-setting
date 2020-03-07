@@ -18,9 +18,15 @@
         <mark key="[" line="17" column="53" />
       </file>
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-shixiang/src/main/resources/application-dev.yml" timestamp="1583574691981" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/util/HTTPUtils.java" timestamp="1583604123936">
+        <mark key="[" line="27" column="5" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-common/gxzf-common-core/src/main/java/cn/gov/gxzf/common/core/constant/CacheConstants.java" timestamp="1583548602176" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/service/impl/UserInfoServiceImpl.java" timestamp="1583601919397">
+        <mark key="[" line="251" column="15" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.2.RELEASE/spring-cloud-openfeign-core-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/support/FeignHttpClientProperties.java" timestamp="1583591073972" />
-      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/controller/AuthController.java" timestamp="1583555350252" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/controller/AuthController.java" timestamp="1583601836972" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/util/LinkedMultiValueMap.java" timestamp="1583596816615" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-ui/src/sdk/request.js" timestamp="1583541354023">
         <mark key="[" line="117" column="18" />
@@ -32,12 +38,18 @@
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-common/gxzf-common-core/src/main/java/cn/gov/gxzf/common/core/config/FeignAuthConfig.java" timestamp="1583585949573" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/feign/GxAuthService.java" timestamp="1583584900183" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/feign/WxApiService.java" timestamp="1583553266831" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/feign/dto/NoPwdLoginHeaders.java" timestamp="1583602498426" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/ShiXiangApplication.http" timestamp="1583586523986">
         <mark key="[" line="0" column="34" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-common/gxzf-common-core/src/main/java/cn/gov/gxzf/common/core/config/GxProperties.java" timestamp="1583575771208">
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/pom.xml" timestamp="1583602668409">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-common/gxzf-common-core/src/main/java/cn/gov/gxzf/common/core/config/GxProperties.java" timestamp="1583603812680">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="16" column="15" />
         <mark key="^" line="16" column="15" />
@@ -48,7 +60,15 @@
         <mark key="[" line="37" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/10.2.3/feign-core-10.2.3.jar!/feign/FeignException.class" timestamp="1583556229071" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/util/D.java" timestamp="1583603848633">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-common/gxzf-common-core/src/main/java/org/springframework/cloud/openfeign/FeignServerAuthConfig.java" timestamp="1583584800533" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-ui/src/pages/h5/index.js" timestamp="1583541416775">
+        <mark key="[" line="28" column="18" />
+      </file>
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-shixiang/src/main/java/cn/gov/gxzf/shixiang/zhengjianbanli/TestController.java" timestamp="1583587214089">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="8" />
@@ -62,7 +82,7 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-shixiang/src/main/java/cn/gov/gxzf/shixiang/zhengjianbanli/feign/ZhengJianBanLiFeignService.java" timestamp="1583587354320" />
-      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/Demo.java" timestamp="1583595976578">
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/Demo.java" timestamp="1583603080135">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="28" />
         <mark key="." line="20" column="28" />
@@ -71,11 +91,11 @@
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-shixiang/src/main/resources/application-live.yml" timestamp="1583589827222" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/feign/dto/GxRegisteredDTO.java" timestamp="1583556004697" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/http/HttpEntity.class" timestamp="1583596700517" />
-      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/Demo2.java" timestamp="1583599429030">
-        <mark key="[" line="69" column="79" />
-        <mark key="]" line="69" column="79" />
-        <mark key="." line="69" column="79" />
-        <mark key="^" line="69" column="85" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/Demo2.java" timestamp="1583603697123">
+        <mark key="[" line="63" column="127" />
+        <mark key="]" line="102" column="41" />
+        <mark key="." line="102" column="41" />
+        <mark key="^" line="102" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/AuthApplication.http" timestamp="1583586451834">
         <mark key="[" line="8" column="33" />
@@ -86,7 +106,7 @@
       <file name="$USER_HOME$/bm_work/code/jingxinju/jingxinju-shixiang-cloud/src/main/java/cn/gov/yiqing/shixiang/jiaoyubu/config/FeignAuthConfig.java" timestamp="1583583600094" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/handler/login/WeChatLoginHandler.java" timestamp="1583548079594" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.2.RELEASE/spring-cloud-openfeign-core-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/ribbon/OkHttpFeignLoadBalancedConfiguration.java" timestamp="1583584134481" />
-      <file name="/fragment.java" timestamp="1583595985273">
+      <file name="/fragment.java" timestamp="1583603729292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.2.RELEASE/spring-cloud-openfeign-core-2.1.2.RELEASE.jar!/META-INF/spring-configuration-metadata.json" timestamp="1583584277412" />
@@ -153,10 +173,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>headerMap</text>
+        <text>RegUserInfoDTO</text>
       </register>
       <register name="-" type="4">
-        <text>headerMap</text>
+        <text>RegUserInfoDTO</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -165,31 +185,31 @@
         <text encoding="base64">ICAgICAgICBtcC5wdXQoImMiLG9rSHR0cENsaWVudC5jb25uZWN0VGltZW91dE1pbGxpcygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByLmFkZCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNdWx0aVZhbHVlTWFwPFN0cmluZywgU3RyaW5nPiBoZWFkZXJNYXAgPSBuZXcgTGlua2VkTXVsdGlWYWx1ZU1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByLmFkZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJNYXAuYWRkKCJ1YW1zLXJwYy1jbGllbnQiLCBoZWFkZXJzLmdldFVhbXNScGNDbGllbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+YXBhY2hlPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByaW9SZXN0VGVtcGxhdGUuYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZTwvZ3JvdXBJZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmZWlnbi5odHRwY2xpZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICByLmFkZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gR3hBdXRoUmVzcG9uc2Uub2sobXApOwo=</text>
+        <text encoding="base64">ICAgICAgICBNdWx0aVZhbHVlTWFwPFN0cmluZywgU3RyaW5nPiBoZWFkZXJNYXAgPSBuZXcgTGlua2VkTXVsdGlWYWx1ZU1hcDw+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByLmFkZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
