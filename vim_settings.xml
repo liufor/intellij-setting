@@ -71,10 +71,11 @@
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-shixiang/src/main/resources/application-live.yml" timestamp="1583589827222" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/feign/dto/GxRegisteredDTO.java" timestamp="1583556004697" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/http/HttpEntity.class" timestamp="1583596700517" />
-      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/Demo2.java" timestamp="1583597856894">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="69" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/Demo2.java" timestamp="1583599429030">
+        <mark key="[" line="69" column="79" />
+        <mark key="]" line="69" column="79" />
+        <mark key="." line="69" column="79" />
+        <mark key="^" line="69" column="85" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/AuthApplication.http" timestamp="1583586451834">
         <mark key="[" line="8" column="33" />
@@ -151,11 +152,11 @@
       <jump line="45" column="10" filename="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-shixiang/src/main/resources/application-prod.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJNYXAuYWRkKCJ1YW1zLXJwYy1jbGllbnQiLCBoZWFkZXJzLmdldFVhbXNScGNDbGllbnQoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>headerMap</text>
       </register>
       <register name="-" type="4">
-        <text>NoPwdLoginHeaders</text>
+        <text>headerMap</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -164,31 +165,31 @@
         <text encoding="base64">ICAgICAgICBtcC5wdXQoImMiLG9rSHR0cENsaWVudC5jb25uZWN0VGltZW91dE1pbGxpcygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJNYXAuYWRkKCJ1YW1zLXJwYy1jbGllbnQiLCBoZWFkZXJzLmdldFVhbXNScGNDbGllbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByLmFkZCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByaW9SZXN0VGVtcGxhdGUuYWQK</text>
+        <text encoding="base64">ICAgICAgICBNdWx0aVZhbHVlTWFwPFN0cmluZywgU3RyaW5nPiBoZWFkZXJNYXAgPSBuZXcgTGlua2VkTXVsdGlWYWx1ZU1hcDw+KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmZWlnbi5odHRwY2xpZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICByLmFkZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJNYXAuYWRkKCJ1YW1zLXJwYy1jbGllbnQiLCBoZWFkZXJzLmdldFVhbXNScGNDbGllbnQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gR3hBdXRoUmVzcG9uc2Uub2sobXApOwo=</text>
+        <text encoding="base64">ICAgICAgICByaW9SZXN0VGVtcGxhdGUuYWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBmZWlnbi5odHRwY2xpZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBneEF1dGhTZXJ2aWNlLgo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIGd4QXV0aFNlcnZpY2UuZ2V0Q29tcGFueUluZm8oKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gR3hBdXRoUmVzcG9uc2Uub2sobXApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgIGd4QXV0aDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
