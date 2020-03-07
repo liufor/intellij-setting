@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/service/impl/UserInfoServiceImpl.java" timestamp="1583556927539">
         <mark key="[" line="251" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.2.RELEASE/spring-cloud-openfeign-core-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/support/FeignHttpClientProperties.java" timestamp="1583584090684" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.2.RELEASE/spring-cloud-openfeign-core-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/support/FeignHttpClientProperties.java" timestamp="1583591073972" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/controller/AuthController.java" timestamp="1583555350252" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-common/gxzf-common-core/src/main/java/org/springframework/cloud/openfeign/FeignServerAuthConfig.java" timestamp="1583584800533" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-ui/src/pages/h5/index.js" timestamp="1583541416775">
@@ -46,10 +46,9 @@
         <mark key="^" line="22" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.2.RELEASE/spring-cloud-openfeign-core-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClient.java" timestamp="1583584918134" />
-      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/resources/application.yml" timestamp="1583585706748">
-        <mark key="[" line="20" column="26" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/resources/application.yml" timestamp="1583591083118">
+        <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
-        <mark key="^" line="20" column="9" />
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-ui/src/sdk/request.js" timestamp="1583541354023">
@@ -148,8 +147,8 @@
       <jump line="45" column="10" filename="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-shixiang/src/main/resources/application-prod.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>service</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmZWlnbi5odHRwY2xpZW50Cg==</text>
       </register>
       <register name="-" type="4">
         <text>service</text>
@@ -161,31 +160,31 @@
         <text encoding="base64">ICAgICAgICBtcC5wdXQoImMiLG9rSHR0cENsaWVudC5jb25uZWN0VGltZW91dE1pbGxpcygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQK</text>
+        <text encoding="base64">ICBmZWlnbi5odHRwY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gR3hBdXRoUmVzcG9uc2Uub2sobXApOwo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gR3hBdXRoUmVzcG9uc2Uub2sobXApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBneEF1dGhTZXJ2aWNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGd4QXV0aFNlcnZpY2UuZ2V0Q29tcGFueUluZm8oKQo=</text>
+        <text encoding="base64">ICAgICAgICBneEF1dGhTZXJ2aWNlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgIGd4QXV0aDsK</text>
+        <text encoding="base64">ICAgICAgIGd4QXV0aFNlcnZpY2UuZ2V0Q29tcGFueUluZm8oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgIGd4QXV0aDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZWFkVGltZW91dChjb25uZWN0VGltZW91dCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXZlbDogZGVidWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZWFkVGltZW91dChjb25uZWN0VGltZW91dCkK</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
