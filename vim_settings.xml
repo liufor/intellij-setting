@@ -19,21 +19,21 @@
         <mark key="[" line="35" column="59" />
       </file>
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-common/gxzf-common-core/src/main/java/cn/gov/gxzf/common/core/constant/CacheConstants.java" timestamp="1583548602176" />
-      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/service/impl/UserInfoServiceImpl.java" timestamp="1583658459460">
-        <mark key="[" line="444" column="40" />
-        <mark key="]" line="442" column="55" />
-        <mark key="^" line="442" column="55" />
-        <mark key="." line="442" column="55" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/service/impl/UserInfoServiceImpl.java" timestamp="1583661686068">
+        <mark key="[" line="589" column="0" />
+        <mark key="]" line="589" column="0" />
+        <mark key="^" line="589" column="27" />
+        <mark key="." line="589" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.2.RELEASE/spring-cloud-openfeign-core-2.1.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/support/FeignHttpClientProperties.java" timestamp="1583591073972" />
-      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/controller/AuthController.java" timestamp="1583648895746" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/controller/AuthController.java" timestamp="1583659793723" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/feign/GxAuthV3Service.java" timestamp="1583653315656">
         <mark key="[" line="41" column="20" />
         <mark key="]" line="41" column="36" />
         <mark key="^" line="41" column="36" />
         <mark key="." line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/entity/SysUser.java" timestamp="1583652512356" />
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/entity/SysUser.java" timestamp="1583660531538" />
       <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-auth/src/main/java/cn/gov/gxzf/auth/feign/GxAuthV2Service.java" timestamp="1583618065043">
         <mark key="[" line="61" column="34" />
         <mark key="]" line="74" column="38" />
@@ -125,6 +125,7 @@
         <mark key="." line="102" column="41" />
         <mark key="^" line="102" column="41" />
       </file>
+      <file name="$USER_HOME$/bm_work/code/guangxi-government/gxzf-cloud/gxzf-common/gxzf-common-core/src/main/java/cn/gov/gxzf/common/core/util/UserInfoUtil.java" timestamp="1583661572489" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/AuthApplication.http" timestamp="1583616088535">
         <mark key="[" line="30" column="5" />
         <mark key="]" line="30" column="4" />
@@ -206,7 +207,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICNHZXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyU2Vzc2lvbkRUTy5zZXRjYQo=</text>
       </register>
       <register name="-" type="4">
         <text>getLowginNoPwdUrl</text>
@@ -218,31 +219,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVnVXNlckluZm9EVE8uc2V0UmVnVHlwZSgienpneGN4Iik7CiAgICAgICAgICAgIHJlZ1VzZXJJbmZvRFRPLnNldFVzZXJTZXgoSWRjYXJkVXRpbC5nZXRHZW5kZXJCeUlkQ2FyZCh1c2VyV3hCaW5kaW5nRFRPLmdldENlcnRObygpKSA9PSAxID8gIk0iIDogIkYiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNHZXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyU2Vzc2lvbkRUTy5zZXRjYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICNHZXR0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQERhdGU6IDIwMjAvMS8xICAxMjoyOSDkuIvljYgK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQEF1dGhvcjoganBjdWkK</text>
+        <text encoding="base64">ICogQERhdGU6IDIwMjAvMS8xICAxMjoyOSDkuIvljYgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQEF1dGhvcjoganBjdWkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZWdVc2VySW5mb0RUTyByID0gbmV3IFJlZ1VzZXJJbmZvRFRPKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWdVc2VySW5mb0RUTyByID0gbmV3IFJlZ1VzZXJJbmZvRFRPKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBldElkQ2FyZE51bShpZENhcmROdW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
