@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.nio.channels.SocketChannel.connect(remote)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

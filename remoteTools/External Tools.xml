@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="kill" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="lsof -i:20860|grep -v COMMAN|awk '{print $2}'|uniq|xargs kill -9 {}" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,0 +1,14 @@
+<application>
+  <component name="nginxServers">
+    <NginxServerDescriptor>
+      <option name="configPath" value="$USER_HOME$/work/code/gzc/youhuo/subversion/test/proxy.conf" />
+      <option name="errorLogPath" value="/usr/local/var/log/nginx/error.log" />
+      <option name="executablePath" value="/usr/local/bin/nginx" />
+      <option name="globals" value="" />
+      <option name="httpLogPath" value="/usr/local/var/log/nginx/access.log" />
+      <option name="id" value="nginx.descriptor.1478831419465" />
+      <option name="name" value="nginx/Unix [1.10.1]" />
+      <option name="pidPath" value="/usr/local/var/run/nginx.pid" />
+    </NginxServerDescriptor>
+  </component>
+</application>
