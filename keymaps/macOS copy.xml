@@ -8,5 +8,18 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="GotoLine" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="MinimizeCurrentWindow" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="ServiceView.GroupByContributor" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
