@@ -27,29 +27,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1589340496756">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/BaseEventServiceV2Impl.java" timestamp="1589342766067" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/ChannelServiceImpl.java" timestamp="1589341939362" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/DemoDataService.java" timestamp="1589342006377" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/SessionServiceImpl.java" timestamp="1589340207371" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/domain/impl/BaseEventDomainImplBak.java" timestamp="1589340914361" />
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/SessionServiceImplBak.java" timestamp="1589340467615">
-        <mark key="[" line="93" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/SessionServiceImpl.java" timestamp="1589340404941">
-        <mark key="[" line="110" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/domain/impl/BaseEventDomainImpl.java" timestamp="1589340917372">
         <mark key="[" line="133" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/DrillServiceImpl.java" timestamp="1589342750183" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/ChannelServiceImpl.java" timestamp="1589341841306">
         <mark key="[" line="1065" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/domain/impl/BaseEventDomainImpl.java" timestamp="1589340700443" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/BaseEventServiceV2ImplBak.java" timestamp="1589343187578">
+        <mark key="[" line="1189" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/CrowdServiceImplBak.java" timestamp="1589342465601" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/DrillServiceImpl.java" timestamp="1589342709606" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/BaseEventServiceV2Impl.java" timestamp="1589343198559">
+        <mark key="[" line="985" column="16" />
+        <mark key="]" line="689" column="77" />
+        <mark key="^" line="689" column="77" />
+        <mark key="." line="689" column="76" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/BaseEventServiceImpl.java" timestamp="1589341102396" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/CrowdServiceImpl.java" timestamp="1589342068429" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/CrowdServiceImpl.java" timestamp="1589342630899" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/BaseEventServiceImplBak.java" timestamp="1589341250940" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/ChannelServiceImplBak.java" timestamp="1589341769789">
         <mark key="[" line="396" column="10" />
@@ -58,7 +59,7 @@
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/BaseEventServiceImpl.java" timestamp="1589341257013">
         <mark key="[" line="209" column="123" />
       </file>
-      <file name="/fragment.java" timestamp="1589342060683">
+      <file name="/fragment.java" timestamp="1589342769039">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -72,8 +73,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ3JhaW5TaXplID0gdHJ1ZTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JhaW5TaXplID0gdHJ1ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgaW50IGdyYWluU2l6ZSA9IHRydWU7Cg==</text>
@@ -88,7 +89,7 @@
         <text>722</text>
       </register>
       <register name="-" type="4">
-        <text>dimensionInfo</text>
+        <text>String</text>
       </register>
     </registers>
   </component>
