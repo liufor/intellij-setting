@@ -8,6 +8,8 @@
     <history>
       <history-cmd>
         <entry>722</entry>
+        <entry>217</entry>
+        <entry>271</entry>
       </history-cmd>
     </history>
   </component>
@@ -27,64 +29,44 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/mp/MiniProgramController.java" timestamp="1589351136219">
-        <mark key="[" line="2" column="43" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/original-ark-web.jar!/BOOT-INF/classes/cn/analysys/ark/controller/AuthControllerV2.java" timestamp="1589357345824">
+        <mark key="[" line="853" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/config/aop/ArkScheduledAspect.java" timestamp="1589350974146" />
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/config/datasource/DynamicDataSource.java" timestamp="1589351006292">
-        <mark key="[" line="2" column="47" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/mp/MPAnalysisController.java" timestamp="1589357581600" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/AuthControllerV2.java" timestamp="1589357348539">
+        <mark key="[" line="694" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/viewmodel/panelPreset/PrePanelVo.java" timestamp="1589351355136">
-        <mark key="[" line="0" column="45" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/task/MessageTask.java" timestamp="1589356970438">
+        <mark key="[" line="42" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/util/ArkStringUtils.java" timestamp="1589351337038">
-        <mark key="[" line="0" column="34" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/ImgController.java" timestamp="1589356830965" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/task/JobCheckMsgTask.java" timestamp="1589356339942" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/config/DynamicDataSourceRegister.java" timestamp="1589357041824">
+        <mark key="[" line="56" column="11" />
+        <mark key="." line="56" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/config/jmx/JmxAutoConfiguration.java" timestamp="1589351041437">
-        <mark key="[" line="0" column="34" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/mp/MiniProjectController.java" timestamp="1589357388279" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/PropertyService.java" timestamp="1589356671211">
+        <mark key="[" line="60" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/AppMain.java" timestamp="1589351401390">
-        <mark key="[" line="0" column="19" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/config/DynamicDataSourceRegister.java" timestamp="1589357024165" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/mp/MPAnalysisController.java" timestamp="1589357621510">
+        <mark key="[" line="547" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/config/filterPolicy/AuthManagerPolicy.java" timestamp="1589351039908">
-        <mark key="[" line="2" column="49" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/BaseEventController.java" timestamp="1589358100831" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/BaseEventController.java" timestamp="1589358325977">
+        <mark key="[" line="195" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/openapi/model/EntProjectNewVm.java" timestamp="1589351300380">
-        <mark key="[" line="0" column="43" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/openapi/controller/CrowdOpenApi.java" timestamp="1589356547502">
+        <mark key="[" line="104" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/viewmodel/panelPreset/EndPointVo.java" timestamp="1589351348935">
-        <mark key="[" line="0" column="95" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/PropertyController.java" timestamp="1589356525496">
+        <mark key="[" line="284" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/config/ArkWebConfig.java" timestamp="1589351093119">
-        <mark key="[" line="2" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/openapi/config/GlobalExceptionHandlerV2.java" timestamp="1589351233841">
-        <mark key="[" line="0" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/db/runner/DBRunner.java" timestamp="1589351385274">
-        <mark key="[" line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/task/ClearOperationRecordTask.java" timestamp="1589351320717">
-        <mark key="[" line="0" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/openapi/config/auth/AuthenticationFacade.java" timestamp="1589351213998">
-        <mark key="[" line="0" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/AccountController.java" timestamp="1589351159465">
-        <mark key="[" line="0" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/util/ResponseCode.java" timestamp="1589351393204">
-        <mark key="[" line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/viewmodel/AccountVo.java" timestamp="1589351380832">
-        <mark key="[" line="0" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/config/project/ArkLogInterceptor.java" timestamp="1589351070150">
-        <mark key="[" line="2" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/openapi/controller/CrowdOpenApi.java" timestamp="1589351269918">
-        <mark key="[" line="0" column="48" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/task/MessageTask.java" timestamp="1589356959864" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/mp/MiniProjectController.java" timestamp="1589357387246" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/AuthControllerV2.java" timestamp="1589356935745" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/task/JobCheckMsgTask.java" timestamp="1589356341377" />
     </filemarks>
     <jumps />
   </component>
@@ -109,7 +91,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY2VsbE1hcC5wdXQoInBlcmNlbnQiLCAoZG91YmxlKU1hdGgucm91bmQoRG91YmxlLnZhbHVlT2YoKGRvdWJsZSludW1zKSAvIERvdWJsZS52YWx1ZU9mKChkb3VibGUpcGVvcGxlQXJyICE9IG51bGwgPyBwZW9wbGVBcnJbaV0gOiB0b3RhbFBlb3BsZSkgKiAxMDAwMC4wRCkgLyBEb3VibGUudmFsdWVPZigxMDAuMEQpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>722</text>
+        <text>271</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -125,7 +107,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
