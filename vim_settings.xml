@@ -8,8 +8,8 @@
     <history>
       <history-cmd>
         <entry>722</entry>
-        <entry>217</entry>
         <entry>271</entry>
+        <entry>217</entry>
       </history-cmd>
     </history>
   </component>
@@ -32,6 +32,7 @@
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/original-ark-web.jar!/BOOT-INF/classes/cn/analysys/ark/controller/AuthControllerV2.java" timestamp="1589357345824">
         <mark key="[" line="853" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/analysys/common/headless-browser-chrome/1.0.0/headless-browser-chrome-1.0.0.jar!/META-INF/maven/cn.analysys.common/headless-browser-chrome/pom.xml" timestamp="1589359631193" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/mp/MPAnalysisController.java" timestamp="1589357581600" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/AuthControllerV2.java" timestamp="1589357348539">
         <mark key="[" line="694" column="84" />
@@ -40,16 +41,19 @@
         <mark key="[" line="42" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/ImgController.java" timestamp="1589356830965" />
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/task/JobCheckMsgTask.java" timestamp="1589356339942" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/config/DynamicDataSourceRegister.java" timestamp="1589357041824">
         <mark key="[" line="56" column="11" />
         <mark key="." line="56" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/mp/MiniProjectController.java" timestamp="1589357388279" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/pom.xml" timestamp="1589360074656">
+        <mark key="[" line="138" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/PropertyService.java" timestamp="1589356671211">
         <mark key="[" line="60" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/config/DynamicDataSourceRegister.java" timestamp="1589357024165" />
+      <file name="$MAVEN_REPOSITORY$/cn/analysys/common/headless-browser-chrome/1.0.0/headless-browser-chrome-1.0.0.jar!/cn/analysys/common/browser/html/util/ScreenshotUtil.class" timestamp="1589360233148" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/mp/MPAnalysisController.java" timestamp="1589357621510">
         <mark key="[" line="547" column="51" />
       </file>
@@ -60,13 +64,9 @@
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/openapi/controller/CrowdOpenApi.java" timestamp="1589356547502">
         <mark key="[" line="104" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/PropertyController.java" timestamp="1589356525496">
-        <mark key="[" line="284" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/task/MessageTask.java" timestamp="1589356959864" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/mp/MiniProjectController.java" timestamp="1589357387246" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller2/src/main/java/cn/analysys/ark/controller/AuthControllerV2.java" timestamp="1589356935745" />
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/task/JobCheckMsgTask.java" timestamp="1589356341377" />
     </filemarks>
     <jumps />
   </component>
@@ -91,7 +91,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY2VsbE1hcC5wdXQoInBlcmNlbnQiLCAoZG91YmxlKU1hdGgucm91bmQoRG91YmxlLnZhbHVlT2YoKGRvdWJsZSludW1zKSAvIERvdWJsZS52YWx1ZU9mKChkb3VibGUpcGVvcGxlQXJyICE9IG51bGwgPyBwZW9wbGVBcnJbaV0gOiB0b3RhbFBlb3BsZSkgKiAxMDAwMC4wRCkgLyBEb3VibGUudmFsdWVPZigxMDAuMEQpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>271</text>
+        <text>217</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
