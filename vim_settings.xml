@@ -27,41 +27,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-data/pom.xml" timestamp="1589344332379" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/ark-data-0.0.1-SNAPSHOT.jar!/cn/analysys/fangzhou/data/api/clientcontroller/DataPreferenceClient.class" timestamp="1589345029902" />
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/BaseProfileServiceV2Impl.java" timestamp="1589345853348">
-        <mark key="[" line="301" column="107" />
-        <mark key="]" line="288" column="97" />
-        <mark key="." line="288" column="97" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/openapi/model/EntUserActvVm.java" timestamp="1589350157985" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/util/EventResultUtil.java" timestamp="1589346400644" />
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/PreferenceServiceImplBak.java" timestamp="1589345393098" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/BaseProfileServiceV2Impl.java" timestamp="1589345924202" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/ark-common-0.0.1-SNAPSHOT.jar!/cn/analysys/ark/web/common/exception/ExceptionUtils.class" timestamp="1589344767759" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/config/filterPolicy/DataAuthorityInterceptor.java" timestamp="1589349558588">
+        <mark key="[" line="50" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/openapi/model/EntStreamSwitchVm.java" timestamp="1589349597410">
+        <mark key="[" line="52" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/openapi/model/EntProjectVm.java" timestamp="1589350016915">
+        <mark key="[" line="241" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/DownController.java" timestamp="1589350105053">
+        <mark key="[" line="131" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/BaseSessionController.java" timestamp="1589350233166">
+        <mark key="[" line="96" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/domain/impl/EventExpressionDomainImpl.java" timestamp="1589346073648" />
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/PreferenceService.java" timestamp="1589345190201" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/domain/impl/EventExpressionDomainImpl.java" timestamp="1589346069749" />
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/HeatmapFocusServiceImpl.java" timestamp="1589346235104">
         <mark key="[" line="355" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/ImgController.java" timestamp="1589350297754" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/openapi/config/auth/LdapProperties.java" timestamp="1589349581387">
+        <mark key="[" line="242" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/IntelligenceMonitorServiceImpl.java" timestamp="1589346278461">
         <mark key="[" line="223" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/util/EventResultUtil.java" timestamp="1589347887784">
-        <mark key="[" line="159" column="32" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/util/EventResultUtil.java" timestamp="1589349271368">
+        <mark key="[" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/util/EventResultUtilBak.java" timestamp="1589347696918">
-        <mark key="[" line="197" column="13" />
+      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/util/EventResultUtilBak.java" timestamp="1589349263958">
+        <mark key="[" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-controller/src/main/java/cn/analysys/ark/controller/PreferenceController.java" timestamp="1589344673558" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/PreferenceServiceImpl.java" timestamp="1589343343109" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/lib/decompile/ark-service-JD_JD/cn/analysys/ark/service/impl/HeatmapFocusServiceImpl.java" timestamp="1589346211812" />
-      <file name="$USER_HOME$/Documents/work/code/bom/argo-be/ark-service/src/main/java/cn/analysys/ark/service/impl/PreferenceServiceImpl.java" timestamp="1589345401569">
-        <mark key="[" line="295" column="37" />
-        <mark key="]" line="56" column="18" />
-        <mark key="^" line="56" column="18" />
-        <mark key="." line="56" column="17" />
-      </file>
       <file name="/fragment.java" timestamp="1589346368777">
         <mark key="[" line="0" column="0" />
       </file>
