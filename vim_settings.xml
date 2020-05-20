@@ -19,20 +19,26 @@
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -59,8 +65,8 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/SelectChartsType.vue" timestamp="1589960680155">
-        <mark key="[" line="25" column="30" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/SelectChartsType.vue" timestamp="1589965464056">
+        <mark key="[" line="6" column="34" />
         <mark key="]" line="25" column="30" />
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="30" />
@@ -68,7 +74,7 @@
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1589960762194">
         <mark key="[" line="111" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/data.json" timestamp="1589959383297">
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/data.json" timestamp="1589964074859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-service/src/main/java/com/digibms/bom/service/impl/EventServiceImpl.java" timestamp="1589960027592" />
@@ -82,11 +88,11 @@
         <mark key="." line="139" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-data/src/main/java/com/digibms/fangzhou/data/api/behavioral/service/impl/DataBehavioralServiceImpl.java" timestamp="1589957862899" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1589961802161">
-        <mark key="[" line="177" column="16" />
-        <mark key="]" line="177" column="15" />
-        <mark key="^" line="177" column="15" />
-        <mark key="." line="177" column="14" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1589965638057">
+        <mark key="[" line="192" column="18" />
+        <mark key="]" line="192" column="18" />
+        <mark key="." line="192" column="18" />
+        <mark key="^" line="192" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/node_modules/vue-echarts/components/ECharts.vue" timestamp="1589961009819" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Measures.vue" timestamp="1589959714033">
@@ -100,41 +106,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lineSeries</text>
       </register>
       <register name="-" type="4">
-        <text>timeline</text>
+        <text>lineSeries</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2LWNoYXJ0IDpvcHRpb25zPSJwb2xhciIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5lU2VyaWVzLnB1c2goeyB0eXBlOiAnbGluZScsIHNtb290aDogdHJ1ZSwgc2VyaWVzTGF5b3V0Qnk6ICdyb3cnIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0VmFsdWU6IHRoaXMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgQFByaW1hcnkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgQFByaW1hcnkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgQENhY2hlUHV0Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRhdGFzZXRTb3VyY2UucHVzaChbLi4uZi52YWx1ZV0pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0VmFsdWU6IHRoaXMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgQFByaW1hcnkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgfQo=</text>
+        <text encoding="base64">ICAgQFByaW1hcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgcHVibGljIEFwcE1haW4oKSB7Cg==</text>
+        <text encoding="base64">ICAgQENhY2hlUHV0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
