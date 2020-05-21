@@ -119,5 +119,32 @@
       <artifact name="MongoDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="java.sql.Driver" name="CustomPresto" dialect="HiveQL" driver-class="io.prestosql.jdbc.PrestoDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://$USER_HOME$/Documents/work/code/bom/bom-be/tools/presto-cli/presto-jdbc-322.jar</url>
+      </library>
+    </driver>
+    <driver id="c62f7df7-ec57-49bc-8218-b12795142875" name="User Driver" driver-class="java.sql.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+    </driver>
+    <driver id="830f682f-9a09-4a18-ba9f-02258ce32e09" name="User Driver [2]" driver-class="java.sql.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+    </driver>
   </component>
 </application>
