@@ -40,67 +40,71 @@
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/evet.js" timestamp="1590050650439" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/mock/services/metaData.js" timestamp="1590049192821" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/modules/user.js" timestamp="1590048946317">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="69" column="34" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/install_maven_local.sh" timestamp="1590045190078" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/.env.preview" timestamp="1590049733562">
-        <mark key="[" line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/tools/presto-cli/README.md" timestamp="1590047540038">
+      <file name="/bom.event" timestamp="1590054925683">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/SettingDrawer/SettingDrawer.vue" timestamp="1590049341396" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/login.js" timestamp="1590048631487">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="490" column="13" />
-        <mark key="^" line="490" column="13" />
-        <mark key="." line="490" column="12" />
+      <file name="/Dummy.txt" timestamp="1590052023160">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/mock/index.js" timestamp="1590049839009">
+      <file name="/profile [new_ch]" timestamp="1590052656671">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/tools/presto-cli/presto-cli.sh" timestamp="1590056381131">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/mock/index.js" timestamp="1590051928133">
         <mark key="[" line="26" column="3" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="26" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/console" timestamp="1590046841706">
+      <file name="/bom.profile" timestamp="1590052656686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7575d1a-d826-4b28-ae97-0e84e6e6fe32/console.sql" timestamp="1590046848606">
+      <file name="/console" timestamp="1590054925686">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/permission.js" timestamp="1590045480305" />
-      <file name="/a.sql" timestamp="1590046839015">
+      <file name="/event [old_ch]" timestamp="1590054925673">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console.sql" timestamp="1590056205677">
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="/a.sql" timestamp="1590052023154">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/.env.development" timestamp="1590049728297">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590046839032">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/mock/services/user.js" timestamp="1590048546976">
-        <mark key="[" line="784" column="33" />
-        <mark key="]" line="784" column="25" />
-        <mark key="^" line="784" column="25" />
-        <mark key="." line="784" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/.env" timestamp="1590049724860">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/1.json" timestamp="1590048591240">
+      <file name="/bom.event_queue" timestamp="1590052673530">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/event [new_ch]" timestamp="1590052670279">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/.env.preview" timestamp="1590049733562">
+        <mark key="[" line="2" column="46" />
+      </file>
+      <file name="/event_queue [new_ch]" timestamp="1590052673518">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1590052676469">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
