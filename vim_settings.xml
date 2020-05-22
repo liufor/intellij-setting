@@ -78,11 +78,11 @@
       <file name="/dummy.sql" timestamp="1590118117713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590141249120">
-        <mark key="[" line="132" column="17" />
-        <mark key="]" line="137" column="13" />
-        <mark key="^" line="137" column="13" />
-        <mark key="." line="137" column="12" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590146119796">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="166" column="29" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1590116605845">
         <mark key="[" line="0" column="0" />
@@ -93,7 +93,7 @@
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1590140687029">
         <mark key="[" line="113" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/data.json" timestamp="1590120652831" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/data.json" timestamp="1590145873547" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Event.vue" timestamp="1590111155342">
         <mark key="[" line="197" column="52" />
         <mark key="]" line="197" column="34" />
@@ -115,40 +115,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7fQo=</text>
+        <text encoding="base64">ICBjb25zdCBkYXRhc2V0U291cmNlID0gW10K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pieSeries</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlc3BvbnNlKSkK</text>
+        <text encoding="base64">ICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UgPSBkYXRhc2V0U291cmNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7fQo=</text>
+        <text encoding="base64">ICBjb25zdCBkYXRhc2V0U291cmNlID0gW10K</text>
       </register>
       <register name="2" type="2">
-        <text>select toStartOfInterval(toDateTime(1590070844832/1000), INTERVAL 1 day)  as startDateTime;</text>
+        <text encoding="base64">ICAgICAgICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UucHVzaChbZGF0YVNlcmllcy5sZWdnZWRGb3JtYXQgKyBtLCAuLi5kYXRhU2VyaWVzLnZhbHVlXSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IGRhdGVfdHJ1bmMoJ2RheScsIGZyb21fdW5peHRpbWUoMTU5MDA3MDg0NDgzMi8xMDAwKSkgYXMgc3RhcnREYXRlVGltZTsK</text>
+        <text encoding="base64">ICAgICAgICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UucHVzaCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IGRhdGVfdHJ1bmMoJ2RheScsIGZyb21fdW5peHRpbWUoeHdoZW4gLyAxMDAwKSkgYXMgc3RhdFRpbWUsIGNvdW50KDEpIGFzIHB2CmZyb20gYm9tLmV2ZW50IGV2ZW50CndoZXJlIGRzIGJldHdlZW4gMjAyMDA1MTUgYW5kIDIwMjAwNTIxCiAgYW5kICh4d2hhdF9pZCBpbiAoLTEpKQogIGFuZCBkaXN0aW5jdF9pZCA9IC04MjQyNjkwMjA5OTQ2Nzg1NDczCmdyb3VwIGJ5IDE7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPICBfLmNsb25lKGRlZXApIOS7o+abv0pTT07lgZrmt7Fjb3B5CiAgY29uc3QgbGluZUNoYXJ0T3B0aW9uID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShjaGFydE9wdGlvbkRlZmF1bHRQYXJ0KSkKICBjb25zdCBiYXJDaGFydE9wdGlvbiA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoY2hhcnRPcHRpb25EZWZhdWx0UGFydCkpCiAgY29uc3QgcGllQ2hhcnRPcHRpb24gPSBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KGNoYXJ0T3B0aW9uRGVmYXVsdFBhcnQpKQogIGNvbnN0IGRhdGFzZXRTb3VyY2UgPSBbXQogIGxpbmVDaGFydE9wdGlvbi5kYXRhc2V0LnNvdXJjZSA9IGRhdGFzZXRTb3VyY2UKICBiYXJDaGFydE9wdGlvbi5kYXRhc2V0LnNvdXJjZSA9IGRhdGFzZXRTb3VyY2UKICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UgPSBkYXRhc2V0U291cmNlCiAgY29uc3QgbWVhc3VyZUxhYmVscyA9IFtdIC8vIOaMh+aghwogIC8vIGNvbnN0IGRpbUxhYmVscyA9IFtdIC8vIOe7tOW6pgogIGZvciAoY29uc3QgbSBpbiByLiRBTEwpIHsKICAgIC8vIHNpZ251cC5nZW5lcmFsLTAKICAgIC8vIOS4jeWQjOaMh+agh+aYvuekuuS4jeWQjAogICAgbWVhc3VyZUxhYmVscy5wdXNoKHsKICAgICAgY29kZTogbSwKICAgICAgbmFtZTogJ+WTiOWTiCcgKyBtCiAgICB9KQogICAgY291bnQgPSAwCiAgICBmb3IgKGNvbnN0IGRhdGFTZXJpZXMgb2Ygci4kQUxMW21dKSB7CiAgICAgIGNvdW50KysKICAgICAgaWYgKGNvdW50IDw9IG1heEwpIHsKICAgICAgICBjb25zdCAgZCA9IFtkYXRhU2VyaWVzLmxlZ2dlZEZvcm1hdCArIG0sIC4uLmRhdGFTZXJpZXMudmFsdWVdCiAgICAgICAgbGluZUNoYXJ0T3B0aW9uLmRhdGFzZXQuc291cmNlLnB1c2goKQogICAgICAgIGxpbmVDaGFydE9wdGlvbi5zZXJpZXMucHVzaCh7IHR5cGU6ICdsaW5lJywgc21vb3RoOiB0cnVlLCBzZXJpZXNMYXlvdXRCeTogJ3JvdycgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJlc3RvOiDmr6vnp5LovazlpKnmlbAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJlc3RvOiDmr6vnp5LovazlpKnmlbAKc2VsZWN0IGRhdGVfdHJ1bmMoJ2RheScsIGZyb21fdW5peHRpbWUoMTU5MDA3MDg0NDgzMi8xMDAwKSkK</text>
+        <text encoding="base64">ICAgICAgICB7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>select toStartOfInterval(toDateTime(1590070844832/1000), INTERVAL 1 day)  as startDateTime;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
