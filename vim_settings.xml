@@ -51,10 +51,6 @@
       <file name="/bom.event" timestamp="1590118034211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1590069249777">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/1.json" timestamp="1590075134978" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" timestamp="1590117027491">
         <mark key="[" line="0" column="10" />
       </file>
@@ -82,11 +78,20 @@
       <file name="/dummy.sql" timestamp="1590118117713">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590141249120">
+        <mark key="[" line="132" column="17" />
+        <mark key="]" line="137" column="13" />
+        <mark key="^" line="137" column="13" />
+        <mark key="." line="137" column="12" />
+      </file>
       <file name="/Dummy.txt" timestamp="1590116605845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/event_mv [new_ch]" timestamp="1590118117326">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1590140687029">
+        <mark key="[" line="113" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/data.json" timestamp="1590120652831" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Event.vue" timestamp="1590111155342">
@@ -95,9 +100,7 @@
         <mark key="^" line="197" column="34" />
         <mark key="." line="197" column="33" />
       </file>
-      <file name="/console_1" timestamp="1590070728883">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-controller/src/main/java/com/digibms/bom/controller/BehavioralController.java" timestamp="1590141498395" />
       <file name="/bom.event_queue" timestamp="1590117607991">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,7 +115,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>select toStartOfInterval(toDateTime(1590070844832/1000), INTERVAL 1 day)  as startDateTime;</text>
+        <text encoding="base64">ICAgICAgICB7fQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -121,31 +124,31 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlc3BvbnNlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text>select toStartOfInterval(toDateTime(1590070844832/1000), INTERVAL 1 day)  as startDateTime;</text>
+        <text encoding="base64">ICAgICAgICB7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>select toStartOfInterval(toDateTime(1590070844832/1000), INTERVAL 1 day)  as startDateTime;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0IGRhdGVfdHJ1bmMoJ2RheScsIGZyb21fdW5peHRpbWUoMTU5MDA3MDg0NDgzMi8xMDAwKSkgYXMgc3RhcnREYXRlVGltZTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IGRhdGVfdHJ1bmMoJ2RheScsIGZyb21fdW5peHRpbWUoeHdoZW4gLyAxMDAwKSkgYXMgc3RhdFRpbWUsIGNvdW50KDEpIGFzIHB2CmZyb20gYm9tLmV2ZW50IGV2ZW50CndoZXJlIGRzIGJldHdlZW4gMjAyMDA1MTUgYW5kIDIwMjAwNTIxCiAgYW5kICh4d2hhdF9pZCBpbiAoLTEpKQogIGFuZCBkaXN0aW5jdF9pZCA9IC04MjQyNjkwMjA5OTQ2Nzg1NDczCmdyb3VwIGJ5IDE7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJlc3RvOiDmr6vnp5LovazlpKnmlbAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHJlc3RvOiDmr6vnp5LovazlpKnmlbAKc2VsZWN0IGRhdGVfdHJ1bmMoJ2RheScsIGZyb21fdW5peHRpbWUoMTU5MDA3MDg0NDgzMi8xMDAwKSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2VsZWN0IGRhdGVfdHJ1bmMoJ2RheScsIGZyb21fdW5peHRpbWUoMTU5MDA3MDg0NDgzMi8xMDAwKSkgYXMgc3RhcnREYXRlVGltZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2VsZWN0IGRhdGVfdHJ1bmMoJ2RheScsIGZyb21fdW5peHRpbWUoeHdoZW4gLyAxMDAwKSkgYXMgc3RhdFRpbWUsIGNvdW50KDEpIGFzIHB2CmZyb20gYm9tLmV2ZW50IGV2ZW50CndoZXJlIGRzIGJldHdlZW4gMjAyMDA1MTUgYW5kIDIwMjAwNTIxCiAgYW5kICh4d2hhdF9pZCBpbiAoLTEpKQogIGFuZCBkaXN0aW5jdF9pZCA9IC04MjQyNjkwMjA5OTQ2Nzg1NDczCmdyb3VwIGJ5IDE7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJlc3RvOiDmr6vnp5LovazlpKnmlbAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJlc3RvOiDmr6vnp5LovazlpKnmlbAKc2VsZWN0IGRhdGVfdHJ1bmMoJ2RheScsIGZyb21fdW5peHRpbWUoMTU5MDA3MDg0NDgzMi8xMDAwKSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlc3BvbnNlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
