@@ -51,6 +51,7 @@
       <file name="/bom.event" timestamp="1590118034211">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/manage.js" timestamp="1590148141502" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" timestamp="1590117027491">
         <mark key="[" line="0" column="10" />
       </file>
@@ -62,9 +63,6 @@
       </file>
       <file name="/bom.event_mv" timestamp="1590118117337">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ea922166-ecef-4afc-aef8-b91670afaf3d/console.sql" timestamp="1590111472069">
-        <mark key="[" line="0" column="20" />
       </file>
       <file name="/event [new_ch]" timestamp="1590118034197">
         <mark key="[" line="0" column="0" />
@@ -78,11 +76,11 @@
       <file name="/dummy.sql" timestamp="1590118117713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590146119796">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="166" column="29" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590150176870">
+        <mark key="[" line="129" column="14" />
+        <mark key="]" line="129" column="14" />
+        <mark key="^" line="129" column="14" />
+        <mark key="." line="129" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1590116605845">
         <mark key="[" line="0" column="0" />
@@ -90,19 +88,22 @@
       <file name="/event_mv [new_ch]" timestamp="1590118117326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1590140687029">
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1590147240488">
         <mark key="[" line="113" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/data.json" timestamp="1590145873547" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Event.vue" timestamp="1590111155342">
-        <mark key="[" line="197" column="52" />
-        <mark key="]" line="197" column="34" />
-        <mark key="^" line="197" column="34" />
-        <mark key="." line="197" column="33" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Event.vue" timestamp="1590148555483">
+        <mark key="[" line="173" column="47" />
+        <mark key="]" line="256" column="34" />
+        <mark key="^" line="256" column="34" />
+        <mark key="." line="256" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-controller/src/main/java/com/digibms/bom/controller/BehavioralController.java" timestamp="1590141498395" />
       <file name="/bom.event_queue" timestamp="1590117607991">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1590148230190">
+        <mark key="[" line="152" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/showChart.js" timestamp="1590115960204">
         <mark key="[" line="3" column="15" />
@@ -114,41 +115,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRhc2V0U291cmNlID0gW10K</text>
+      <register name="&quot;" type="4">
+        <text>line_series_by_measure</text>
       </register>
       <register name="-" type="4">
-        <text>pieSeries</text>
+        <text>line_series_by_measure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UgPSBkYXRhc2V0U291cmNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXRhc2V0U291cmNlID0gW10K</text>
+        <text encoding="base64">5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3d3dzkzMTExL2phdmEvYXJ0aWNsZS9kZXRhaWxzLzczMzgxNDMxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UucHVzaChbZGF0YVNlcmllcy5sZWdnZWRGb3JtYXQgKyBtLCAuLi5kYXRhU2VyaWVzLnZhbHVlXSkK</text>
+        <text encoding="base64">54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjOi9u+mjjuWQueaWnOmYs+OAjeeahOWOn+WIm+aWh+eroO+8jOmBteW+qkNDIDQuMCBCWS1TQeeJiOadg+WNj+iuru+8jOi9rOi9veivt+mZhOS4iuWOn+aWh+WHuuWkhOmTvuaOpeWPiuacrOWjsOaYjuOAggo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UucHVzaCgpCg==</text>
+        <text encoding="base64">ICAgIG1lYXN1cmVMYWJlbHNDb25mCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPICBfLmNsb25lKGRlZXApIOS7o+abv0pTT07lgZrmt7Fjb3B5CiAgY29uc3QgbGluZUNoYXJ0T3B0aW9uID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShjaGFydE9wdGlvbkRlZmF1bHRQYXJ0KSkKICBjb25zdCBiYXJDaGFydE9wdGlvbiA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoY2hhcnRPcHRpb25EZWZhdWx0UGFydCkpCiAgY29uc3QgcGllQ2hhcnRPcHRpb24gPSBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KGNoYXJ0T3B0aW9uRGVmYXVsdFBhcnQpKQogIGNvbnN0IGRhdGFzZXRTb3VyY2UgPSBbXQogIGxpbmVDaGFydE9wdGlvbi5kYXRhc2V0LnNvdXJjZSA9IGRhdGFzZXRTb3VyY2UKICBiYXJDaGFydE9wdGlvbi5kYXRhc2V0LnNvdXJjZSA9IGRhdGFzZXRTb3VyY2UKICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UgPSBkYXRhc2V0U291cmNlCiAgY29uc3QgbWVhc3VyZUxhYmVscyA9IFtdIC8vIOaMh+aghwogIC8vIGNvbnN0IGRpbUxhYmVscyA9IFtdIC8vIOe7tOW6pgogIGZvciAoY29uc3QgbSBpbiByLiRBTEwpIHsKICAgIC8vIHNpZ251cC5nZW5lcmFsLTAKICAgIC8vIOS4jeWQjOaMh+agh+aYvuekuuS4jeWQjAogICAgbWVhc3VyZUxhYmVscy5wdXNoKHsKICAgICAgY29kZTogbSwKICAgICAgbmFtZTogJ+WTiOWTiCcgKyBtCiAgICB9KQogICAgY291bnQgPSAwCiAgICBmb3IgKGNvbnN0IGRhdGFTZXJpZXMgb2Ygci4kQUxMW21dKSB7CiAgICAgIGNvdW50KysKICAgICAgaWYgKGNvdW50IDw9IG1heEwpIHsKICAgICAgICBjb25zdCAgZCA9IFtkYXRhU2VyaWVzLmxlZ2dlZEZvcm1hdCArIG0sIC4uLmRhdGFTZXJpZXMudmFsdWVdCiAgICAgICAgbGluZUNoYXJ0T3B0aW9uLmRhdGFzZXQuc291cmNlLnB1c2goKQogICAgICAgIGxpbmVDaGFydE9wdGlvbi5zZXJpZXMucHVzaCh7IHR5cGU6ICdsaW5lJywgc21vb3RoOiB0cnVlLCBzZXJpZXNMYXlvdXRCeTogJ3JvdycgfSkK</text>
+        <text encoding="base64">ICBjb25zdCBkYXRhc2V0U291cmNlID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UucHVzaChbZGF0YVNlcmllcy5sZWdnZWRGb3JtYXQgKyBtLCAuLi5kYXRhU2VyaWVzLnZhbHVlXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>select toStartOfInterval(toDateTime(1590070844832/1000), INTERVAL 1 day)  as startDateTime;</text>
+        <text encoding="base64">ICAgICAgICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UucHVzaCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPICBfLmNsb25lKGRlZXApIOS7o+abv0pTT07lgZrmt7Fjb3B5CiAgY29uc3QgbGluZUNoYXJ0T3B0aW9uID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShjaGFydE9wdGlvbkRlZmF1bHRQYXJ0KSkKICBjb25zdCBiYXJDaGFydE9wdGlvbiA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoY2hhcnRPcHRpb25EZWZhdWx0UGFydCkpCiAgY29uc3QgcGllQ2hhcnRPcHRpb24gPSBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KGNoYXJ0T3B0aW9uRGVmYXVsdFBhcnQpKQogIGNvbnN0IGRhdGFzZXRTb3VyY2UgPSBbXQogIGxpbmVDaGFydE9wdGlvbi5kYXRhc2V0LnNvdXJjZSA9IGRhdGFzZXRTb3VyY2UKICBiYXJDaGFydE9wdGlvbi5kYXRhc2V0LnNvdXJjZSA9IGRhdGFzZXRTb3VyY2UKICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UgPSBkYXRhc2V0U291cmNlCiAgY29uc3QgbWVhc3VyZUxhYmVscyA9IFtdIC8vIOaMh+aghwogIC8vIGNvbnN0IGRpbUxhYmVscyA9IFtdIC8vIOe7tOW6pgogIGZvciAoY29uc3QgbSBpbiByLiRBTEwpIHsKICAgIC8vIHNpZ251cC5nZW5lcmFsLTAKICAgIC8vIOS4jeWQjOaMh+agh+aYvuekuuS4jeWQjAogICAgbWVhc3VyZUxhYmVscy5wdXNoKHsKICAgICAgY29kZTogbSwKICAgICAgbmFtZTogJ+WTiOWTiCcgKyBtCiAgICB9KQogICAgY291bnQgPSAwCiAgICBmb3IgKGNvbnN0IGRhdGFTZXJpZXMgb2Ygci4kQUxMW21dKSB7CiAgICAgIGNvdW50KysKICAgICAgaWYgKGNvdW50IDw9IG1heEwpIHsKICAgICAgICBjb25zdCAgZCA9IFtkYXRhU2VyaWVzLmxlZ2dlZEZvcm1hdCArIG0sIC4uLmRhdGFTZXJpZXMudmFsdWVdCiAgICAgICAgbGluZUNoYXJ0T3B0aW9uLmRhdGFzZXQuc291cmNlLnB1c2goKQogICAgICAgIGxpbmVDaGFydE9wdGlvbi5zZXJpZXMucHVzaCh7IHR5cGU6ICdsaW5lJywgc21vb3RoOiB0cnVlLCBzZXJpZXNMYXlvdXRCeTogJ3JvdycgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
