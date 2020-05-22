@@ -52,6 +52,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/manage.js" timestamp="1590148141502" />
+      <file name="/a.dummy" timestamp="1590151915437">
+        <mark key="[" line="0" column="10" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" timestamp="1590117027491">
         <mark key="[" line="0" column="10" />
       </file>
@@ -67,20 +70,17 @@
       <file name="/event [new_ch]" timestamp="1590118034197">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/.env.preview" timestamp="1590115215458">
-        <mark key="[" line="2" column="21" />
-      </file>
       <file name="/event_queue [new_ch]" timestamp="1590117607976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1590118117713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590151407872">
-        <mark key="[" line="129" column="6" />
-        <mark key="]" line="128" column="15" />
-        <mark key="." line="128" column="14" />
-        <mark key="^" line="128" column="15" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590154415288">
+        <mark key="[" line="260" column="50" />
+        <mark key="]" line="260" column="49" />
+        <mark key="." line="260" column="48" />
+        <mark key="^" line="260" column="49" />
       </file>
       <file name="/Dummy.txt" timestamp="1590116605845">
         <mark key="[" line="0" column="0" />
@@ -116,40 +116,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyW2krK10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>counter</text>
+        <text>lineChartOption</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsaW5lQ2hhcnRPcHRpb24uZGF0YXNldC5zb3VyY2UgPSBkYXRhc2V0U291cmNlCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lQ2hhcnRPcHRpb24uc2VyaWVzLnB1c2goZ2V0RGVmYXVsdExpbmVTZXJpZXMobWVhc3VyZUNvZGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyW2krK10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJbaV0K</text>
+        <text encoding="base64">ICAgICAgZGltQ29kZXMuYWRkKGRpbUNvZGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwaWVDaGFydE9wdGlvbi5zZXJpZXMucHVzaCh7IHR5cGU6ICdwaWUnLCBzbW9vdGg6IHRydWUsIHNlcmllc0xheW91dEJ5OiAncm93JyB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBiYXJDaGFydE9wdGlvbi5zZXJpZXMucHVzaCh7IHR5cGU6ICdiYXInLCBzbW9vdGg6IHRydWUsIHNlcmllc0xheW91dEJ5OiAncm93Jywgc3RhY2s6IG0gfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXJDaGFydE9wdGlvbi5zZXJpZXMucHVzaCh7IHR5cGU6ICdiYXInLCBzbW9vdGg6IHRydWUsIHNlcmllc0xheW91dEJ5OiAncm93Jywgc3RhY2s6IG0gfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldERlZmF1bHRMaW5lU2VyaWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3d3dzkzMTExL2phdmEvYXJ0aWNsZS9kZXRhaWxzLzczMzgxNDMxCg==</text>
+        <text encoding="base64">ICAgIHR5cGU6ICdsaW5lJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjOi9u+mjjuWQueaWnOmYs+OAjeeahOWOn+WIm+aWh+eroO+8jOmBteW+qkNDIDQuMCBCWS1TQeeJiOadg+WNj+iuru+8jOi9rOi9veivt+mZhOS4iuWOn+aWh+WHuuWkhOmTvuaOpeWPiuacrOWjsOaYjuOAggo=</text>
+        <text encoding="base64">ICBjb25zdCBnZXREZWZhdWx0QmFyU2VyaWVzID0gY3JlYXRlU2VxR2V0dGVyKFt7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
