@@ -51,10 +51,11 @@
       <file name="/bom.event" timestamp="1590118034211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590387112094">
-        <mark key="[" line="353" column="63" />
-        <mark key="]" line="355" column="0" />
-        <mark key="." line="355" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590390880485">
+        <mark key="[" line="197" column="57" />
+        <mark key="]" line="197" column="57" />
+        <mark key="." line="197" column="57" />
+        <mark key="^" line="197" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/data2.json" timestamp="1590386261595">
         <mark key="[" line="0" column="0" />
@@ -68,7 +69,7 @@
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1590147240488">
         <mark key="[" line="113" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/data.json" timestamp="1590384326117" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/data.json" timestamp="1590389868741" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/utils/chart.js" timestamp="1590232148911">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -92,11 +93,10 @@
       <file name="/event [new_ch]" timestamp="1590118034197">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/chart.config.js" timestamp="1590380569234">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="15" column="6" />
-        <mark key="^" line="15" column="6" />
-        <mark key="." line="15" column="5" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/chart.config.js" timestamp="1590388888764">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/event_queue [new_ch]" timestamp="1590117607976">
         <mark key="[" line="0" column="0" />
@@ -114,41 +114,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
+      <register name="&quot;" type="4">
+        <text>measureCodeSet</text>
       </register>
       <register name="-" type="4">
-        <text>byValueFwbylatCodeSet</text>
+        <text>measureCodeSet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8g5oqY57q/5Zu+5bCx5Lulc2VyaWVzTGlzdOS4uui9tAogICAgICBkZXRhaWxEYXRhc2V0U291cmNlWzBdID0gWydieV90aW1lJywgLi4uci5zZXJpZXNMaXN0XQo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFydE9wdGlvbi5sZWdlbmQuZGF0YSA9IGNoYXJ0T3B0aW9uLmxlZ2VuZC5kYXRhIHx8IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgc2VyaWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgdGhpcy5jaGFydAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjaGFydE9wdGlvbi5sZWdlbmQuZGF0YSA9IGNoYXJ0T3B0aW9uLmxlZ2VuZC5kYXRhIHx8IFtdCiAgICAgICAgY2hhcnRPcHRpb24ubGVnZW5kLmRhdGEgPSBbLi4uY2hhcnRPcHRpb24ubGVnZW5kLmRhdGEsIC4uLkFycmF5LmZyb20oYnlGbGF0VmFsdWVzU2V0KV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjaGFydE9wdGlvbi5sZWdlbmQuZGF0YSA9IGNoYXJ0T3B0aW9uLmxlZ2VuZC5kYXRhIHx8IFtdCiAgICAgICAgY2hhcnRPcHRpb24ubGVnZW5kLmRhdGEgPSBbLi4uY2hhcnRPcHRpb24ubGVnZW5kLmRhdGEsIC4uLkFycmF5LmZyb20oc2VyaWVzTmFtZVNldCldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IGMgb2YgdGhpcy5jaGFydE9wdGlvbnMpIHsK</text>
+        <text encoding="base64">ICAgICAgZGF0YTogW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNoYXJ0T3B0aW9ucyA9IGNoYXJ0T3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFydE9wdGlvbi5sZWdlbmQuZGF0YSA9IFsuLi5jaGFydE9wdGlvbi5sZWdlbmQuZGF0YSwgLi4uQXJyYXkuZnJvbShieUZsYXRWYWx1ZXNTZXQpXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGllQ2hhcnRPcHRpb24uc2VyaWVzLnB1c2goZ2V0RGVmYXVsdFBpZVNlcmllcyhtZWFzdXJlQ29kZSkpCg==</text>
+        <text encoding="base64">ICBsZXQgY291bnQgPSAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
