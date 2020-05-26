@@ -85,12 +85,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-controller/src/main/java/com/digibms/bom/controller/BookInfoController.java" timestamp="1590468667515" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/evet.js" timestamp="1590405902232">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="12" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-controller/src/main/java/com/digibms/bom/viewmodel/BaseBookInfoVo.java" timestamp="1590470513063" />
       <file name="/console" timestamp="1590472323637">
         <mark key="[" line="0" column="0" />
@@ -125,11 +119,17 @@
         <mark key="[" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-controller/src/main/java/com/digibms/bom/controller/PanelInfoController.java" timestamp="1590467931825" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1590490351258">
-        <mark key="[" line="58" column="63" />
-        <mark key="]" line="58" column="68" />
-        <mark key="." line="58" column="67" />
-        <mark key="^" line="58" column="68" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1590491786584">
+        <mark key="[" line="58" column="68" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="234" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ChartConfig.vue" timestamp="1590491746602">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+        <mark key="." line="18" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ShowConfig.vue" timestamp="1590489824631">
         <mark key="[" line="18" column="112" />
@@ -144,41 +144,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ShowConfig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDx2LWNoYXJ0IDpvcHRpb25zPSJjIiA6a2V5PSJjLmNoYXJ0SWQiIHYtZm9yPSJjIGluIGNoYXJ0RGF0YS5jaGFydE9wdGlvbnMiLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>ShowConfig</text>
+        <text>chartOption</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBvcnQgU2VsZWN0Q2hhcnRzVHlwZSBmcm9tICdAL2NvbXBvbmVudHMvYm9tL0NvbW1vbi9TZWxlY3RDaGFydHNUeXBlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiAnaG91cicK</text>
+        <text encoding="base64">ICAgICAgICAgIDx2LWNoYXJ0IDpvcHRpb25zPSJjIiA6a2V5PSJjLmNoYXJ0SWQiIHYtZm9yPSJjIGluIGNoYXJ0RGF0YS5jaGFydE9wdGlvbnMiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiAnaG91cicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlZENoYXJ0Q29uZmlnCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdlbmVyYXRlZENoYXJ0Q29uZmlnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB0aW1lVW5pdCA9ICdkYXknCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3MzE3NDFhYzQ5MDhkMjczMjI4MjFkYmRlY2QxM2RlYTQzMjY2Yzg0Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0aW1lVW5pdCA9ICdkYXknCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA3MzE3NDFhYzQ5MDhkMjczMjI4MjFkYmRlY2QxM2RlYTQzMjY2Yzg0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
