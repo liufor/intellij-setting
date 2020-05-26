@@ -43,6 +43,42 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -65,6 +101,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-service/src/main/java/com/digibms/bom/service/impl/PanelInfoServiceImpl.java" timestamp="1590467963971" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ea922166-ecef-4afc-aef8-b91670afaf3d/console.sql" timestamp="1590480335111">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/e_2_save_baobiao.js" timestamp="1590464818844">
         <mark key="[" line="0" column="8" />
       </file>
@@ -83,18 +125,17 @@
         <mark key="[" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-controller/src/main/java/com/digibms/bom/controller/PanelInfoController.java" timestamp="1590467931825" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1590475998524" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/chart.config.js" timestamp="1590405447133">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="6" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1590480786422">
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="58" column="28" />
+        <mark key="." line="58" column="27" />
+        <mark key="^" line="58" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ShowConfig.vue" timestamp="1590476183913">
-        <mark key="[" line="9" column="68" />
-        <mark key="]" line="9" column="68" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="68" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ShowConfig.vue" timestamp="1590480848640">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -104,40 +145,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>plainOptions</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>plainOptions</text>
+        <text>String</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBvcnQgU2VsZWN0Q2hhcnRzVHlwZSBmcm9tICdAL2NvbXBvbmVudHMvYm9tL0NvbW1vbi9TZWxlY3RDaGFydHNUeXBlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB0aW1lVW5pdCA9ICdkYXknCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiAnaG91cicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3MzE3NDFhYzQ5MDhkMjczMjI4MjFkYmRlY2QxM2RlYTQzMjY2Yzg0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGdlbmVyYXRlZENoYXJ0Q29uZmlnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCB0aW1lVW5pdCA9ICdkYXknCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNoYXJ0RGF0YS5wYXJhbS50b0RhdGUgPSAnMjAyMC0wNS0yNScK</text>
+        <text encoding="base64">Pj4+Pj4+PiA3MzE3NDFhYzQ5MDhkMjczMjI4MjFkYmRlY2QxM2RlYTQzMjY2Yzg0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNoYXJ0RGF0YS5wYXJhbS5mcm9tRGF0ZSA9ICcyMDIwLTA1LTE4Jwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHRoaXMuZ2VuZXJhdGVkQ2hhcnRPcHRpb24pKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuZ2VuZXJhdGVkQ2hhcnRPcHRpb24gPSBnZW5lcmF0ZUNoYXJ0T3B0aW9uKHRoaXMuY2hhcnREYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
