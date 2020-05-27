@@ -84,11 +84,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/evet.js" timestamp="1590495231448">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="21" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/evet.js" timestamp="1590569264475">
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="58" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/1.js" timestamp="1590495176871">
         <mark key="[" line="0" column="0" />
@@ -100,7 +100,7 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/modules/user.js" timestamp="1590562783939" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/modules/user.js" timestamp="1590569447520" />
       <file name="/Event2.vue" timestamp="1590474403916">
         <mark key="[" line="226" column="23" />
       </file>
@@ -110,10 +110,10 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/modules/MetaData.js" timestamp="1590562969567">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/modules/MetaData.js" timestamp="1590569450715">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/mutation-types.js" timestamp="1590561292598">
         <mark key="[" line="12" column="18" />
@@ -157,41 +157,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Analysis</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgaXNGYW5jeUVudmlyb25tZW50IH0gZnJvbSAnb3BlbmNvbGxlY3RpdmUvc3JjL2xpYi91dGlscycK</text>
       </register>
       <register name="-" type="4">
         <text>Analysis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNob3dCeVZhbHVlc1NldCA9IG5ldyBTZXQoc2hvd0NvbmZpZy5ieVZhbHVlcykK</text>
+        <text encoding="base64">ICBhbGxFdmVudEJhc2ljOiAnL2Fyay9ldmVudHMvYWxsL2Jhc2ljJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHNob3dNZWFzdXJlc1NldC5oYXMobWVhc3VyZUNvZGUpKSkgewo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNGYW5jeUVudmlyb25tZW50IH0gZnJvbSAnb3BlbmNvbGxlY3RpdmUvc3JjL2xpYi91dGlscycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNob3dNZWFzdXJlc1NldCA9IHNob3dDb25maWcubWVhc3VyZXMgPiAwID8gbmV3IFNldChzaG93Q29uZmlnLm1lYXN1cmVzKSA6IG5ldyBTZXQobWVhc3VyZUNvZGVTZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNob3dCeVZhbHVlc1NldCA9IHNob3dDb25maWcuYnlWYWx1ZXMubGVuZ3RoID4gMCA/IG5ldyBTZXQoc2hvd0NvbmZpZy5ieVZhbHVlcykgOiBuZXcgU2V0KGJ5RmxhdFZhbHVlc1NldCkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0NvbmZpZy5ieVZhbHVlcyA9IEFycmF5LmZyb20oYnlGbGF0VmFsdWVzU2V0KQo=</text>
+        <text encoding="base64">ICAgICAgICB9KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0NvbmZpZy5tZWFzdXJlcyA9IEFycmF5LmZyb20obWVhc3VyZUNvZGVTZXQpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBhcmFtZXRlcjogcGFyYW1ldGVyCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0NvbmZpZy5ieVZhbHVlcyA9IEFycmF5LmZyb20oYnlGbGF0VmFsdWVzU2V0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZ2V0QWxsRXZlbnRzLnRoZW4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0NvbmZpZy5ieVZhbHVlcyA9IEFycmF5LmZyb20oYnlGbGF0VmFsdWVzU2V0KTsK</text>
+        <text encoding="base64">ICAgICAgaXNGYW5jeUVudmlyb25tZW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
