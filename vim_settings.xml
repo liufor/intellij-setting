@@ -84,16 +84,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/evet.js" timestamp="1590574353642">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="58" column="8" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/evet.js" timestamp="1590578505329">
+        <mark key="[" line="79" column="21" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/vue.config.js" timestamp="1590571880232">
         <mark key="[" line="93" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/EventDown/EventDown.vue" timestamp="1590576974549" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/EventDown/EventDown.vue" timestamp="1590577937350" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/modules/AnalysisEvent.js" timestamp="1590562607314" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ea922166-ecef-4afc-aef8-b91670afaf3d/console.sql" timestamp="1590575488180">
         <mark key="'" line="0" column="15" />
@@ -140,7 +139,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Measures3.vue" timestamp="1590577709983" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Measures3.vue" timestamp="1590578467077" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-dao/src/main/resources/mapper/BaseAttrInfoMapper.xml" timestamp="1590571118609" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-dao/src/main/java/com/digibms/bom/dao/mapper/BaseAttrInfoMapper.java" timestamp="1590570862809" />
     </filemarks>
@@ -152,7 +151,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>from ;</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="-" type="4">
         <text>Ω</text>
@@ -161,9 +160,15 @@
         <text>array_fill(1,0,0) as c1,</text>
       </register>
       <register name="1" type="2">
-        <text>from ;</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text>from ;</text>
+      </register>
+      <register name="4" type="2">
         <text>select toStartOfDay(toDateTime(xwhen)) as statTime, count(1) as pv
 from bom.event event
 where ds between 20200515 and 20200521
@@ -171,7 +176,7 @@ where ds between 20200515 and 20200521
   and distinct_id = -8242690209946785473
 group by statTime</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text>select array_fill(90, date_diff('day', parse_datetime('20200222', 'YYYYMMdd'),
                                 parse_datetime(CAST(&quot;$$statTime&quot; AS varchar), 'YYYYMMdd')),
                   &quot;$$value0&quot;) as &quot;$startup.general-0&quot;
@@ -186,23 +191,17 @@ limit 1000
 
 select version;</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAiCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHsgaXNGYW5jeUVudmlyb25tZW50IH0gZnJvbSAnb3BlbmNvbGxlY3RpdmUvc3JjL2xpYi91dGlscycK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
