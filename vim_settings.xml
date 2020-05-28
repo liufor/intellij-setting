@@ -102,9 +102,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590595962940">
-        <mark key="[" line="79" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/SettingDrawer/settingConfig.js" timestamp="1590646763825" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1590655581119">
         <mark key="[" line="67" column="8" />
@@ -117,16 +114,16 @@
         <mark key="^" line="83" column="32" />
         <mark key="." line="83" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/ShowChart.vue" timestamp="1590657954421">
-        <mark key="[" line="310" column="44" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/ShowChart.vue" timestamp="1590657994030">
+        <mark key="[" line="311" column="37" />
         <mark key="]" line="309" column="41" />
         <mark key="." line="309" column="40" />
         <mark key="^" line="309" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1590656706245">
-        <mark key="[" line="331" column="9" />
-        <mark key="]" line="260" column="10" />
-        <mark key="." line="260" column="10" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1590662943817">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Measures.vue" timestamp="1590596300454" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/node_modules/vue-echarts/components/ECharts.vue" timestamp="1590651910867" />
@@ -161,6 +158,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/ShowChart2.vue" timestamp="1590657821218" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/chart.config.js" timestamp="1590662743988">
+        <mark key="[" line="20" column="23" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
@@ -169,45 +169,45 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpbXBvcnQgeyBjcmVhdGVTZXFHZXR0ZXIgfSBmcm9tICdAL3V0aWxzL3V0aWwnCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getPieSeries</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmN1cnJlbnRQYW5lbCA9IHJlcy5kYXRhc1swXS5pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBjaGFydE9wdGlvbiA9IHRoaXMuY2hhcnRPcHRpb24K</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBjcmVhdGVTZXFHZXR0ZXIgfSBmcm9tICdAL3V0aWxzL3V0aWwnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICBpbXBvcnQgY2hhcnRDb25maWcgZnJvbSAnQC9jb25maWcvY2hhcnQuY29uZmlnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZihwYXJhbWV0ZXIuY29udGVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBjaGFydE9wdGlvbiA9IHRoaXMuY2hhcnRPcHRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBpZihwYXJhbWV0ZXIuY29udGVudCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBwb3NpdGlvbi5pID0gaWRYCg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>.position
 .position
 .position
 .position
 .position</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLnRhYmxlKGEpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgID0ge30gLy8ga2V55Li6IGlkX3R5cGUg77yMdmFsdWUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXNvdXJjZU1hcFtpZFhdLnJlc291cmNlID0gcgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLnRhYmxlKGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
