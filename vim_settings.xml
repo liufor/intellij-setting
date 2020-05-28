@@ -85,11 +85,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/evet.js" timestamp="1590651072221">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/ShowChart3.vue" timestamp="1590656299676">
+        <mark key="[" line="289" column="28" />
+        <mark key="]" line="289" column="28" />
+        <mark key="^" line="288" column="43" />
+        <mark key="." line="289" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysisV2/Event4.vue" timestamp="1590597547024">
         <mark key="[" line="91" column="61" />
         <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/EventDown/EventDown.vue" timestamp="1590595892650" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/MeasureListBuilder.vue" timestamp="1590597507435">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -98,42 +108,66 @@
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590595962940">
         <mark key="[" line="79" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1590635219830">
-        <mark key="[" line="60" column="8" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/SettingDrawer/settingConfig.js" timestamp="1590646763825" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1590655581119">
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="65" column="57" />
+        <mark key="^" line="65" column="57" />
+        <mark key="." line="65" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/utils/chart.js" timestamp="1590636744618">
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/utils/chart.js" timestamp="1590655441699">
         <mark key="]" line="83" column="32" />
         <mark key="^" line="83" column="32" />
         <mark key="." line="83" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/ShowChart.vue" timestamp="1590635192329" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1590637596915">
-        <mark key="[" line="232" column="3" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/ShowChart.vue" timestamp="1590657197677">
+        <mark key="[" line="263" column="19" />
+        <mark key="]" line="266" column="30" />
+        <mark key="." line="264" column="75" />
+        <mark key="^" line="266" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1590656706245">
+        <mark key="[" line="331" column="9" />
+        <mark key="]" line="260" column="10" />
+        <mark key="." line="260" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Measures.vue" timestamp="1590596300454" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-service/src/main/java/com/digibms/bom/service/impl/IntervalServiceImpl.java" timestamp="1590593381884" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/e_content.js" timestamp="1590582309203">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/node_modules/vue-echarts/components/ECharts.vue" timestamp="1590651910867" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/ShowChart2Bak.vue" timestamp="1590655491474">
+        <mark key="[" line="250" column="63" />
+        <mark key="]" line="250" column="75" />
+        <mark key="^" line="250" column="75" />
+        <mark key="." line="250" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-common/src/main/java/com/digibms/bom/web/common/util/BusinessUtil.java" timestamp="1590593418480" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/charts/EventAnalysisChart.vue" timestamp="1590637617829">
-        <mark key="[" line="33" column="17" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="16" />
-        <mark key="^" line="33" column="17" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/showChart.js" timestamp="1590654772886">
+        <mark key="[" line="50" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/charts/AnalysisChart.vue" timestamp="1590654348920">
+        <mark key="[" line="149" column="17" />
+        <mark key="]" line="149" column="17" />
+        <mark key="." line="149" column="16" />
+        <mark key="^" line="149" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/charts/EventAnalysisChart.vue" timestamp="1590639520417">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="44" column="28" />
+        <mark key="^" line="44" column="28" />
+        <mark key="." line="44" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console.sql" timestamp="1590636506290">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Measures3.vue" timestamp="1590581222118" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/e_content.json" timestamp="1590596877176" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/ShowChart2.vue" timestamp="1590635452654" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/node_modules/ant-design-vue/dist/antd-with-locales.js" timestamp="1590595200529" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ChartConfig.vue" timestamp="1590595051101" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/EventSelector.vue" timestamp="1590595906519">
-        <mark key="[" line="77" column="20" />
+      <file name="/default" timestamp="1590643300877">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/panel/ShowChart2.vue" timestamp="1590654655352">
+        <mark key="[" line="100" column="37" />
+        <mark key="]" line="100" column="39" />
+        <mark key="." line="100" column="38" />
+        <mark key="^" line="100" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -143,41 +177,45 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcG9zdEFuYWx5c2lzRXZlbnQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Ω</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text>array_fill(1,0,0) as c1,</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmN1cnJlbnRQYW5lbCA9IHJlcy5kYXRhc1swXS5pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcG9zdEFuYWx5c2lzRXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBjaGFydE9wdGlvbiA9IHRoaXMuY2hhcnRPcHRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZ2VuZXJhdGVkQ2hhcnRPcHRpb246e30K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZihwYXJhbWV0ZXIuY29udGVudCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzZWxlY3QgKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB2ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwb3NpdGlvbi5pID0gaWRYCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgOm1lYXN1cmU9Im1lYXN1cmUiCg==</text>
+      <register name="6" type="8">
+        <text>.position
+.position
+.position
+.position
+.position</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTWVhc3VyZUxpc3RCdWlsZGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLnRhYmxlKGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bWVhIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgID0ge30gLy8ga2V55Li6IGlkX3R5cGUg77yMdmFsdWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tICAgICAgICAgICAgICDoh6rlrprkuYnmjIfmoIfmjInpkq4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXNvdXJjZU1hcFtpZFhdLnJlc291cmNlID0gcgo=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
