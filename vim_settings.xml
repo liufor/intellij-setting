@@ -12,6 +12,7 @@
         <entry>271</entry>
         <entry>217</entry>
         <entry>57</entry>
+        <entry>92</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -89,10 +90,11 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/vue.config.js" timestamp="1590571880232">
-        <mark key="[" line="93" column="43" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysisV2/Event4.vue" timestamp="1590597547024">
+        <mark key="[" line="91" column="61" />
+        <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/EventDown/EventDown.vue" timestamp="1590577937350" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/EventDown/EventDown.vue" timestamp="1590595892650" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ea922166-ecef-4afc-aef8-b91670afaf3d/console.sql" timestamp="1590580060135">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="0" column="12" />
@@ -100,11 +102,16 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590593801942">
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/MeasureListBuilder.vue" timestamp="1590597507435">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event3.vue" timestamp="1590595962940">
         <mark key="[" line="79" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/getters.js" timestamp="1590571980025">
-        <mark key="[" line="12" column="32" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1590596023250">
+        <mark key="[" line="86" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/modules/MetaData.js" timestamp="1590576361172">
         <mark key="[" line="57" column="67" />
@@ -113,8 +120,7 @@
         <mark key="." line="33" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1590576476882" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Measures.vue" timestamp="1590576455080" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-service/src/main/java/com/digibms/bom/domain/impl/PropertyDomainImpl.java" timestamp="1590571043187" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Measures.vue" timestamp="1590596300454" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-service/src/main/java/com/digibms/bom/service/impl/IntervalServiceImpl.java" timestamp="1590593381884" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/e_content.js" timestamp="1590582309203">
         <mark key="[" line="0" column="0" />
@@ -123,7 +129,6 @@
       <file name="/console" timestamp="1590575787356">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-controller/src/main/java/com/digibms/bom/controller/BaseEventController.java" timestamp="1590571537869" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console.sql" timestamp="1590579948360">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="5" column="0" />
@@ -131,9 +136,12 @@
         <mark key="^" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Measures3.vue" timestamp="1590581222118" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-dao/src/main/resources/mapper/BaseAttrInfoMapper.xml" timestamp="1590571118609" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/e_content.json" timestamp="1590593691053" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-dao/src/main/java/com/digibms/bom/dao/mapper/BaseAttrInfoMapper.java" timestamp="1590570862809" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/e_content.json" timestamp="1590596877176" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/node_modules/ant-design-vue/dist/antd-with-locales.js" timestamp="1590595200529" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ChartConfig.vue" timestamp="1590595051101" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/EventSelector.vue" timestamp="1590595906519">
+        <mark key="[" line="77" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
@@ -143,7 +151,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFswLDAsMCw4OCwwLDAsMCwwXQ==</text>
+        <text encoding="base64">ICAgICAgOm1lYXN1cmU9Im1lYXN1cmUiCg==</text>
       </register>
       <register name="-" type="4">
         <text>Ω</text>
@@ -152,51 +160,34 @@
         <text>array_fill(1,0,0) as c1,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFswLDAsMCw4OCwwLDAsMCwwXQ==</text>
+        <text encoding="base64">ICAgICAgOm1lYXN1cmU9Im1lYXN1cmUiCg==</text>
       </register>
       <register name="2" type="2">
-        <text>from ;</text>
+        <text encoding="base64">ICAgICAgTWVhc3VyZUxpc3RCdWlsZGVyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICA8bWVhIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tICAgICAgICAgICAgICDoh6rlrprkuYnmjIfmoIfmjInpkq4tLT4K</text>
       </register>
       <register name="5" type="2">
-        <text>from ;</text>
+        <text encoding="base64">ICAgIFswLDAsMCw4OCwwLDAsMCwwXQ==</text>
       </register>
       <register name="6" type="2">
-        <text>select toStartOfDay(toDateTime(xwhen)) as statTime, count(1) as pv
-from bom.event event
-where ds between 20200515 and 20200521
-  and (xwhat_id in (1, 3))
-  and distinct_id = -8242690209946785473
-group by statTime</text>
+        <text>from ;</text>
       </register>
       <register name="7" type="2">
-        <text>select array_fill(90, date_diff('day', parse_datetime('20200222', 'YYYYMMdd'),
-                                parse_datetime(CAST(&quot;$$statTime&quot; AS varchar), 'YYYYMMdd')),
-                  &quot;$$value0&quot;) as &quot;$startup.general-0&quot;
-from (select event.ds as &quot;$$statTime&quot;, count_if((1 = 1 and event.xwhat_id = 1)) as &quot;$$value0&quot;
-      from hive.db_776ab6b9e0e7e493.event_vd event
-      where ds between 20200222 and 20200521
-        and ((1 = 1 and event.xwhat_id = 1))
-      group by 1) t1
-order by 1 desc
-limit 1000
-;
-
-select version;</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNGYW5jeUVudmlyb25tZW50IH0gZnJvbSAnb3BlbmNvbGxlY3RpdmUvc3JjL2xpYi91dGlscycK</text>
+        <text>from ;</text>
       </register>
       <register name=":" type="4">
-        <text>57</text>
+        <text>92</text>
       </register>
     </registers>
   </component>
