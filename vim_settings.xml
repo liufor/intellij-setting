@@ -89,7 +89,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/SessionAnalysis/components/SessionMeasureList.vue" timestamp="1590989151229" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/SessionAnalysis/components/SessionMeasureList.vue" timestamp="1591001773215" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/SessionAnalysis/resq.json" timestamp="1590983250017">
         <mark key="[" line="0" column="0" />
       </file>
@@ -105,7 +105,9 @@
         <mark key="^" line="39" column="22" />
         <mark key="." line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldFilterItem.vue" timestamp="1590978349707" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldSelector.vue" timestamp="1591001835067">
+        <mark key="[" line="22" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/RetentionAnalysis/req2_有指标.json" timestamp="1590992505169">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,9 +125,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-data/src/main/java/com/digibms/fangzhou/data/openapi/model/FunnelStep.java" timestamp="1590993177991" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/e_content.json" timestamp="1590983146309" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/RetentionAnalysis/req1_有维度.json" timestamp="1590992452522" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-controller/src/main/java/com/digibms/bom/controller/SessionController.java" timestamp="1590985374996" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldFilterOperatorAndParams.vue" timestamp="1591001270853" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/SessionAnalysis/SessionAnalysis.vue" timestamp="1590991447855">
         <mark key="[" line="25" column="41" />
         <mark key="]" line="5" column="69" />
@@ -149,40 +151,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0ZWRFdmVudERpc3BsYXkgKCkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5zZWxlY3RlZFNlc3Npb25NZWFzdXJlcy5sZW5ndGggPj0gMw==</text>
+        <text>selectedSessionMeasures</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxldmVudC1zZWxlY3RvciBAc2VsZWN0RXZlbnRzPSJoYW5kbGVFdmVudFNlbGVjdGVkIiB2LW1vZGVsPSJzZWxlY3RlZEV2ZW50cyI+PC9ldmVudC1zZWxlY3Rvcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0ZWRFdmVudERpc3BsYXkgKCkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygn5pi+56S6bmFtZScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2PFNlc3Npb25NZWFzdXJlTGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBnZ2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZFByb3BlcnRpZXM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZEV2ZW50czogW10sCg==</text>
+        <text encoding="base64">ICA8ZGl2PFNlc3Npb25NZWFzdXJlTGlzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZFByb3BlcnRpZXM6IFtdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZEV2ZW50czogW10sCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VhcmNoYWJsZS1zZSAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>148</text>
