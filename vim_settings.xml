@@ -90,11 +90,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/controller/TempDataProcess1Controller.java" timestamp="1591609052500">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/controller/TempDataProcess1Controller.java" timestamp="1591637854370">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="16" />
+        <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/hlj_data/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/es/ElasticSearchConfig.java" timestamp="1591636548476" />
       <file name="/a.dummy" timestamp="1591608295567">
         <mark key="[" line="0" column="12" />
       </file>
@@ -104,15 +106,8 @@
         <mark key="^" line="258" column="21" />
         <mark key="." line="258" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/resources/application.yaml" timestamp="1591606889437">
-        <mark key="[" line="33" column="16" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fb08bfed-d95e-49cd-ae58-dea936442732/console.sql" timestamp="1591604616388">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="38" column="51" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/resources/application.yaml" timestamp="1591638200950">
+        <mark key="[" line="81" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/service/qrcinfo/QrcInfoService.java" timestamp="1591609515450">
         <mark key="[" line="37" column="31" />
@@ -120,6 +115,7 @@
         <mark key="." line="40" column="25" />
         <mark key="^" line="40" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/hlj_data/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/es/CommunityPassRegRepository.java" timestamp="1591636966709" />
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-spring-boot/2.1.5/mapper-spring-boot-2.1.5.pom" timestamp="1591606195992" />
       <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/resources/mybatis-generator.xml" timestamp="1591609143988">
         <mark key="[" line="37" column="22" />
@@ -127,36 +123,29 @@
         <mark key="." line="37" column="22" />
         <mark key="^" line="37" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/service/huoyue/BmTmpHuoYue1Service.java" timestamp="1591605602201">
-        <mark key="[" line="12" column="3" />
+      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/es/PassRecordRepository.java" timestamp="1591637882320">
+        <mark key="'" line="29" column="44" />
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="42" column="44" />
+        <mark key="^" line="42" column="44" />
+        <mark key="." line="42" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/hlj_data/prominent-citizens/src/main/resources/sqlmap/QrcInfoMapper.xml" timestamp="1591603302897" />
-      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/service/process/DataProcessService.java" timestamp="1591610739649">
-        <mark key="[" line="52" column="8" />
-        <mark key="]" line="52" column="43" />
-        <mark key="^" line="52" column="43" />
-        <mark key="." line="52" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/resources/sqlmap/QrcInfoMapper.xml" timestamp="1591605246808">
-        <mark key="[" line="22" column="107" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="57" />
-        <mark key="^" line="2" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/dao/BmTmpHuoYue1Mapper.java" timestamp="1591605418123">
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="2" column="51" />
-        <mark key="^" line="2" column="54" />
-        <mark key="." line="2" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/entity/QrcInfo.java" timestamp="1591604426595">
-        <mark key="[" line="2" column="4" />
+      <file name="$USER_HOME$/Documents/work/code/hlj_data/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/es/PassRecordRepository.java" timestamp="1591637062236" />
+      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/service/process/DataProcessService.java" timestamp="1591637998163">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="49" column="43" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1591609447058">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/hlj_data/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/es/ElasticSearchService.java" timestamp="1591636573600" />
+      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/entity/PassRecord.java" timestamp="1591637272199" />
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-spring-boot-starter/2.1.5/mapper-spring-boot-starter-2.1.5.pom" timestamp="1591606147902" />
-      <file name="/fragment.java" timestamp="1591604366334">
+      <file name="$USER_HOME$/Documents/work/code/hlj_data/prominent-citizens/src/main/java/com/tencent/wll/prominentcitizens/controller/PassRegisterController.java" timestamp="1591637748253" />
+      <file name="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/es/CommunityPassRegRepository.java" timestamp="1591637930307" />
+      <file name="/fragment.java" timestamp="1591637154900">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -165,45 +154,46 @@
       <jump line="12" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ea922166-ecef-4afc-aef8-b91670afaf3d/console.sql" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysisV2/Event4.vue" />
       <jump line="1" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fb08bfed-d95e-49cd-ae58-dea936442732/console.sql" />
+      <jump line="29" column="44" filename="$USER_HOME$/Documents/work/code/hlj_data_process/hlj_data_process/src/main/java/com/tencent/wll/prominentcitizens/es/PassRecordRepository.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRRcmNJbmZvQnlJZGVudGl0eUluKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bm_tmp_huo_yue_1</text>
+        <text>find</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJmaXJzdF9lc19wYXNzcmVjb3JkX2RhdGEiIGpkYmNUeXBlPSJWQVJDSEFSIiBwcm9wZXJ0eT0iZmlyc3RFc1Bhc3NyZWNvcmREYXRhIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRRcmNJbmZvQnlJZGVudGl0eUluKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXhhbXBsZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFeGNlcHRpb24gZXhjZXB0aW8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUXJjSW5mb1NlcnZpY2UgZDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRlbXBEYXRhUHJvY2VzczFDb250cm9sbGVyIHsKICAgIHByaXZhdGUgUXJjSW5mb1NlcnZpY2UgZDsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTZWFyY2hSZXF1ZXN0IHNlYXJjaFJlcXVlc3QgPSBuZXcgU2VhcmNoUmVxdWVzdCgicHJvbWluZW50LWNpdGl6ZW5zLXBhc3NyZWNvcmQtKiIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFzc1JlZ2lzdGVyUmVjb3JkczsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZW5jZW50LndsbC5wcm9taW5lbnRjaXRpemVucy5lbnRpdHkuQm1UbXBIdW9ZdWUxMjIyMjsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGFzc1JlZ2lzdGVyUmVjb3Jkcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoImlkIixzdGFydCxlbmQpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRRcmNJbmZvQnlJZGVudGl0eUluKCkK</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
