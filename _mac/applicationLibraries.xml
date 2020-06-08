@@ -1,5 +1,43 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.7 (hljdata) interpreter library">
+      <CLASSES>
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Documents/work/code/hljdata/hlj_env/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-379163948" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Documents/work/code/hljdata/hlj_env/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-379163948" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 2.7.11 (~/anaconda/bin/python2.7) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/anaconda/lib/python2.7" />
@@ -72,15 +110,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
-    <library name="scala-sdk-2.12.2" type="Scala">
-      <properties>
-        <option name="languageLevel" value="Scala_2_12" />
-        <compiler-classpath>
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.2.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.2.jar" />
-        </compiler-classpath>
-      </properties>
+    <library name="scala-sdk-2.12.2">
       <CLASSES>
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar!/" />
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.2.jar!/" />

@@ -23,7 +23,6 @@
       <mapping ext="vue2" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="rewrite" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="sh2" type="PLAIN_TEXT" />
       <mapping ext="server" type="PLAIN_TEXT" />
@@ -39,6 +38,7 @@
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="cisDubboProvider" type="XML" />
       <mapping ext="wxml" type="XML" />
