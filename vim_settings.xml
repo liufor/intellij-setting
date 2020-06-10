@@ -90,6 +90,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/api/evet.js" timestamp="1591810732417" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldAggregator.vue" timestamp="1591801023800">
         <mark key="[" line="130" column="44" />
         <mark key="]" line="137" column="0" />
@@ -103,17 +104,17 @@
         <mark key="[" line="26" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ByFieldV2.vue" timestamp="1591783017960" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ByFields.vue" timestamp="1591811601512">
+        <mark key="[" line="69" column="9" />
+        <mark key="]" line="63" column="14" />
+        <mark key="^" line="63" column="14" />
+        <mark key="." line="63" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/modules/MetaData.js" timestamp="1591798174356">
         <mark key="[" line="56" column="13" />
         <mark key="]" line="199" column="23" />
         <mark key="^" line="199" column="17" />
         <mark key="." line="199" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/EventAnalysis/EventMeasures.vue" timestamp="1591778097682">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="52" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldFilter.vue" timestamp="1591782575194" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/EventAnalysis/EventMeasure.vue" timestamp="1591782701148">
@@ -129,30 +130,30 @@
         <mark key="." line="125" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/req1.json" timestamp="1591798867875" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/EventSelectorSingle.vue" timestamp="1591776240780">
-        <mark key="[" line="39" column="60" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/RetentionAnalysis/RetentionEvent.vue" timestamp="1591810592511">
+        <mark key="[" line="301" column="7" />
+        <mark key="]" line="300" column="80" />
+        <mark key="^" line="300" column="80" />
+        <mark key="." line="300" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/RetentionAnalysis/RetentionEvent.vue" timestamp="1591809596721" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ByField.vue" timestamp="1591782928298" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldAsDimSelectorV2.vue" timestamp="1591809194287">
-        <mark key="[" line="166" column="8" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldAsDimSelectorV2.vue" timestamp="1591812352942">
+        <mark key="[" line="154" column="23" />
         <mark key="]" line="131" column="68" />
         <mark key="^" line="131" column="68" />
         <mark key="." line="131" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/EventAndFieldAggregator.vue" timestamp="1591772284666">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="62" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="79" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ByFieldsV2.vue" timestamp="1591808984647">
         <mark key="[" line="53" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/components/EventModelBuilderV2.vue" timestamp="1591809521221" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/SessionAnalysis/SessionAnalysis.vue" timestamp="1591784754129" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/components/EventModelBuilderV2.vue" timestamp="1591812607531">
+        <mark key="[" line="202" column="63" />
+        <mark key="]" line="202" column="63" />
+        <mark key="." line="202" column="63" />
+        <mark key="^" line="202" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/SessionAnalysis/SessionAnalysis.vue" timestamp="1591812812211" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/SessionAnalysis/components/FieldsAndFilter.vue" timestamp="1591812855467" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/chart.config.js" timestamp="1591798538855">
         <mark key="[" line="190" column="12" />
         <mark key="]" line="190" column="6" />
@@ -171,10 +172,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>fieldObj</text>
+        <text>seconde</text>
       </register>
       <register name="-" type="4">
-        <text>fieldObj</text>
+        <text>seconde</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8RmllbGRBc0RpbVNlbGVjdG9yIHYtbW9kZWw9InRoaXNGaWVsZHNbaW5kZXhdIiA6YWxsUHJvcGVydGllcz0iZmllbGRQcm9wZXJ0aWVzIj48L0ZpZWxkQXNEaW1TZWxlY3Rvcj4K</text>
