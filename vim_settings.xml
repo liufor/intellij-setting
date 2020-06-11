@@ -97,16 +97,11 @@
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/OptionSelector.vue" timestamp="1591852156974" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldSelector.vue" timestamp="1591851289574" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysisV2/req3.json" timestamp="1591846145831">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ByFields.vue" timestamp="1591855040719">
-        <mark key="[" line="119" column="19" />
-        <mark key="]" line="140" column="11" />
-        <mark key="." line="140" column="10" />
-        <mark key="^" line="140" column="11" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ByFields.vue" timestamp="1591857010869">
+        <mark key="[" line="153" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-be/bom-data-client/src/main/java/com/digibms/fangzhou/data/api/client/event/pojo/EventConditionPojo.java" timestamp="1591847072942" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/Event2.vue" timestamp="1591856443709" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldFilterV2.vue" timestamp="1591853731589">
         <mark key="[" line="55" column="35" />
         <mark key="]" line="55" column="69" />
@@ -130,17 +125,18 @@
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/e_content.json" timestamp="1591846223451" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/RetentionAnalysis/index.vue" timestamp="1591855510983" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldFilterConditionList.vue" timestamp="1591855081833">
-        <mark key="[" line="128" column="19" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldFilterConditionList.vue" timestamp="1591857040203">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldSelectorV2.vue" timestamp="1591853540746" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/components/EventModelBuilderV2.vue" timestamp="1591854762709">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="14" column="45" />
-        <mark key="." line="14" column="44" />
-        <mark key="^" line="14" column="45" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/components/EventModelBuilderV2.vue" timestamp="1591857106425">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/FieldFilterOperatorAndParams.vue" timestamp="1591852221299" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/req_condition_api.json" timestamp="1591853072701" />
@@ -166,10 +162,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>specialList</text>
+        <text>byField</text>
       </register>
       <register name="-" type="4">
-        <text>specialList</text>
+        <text>byField</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8RmllbGRBc0RpbVNlbGVjdG9yIHYtbW9kZWw9InRoaXNGaWVsZHNbaW5kZXhdIiA6YWxsUHJvcGVydGllcz0iZmllbGRQcm9wZXJ0aWVzIj48L0ZpZWxkQXNEaW1TZWxlY3Rvcj4K</text>
