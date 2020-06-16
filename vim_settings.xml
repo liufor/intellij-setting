@@ -98,11 +98,8 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/eventAnalysis/Event3.vue" timestamp="1592293429120">
-        <mark key="[" line="93" column="40" />
-        <mark key="]" line="93" column="31" />
-        <mark key="^" line="93" column="31" />
-        <mark key="." line="93" column="30" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/ByFields.vue" timestamp="1592316612338">
+        <mark key="[" line="90" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/config/router.config.js" timestamp="1592306910511">
         <mark key="[" line="58" column="55" />
@@ -126,30 +123,33 @@
         <mark key="[" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/eventAnalysis/eventBuilder.vue" timestamp="1592304931314" />
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/funnelAnalysis/Index.vue" timestamp="1592294669118" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/realtimeAnalysis/realtimeBuilderChart.vue" timestamp="1592305147005">
         <mark key="[" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/newSessionAnalysis/newSessionBuilderChart.vue" timestamp="1592305131080">
         <mark key="[" line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Event2Analysis/eventBuilder.vue" timestamp="1592313830456" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/event2Analysis/eventBuilder.vue" timestamp="1592302007463" />
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/funnelAnalysis/funnelBuilderChart.vue" timestamp="1592305111356">
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/modules/MetaData.js" timestamp="1592306367854">
-        <mark key="[" line="106" column="47" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/store/modules/MetaData.js" timestamp="1592315665641">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Index.vue" timestamp="1592306901390">
-        <mark key="[" line="72" column="53" />
-        <mark key="]" line="72" column="54" />
-        <mark key="^" line="72" column="54" />
-        <mark key="." line="72" column="53" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/Index.vue" timestamp="1592316123998">
+        <mark key="[" line="187" column="46" />
+        <mark key="]" line="186" column="39" />
+        <mark key="^" line="186" column="39" />
+        <mark key="." line="186" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/components/bom/Common/BookList.vue" timestamp="1592293572840">
-        <mark key="[" line="58" column="38" />
-        <mark key="]" line="61" column="65" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/EventAnalysis/eventBuilder.vue" timestamp="1592316401654">
+        <mark key="[" line="134" column="9" />
+        <mark key="]" line="133" column="63" />
+        <mark key="^" line="133" column="9" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/bom/bom-fe/src/views/analysis/retentionAnalysis/retentionBuilder.vue" timestamp="1592305172828">
         <mark key="[" line="8" column="16" />
@@ -168,16 +168,37 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgY29uc29sZS5sb2coMTExMTExMTExMTEsIHsgZXZlbnRDb2RlcywgcHJvcGVydHlNZXRob2QsIHR5cGUsIGV2ZW50Q29kZSB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>EventModelBuilderV2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgaW1wb3J0IEV2ZW50QnVpbGRlciBmcm9tICcuL2V2ZW50QW5hbHlzaXMvRXZlbnRCdWlsZGVyJwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgY29uc29sZS5sb2coMTExMTExMTExMTEsIHsgZXZlbnRDb2RlcywgcHJvcGVydHlNZXRob2QsIHR5cGUsIGV2ZW50Q29kZSB9KQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgY29uc29sZS5sb2cocikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5jb250ZW50T2JqLm1lYXN1cmVzLm1hcChlID0+IGUuZXZlbnRDb2RlKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      </register>
+      <register name="8" type="2">
         <text>select event.&quot;$os&quot;,
        event.&quot;$utm_campaign_id&quot;,
        event.&quot;$utm_campaign&quot;,
@@ -246,29 +267,8 @@ where 1 = 1
 order by event.xwhen desc
 limit 500</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudHlwZSA9IG5ld1R5cGUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHlwZSAmJiBwYXJzZUludChib29rSWQsIDEwKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiAn5LqL5Lu25YiG5p6QJywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAnZXZlbnQnLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuYm9va0lkID0gbmV3Qm9va0lkCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib29JZDogJzAnLAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
