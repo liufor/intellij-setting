@@ -93,23 +93,23 @@
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/adapters/spi/adapter-spi/src/main/java/org/keycloak/adapters/spi/KeycloakAccount.java" timestamp="1592819881220" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/adapters/oidc/servlet-filter/src/main/java/org/keycloak/adapters/servlet/FilterRequestAuthenticator.java" timestamp="1592819430040" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/integration/admin-client/src/main/java/org/keycloak/admin/client/token/TokenService.java" timestamp="1592820659364" />
+      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/server-spi-private/src/main/java/org/keycloak/authorization/permission/evaluator/Evaluators.java" timestamp="1592822450944" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/resources/KeycloakApplication.java" timestamp="1592821583575" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/managers/AuthenticationManager.java" timestamp="1592821341467" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/demo-template/README.md" timestamp="1592819301495" />
-      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/ldap/ldaprealm.json" timestamp="1592818746808" />
-      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/multi-tenant/tenant1-realm.json" timestamp="1592818699642" />
-      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/broker/facebook-authentication/README.md" timestamp="1592818924297" />
+      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/managers/AppAuthManager.java" timestamp="1592822025254" />
+      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/filters/KeycloakSecurityHeadersFilter.java" timestamp="1592822003160" />
+      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/managers/ClientSessionCode.java" timestamp="1592822075334" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/resources/ThemeResource.java" timestamp="1592820877190" />
-      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/basic-auth/README.md" timestamp="1592818987510" />
+      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/basic-auth/src/main/webapp/WEB-INF/keycloak.json" timestamp="1592823146504" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/demo-template/customer-app-filter/src/main/webapp/WEB-INF/web.xml" timestamp="1592819313033" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/adapters/oidc/servlet-filter/src/main/java/org/keycloak/adapters/servlet/KeycloakOIDCFilter.java" timestamp="1592819365474" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/testsuite/integration-arquillian/test-apps/photoz/photoz-restful-api/src/main/webapp/WEB-INF/keycloak.json" timestamp="1592820147526" />
-      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/multi-tenant/README.md" timestamp="1592818493714" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/adapters/spi/adapter-spi/src/main/java/org/keycloak/adapters/spi/AuthChallenge.java" timestamp="1592819878400" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/integration/admin-client/src/main/java/org/keycloak/admin/client/Keycloak.java" timestamp="1592820643451" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/resources/IdentityBrokerService.java" timestamp="1592821510696" />
-      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/demo-template/customer-app-js/src/main/webapp/keycloak.json" timestamp="1592819205417" />
-      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/demo-template/customer-app-filter/src/main/java/org/keycloak/example/CustomerDatabaseClient.java" timestamp="1592819244636" />
+      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/managers/AuthSessionId.java" timestamp="1592822065307" />
+      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/core/src/main/java/org/keycloak/representations/idm/authorization/AuthorizationRequest.java" timestamp="1592823120409" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
