@@ -90,11 +90,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e555a81-7293-41b5-b068-8751e6b177a1/console_1.sql" timestamp="1592890023201">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e555a81-7293-41b5-b068-8751e6b177a1/console_1.sql" timestamp="1592890400641">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="6" />
         <mark key="^" line="7" column="6" />
-        <mark key="." line="7" column="5" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/server-spi-private/src/main/java/org/keycloak/authorization/permission/evaluator/Evaluators.java" timestamp="1592822450944" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/resources/KeycloakApplication.java" timestamp="1592821583575" />
@@ -140,10 +140,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>realm_attribute</text>
+        <text>user_required_action</text>
       </register>
       <register name="-" type="4">
-        <text>realm_attribute</text>
+        <text>user_required_action</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMuYnVpbGRlcktleSA9IHRoaXMuYnVpbGRlcktleSArIDEK</text>
