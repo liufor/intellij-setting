@@ -90,7 +90,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/integration/admin-client/src/main/java/org/keycloak/admin/client/token/TokenService.java" timestamp="1592820659364" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e555a81-7293-41b5-b068-8751e6b177a1/console_1.sql" timestamp="1592890023201">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/server-spi-private/src/main/java/org/keycloak/authorization/permission/evaluator/Evaluators.java" timestamp="1592822450944" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/resources/KeycloakApplication.java" timestamp="1592821583575" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/managers/AuthenticationManager.java" timestamp="1592821341467" />
@@ -101,18 +106,25 @@
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/model/jpa/src/main/java/org/keycloak/storage/jpa/entity/FederatedUser.java" timestamp="1592825166289" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/resources/ThemeResource.java" timestamp="1592820877190" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/examples/basic-auth/src/main/webapp/WEB-INF/keycloak.json" timestamp="1592824931907" />
-      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/testsuite/integration-arquillian/test-apps/photoz/photoz-restful-api/src/main/webapp/WEB-INF/keycloak.json" timestamp="1592820147526" />
-      <file name="/console" timestamp="1592886005592">
+      <file name="/console" timestamp="1592889253918">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/forms/account/freemarker/FreeMarkerAccountProvider.java" timestamp="1592879081238" />
-      <file name="/a.sql" timestamp="1592887244684">
+      <file name="/a.sql" timestamp="1592889306525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iam/keycloak/integration/admin-client/src/main/java/org/keycloak/admin/client/Keycloak.java" timestamp="1592820643451" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/resources/IdentityBrokerService.java" timestamp="1592821510696" />
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/services/src/main/java/org/keycloak/services/managers/AuthSessionId.java" timestamp="1592822065307" />
-      <file name="/Dummy.txt" timestamp="1592887244694">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c7db313-1fa4-4923-92aa-baa88df822c9/console.sql" timestamp="1592889166231">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592889306530">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_1" timestamp="1592889315164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iam/keycloak/core/src/main/java/org/keycloak/representations/idm/authorization/AuthorizationRequest.java" timestamp="1592823120409" />
@@ -128,40 +140,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CHANGE</text>
+        <text>realm_attribute</text>
       </register>
       <register name="-" type="4">
-        <text>CHANGE</text>
+        <text>realm_attribute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMuYnVpbGRlcktleSA9IHRoaXMuYnVpbGRlcktleSArIDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5jaGFydERhdGEuY29udGVudE9iago=</text>
+        <text>from ;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3A6ICdjb25kaXRpb25zJywK</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNlIGtleWNsb2FrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ZnJvbSBhZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0ICgpIHsK</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">c2hvdyB0YWJsZXMgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbG9uZ0tleSA9IGdldExvbmdFdmVudEtleSh0aGlzLmV2ZW50Q29kZXMpCg==</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>from admin;</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
