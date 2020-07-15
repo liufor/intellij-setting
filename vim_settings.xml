@@ -93,6 +93,11 @@
       <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/yingji-common/yingji-common-core/src/main/java/io/micrometer/core/instrument/binder/okhttp3/UriOkHttpMetricsEventListener.java" timestamp="1594726556602">
         <mark key="[" line="15" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/yingji-auth/src/main/resources/application-local.yml" timestamp="1594793448049">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/2.1.13.RELEASE/spring-boot-actuator-autoconfigure-2.1.13.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/metrics/MetricsProperties.java" timestamp="1594788293235" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.1.13.RELEASE/spring-boot-actuator-2.1.13.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/web/servlet/DefaultWebMvcTagsProvider.java" timestamp="1594776580716" />
       <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/yingji-auth/src/main/java/cn/bmsk/corp/auth/feign/TestHttpBinService.java" timestamp="1594724191925">
@@ -119,6 +124,11 @@
         <mark key="[" line="65" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/yingji-auth/src/main/java/cn/bmsk/corp/auth/controller/MonitoringController.java" timestamp="1594792950880" />
+      <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/yingji-auth/src/main/resources/application-dev.yml" timestamp="1594793464262">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/yingji-common/yingji-common-core/src/main/java/cn/bmsk/corp/common/core/config/FeignAuthConfig.java" timestamp="1594726595566">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -139,9 +149,7 @@
         <mark key="." line="71" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.1.10/micrometer-core-1.1.10-sources.jar!/io/micrometer/core/instrument/binder/okhttp3/OkHttpMetricsEventListener.java" timestamp="1594726531561" />
-      <file name="$APPLICATION_HOME_DIR$/jbr/Contents/Home!/java.base/java/util/function/Function.class" timestamp="1594713405559" />
       <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/yingji-auth/src/main/java/cn/bmsk/corp/auth/service/impl/UserJxjServiceImpl.java" timestamp="1594791416949" />
-      <file name="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.1.10/micrometer-core-1.1.10-sources.jar!/io/micrometer/core/instrument/config/MeterFilter.java" timestamp="1594718085514" />
       <file name="/fragment.java" timestamp="1594725628780">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,8 +164,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>InterruptedException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>InterruptedException</text>
@@ -166,31 +174,31 @@
         <text encoding="base64">ICAtIG5hbWU6IHNwYW4uaHR0cC51cmwuc2NoZW1lCiAgICB0eXBlOiBrZXl3b3JkCiAgICBpbmRleDogdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUi5vayh1dWlkKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUi5vayh1dWlkKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySnhqU2VydmljZS5wYWdlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB1c2VySnhqU2VydmljZS5wYWdlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm1pY3JvbWV0ZXIuY29yZS5pbnN0cnVtZW50LmJpbmRlci5va2h0dHAzLlVyaU9rSHR0cE1ldHJpY3NFdmVudExpc3RlbmVyOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYgo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLm1pY3JvbWV0ZXIuY29yZS5pbnN0cnVtZW50LmJpbmRlci5va2h0dHAzLlVyaU9rSHR0cE1ldHJpY3NFdmVudExpc3RlbmVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29zdGF0ZS5yZXF1ZXN0IHx8ICgoUmVhbENhbGwpIGNhbGwpLm9yaWdpbmFsUmVxdWVzdDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm1pY3JvbWV0ZXIuY29yZS5pbnN0cnVtZW50LmJpbmRlci5va2h0dHAzLk9rSHR0cE1ldHJpY3NFdmVudExpc3RlbmVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBib29zdGF0ZS5yZXF1ZXN0IHx8ICgoUmVhbENhbGwpIGNhbGwpLm9yaWdpbmFsUmVxdWVzdDsK</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
