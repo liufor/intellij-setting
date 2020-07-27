@@ -125,7 +125,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/alert_boy2.py" timestamp="1595605053369">
+      <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/1.http" timestamp="1595829264943">
+        <mark key="[" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/alert_boy2.py" timestamp="1595828557214">
         <mark key="'" line="15" column="14" />
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="12" />
@@ -246,8 +249,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>body</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SG9zdDogc2VudHJ5LmlvCg==</text>
       </register>
       <register name="-" type="4">
         <text>body</text>
@@ -259,7 +262,7 @@
         <text encoding="base64">ICAtIG5hbWU6IHNwYW4uaHR0cC51cmwuc2NoZW1lCiAgICB0eXBlOiBrZXl3b3JkCiAgICBpbmRleDogdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Zwo=</text>
+        <text encoding="base64">SG9zdDogc2VudHJ5LmlvCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -271,28 +274,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtLSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtLQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Zwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBXcml0dGVuIGJ5IE5hdGhhbiBIYW1pZWwgKDIwMTApCg==</text>
+        <text encoding="base64">ICAtLSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBSZWZsZWN0cyB0aGUgcmVxdWVzdHMgZnJvbSBIVFRQIG1ldGhvZGRkcyBHRVQsIFBPU1QsIFBVVCwgYW5kIERFTEVURQo=</text>
+        <text encoding="base64">ICAtLQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInJlZGlzOi8vcmVkaXMtaG9zdC0wMjo2Mzc5Igo=</text>
+        <text encoding="base64">IyBXcml0dGVuIGJ5IE5hdGhhbiBIYW1pZWwgKDIwMTApCg==</text>
       </register>
       <register name="7" type="2">
-        <text>curl http://192.158.52.134:11181/push/actuator/prometheus</text>
+        <text encoding="base64">IyBSZWZsZWN0cyB0aGUgcmVxdWVzdHMgZnJvbSBIVFRQIG1ldGhvZGRkcyBHRVQsIFBPU1QsIFBVVCwgYW5kIERFTEVURQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3VybCBodHRwOi8vMTkyLjE1OC41Mi4xMjM6MTExODEvcHVzaC9hY3R1YXRvci9wcm9tZXRoZXVzCg==</text>
+        <text encoding="base64">ICAgICAgInJlZGlzOi8vcmVkaXMtaG9zdC0wMjo2Mzc5Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3VybCBodHRwOi8vMTkyLjE1OC41Mi4xNjk6MTExODEvcHVzaC9hY3R1YXRvci9wcm9tZXRoZXVzCg==</text>
+        <text>curl http://192.158.52.134:11181/push/actuator/prometheus</text>
       </register>
       <register name=":" type="4">
         <text>83</text>
