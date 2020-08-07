@@ -19,7 +19,6 @@
         <entry>pre&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/,&quot;/,/g</entry>
         <entry>%s/A/\r\n/g</entry>
         <entry>%s/ :/:/g</entry>
         <entry>%s/ //g</entry>
@@ -39,6 +38,7 @@
         <entry>%s/pEND/&quot;}}/g</entry>
         <entry>%s/auth_pre&quot;/push_backup&quot;/g</entry>
         <entry>%s/pre&quot;/backup&quot;/g</entry>
+        <entry>1064</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,6 +124,7 @@
       <file name="/group_events.py" timestamp="1596697291984">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.16.RELEASE/spring-data-redis-2.1.16.RELEASE-sources.jar!/org/springframework/data/redis/connection/lettuce/LettuceConnectionFactory.java" timestamp="1596790340543" />
       <file name="/group_details.py" timestamp="1596697450405">
         <mark key="[" line="0" column="0" />
       </file>
@@ -139,7 +140,6 @@
       <file name="/issue_details.py" timestamp="1596696335352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/jingxinju/jiankangbao-cloud/yingji-shixiang/yingji-shixiang-poi/src/main/java/cn/bmsk/corp/shixiang/poi/ShiXiangPoiApplication.java" timestamp="1596692189477" />
       <file name="$USER_HOME$/Documents/work/code/sentry/src/sentry/api/endpoints/group_events.py" timestamp="1596697412106" />
       <file name="$MAVEN_REPOSITORY$/co/elastic/logging/logback-ecs-encoder/0.1.3/logback-ecs-encoder-0.1.3.jar!/META-INF/maven/co.elastic.logging/logback-ecs-encoder/pom.xml" timestamp="1596697797541" />
       <file name="/project_event_details.py" timestamp="1596696765656">
@@ -288,7 +288,7 @@
         <text>curl http://192.158.52.134:11181/push/actuator/prometheus</text>
       </register>
       <register name=":" type="4">
-        <text>83</text>
+        <text>1064</text>
       </register>
     </registers>
   </component>
