@@ -111,36 +111,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-api/src/main/java/cn/bchain/component/api/service/BlockChainService.java" timestamp="1597804515208" />
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-api/src/main/java/cn/bchain/component/api/enums/ErrorCode.java" timestamp="1597804542537" />
-      <file name="/models.py" timestamp="1597745599222">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/pom.xml" timestamp="1597815826001" />
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/chaincode/info_sharing.go" timestamp="1597894272168" />
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/qkl/pom.xml" timestamp="1597815764697" />
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-rest/src/main/java/cn/bchain/component/rest/controller/InfoSharingController.java" timestamp="1597900803113" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-provider/src/main/java/cn/bchain/component/provider/impl/BlockChainProvider.java" timestamp="1598005893273" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-api/src/main/java/cn/bchain/component/api/service/BlockChainService.java" timestamp="1598004893893" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-api/src/main/java/cn/bchain/component/api/service/SupplyDemandService.java" timestamp="1598004920272" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-biz/src/main/java/cn/bchain/component/biz/external/SupplyDemandBiz.java" timestamp="1598006460326" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-api/src/main/java/cn/bchain/component/api/service/ChainCodeService.java" timestamp="1598004903483" />
       <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-rest/src/main/resources/logback-spring.xml" timestamp="1597975942436" />
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-api/src/main/java/cn/bchain/component/api/service/InfoSharingService.java" timestamp="1597900550893" />
-      <file name="/group_events.py" timestamp="1597745599226">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/uuid.py" timestamp="1597745599219">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/group_details.py" timestamp="1597745599224">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-api/src/main/java/cn/bchain/component/api/bo/InfoSharingUpBatchFileReq.java" timestamp="1597900142642" />
-      <file name="/validators.py" timestamp="1597745599217">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-biz/src/main/java/cn/bchain/component/biz/external/ChainCodeBiz.java" timestamp="1598006432784" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-api/src/main/java/cn/bchain/component/api/service/InfoSharingService.java" timestamp="1598004910944" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-blockchain/src/main/java/cn/bchain/component/blockchain/service/req/GbFabricContractInvokeReq.java" timestamp="1598006802548" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-provider/src/main/java/cn/bchain/component/provider/pointcut/DuplicateSubmitPreventionAspect.java" timestamp="1598005687817" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-biz/src/main/java/cn/bchain/component/biz/external/BlockChainBiz.java" timestamp="1598006503258" />
       <file name="$USER_HOME$/Documents/work/doc/区块链/09中智对接/qkl/src/main/java/DataTest.java" timestamp="1597921057726" />
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-blockchain/src/main/java/cn/bchain/component/blockchain/util/TbaasCsrUtil.java" timestamp="1597815794606" />
       <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-biz/src/main/java/cn/bchain/component/biz/schedule/FileUpTask.java" timestamp="1597900854733" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-crypto/src/main/java/cn/bchain/component/crypto/core/impl/CryptoService.java" timestamp="1598007323359" />
       <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-biz/src/main/java/cn/bchain/component/biz/internal/FilDealHandler.java" timestamp="1597901143832" />
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-biz/src/main/java/cn/bchain/component/biz/external/InfoSharingBiz.java" timestamp="1597900445982" />
-      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-rest/pom.xml" timestamp="1597993592693" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-rest/src/main/java/cn/bchain/component/rest/controller/BlockChainController.java" timestamp="1598005599743" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-rest/src/main/java/cn/bchain/component/rest/controller/SystemInitController.java" timestamp="1598005246903" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-biz/src/main/java/cn/bchain/component/biz/external/InfoSharingBiz.java" timestamp="1598006442627" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-rest/pom.xml" timestamp="1598004434271" />
+      <file name="$USER_HOME$/Documents/work/code/tecent_zw_blockchain/gb-plartform/gb-platform-api/src/main/java/cn/bchain/component/api/bo/ChainCodeGenerateReq.java" timestamp="1598005192885" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
