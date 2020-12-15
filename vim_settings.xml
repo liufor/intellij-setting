@@ -111,21 +111,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/cos/flying/mp/huodong/foshankaiye/static_config/index.json" timestamp="1608057530715">
-        <mark key="[" line="144" column="17" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/cos/flying/mp/huodong/foshankaiye/static_config/index.json" timestamp="1608059088751">
+        <mark key="[" line="146" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/account/account.ts" timestamp="1608055948011">
         <mark key="[" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/iam/gw/web/mini_prog_web/cgi_api_structs.go" timestamp="1608048097176" />
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/request/apiMap.ts" timestamp="1608055272497">
-        <mark key="[" line="18" column="1" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/request/apiMap.ts" timestamp="1608059606892">
+        <mark key="[" line="4" column="23" />
         <mark key="]" line="9" column="29" />
         <mark key="^" line="8" column="22" />
         <mark key="." line="9" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/app.config.ts" timestamp="1608049252696">
-        <mark key="[" line="1" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/iam/gw/server/init_service.go" timestamp="1608053215314" />
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/app.tsx" timestamp="1608050167115">
@@ -140,6 +136,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/pages/coupon/my-coupon/index.tsx" timestamp="1608059707295" />
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/account.ts" timestamp="1608055824684">
         <mark key="[" line="91" column="2" />
         <mark key="]" line="98" column="1" />
@@ -152,11 +149,8 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/iam/gw/web/node_web/node_web.go" timestamp="1608053302664" />
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/pages/coupon/coupon.ts" timestamp="1608057579749">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="16" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/pages/coupon/coupon.ts" timestamp="1608058387968">
+        <mark key="[" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/pages/index/index.tsx" timestamp="1608054977722" />
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/request/apiMap.ts" timestamp="1608054570638">
@@ -176,11 +170,12 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/pages/coupon/gift-pack/index.tsx" timestamp="1608057713962">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/pages/coupon/write-info/index.tsx" timestamp="1608057987237" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/pages/coupon/gift-pack/index.tsx" timestamp="1608059548446">
+        <mark key="[" line="34" column="6" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -274,11 +269,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
@@ -287,7 +282,7 @@
         <text encoding="base64">Y29uc3QgaWFtQXBpQmFzZSA9ICdodHRwOi8vd3d3LnFjbG91ZC5jb20nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -299,30 +294,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbMiwi5rS75Yqo5bey6L+H5pyfIl0K</text>
+        <text encoding="base64">ICAgICAgaWYgKHQgPj0gMTApIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtyZXF1ZXN0LCBzZXJ2aWNlfSBmcm9tICIuLi8uLi9jb21tb24vcmVxdWVzdCI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFRhcm8gZnJvbSAiQHRhcm9qcy90YXJvIjsKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcnZpY2UgZnJvbSAiLi9hcGlNYXAiOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">IAogCiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBbMiwi5rS75Yqo5bey6L+H5pyfIl0K</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAogCiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHtyZXF1ZXN0LCBzZXJ2aWNlfSBmcm9tICIuLi8uLi9jb21tb24vcmVxdWVzdCI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IFRhcm8gZnJvbSAiQHRhcm9qcy90YXJvIjsKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHNlcnZpY2UgZnJvbSAiLi9hcGlNYXAiOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="8">
-        <text>export
-      
-export</text>
+        <text encoding="base64">IAogCiA=</text>
       </register>
       <register name=":" type="4">
         <text>1064</text>
