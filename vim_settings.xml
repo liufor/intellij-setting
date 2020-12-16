@@ -111,11 +111,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/utils/index.ts" timestamp="1608131413589">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/hooks/share/useShare.ts" timestamp="1608131519582">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/utils/index.ts" timestamp="1608132115107">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/hooks/share/index.ts" timestamp="1608128496602">
         <mark key="[" line="0" column="10" />
@@ -125,12 +129,6 @@
       </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/use-rules/index.tsx" timestamp="1608128743824">
         <mark key="[" line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/write-info/index.config.ts" timestamp="1608128194493">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/hooks/share/index.ts" timestamp="1608128352260">
         <mark key="[" line="0" column="0" />
@@ -153,10 +151,10 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/gift-pack/index.tsx" timestamp="1608131473626">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/gift-pack/index.tsx" timestamp="1608132234375">
+        <mark key="[" line="104" column="4" />
+        <mark key="]" line="85" column="27" />
+        <mark key="." line="85" column="27" />
         <mark key="^" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/account/account.ts" timestamp="1608129867546">
@@ -192,8 +190,8 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/account/index.tsx" timestamp="1608128481547" />
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/utils.ts" timestamp="1608130970833">
-        <mark key="[" line="36" column="13" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/utils.ts" timestamp="1608132167239">
+        <mark key="[" line="44" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -288,10 +286,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICIuL2luZGV4LnNjc3MiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
@@ -300,7 +298,7 @@
         <text encoding="base64">ICAgICAgUmVkaXJlY3RVcmk6ICJodHRwOi8vcGFzc3BvcnQucWNsb3VkLmNvbSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICIuL2luZGV4LnNjc3MiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -315,25 +313,25 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgY29uc3QgaHVvZG9uZ0NvbmZpZyA9IFRhcm8uZ2V0U3RvcmFnZVN5bmMoImh1b2RvbmdDb25maWciKTsKICBjb25zb2xlLmxvZyhodW9kb25nQ29uZmlnKTsKICByZXR1cm4gaHVvZG9uZ0NvbmZpZzs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFBhY2tldENhcmQgZnJvbSAiLi9jb250YWluZXJzL3BhY2tldENhcmQiOwppbXBvcnQgIi4vaW5kZXguc2NzcyI7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4ge30K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3V0ZXIpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0ICIuL2luZGV4LnNjc3MiOwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENpcmNsZVN2ZyBmcm9tICIuL2ltYWdlcy9jaXJjbGUuc3ZnIjsKaW1wb3J0ICIuL2luZGV4LnNjc3MiOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>1064</text>
