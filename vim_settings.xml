@@ -175,11 +175,11 @@
         <mark key="." line="23" column="42" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/gift-pack/index.tsx" timestamp="1608153417646">
-        <mark key="[" line="18" column="59" />
-        <mark key="]" line="31" column="13" />
-        <mark key="." line="31" column="12" />
-        <mark key="^" line="31" column="13" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/gift-pack/index.tsx" timestamp="1608154557758">
+        <mark key="[" line="111" column="18" />
+        <mark key="]" line="143" column="5" />
+        <mark key="." line="143" column="4" />
+        <mark key="^" line="143" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/cos/flying/mp/huodong/foshankaiye/static_config/index.json" timestamp="1608144759253">
         <mark key="[" line="149" column="24" />
@@ -305,20 +305,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>setLoading</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgVGFybzIK</text>
       </register>
       <register name="-" type="4">
-        <text>setLoading</text>
+        <text>configInfo?.ClickBtnText</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUmVkaXJlY3RVcmk6ICJodHRwOi8vcGFzc3BvcnQucWNsb3VkLmNvbSIK</text>
+        <text encoding="base64">ICAgICAgICB1cmxOYXZUbyA9IFBhZ2VzLk15Q291cG9uOwogICAgICAgIGJ0blRleHQgPSBjb25maWdJbmZvPy5DbGlja0J0blRleHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudCA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgVGFybzIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -329,29 +329,31 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+      <register name="2" type="4">
+        <text>Taro.navigateTo({
+        url: urlNavTo,
+      })</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICIuL2luZGV4LnNjc3MiOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRQcm9jZXNzaW5nKGZhbHNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXRCdXR0b24gfSBmcm9tICJ0YXJvLXVpIjsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRCdG5UZXh0KGNvbmZpZ0luZm8/LkNsaWNrQnRuVGV4dCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgcmVxdWVzdCwgc2VydmljZSB9IGZyb20gIkAvY29tbW9uL3JlcXVlc3QiOwo=</text>
+        <text encoding="base64">ICAgICAgICBidG5UZXh0ID0gbXNnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICIuL2luZGV4LnNjc3MiOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRCdG5UZXh0KG1zZyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldE5lZWRSZWZyZXNoKHgpCg==</text>
+        <text encoding="base64">ICAgICAgKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1064</text>
