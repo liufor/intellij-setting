@@ -111,33 +111,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1c1aad1c-7365-44fa-94cf-a78c43430c3d/console_3.sql" timestamp="1608366391156">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/hooks/useRefreshHuodongConfig.ts" timestamp="1608198037218">
         <mark key="[" line="11" column="47" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
         <mark key="^" line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/request/index.tsx" timestamp="1608151099164">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="15" column="2" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/config.ts" timestamp="1608152060219">
-        <mark key="[" line="5" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1c1aad1c-7365-44fa-94cf-a78c43430c3d/console_4.sql" timestamp="1608367684460">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/iam/account/service/mini_prog.go" timestamp="1608180373432" />
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/write-info/index.tsx" timestamp="1608184063952" />
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/node_modules/taro-ui/types/button.d.ts" timestamp="1608173837836" />
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/gift-pack/index.tsx" timestamp="1608170164312">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="142" column="5" />
-        <mark key="." line="142" column="4" />
-        <mark key="^" line="142" column="5" />
-      </file>
-      <file name="/console" timestamp="1608179164113">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/cos/flying/mp/huodong/foshankaiye/static_config/index.json" timestamp="1608182944246">
         <mark key="[" line="29" column="18" />
         <mark key="]" line="29" column="18" />
@@ -146,9 +136,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1c1aad1c-7365-44fa-94cf-a78c43430c3d/console.sql" timestamp="1608179878831">
         <mark key="[" line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/node_modules/taro-ui/types/index.d.ts" timestamp="1608176346891" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying_be/config/config_production.yaml" timestamp="1608366806679" />
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/iam/common/errcode.go" timestamp="1608180667951" />
-      <file name="/a.sql" timestamp="1608179161691">
+      <file name="/a.sql" timestamp="1608366830441">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/request/apiMap.ts" timestamp="1608184126521">
@@ -157,7 +147,13 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1608194168962">
+      <file name="/Dummy.txt" timestamp="1608366830450">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_3" timestamp="1608366388023">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_4" timestamp="1608366854194">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_1" timestamp="1608183948501">
@@ -271,10 +267,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>腾讯工业互联网粤港澳大湾区基地</text>
+        <text>delete</text>
       </register>
       <register name="-" type="4">
-        <text>腾讯工业互联网粤港澳大湾区基地</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
@@ -283,7 +279,7 @@
         <text encoding="base64">ICAgICAgICB1cmxOYXZUbyA9IFBhZ2VzLk15Q291cG9uOwogICAgICAgIGJ0blRleHQgPSBjb25maWdJbmZvPy5DbGlja0J0blRleHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVGFybzIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -294,31 +290,31 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">c2VsZWN0ICoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">d2hlcmUgd3hfbmlja19uYW1lPSdMeHgnOwoKCgoKCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">d2hlcmUgd3hfbmlja19uYW1lPSdMeHgnOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGpvaW4gYWNjb3VudCBhIG9uIGFjY291bnRfY291cG9uLmFjY291bnRfaWQgPSBhLmFjY291bnRfaWQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVsZXRlIGZyb20gYWNjb3VudF9jb3Vwb24K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgVGFybzIK</text>
+      </register>
+      <register name="8" type="4">
         <text>Taro.navigateTo({
         url: urlNavTo,
       })</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRQcm9jZXNzaW5nKGZhbHNlKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRCdG5UZXh0KGNvbmZpZ0luZm8/LkNsaWNrQnRuVGV4dCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBidG5UZXh0ID0gbXNnOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRCdG5UZXh0KG1zZyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRQcm9jZXNzaW5nKGZhbHNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1064</text>
