@@ -141,16 +141,13 @@
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/account/account.ts" timestamp="1608383625744">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="48" />
-        <mark key="." line="160" column="0" />
-        <mark key="^" line="9" column="37" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/account/account.ts" timestamp="1608386824216">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="50" />
+        <mark key="^" line="46" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/jingxinju/wyq-ui/utils/customErrors.js" timestamp="1608379966630" />
-      <file name="/a.sql" timestamp="1608366830441">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/request/apiMap.ts" timestamp="1608380870141">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="7" />
@@ -163,6 +160,9 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="7" />
       </file>
+      <file name="/default" timestamp="1608386502529">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/coupon.ts" timestamp="1608377658060">
         <mark key="[" line="2" column="51" />
         <mark key="]" line="2" column="51" />
@@ -172,12 +172,13 @@
       <file name="/Dummy.txt" timestamp="1608366830450">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/gift-pack/containers/loginButton/index.tsx" timestamp="1608377675151">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/gift-pack/containers/loginButton/index.tsx" timestamp="1608386483739">
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="33" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/log.ts" timestamp="1608385809605">
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/log.ts" timestamp="1608385921719">
         <mark key="[" line="101" column="17" />
         <mark key="]" line="101" column="17" />
         <mark key="^" line="103" column="10" />
@@ -285,11 +286,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>errcode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcmVxdWVzdCwgc2VydmljZSB9IGZyb20gIi4uL3JlcXVlc3QiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>errcode</text>
+        <text>AccountId</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
@@ -298,7 +299,7 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygiaGFzQWNjZXNzVG9rZW4iLCBoYXNBY2Nlc3NUb2tlbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVxdWVzdCwgc2VydmljZSB9IGZyb20gIi4uL3JlcXVlc3QiOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -310,28 +311,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmID0gbG9nLmVycm9yRW51bXMuY29tbW9uLmFwaVNlcnZlci5hcGlCb2R5RXJyY29kZS5jb2RlXzEwNTAwX3ByZWZpeF9lcnJfZ2VuKHJlcy5kYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuc2V0RmlsdGVyTXNnKGYuZmlsdGVyTXNnKQogICAgICAgIGxvZy5hZGRGaWx0ZXJNc2coZi5lcnJjb2RlKQogICAgICAgIGxvZy53YXJuKGYuZXJybXNnLCByZXEsIHJlcykK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygud2FyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICBmID0gbG9nLmVycm9yRW51bXMuY29tbW9uLmFwaVNlcnZlci5hcGlCb2R5RXJyY29kZS5jb2RlXzEwNTAwX3ByZWZpeF9lcnJfZ2VuKHJlcy5kYXRhKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYocmVzPy5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuc2V0RmlsdGVyTXNnKGYuZmlsdGVyTXNnKQogICAgICAgIGxvZy5hZGRGaWx0ZXJNc2coZi5lcnJjb2RlKQogICAgICAgIGxvZy53YXJuKGYuZXJybXNnLCByZXEsIHJlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1064</text>
