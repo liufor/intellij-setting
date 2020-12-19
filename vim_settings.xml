@@ -124,11 +124,10 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/request/index.tsx" timestamp="1608382432158">
-        <mark key="[" line="27" column="95" />
-        <mark key="]" line="27" column="9" />
-        <mark key="." line="27" column="8" />
-        <mark key="^" line="27" column="9" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/request/index.tsx" timestamp="1608384161567">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/node_modules/react-dom/umd/react-dom.development.js" timestamp="1608378172228" />
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/gift-pack/index.tsx" timestamp="1608375195551">
@@ -142,11 +141,11 @@
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying_be/config/config_production.yaml" timestamp="1608366806679" />
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/account/account.ts" timestamp="1608380856204">
-        <mark key="[" line="61" column="17" />
-        <mark key="]" line="61" column="17" />
-        <mark key="." line="61" column="17" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/account/account.ts" timestamp="1608383625744">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="48" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/jingxinju/wyq-ui/utils/customErrors.js" timestamp="1608379966630" />
       <file name="/a.sql" timestamp="1608366830441">
@@ -178,20 +177,21 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/log.ts" timestamp="1608382521627">
-        <mark key="[" line="89" column="7" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="5" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/log.ts" timestamp="1608385809605">
+        <mark key="[" line="101" column="17" />
+        <mark key="]" line="101" column="17" />
+        <mark key="^" line="103" column="10" />
+        <mark key="." line="101" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/node_modules/@tarojs/taro/types/api/network/request.d.ts" timestamp="1608382798532" />
       <file name="/console_4" timestamp="1608366854194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/errorEnums.ts" timestamp="1608382405781">
-        <mark key="[" line="33" column="94" />
-        <mark key="]" line="33" column="97" />
-        <mark key="." line="33" column="96" />
-        <mark key="^" line="33" column="97" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/errorEnums.ts" timestamp="1608385862972">
+        <mark key="[" line="70" column="28" />
+        <mark key="]" line="58" column="44" />
+        <mark key="." line="58" column="43" />
+        <mark key="^" line="58" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -285,20 +285,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvKioKICAgKiDln7rmnKzmlrnms5VzdGFydCAKICAgKiAqKi8K</text>
+      <register name="&quot;" type="4">
+        <text>errcode</text>
       </register>
       <register name="-" type="4">
-        <text>errmsg</text>
+        <text>errcode</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cmxOYXZUbyA9IFBhZ2VzLk15Q291cG9uOwogICAgICAgIGJ0blRleHQgPSBjb25maWdJbmZvPy5DbGlja0J0blRleHQK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiaGFzQWNjZXNzVG9rZW4iLCBoYXNBY2Nlc3NUb2tlbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKioKICAgKiDln7rmnKzmlrnms5VzdGFydCAKICAgKiAqKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -310,28 +310,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coLikK</text>
+        <text encoding="base64">ICAgICAgICBmID0gbG9nLmVycm9yRW51bXMuY29tbW9uLmFwaVNlcnZlci5hcGlCb2R5RXJyY29kZS5jb2RlXzEwNTAwX3ByZWZpeF9lcnJfZ2VuKHJlcy5kYXRhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuc2V0RmlsdGVyTXNnKGYuZmlsdGVyTXNnKQogICAgICAgIGxvZy5hZGRGaWx0ZXJNc2coZi5lcnJjb2RlKQogICAgICAgIGxvZy53YXJuKGYuZXJybXNnLCByZXEsIHJlcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKC4pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZy5hZGRGaWx0ZXJNc2coKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwaVVybCA9ICJ4eHgiOwo=</text>
+        <text encoding="base64">ICAgICAgaWYocmVzPy5kYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>1064</text>
