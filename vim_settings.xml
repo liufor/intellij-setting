@@ -112,7 +112,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/node_modules/@tarojs/taro/types/api/base/debug.d.ts" timestamp="1608374136749" />
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/customErrors.ts" timestamp="1608380996862">
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/customErrors.ts" timestamp="1608382217673">
+        <mark key="[" line="6" column="18" />
         <mark key="]" line="77" column="17" />
         <mark key="^" line="77" column="17" />
         <mark key="." line="77" column="16" />
@@ -123,7 +124,12 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/request/index.tsx" timestamp="1608381798473" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/request/index.tsx" timestamp="1608382432158">
+        <mark key="[" line="27" column="95" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="8" />
+        <mark key="^" line="27" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/node_modules/react-dom/umd/react-dom.development.js" timestamp="1608378172228" />
       <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/foshankaiye/pages/gift-pack/index.tsx" timestamp="1608375195551">
         <mark key="]" line="7" column="11" />
@@ -172,14 +178,20 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/log.ts" timestamp="1608379565963">
-        <mark key="[" line="19" column="55" />
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="2" />
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/log.ts" timestamp="1608382521627">
+        <mark key="[" line="89" column="7" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/console_4" timestamp="1608366854194">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/flying/mp_flying/src/common/utils/errorEnums.ts" timestamp="1608382405781">
+        <mark key="[" line="33" column="94" />
+        <mark key="]" line="33" column="97" />
+        <mark key="." line="33" column="96" />
+        <mark key="^" line="33" column="97" />
       </file>
     </filemarks>
     <jumps>
@@ -274,10 +286,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZSgpCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiDln7rmnKzmlrnms5VzdGFydCAKICAgKiAqKi8K</text>
       </register>
       <register name="-" type="4">
-        <text>otherHealthStatus</text>
+        <text>errmsg</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
@@ -286,7 +298,7 @@
         <text encoding="base64">ICAgICAgICB1cmxOYXZUbyA9IFBhZ2VzLk15Q291cG9uOwogICAgICAgIGJ0blRleHQgPSBjb25maWdJbmZvPy5DbGlja0J0blRleHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZSgpCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiDln7rmnKzmlrnms5VzdGFydCAKICAgKiAqKi8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -298,25 +310,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKC4pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coLikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy5hZGRGaWx0ZXJNc2coKQo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwaVVybCA9ICJ4eHgiOwo=</text>
+        <text encoding="base64">ICAgIGxvZy5kZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKC4pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5hZGRGaWx0ZXJNc2coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2cuaW5mbygiTG9naW5CdXR0b24geHh4eCIpCg==</text>
+        <text encoding="base64">ICAgIGFwaVVybCA9ICJ4eHgiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
