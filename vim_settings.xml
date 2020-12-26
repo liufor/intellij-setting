@@ -19,7 +19,6 @@
         <entry>pre&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/auth_pre&quot;/session_backup&quot;/g</entry>
         <entry>%s/pre&quot;/prod&quot;/g</entry>
         <entry>%s/auth_pre&quot;/shixiang_backup&quot;/g</entry>
         <entry>%s/auth_pre&quot;/poi_backup&quot;/g</entry>
@@ -39,6 +38,7 @@
         <entry>324</entry>
         <entry>101</entry>
         <entry>344</entry>
+        <entry>147</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -123,11 +123,17 @@
         <mark key="^" line="142" column="16" />
         <mark key="." line="142" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/index.html" timestamp="1608981236292">
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="41" column="11" />
-        <mark key="^" line="41" column="11" />
-        <mark key="." line="41" column="10" />
+      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/index.html" timestamp="1608984289520">
+        <mark key="[" line="156" column="13" />
+        <mark key="]" line="256" column="16" />
+        <mark key="^" line="251" column="16" />
+        <mark key="." line="256" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/public_path_config.js" timestamp="1608984042336">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="5" column="91" />
+        <mark key="^" line="5" column="91" />
+        <mark key="." line="5" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/pages/demand/add/containers/OtherInfoForm/index.tsx" timestamp="1608966090006">
         <mark key="[" line="425" column="26" />
@@ -141,11 +147,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/public/request/sever.ts" timestamp="1608979907196">
-        <mark key="[" line="11" column="146" />
-        <mark key="]" line="11" column="62" />
-        <mark key="." line="11" column="61" />
-        <mark key="^" line="11" column="62" />
+      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/public/request/sever.ts" timestamp="1608984132433">
+        <mark key="[" line="11" column="101" />
+        <mark key="]" line="11" column="70" />
+        <mark key="." line="11" column="69" />
+        <mark key="^" line="11" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/pages/message/detail/index.tsx" timestamp="1608916912568">
         <mark key="[" line="25" column="19" />
@@ -251,20 +257,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5tcF9pbmR1c3RyeV9sZWFndWVfYXJlYV9jb25maWcuY2FwaV9jb25maWcuYmFzZV9ob3N0ID0gZXh0cmFjdEhvc3QocHJlZGVmaW5lQ29uZmlnLmJhc2VfaG9zdF93aXRoX3Byb3RvY29sKTsgLy8gY2Fwaeayoei/lOWbnu+8jOihpeS4igo=</text>
+      <register name="&quot;" type="4">
+        <text>_public_path</text>
       </register>
       <register name="-" type="4">
-        <text>xtractHost1</text>
+        <text>_public_path</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5tcF9pbmR1c3RyeV9sZWFndWVfYXJlYV9jb25maWcuY2FwaV9jb25maWcuYmFzZV9ob3N0ID0gYmFzZUhvc3Q7IAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5tcF9pbmR1c3RyeV9sZWFndWVfYXJlYV9jb25maWcuY2FwaV9jb25maWcuYmFzZV9ob3N0ID0gZXh0cmFjdEhvc3QocHJlZGVmaW5lQ29uZmlnLmJhc2VfaG9zdF93aXRoX3Byb3RvY29sKTsgLy8gY2Fwaeayoei/lOWbnu+8jOihpeS4igo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -276,31 +282,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93Lm1wX2luZHVzdHJ5X2xlYWd1ZV9lbnYgPSBlbnY7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXZfYXBpX2Jhc2VfaG9zdF93aXRoX3Byb3RvY29sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGVudiA9IGdldEVudigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93Lm1wX2luZHVzdHJ5X2xlYWd1ZV9wdWJsaWNfcGF0aCA9IGF1dG9HZW5XZWJwYWNrUHVibGljUGF0aChlbnYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5tcF9pbmR1c3RyeV9sZWFndWVfcHVibGljX2FwaV9wYXRoID0gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYocHJlZGVmaW5lQ29uZmlnLm1wX2luZHVzdHJ5X2xlYWd1ZV9wdWJsaWNfcGF0aCA9PT0gdW5kZWZpbmVkKSB7Cg==</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5tcF9pbmR1c3RyeV9sZWFndWVfYXJlYV9wYXRoX2RlZmF1bHRfa2V5ID0gIiI7IC8vIOacquaJvuWIsO+8jOm7mOiupOi1sOWTquS4qmtlee+8nyBfX3ByZWRlZmluZV9tYXBfXwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5jb25mID0ge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIGlmIChlbnYgPT09ICJwcm9kIikgewo=</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5tcF9pbmR1c3RyeV9sZWFndWVfYmFzZV9ob3N0X3dpdGhfcHJvdG9jb2wgPSB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubXBfaW5kdXN0cnlfbGVhZ3VlX2FyZWFfa2V5ID0gImRldiIK</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5hcmVhX2tleSA9IHVuZGVmaW5lZDsK</text>
       </register>
       <register name=":" type="4">
-        <text>344</text>
+        <text>147</text>
       </register>
     </registers>
   </component>
