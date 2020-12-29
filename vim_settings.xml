@@ -174,7 +174,13 @@
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/pages/equip/custom/index.tsx" timestamp="1608987122800">
         <mark key="[" line="347" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/pages/demand/detail/index.tsx" timestamp="1609063484736">
+      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/public/request/sever.ts" timestamp="1609216225657">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="8" />
+        <mark key="^" line="36" column="8" />
+        <mark key="." line="36" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/pages/demand/detail/index.tsx" timestamp="1609216018052">
         <mark key="[" line="28" column="25" />
         <mark key="]" line="29" column="7" />
         <mark key="^" line="29" column="7" />
@@ -284,10 +290,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>final_conf</text>
+        <text>backurl || window.location.href</text>
       </register>
       <register name="-" type="4">
-        <text>final_conf</text>
+        <text>backurl || window.location.href</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
