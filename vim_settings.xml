@@ -111,11 +111,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/component/Countdown/index.tsx" timestamp="1609254924507" />
-      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/dist/index.html" timestamp="1609209565413">
-        <mark key="[" line="227" column="49" />
+      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mini-industry-league/pages/index/index.js" timestamp="1609308698822">
+        <mark key="[" line="13" column="188" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/public/request/sever.ts" timestamp="1609219558452">
+      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/component/Countdown/index.tsx" timestamp="1609254924507" />
+      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/public/request/sever.ts" timestamp="1609306940220">
         <mark key="[" line="16" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/pages/demand/detail/index.tsx" timestamp="1609220902382">
@@ -137,20 +140,17 @@
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/public/utils/mp/index.ts" timestamp="1609216881086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/index.html" timestamp="1609305477743">
-        <mark key="[" line="62" column="36" />
-        <mark key="]" line="62" column="30" />
-        <mark key="." line="62" column="29" />
-        <mark key="^" line="62" column="30" />
+      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/index.html" timestamp="1609308389548">
+        <mark key="[" line="217" column="46" />
+        <mark key="]" line="254" column="41" />
+        <mark key="." line="254" column="40" />
+        <mark key="^" line="254" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/public/utils/utils.tsx" timestamp="1609304982563">
         <mark key="[" line="414" column="31" />
         <mark key="]" line="426" column="12" />
         <mark key="^" line="426" column="12" />
         <mark key="." line="426" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/public/utils/mp.ts" timestamp="1609216833200">
-        <mark key="[" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/public/utils/index.ts" timestamp="1609255222650">
         <mark key="[" line="1" column="21" />
@@ -163,6 +163,12 @@
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mini-industry-league/pages/index/index.wxml" timestamp="1609308636432">
+        <mark key="[" line="28" column="56" />
+        <mark key="]" line="28" column="70" />
+        <mark key="^" line="27" column="56" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/mp-industry-league/src/pages/server/detail/index.tsx" timestamp="1609216958634">
         <mark key="]" line="0" column="7" />
@@ -262,19 +268,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICBjb3NfdXJsOiAiaHR0cDovL2Nsb3VkLWluZHVzdHJ5LTEyNTc5NDgyMTYuY29zLmFwLXNoYW5naGFpLm15cWNsb3VkLmNvbS9tcC1pbmR1c3RyeS1sZWFndWUvZGlzdC9pbmRleC5odG1sIy9wYWdlcy9pbmRleC9pbmRleD9kZWJ1Z19lbmFibGVkPXRydWUmYmFzZV9ob3N0X3dpdGhfcHJvdG9jb2w9aHR0cCUzQSUyRiUyRjgxLndlZGV2LmNvb2wiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>utils</text>
+        <text>conf</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtudW1iZXJ9IFtsYXRlbmN5PTMwMF0gVGhlIGFtb3VudCBvZiB0aW1lIChpbiBtaWxsaXNlY29uZHMpIHRvIHdhaXQgYmVmb3JlIGRpZmZlcmVudGlhdGluZyBhIHNpbmdsZSBmcm9tIGEgZG91YmxlIGNsaWNrCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3NfdXJsOiAiaHR0cDovL2Nsb3VkLWluZHVzdHJ5LTEyNTc5NDgyMTYuY29zLmFwLXNoYW5naGFpLm15cWNsb3VkLmNvbS9tcC1pbmR1c3RyeS1sZWFndWUvZGlzdC9pbmRleC5odG1sIy9wYWdlcy9pbmRleC9pbmRleD9kZWJ1Z19lbmFibGVkPXRydWUmYmFzZV9ob3N0X3dpdGhfcHJvdG9jb2w9aHR0cCUzQSUyRiUyRjgxLndlZGV2LmNvb2wiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -286,28 +292,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2X2FwaV9iYXNlX2hvc3Rfd2l0aF9wcm90b2NvbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGV4dHJhY3RIb3N0KGZyb21fbXBfYXBpX2Jhc2VfaG9zdF93aXRoX3Byb3RvY29sKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJodHRwczovLyIK</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBob3N0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChob3N0LmluZGV4T2YoImh0dHA6Ly8iKSA9PT0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGdldFF1ZXJ5U3RyaW5nKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGV4dHJhY3RIb3N0KGxvY2F0aW9uLmhyZWYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZUZvck9mSXRlcmF0b3JIZWxwZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2luZGV4Lmxlc3MnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmaW5hbF9jb25mLmRlYnVnX2VuYWJsZWQgPSB0cnVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJtb21lbnQiOiAiXjIuMjkuMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpbmFsX2NvbmYuZW52ID09PSAiZGV2Iikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>147</text>
