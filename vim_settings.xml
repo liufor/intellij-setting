@@ -111,7 +111,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/threejs_lab/src/xhz/kongjianshu/index.html" timestamp="1609949009192" />
+      <file name="$USER_HOME$/Documents/work/code/threejs_lab/src/xhz/kongjianshu/index.html" timestamp="1610012120192">
+        <mark key="[" line="34" column="61" />
+        <mark key="]" line="34" column="54" />
+        <mark key="^" line="34" column="54" />
+        <mark key="." line="34" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/threejs_lab/src/gltf_v0.html" timestamp="1609859127646">
         <mark key="[" line="46" column="42" />
       </file>
@@ -135,8 +140,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/ice/ice-format/src/main/java/cn/bmsk/format_factory/load/StaticMeshesLoader.java" timestamp="1609837346687" />
-      <file name="$USER_HOME$/Documents/work/code/threejs_lab/src/xhz/kongjianshu/index.js" timestamp="1609997952453">
-        <mark key="[" line="78" column="41" />
+      <file name="$USER_HOME$/Documents/work/code/threejs_lab/src/xhz/kongjianshu/index.js" timestamp="1610011898348">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="143" column="27" />
+        <mark key="." line="143" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry/tea-app-industry-league/src/routes/portal/equipment/equipmentDetail.tsx" timestamp="1609434842642">
         <mark key="[" line="31" column="60" />
@@ -244,11 +251,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9ImdsdGZfdjEuaHRtbCI+TG9hZGVyIERlbW88L2E+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>innerWidth</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>innerWidth</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
