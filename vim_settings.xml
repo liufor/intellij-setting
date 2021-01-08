@@ -19,7 +19,6 @@
         <entry>pre&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvcFRBUkdFVC8seyJ0YXJnZXRzIjogWyIvZyA=</entry>
         <entry>%s/pEND/&quot;}}/g</entry>
         <entry>%s/auth_pre&quot;/push_backup&quot;/g</entry>
         <entry>%s/pre&quot;/backup&quot;/g</entry>
@@ -39,6 +38,7 @@
         <entry>wq</entry>
         <entry>L135899</entry>
         <entry>135899</entry>
+        <entry>145249</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -120,13 +120,18 @@
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/LICENSE" timestamp="1610019860304">
         <mark key="[" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/ignorefiles/README.md" timestamp="1610081446085">
+      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/ignorefiles/README.md" timestamp="1610086811092">
         <mark key="[" line="64" column="42" />
         <mark key="]" line="52" column="15" />
         <mark key="^" line="52" column="15" />
         <mark key="." line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/ignorefiles/BIMWINNER.BOS3D.js" timestamp="1610082191776" />
+      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/ignorefiles/BIMWINNER.BOS3D.js" timestamp="1610087083876">
+        <mark key="[" line="139528" column="6" />
+        <mark key="]" line="139528" column="6" />
+        <mark key="^" line="139528" column="6" />
+        <mark key="." line="139528" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/README.md" timestamp="1610078741909">
         <mark key="[" line="12" column="84" />
         <mark key="]" line="16" column="22" />
@@ -136,8 +141,10 @@
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/package.json" timestamp="1610077228254">
         <mark key="[" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/ViewerImpl.ts" timestamp="1610035055371">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/ViewerImpl.ts" timestamp="1610087432716">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/node_modules/prettier-config-standard/.prettierrc.json" timestamp="1610077494199" />
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/misc/xhz/BIMWINNER.BOS3D.js" timestamp="1610017802444" />
@@ -268,11 +275,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Class</text>
       </register>
       <register name="-" type="4">
-        <text>isFullScreenAvailable</text>
+        <text>Class</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
@@ -317,7 +324,7 @@
         <text encoding="base64">ICAgICAgICAgIGRldl9hcGlfYmFzZV9ob3N0X3dpdGhfcHJvdG9jb2wK</text>
       </register>
       <register name=":" type="4">
-        <text>135899</text>
+        <text>145249</text>
       </register>
     </registers>
   </component>
