@@ -117,6 +117,12 @@
         <mark key="^" line="276" column="10" />
         <mark key="." line="273" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/Logger.ts" timestamp="1610104067097">
+        <mark key="[" line="37" column="2" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/ignorefiles/README.md" timestamp="1610091719745">
         <mark key="[" line="64" column="42" />
         <mark key="]" line="52" column="15" />
@@ -182,11 +188,11 @@
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/FilterManager.ts" timestamp="1610090172149">
         <mark key="[" line="1502" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/Viewer.ts" timestamp="1610102170748">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/Viewer.ts" timestamp="1610103950295">
+        <mark key="'" line="87" column="6" />
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/ViewController.ts" timestamp="1610098507311">
         <mark key="[" line="1" column="25" />
@@ -263,6 +269,7 @@
       <jump line="375" column="3" filename="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry_yunnan/fe-yunnan/cloud_industry_portals_web/src/nginx.yaml" />
       <jump line="0" column="3" filename="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry_yunnan/fe-yunnan/cloud_industry_portals_web/src/nginx.yaml" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/work/code/golang_projects/src/git.code.oa.com/cloud_industry_yunnan/fe-yunnan/cloud_industry_portals_web/src/nginx.yaml" />
+      <jump line="87" column="6" filename="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/Viewer.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -284,10 +291,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBbYXR0YWNobWVudDogc3RyaW5nXTogYW55Owo=</text>
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>xxxxTODO</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
@@ -296,7 +303,7 @@
         <text encoding="base64">ICAgIGNvbnN0IG1hdGNoID0gdWEubWF0Y2goL0FuZHJvaWRccyhbMC05XC5dKikvKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBbYXR0YWNobWVudDogc3RyaW5nXTogYW55Owo=</text>
+        <text encoding="base64">ICAgIHN1cGVyKHByb3BzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -308,28 +315,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZpZXdwb3J0OiBTVkdSZWN0IHwgc3RyaW5nIHwgVmVjdG9yNCB8ICgodmlld3BvcnQ6IFZlY3RvcjQpID0+IHZvaWQpIHwgKCh4OiBHTGludCwgeTogR0xpbnQsIHdpZHRoOiBHTHNpemVpLCBoZWlnaHQ6IEdMc2l6ZWkpID0+IHZvaWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMudmlld3BvcnRESVYgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdtYWluLWNhbnZhcycpWzBdLnBhcmVudEVsZW1lbnQ7IC8v6I635Y+W6KeG56qXCg==</text>
+        <text encoding="base64">ICBbYXR0YWNobWVudDogc3RyaW5nXTogYW55Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnUK</text>
+        <text encoding="base64">ICAgIHRoaXMudmlld3BvcnRESVYgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdtYWluLWNhbnZhcycpWzBdLnBhcmVudEVsZW1lbnQ7IC8v6I635Y+W6KeG56qXCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFueSA9IGphc21pbmUuYW55Owo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZWEgPSBTaGFwZVV0aWxzLmFyZWE7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0cnUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciQxCg==</text>
+        <text encoding="base64">aW1wb3J0IGFueSA9IGphc21pbmUuYW55Owo=</text>
       </register>
       <register name="9" type="2">
-        <text>indexedDB</text>
+        <text encoding="base64">aW1wb3J0IGFyZWEgPSBTaGFwZVV0aWxzLmFyZWE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>145318</text>
