@@ -19,7 +19,6 @@
         <entry>pre&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/auth_pre&quot;/push_backup&quot;/g</entry>
         <entry>%s/pre&quot;/backup&quot;/g</entry>
         <entry>1064</entry>
         <entry>52</entry>
@@ -39,6 +38,7 @@
         <entry>135899</entry>
         <entry>145249</entry>
         <entry>145318</entry>
+        <entry>141171</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,13 +118,13 @@
         <mark key="." line="273" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/Logger.ts" timestamp="1610106218232" />
-      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/ignorefiles/README.md" timestamp="1610106578460">
-        <mark key="[" line="79" column="3" />
-        <mark key="]" line="52" column="15" />
+      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/ignorefiles/README.md" timestamp="1610361055888">
+        <mark key="[" line="56" column="14" />
+        <mark key="]" line="56" column="14" />
         <mark key="^" line="52" column="15" />
-        <mark key="." line="52" column="14" />
+        <mark key="." line="56" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/ignorefiles/BIMWINNER.BOS3D.js" timestamp="1610101901559">
+      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/ignorefiles/BIMWINNER.BOS3D.js" timestamp="1610360780565">
         <mark key="[" line="139528" column="6" />
         <mark key="]" line="139528" column="6" />
         <mark key="^" line="139528" column="6" />
@@ -133,11 +133,11 @@
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/Utils.ts" timestamp="1610095197612">
         <mark key="[" line="881" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/ViewerImpl.ts" timestamp="1610091413803">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="26" column="11" />
-        <mark key="." line="26" column="10" />
-        <mark key="^" line="26" column="11" />
+      <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/ViewerImpl.ts" timestamp="1610360215434">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/i18nMessage.ts" timestamp="1610093559780">
         <mark key="[" line="0" column="0" />
@@ -288,10 +288,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>L145234</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>L145234</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
@@ -346,7 +346,7 @@ this.</text>
         <text encoding="base64">ICAgIGNvbnN0cnUK</text>
       </register>
       <register name=":" type="4">
-        <text>145318</text>
+        <text>141171</text>
       </register>
     </registers>
   </component>
