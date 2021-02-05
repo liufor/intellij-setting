@@ -111,12 +111,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/opt/tools/plantuml/c4_init/README.md" timestamp="1612511407217">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+      <file name="/opt/tools/plantuml/c4_init/README.md" timestamp="1612512287697">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
       </file>
-      <file name="/opt/tools/plantuml/c4/style/c4.pumle" timestamp="1612511193457" />
+      <file name="/opt/tools/plantuml/c4/stdlib/C4_Component.pumle" timestamp="1612512049998" />
+      <file name="/opt/tools/plantuml/c4/style/c4.pumle" timestamp="1612512029668" />
       <file name="/opt/tools/plantuml/c4_init/c4_init.sh" timestamp="1612510681975">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="9" />
@@ -140,7 +141,6 @@
       <file name="/opt/tools/plantuml/c4/plantuml-style-c4@latest/core.puml" timestamp="1612506312452">
         <mark key="[" line="1" column="1" />
       </file>
-      <file name="/opt/tools/plantuml/c4/origin2/plantuml-style-c4@latest/c4.puml" timestamp="1612503456341" />
       <file name="/opt/tools/plantuml/c4/plantuml-style-c4@latest/c4.puml" timestamp="1612506968534">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="4" column="1" />
@@ -245,10 +245,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>C4 样式puml在github和其他站点上</text>
+        <text>stdlib</text>
       </register>
       <register name="-" type="4">
-        <text>C4 样式puml在github和其他站点上</text>
+        <text>stdlib</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
