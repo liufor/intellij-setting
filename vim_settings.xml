@@ -116,7 +116,6 @@
         <mark key="[" line="13" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/ipaas/camel-all/camel/core/camel-api/src/main/java/org/apache/camel/spi/package.html" timestamp="1616124035285" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/camel-all/camel-k-runtime/camel-k-core/api/src/main/java/org/apache/camel/k/SourceLoader.java" timestamp="1616121945835" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/integration/component-proxy/2.json" timestamp="1616168821662">
         <mark key="[" line="0" column="2108" />
         <mark key="]" line="0" column="0" />
@@ -125,15 +124,23 @@
       </file>
       <file name="$USER_HOME$/Documents/work/code/ipaas/camel-all/camel/components/camel-aws2-msk/src/generated/java/org/apache/camel/component/aws2/msk/MSK2EndpointConfigurer.java" timestamp="1616123963966" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/camel-all/camel/core/camel-api/src/main/java/org/apache/camel/spi/XMLRoutesDefinitionLoader.java" timestamp="1616124246016" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/integration/component-proxy/ComponentSense.json" timestamp="1616173435540" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/camel-all/camel/core/camel-xml-jaxb/src/main/java/org/apache/camel/xml/jaxb/JaxbHelper.java" timestamp="1616124401254" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/camel-all/camel/core/camel-allcomponents/pom.xml" timestamp="1616124043177" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/camel-all/camel/core/camel-xml-jaxb/src/main/java/org/apache/camel/xml/jaxb/DefaultModelJAXBContextFactory.java" timestamp="1616124438679" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/camel-all/camel/core/camel-api/src/main/java/org/apache/camel/spi/Language.java" timestamp="1616124074945" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/integration/component-proxy/4.json" timestamp="1616173312549" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/integration/component-proxy/1.json" timestamp="1616171238838">
         <mark key="[" line="0" column="1247" />
         <mark key="]" line="0" column="1246" />
         <mark key="^" line="0" column="1246" />
         <mark key="." line="0" column="1245" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/integration/component-proxy/InstanceStub.json" timestamp="1616173768347">
+        <mark key="[" line="0" column="3077" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/ipaas/camel-all/camel-k-runtime/camel-k-loader-xml/impl/src/main/java/org/apache/camel/k/loader/xml/XmlSourceLoader.java" timestamp="1616123916669" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/camel-all/camel/core/camel-xml-jaxb/src/main/java/org/apache/camel/xml/jaxb/JaxbXMLRoutesDefinitionLoader.java" timestamp="1616124290196" />
@@ -244,10 +251,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q29tcG9uZW50U2Vuc2U6IA==</text>
+        <text>ComponentSense: &quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29tcG9uZW50U2Vuc2U6IA==</text>
+        <text>ComponentSense: &quot;</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
