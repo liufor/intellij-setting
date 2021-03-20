@@ -111,43 +111,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/api-generator/src/main/java/io/syndesis/server/api/generator/APIGenerator.java" timestamp="1616198017820" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/StateChangeHandler.java" timestamp="1616216331878" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/connection/ConnectorSettings.java" timestamp="1616215141665" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/WithProperties.java" timestamp="1616211465610" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/pom.xml" timestamp="1616197888292" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/integration/component-proxy/ComponentSense.json" timestamp="1616173435540" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/integration/component-proxy/InstanceStub.json" timestamp="1616175222805">
-        <mark key="[" line="0" column="3498" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/action/Action.java" timestamp="1616211143297" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/Kind.java" timestamp="1616211066932" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/camelk/crd/DataSpec.java" timestamp="1616216894742" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/camelk/crd/Failure.java" timestamp="1616216613919" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/Kind.java" timestamp="1616215147053" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/connection/Connection.java" timestamp="1616211532704" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/tx_eis_xml_connector.xml" timestamp="1616209859470">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/integration/component-proxy/3.json" timestamp="1616171848368">
-        <mark key="[" line="0" column="4311" />
-        <mark key="]" line="40" column="38" />
-        <mark key="." line="40" column="37" />
-        <mark key="^" line="40" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/action/ConnectorAction.java" timestamp="1616211086992" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/action/ActionDescriptor.java" timestamp="1616211164163" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/camelk/crd/Integration.java" timestamp="1616216291558" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/camelk/CamelKPublishHandler.java" timestamp="1616215631261" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/camelk/BaseCamelKHandler.java" timestamp="1616215515456" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/StateUpdate.java" timestamp="1616216321552" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/camelk/crd/ConditionSpec.java" timestamp="1616216541481" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/camelk/crd/FailureRecovery.java" timestamp="1616216610974" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/integration/StepKind.java" timestamp="1616211337562" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/connector/api-provider/src/main/resources/META-INF/syndesis/connector/api-provider.json" timestamp="1616210914354" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/WithIdVersioned.java" timestamp="1616211419989" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/integration/component-proxy/4.json" timestamp="1616173312549" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/integration/component-proxy/1.json" timestamp="1616171238838">
-        <mark key="[" line="0" column="1247" />
-        <mark key="]" line="0" column="1246" />
-        <mark key="^" line="0" column="1246" />
-        <mark key="." line="0" column="1245" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/choice/FlowOption.java" timestamp="1616211213370" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/camelk/CamelKIntegrationController.java" timestamp="1616217135347" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/noop/NoopIntegrationController.java" timestamp="1616216373675" />
       <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/WithId.java" timestamp="1616211370712" />
-      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/common/model/src/main/java/io/syndesis/common/model/integration/Flow.java" timestamp="1616211316586" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/BaseIntegrationController.java" timestamp="1616216471028" />
+      <file name="$USER_HOME$/Documents/work/code/ipaas/syndesisio/syndesis/app/server/controller/src/main/java/io/syndesis/server/controller/integration/camelk/CamelKSupport.java" timestamp="1616217253228" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
