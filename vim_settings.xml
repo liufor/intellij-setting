@@ -114,26 +114,23 @@
       <file name="/api [aisuda@gz-cdb-73ncv949.sql.tencentcdb.com]" timestamp="1621843043392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/aisuda.setting" timestamp="1621866110420">
+      <file name="/aisuda.setting" timestamp="1621868129761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/isuda/1.1.10/app/app/amis-saas/controller/auth/OAuthController.js" timestamp="1621866373667" />
-      <file name="/setting [aisuda@gz-cdb-73ncv949.sql.tencentcdb.com]" timestamp="1621866110348">
+      <file name="/setting [aisuda@gz-cdb-73ncv949.sql.tencentcdb.com]" timestamp="1621867927023">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/aisuda.o_auth" timestamp="1621843641907">
+      <file name="/aisuda.o_auth" timestamp="1621869223395">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/aisuda.application" timestamp="1621843058945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1621839462871">
+      <file name="/default" timestamp="1621869257497">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1621839461830">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/o_auth [@localhost]" timestamp="1621843641808">
+      <file name="/o_auth [@localhost]" timestamp="1621868721756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/isuda/1.1.10/app/ljh/docker-compose.yml" timestamp="1621865951040" />
@@ -143,22 +140,24 @@
       <file name="/application [aisuda@gz-cdb-73ncv949.sql.tencentcdb.com]" timestamp="1621843058920">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1621863189512">
-        <mark key="[" line="0" column="973" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1621869852614">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1621866111764">
+      <file name="/dummy.sql" timestamp="1621869627152">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1621839461852">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console_1" timestamp="1621839016483">
+      <file name="/Dummy.txt" timestamp="1621869242385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/aisuda.api" timestamp="1621843043577">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/setting [@localhost]" timestamp="1621847870079">
+      <file name="/o_auth [aisuda@gz-cdb-73ncv949.sql.tencentcdb.com]" timestamp="1621869223338">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/setting [@localhost]" timestamp="1621868129691">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -259,7 +258,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBHZXRDdXJyZW50QWNjb3VudEluZm86IGBHRVQgL2lhbS9hcGkvdjEvYWNjb3VudCAke0JBU0VfREVWX1VSTH1gLCAvLyDojrflj5blvZPliY3otKblj7fkv6Hmga8K</text>
+        <text>{&quot;qq&quot;: {}, &quot;bce&quot;: {&quot;endpoint&quot;: &quot;http://iam.bj.bce-internal.baidu.com/v3&quot;, &quot;redirectUrl&quot;: &quot;https://login.bce.baidu.com/?redirect=&quot;, &quot;pass_endpoint&quot;: &quot;http://bcepass.bj.bce-internal.baidu.com:8587/v4&quot;}, &quot;uuap&quot;: {&quot;host&quot;: &quot;https://itebeta.baidu.com&quot;, &quot;appKey&quot;: &quot;UICWSTestKey&quot;, &quot;secretKey&quot;: &quot;UICWSTestKey&quot;}, &quot;baidu&quot;: {}, &quot;oauth&quot;: {&quot;scope&quot;: [&quot;openid&quot;, &quot;email&quot;], &quot;idField&quot;: &quot;sub&quot;, &quot;clientID&quot;: &quot;aisuda&quot;, &quot;tokenURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/token&quot;, &quot;logoutUrl&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/logout&quot;, &quot;nameField&quot;: &quot;email&quot;, &quot;emailField&quot;: &quot;email&quot;, &quot;profileURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/userinfo&quot;, &quot;emailSuffix&quot;: &quot;digibms.com&quot;, &quot;clientSecret&quot;: &quot;a1747aee-131e-4a51-bdfd-7a666e4b3d23&quot;, &quot;displayField&quot;: &quot;email&quot;, &quot;authorizationURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/auth&quot;}, &quot;third&quot;: {&quot;codeField&quot;: &quot;code&quot;, &quot;logoutUrl&quot;: &quot;&quot;}, &quot;weixin&quot;: {}, &quot;enabled&quot;: [&quot;oauth&quot;, &quot;email&quot;], &quot;autoJoinPrivateORG&quot;: true}</text>
       </register>
       <register name="-" type="4">
         <text>showAll</text>
@@ -271,7 +270,7 @@
         <text encoding="base64">ICBHZXRDdXJyZW50QWNjb3VudEluZm86IGBHRVQgL2lhbS9hcGkvdjEvYWNjb3VudCAke0JBU0VfREVWX1VSTH1gLCAvLyDojrflj5blvZPliY3otKblj7fkv6Hmga8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWN0b3IoanhzX2FjdG9yLCAi57uP6ZSA5ZWGIiwgIuWIhuW4g+WFqOWbveWQhOWcsOeahOe7j+mUgOWVhiIpCg==</text>
+        <text>{&quot;qq&quot;: {}, &quot;bce&quot;: {&quot;endpoint&quot;: &quot;http://iam.bj.bce-internal.baidu.com/v3&quot;, &quot;redirectUrl&quot;: &quot;https://login.bce.baidu.com/?redirect=&quot;, &quot;pass_endpoint&quot;: &quot;http://bcepass.bj.bce-internal.baidu.com:8587/v4&quot;}, &quot;uuap&quot;: {&quot;host&quot;: &quot;https://itebeta.baidu.com&quot;, &quot;appKey&quot;: &quot;UICWSTestKey&quot;, &quot;secretKey&quot;: &quot;UICWSTestKey&quot;}, &quot;baidu&quot;: {}, &quot;oauth&quot;: {&quot;scope&quot;: [&quot;openid&quot;, &quot;email&quot;], &quot;idField&quot;: &quot;sub&quot;, &quot;clientID&quot;: &quot;aisuda&quot;, &quot;tokenURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/token&quot;, &quot;logoutUrl&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/logout&quot;, &quot;nameField&quot;: &quot;email&quot;, &quot;emailField&quot;: &quot;email&quot;, &quot;profileURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/userinfo&quot;, &quot;emailSuffix&quot;: &quot;digibms.com&quot;, &quot;clientSecret&quot;: &quot;a1747aee-131e-4a51-bdfd-7a666e4b3d23&quot;, &quot;displayField&quot;: &quot;email&quot;, &quot;authorizationURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/auth&quot;}, &quot;third&quot;: {&quot;codeField&quot;: &quot;code&quot;, &quot;logoutUrl&quot;: &quot;&quot;}, &quot;weixin&quot;: {}, &quot;enabled&quot;: [&quot;oauth&quot;, &quot;email&quot;], &quot;autoJoinPrivateORG&quot;: true}</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -283,28 +282,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>{&quot;qq&quot;: {}, &quot;bce&quot;: {&quot;endpoint&quot;: &quot;http://iam.bj.bce-internal.baidu.com/v3&quot;, &quot;redirectUrl&quot;: &quot;https://login.bce.baidu.com/?redirect=&quot;, &quot;pass_endpoint&quot;: &quot;http://bcepass.bj.bce-internal.baidu.com:8587/v4&quot;}, &quot;uuap&quot;: {&quot;host&quot;: &quot;https://itebeta.baidu.com&quot;, &quot;appKey&quot;: &quot;UICWSTestKey&quot;, &quot;secretKey&quot;: &quot;UICWSTestKey&quot;}, &quot;baidu&quot;: {}, &quot;oauth&quot;: {&quot;scope&quot;: [&quot;openid&quot;], &quot;idField&quot;: &quot;id&quot;, &quot;clientID&quot;: &quot;aisuda&quot;, &quot;tokenURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/token&quot;, &quot;logoutUrl&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/logout&quot;, &quot;nameField&quot;: &quot;username&quot;, &quot;emailField&quot;: &quot;email&quot;, &quot;profileURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/userinfo&quot;, &quot;emailSuffix&quot;: &quot;digibms.com&quot;, &quot;clientSecret&quot;: &quot;a1747aee-131e-4a51-bdfd-7a666e4b3d23&quot;, &quot;displayField&quot;: &quot;displayName&quot;, &quot;authorizationURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/auth&quot;}, &quot;third&quot;: {&quot;codeField&quot;: &quot;code&quot;, &quot;logoutUrl&quot;: &quot;&quot;}, &quot;weixin&quot;: {}, &quot;enabled&quot;: [&quot;oauth&quot;, &quot;email&quot;], &quot;autoJoinPrivateORG&quot;: true}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>{&quot;qq&quot;: {}, &quot;bce&quot;: {&quot;endpoint&quot;: &quot;http://iam.bj.bce-internal.baidu.com/v3&quot;, &quot;redirectUrl&quot;: &quot;https://login.bce.baidu.com/?redirect=&quot;, &quot;pass_endpoint&quot;: &quot;http://bcepass.bj.bce-internal.baidu.com:8587/v4&quot;}, &quot;uuap&quot;: {&quot;host&quot;: &quot;https://itebeta.baidu.com&quot;, &quot;appKey&quot;: &quot;UICWSTestKey&quot;, &quot;secretKey&quot;: &quot;UICWSTestKey&quot;}, &quot;baidu&quot;: {}, &quot;oauth&quot;: {&quot;scope&quot;: [&quot;openid email offline_access&quot;], &quot;idField&quot;: &quot;id&quot;, &quot;clientID&quot;: &quot;aisuda&quot;, &quot;tokenURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/token&quot;, &quot;logoutUrl&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/logout&quot;, &quot;nameField&quot;: &quot;username&quot;, &quot;emailField&quot;: &quot;email&quot;, &quot;profileURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/userinfo&quot;, &quot;emailSuffix&quot;: &quot;digibms.com&quot;, &quot;clientSecret&quot;: &quot;a1747aee-131e-4a51-bdfd-7a666e4b3d23&quot;, &quot;displayField&quot;: &quot;displayName&quot;, &quot;authorizationURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/auth&quot;}, &quot;third&quot;: {&quot;codeField&quot;: &quot;code&quot;, &quot;logoutUrl&quot;: &quot;&quot;}, &quot;weixin&quot;: {}, &quot;enabled&quot;: [&quot;oauth&quot;, &quot;email&quot;], &quot;autoJoinPrivateORG&quot;: true}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWN0b3IoanhzX2FjdG9yLCAi57uP6ZSA5ZWGIiwgIuWIhuW4g+WFqOWbveWQhOWcsOeahOe7j+mUgOWVhiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U3lzdGVtKGp4c193ZWFwcF9zeXN0ZW0sICLnu4/plIDllYblsI/nqIvluo8iLCAi57uP6ZSA5ZWG5Zyo5b6u5L+h5bCP56iL5bqP5LiK5a6M5oiQ5omA5pyJ5Lia5YqhIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5ZOB54mM5ZWG566h55CG44CB5bmz5Y+w57qn6YWN572u562JCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UmVsKHBwc19hZG1pbl9hY3RvciwgcHBzX3BjX3N5c3RlbSwgIuS9v+eUqCIpCg==</text>
+        <text encoding="base64">U3lzdGVtKGp4c193ZWFwcF9zeXN0ZW0sICLnu4/plIDllYblsI/nqIvluo8iLCAi57uP6ZSA5ZWG5Zyo5b6u5L+h5bCP56iL5bqP5LiK5a6M5oiQ5omA5pyJ5Lia5YqhIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U3lzdGVtKHBwc193d19zeXN0ZW0sICLlk4HniYzllYYiLCAi44CM5ZOB54mM5ZWG6ZSA5ZSu44CN55So5LyB5b6u6IGK5aSp5bel5YW35qCP5ZKM44CM5a6i5oi344CN5rKf6YCaIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>597</text>
