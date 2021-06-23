@@ -111,21 +111,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/work/code/iiot-amis/amis-react-starter/src/App.tsx" timestamp="1624425264588">
+        <mark key="[" line="109" column="10" />
+        <mark key="]" line="109" column="10" />
+        <mark key="." line="109" column="10" />
+      </file>
       <file name="/fragment.js" timestamp="1624350188477">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/aisuda.setting" timestamp="1624420766813">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry_web-tea-app-industry-billingcenter/src/common/config.ts" timestamp="1623123672912" />
       <file name="/setting [aisuda@gz-cdb-73ncv949.sql.tencentcdb.com]" timestamp="1624420766560">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/isuda/1.1.10/app/app/amis-saas/controller/api/company/app/admin/AclController.js" timestamp="1624164513803" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fe-idaas-passport/src/pages/user/Login/index.tsx" timestamp="1624358895588">
         <mark key="[" line="111" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/marketing/fe-marketing-console/config/config.ts" timestamp="1624347709192" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-amis/amis-react-starter/index.html" timestamp="1624424802245" />
       <file name="$USER_HOME$/Documents/work/code/marketing/fe-marketing-console/src/layouts/BasicLayout.tsx" timestamp="1624357774250" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fe-idaas-passport/README.md" timestamp="1624348395733">
         <mark key="[" line="0" column="0" />
@@ -136,9 +140,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1624421167073">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-amis/amis-react-starter/src/index.html" timestamp="1624424817624" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-amis/amis-react-starter/src/react-app-env.d.ts" timestamp="1624424774362" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fe-idaas-passport/config/config.ts" timestamp="1624348333660">
         <mark key="[" line="69" column="77" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-amis/amis-react-starter/src/index.tsx" timestamp="1624424762992" />
       <file name="/dummy.sql" timestamp="1624421374074">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,11 +158,9 @@
       <file name="/console_3" timestamp="1624421309548">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry_web-web-platform/server/pages/index.js" timestamp="1623123643442" />
       <file name="/o_auth [aisuda@gz-cdb-73ncv949.sql.tencentcdb.com]" timestamp="1624421372223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/isuda/1.1.10/app/ljh/易连客-sandbox/sdk/thirds/monaco-editor/min/vs/editor/editor.main.js" timestamp="1623157472193" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
@@ -253,11 +258,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text>{&quot;qq&quot;: {}, &quot;bce&quot;: {&quot;endpoint&quot;: &quot;http://iam.bj.bce-internal.baidu.com/v3&quot;, &quot;redirectUrl&quot;: &quot;https://login.bce.baidu.com/?redirect=&quot;, &quot;pass_endpoint&quot;: &quot;http://bcepass.bj.bce-internal.baidu.com:8587/v4&quot;}, &quot;uuap&quot;: {&quot;host&quot;: &quot;https://itebeta.baidu.com&quot;, &quot;appKey&quot;: &quot;UICWSTestKey&quot;, &quot;secretKey&quot;: &quot;UICWSTestKey&quot;}, &quot;baidu&quot;: {}, &quot;oauth&quot;: {&quot;scope&quot;: [&quot;openid&quot;, &quot;email&quot;], &quot;idField&quot;: &quot;sub&quot;, &quot;clientID&quot;: &quot;aisuda&quot;, &quot;tokenURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/token&quot;, &quot;logoutUrl&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/logout&quot;, &quot;nameField&quot;: &quot;email&quot;, &quot;emailField&quot;: &quot;email&quot;, &quot;profileURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/userinfo&quot;, &quot;emailSuffix&quot;: &quot;digibms.com&quot;, &quot;clientSecret&quot;: &quot;a1747aee-131e-4a51-bdfd-7a666e4b3d23&quot;, &quot;displayField&quot;: &quot;email&quot;, &quot;authorizationURL&quot;: &quot;http://iam.digibms.com/auth/realms/bmskcloud/protocol/openid-connect/auth&quot;}, &quot;third&quot;: {&quot;codeField&quot;: &quot;code&quot;, &quot;logoutUrl&quot;: &quot;&quot;}, &quot;weixin&quot;: {}, &quot;enabled&quot;: [&quot;oauth&quot;, &quot;email&quot;], &quot;autoJoinPrivateORG&quot;: true}</text>
+      <register name="&quot;" type="4">
+        <text>controls</text>
       </register>
       <register name="-" type="4">
-        <text>showAll</text>
+        <text>controls</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
