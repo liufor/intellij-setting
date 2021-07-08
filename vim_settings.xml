@@ -113,24 +113,28 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/sql/migrations/operation_mgmt_app/V5.6.0_2__add_cloud_activity.sql" timestamp="1625714358975" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/sql/migrations/operation_mgmt_app/V5.6.0_1__add_product_record.sql" timestamp="1625714327439" />
-      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-open-platform-product-app/route/route.go" timestamp="1625713489444" />
-      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/service/product_center_service.go" timestamp="1625715357515" />
+      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/model/product.go" timestamp="1625715992446" />
+      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/service/product_center_service.go" timestamp="1625715494405" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/vendor/git.code.oa.com/cloud_industry/tencentcloud-api-agent/isvset/isvset.go" timestamp="1625714254792" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/model/category.go" timestamp="1625715146647" />
-      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/vendor/git.code.oa.com/cloud_industry/tencentcloud-api-agent/protocol/protocol.go" timestamp="1625714193396" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/sql/migrations/operation_mgmt_app/V5.2.0__baseline.sql" timestamp="1625714308405" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-open-platform-product-app/sql/init.sql" timestamp="1625714502744" />
-      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-open-platform-product-app/vendor/git.code.oa.com/cloud_industry/tencentcloud-api-agent/product/product.go" timestamp="1625713246629" />
+      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/service/tag_service.go" timestamp="1625715595519" />
+      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-center/vendor/git.code.oa.com/cloud_industry/proto/product-center/service.pb.micro.go" timestamp="1625716043451" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/service/access_center_service.go" timestamp="1625715280649" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/controller/product/v1/bid.go" timestamp="1625715048276" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/etc/config-common.yaml" timestamp="1625714696332" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/service/category.go" timestamp="1625715344390" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/service/activity_repo.go" timestamp="1625715340946" />
+      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-center/application/product_application_service.go" timestamp="1625716157162" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/infrastructure/client/access_center_client.go" timestamp="1625714565849" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/service/activity.go" timestamp="1625715318796" />
       <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/sql/init.sql" timestamp="1625714426227" />
-      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/controller/product/v1/api.go" timestamp="1625714100289" />
-      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-open-platform-product-app/app/controller/product/v1/product.go" timestamp="1625713693546" />
+      <file name="$USER_HOME$/Documents/work/code/release570/cloud_industry-product-mgmt-app/app/controller/product/v1/api.go" timestamp="1625716023322">
+        <mark key="[" line="777" column="17" />
+        <mark key="]" line="777" column="17" />
+        <mark key="." line="777" column="17" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
@@ -229,10 +233,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>controls</text>
+        <text>DescribeProductRequest</text>
       </register>
       <register name="-" type="4">
-        <text>controls</text>
+        <text>DescribeProductRequest</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
