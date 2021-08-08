@@ -120,6 +120,12 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/protocol/oidc/OidcProtocolAuthDto.java" timestamp="1628401292728">
         <mark key="[" line="5" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/Account.java" timestamp="1628407838707">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="42" column="41" />
+        <mark key="." line="42" column="41" />
+        <mark key="^" line="25" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/broker/SocialAuthReq.java" timestamp="1628400894901">
         <mark key="[" line="5" column="13" />
       </file>
@@ -141,12 +147,7 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-sdk-java-spring-boot/authing/src/main/java/cn/authing/internal/AuthingImpl.java" timestamp="1628404246497">
         <mark key="[" line="116" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/vo/OidcProtocolAuthReq.java" timestamp="1628394220241">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="19" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="12" column="19" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-ui-components/packages/react-components/src/components/AuthingGuard/Forms/PasswordLoginForm/index.tsx" timestamp="1628407289570" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/protocol/oidc/OidcProtocolAuthReq.java" timestamp="1628401284615">
         <mark key="[" line="5" column="32" />
       </file>
@@ -170,7 +171,6 @@
         <mark key="^" line="38" column="40" />
         <mark key="." line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/broker/oidc/AbstractOAuth2IdentityProvider.java" timestamp="1628396429310" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/broker/BrokerAuthReq.java" timestamp="1628400910354">
         <mark key="[" line="5" column="26" />
       </file>
@@ -275,10 +275,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>idpCallback</text>
+        <text>浏览器自动发起，Guard和SDK-js都无调用</text>
       </register>
       <register name="-" type="4">
-        <text>idpCallback</text>
+        <text>浏览器自动发起，Guard和SDK-js都无调用</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
@@ -287,7 +287,7 @@
         <text encoding="base64">QEFwaSgi5LyB5Lia6Lqr5Lu95rqQ55m75b2VLeWFvOWuuUF1dGhpbmciKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vYm1za2lpb3QuYXV0aGluZy5jbi9vaWRjL2F1dGgvdGlnM1V2T2h2aXVUaHhSV2lJRnhVCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -299,16 +299,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEFwaSgiU1NPIikK</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UuYnVpbGRTdWNjZXNzKCk7Cg==</text>
+        <text encoding="base64">QEFwaSgiU1NPIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UuYnVpbGRTdWNjZXNzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
