@@ -111,30 +111,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/src/main/resources/application-test.yml" timestamp="1628437034692">
-        <mark key="[" line="18" column="52" />
-      </file>
       <file name="/a.dummy" timestamp="1628438729013">
         <mark key="[" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/config/Knife4jConfiguration.java" timestamp="1628496883992" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/LoginController.java" timestamp="1628440268755">
-        <mark key="[" line="42" column="48" />
-        <mark key="]" line="42" column="48" />
-        <mark key="^" line="42" column="48" />
-        <mark key="." line="42" column="47" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/EnterpriseConnectionController.java" timestamp="1628508207236">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/ApplicationConfigController.java" timestamp="1628437793557">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/WellKnownController.java" timestamp="1628508323403">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/LoginController.java" timestamp="1628508181409" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/ApplicationConfigDTO.java" timestamp="1628508064749" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/ApplicationConfigController.java" timestamp="1628508047767">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing.js/src/types/graphql.v2.ts" timestamp="1628438273862" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/pom.xml" timestamp="1628437706903">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="269" column="40" />
-        <mark key="^" line="269" column="40" />
-        <mark key="." line="269" column="39" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/BrokerController.java" timestamp="1628508311509">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="29" column="51" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing.js/src/lib/management/ManagementClient.ts" timestamp="1628491609063">
         <mark key="[" line="34" column="2" />
@@ -146,7 +150,7 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/SocialConnectionController.java" timestamp="1628437848012">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/SocialConnectionController.java" timestamp="1628508202022">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="13" column="5" />
         <mark key="^" line="13" column="5" />
@@ -167,14 +171,12 @@
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing.js/src/lib/graphqlapi.ts" timestamp="1628438629990" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing.js/docs/authentication/AuthenticationClient.md" timestamp="1628438548204" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/Main.java" timestamp="1628437496355">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="18" column="49" />
-        <mark key="^" line="18" column="49" />
-        <mark key="." line="18" column="48" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/SocialConnectionItemDTO.java" timestamp="1628508085899">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="37" column="24" />
+        <mark key="." line="8" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/keycloak/keycloak-core/15.0.0/keycloak-core-15.0.0.jar!/org/keycloak/representations/idm/ClientRepresentation.class" timestamp="1628437633787" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/src/main/java/com/digibms/idaas/application/service/AuthApplicationService.java" timestamp="1628438137424" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/AuthController.java" timestamp="1628438726009">
         <mark key="[" line="51" column="5" />
         <mark key="]" line="14" column="16" />
