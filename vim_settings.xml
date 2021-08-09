@@ -111,25 +111,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1628519227380">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/core/src/main/java/org/keycloak/representations/account/ClientRepresentation.java" timestamp="1628521656330" />
+      <file name="/a.dummy" timestamp="1628521904838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/config/Knife4jConfiguration.java" timestamp="1628496883992" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/EnterpriseConnectionController.java" timestamp="1628508207236">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/endpoints/ThirdPartyCookiesIframeEndpoint.java" timestamp="1628518515830" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/WellKnownController.java" timestamp="1628508323403">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/LoginController.java" timestamp="1628508181409" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/ApplicationConfigDTO.java" timestamp="1628517660330">
-        <mark key="[" line="86" column="40" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/dataobject/assemble/UserAssemble.java" timestamp="1628521356166" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/core/src/main/java/org/keycloak/representations/idm/ClientRepresentation.java" timestamp="1628521706895" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/ApplicationConfigDTO.java" timestamp="1628523256583">
+        <mark key="[" line="32" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/ApplicationConfigController.java" timestamp="1628517705171">
         <mark key="[" line="33" column="15" />
@@ -137,15 +127,21 @@
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/keycloak/keycloak-core/15.0.0/keycloak-core-15.0.0.jar!/org/keycloak/representations/idm/ApplicationRepresentation.class" timestamp="1628521752917" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/app/model/App.java" timestamp="1628518984569">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/app/gateway/AppGateway.java" timestamp="1628519333799" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/app/App.java" timestamp="1628519252577">
-        <mark key="[" line="3" column="54" />
-        <mark key="]" line="3" column="53" />
-        <mark key="^" line="3" column="53" />
-        <mark key="." line="3" column="52" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/app/gateway/AppGateway.java" timestamp="1628523287667">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/app/App.java" timestamp="1628522431573">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="13" column="4" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/SsoController.java" timestamp="1628511264853">
         <mark key="[" line="9" column="0" />
@@ -153,20 +149,11 @@
         <mark key="^" line="18" column="5" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/BrokerController.java" timestamp="1628508311509">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="29" column="51" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing.js/src/lib/management/ManagementClient.ts" timestamp="1628491609063">
-        <mark key="[" line="34" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/WellKnownDTO.java" timestamp="1628508987304">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/app/AppId.java" timestamp="1628521281896">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/SsoPageComponentDisplay.java" timestamp="1628517551227">
         <mark key="[" line="1" column="0" />
@@ -174,20 +161,20 @@
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/SocialConnectionController.java" timestamp="1628508202022">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="5" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="13" column="4" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/app/AppIdGenerator.java" timestamp="1628521984048">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/SocialConnectionItemDTO.java" timestamp="1628508085899">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="37" column="24" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/gatewayimpl/AppGatewayImpl.java" timestamp="1628523380019">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1628519080748">
-        <mark key="[" line="0" column="46" />
+      <file name="$MAVEN_REPOSITORY$/org/keycloak/keycloak-core/15.0.0/keycloak-core-15.0.0.jar!/org/keycloak/representations/idm/ClientRepresentation.class" timestamp="1628522263015" />
+      <file name="/fragment.java" timestamp="1628520958239">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -286,20 +273,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>LoginByUsernamePasswordReq</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbCh1c2VyRE8pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>LoginByUsernamePasswordReq</text>
+        <text>ClientDO</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBEYXRhCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFwcElkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbCh1c2VyRE8pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -311,28 +298,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRE8gdXNlckRPID0gIHVzZXJNYXBwZXIuc2VsZWN0T25lKFdyYXBwZXJzLjxVc2VyRE8+bGFtYmRhUXVlcnkoKS5lcShVc2VyRE86OmdldElzRGVsZXRlLCBVc2VyQ29uc3RhbnRzLklTX0RFTEVURV9GQUxTRSkuZXEoVXNlckRPOjpnZXRVc2VySWQsaWQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBASlNPTkZpZWxkKG5hbWUgPSAiY2xpZW50X2lkIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBASlNPTkZpZWxkKG5hbWUgPSAibG9naW5fdHlwZSIpCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEFwcElkR2VuZXJhdG9yIHsKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIG5ld0FwcElkKCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBASlNPTkZpZWxkKG5hbWUgPSAiY2xpZW50X3NlY3JldCIpCg==</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2xpZW50U2Vzc2lvblN0YXRlOwo=</text>
+        <text encoding="base64">QEJ1aWxkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBASlNPTkZpZWxkKG5hbWUgPSAiY2xpZW50X3Nlc3Npb25fc3RhdGUiKQo=</text>
+        <text encoding="base64">QFNldHRlcihBY2Nlc3NMZXZlbC5QUklWQVRFKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29kZTsK</text>
+        <text encoding="base64">QEdldHRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFzc3dvcmQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>277</text>
