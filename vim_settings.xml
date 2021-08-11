@@ -145,17 +145,17 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/AppConfigDTO.java" timestamp="1628654340420">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/AppConfigDTO.java" timestamp="1628658234423">
         <mark key="[" line="112" column="30" />
         <mark key="]" line="95" column="45" />
         <mark key="." line="95" column="44" />
         <mark key="^" line="95" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/AppConfigController.java" timestamp="1628657422957">
-        <mark key="[" line="49" column="14" />
-        <mark key="]" line="83" column="19" />
-        <mark key="." line="83" column="18" />
-        <mark key="^" line="83" column="19" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/AppConfigController.java" timestamp="1628658789485">
+        <mark key="[" line="46" column="10" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="46" column="10" />
+        <mark key="^" line="45" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/rsapair/PublicPrivateKeyPair.java" timestamp="1628648960164" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/BrokerController.java" timestamp="1628596263450">
@@ -298,19 +298,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>setLogo</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>setLogo</text>
       </register>
       <register name="/" type="4">
         <text>pre&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0KCJjbGllbnRfaWQiLCAiMTIwOTYwMCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICByLnNldExvZ28oImh0dHBzOi8vdC1paW90LTEyNTk0MTIyMTQuY29zLmFwLWJlaWppbmcubXlxY2xvdWQuY29tL2lkYWFzL3Bhc3Nwb3J0L2xvZ28uc3ZnIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXQK</text>
+        <text encoding="base64">ICAgICAgICByLnNldExvZ291dFJlZGlyZWN0VXJpcygpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -322,28 +322,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEJ1aWxkZXIK</text>
+        <text encoding="base64">ICAgICAgICByZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByLgo=</text>
+        <text encoding="base64">QEJ1aWxkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnMK</text>
+        <text encoding="base64">ICAgICAgICByLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCAgPSA4Nzk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbCh1c2VyRE8pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCAgPSA4Nzk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRE8gdXNlckRPID0gIHVzZXJNYXBwZXIuc2VsZWN0T25lKFdyYXBwZXJzLjxVc2VyRE8+bGFtYmRhUXVlcnkoKS5lcShVc2VyRE86OmdldElzRGVsZXRlLCBVc2VyQ29uc3RhbnRzLklTX0RFTEVURV9GQUxTRSkuZXEoVXNlckRPOjpnZXRVc2VySWQsaWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbCh1c2VyRE8pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRE8gdXNlckRPID0gIHVzZXJNYXBwZXIuc2VsZWN0T25lKFdyYXBwZXJzLjxVc2VyRE8+bGFtYmRhUXVlcnkoKS5lcShVc2VyRE86OmdldElzRGVsZXRlLCBVc2VyQ29uc3RhbnRzLklTX0RFTEVURV9GQUxTRSkuZXEoVXNlckRPOjpnZXRVc2VySWQsaWQpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEFwcElkR2VuZXJhdG9yIHsKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIG5ld0FwcElkKCkgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>277</text>
