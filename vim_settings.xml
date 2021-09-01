@@ -115,14 +115,18 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-ui-components/packages/react-components/src/components/AuthingGuard/RegisterLayout/index.tsx" timestamp="1630246742090" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-ui-components/packages/react-components/src/components/AuthingGuard/api/appConfig.ts" timestamp="1630249159039" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-ui-components/packages/react-components/src/components/AuthingGuard/types/GuardConfig.ts" timestamp="1630250930293" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing.js/src/lib/authentication/AuthenticationClient.ts" timestamp="1630472632848">
+        <mark key="[" line="2310" column="2" />
+        <mark key="]" line="2310" column="2" />
+        <mark key="." line="2310" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/adapters/oidc/adapter-core/src/main/java/org/keycloak/adapters/KeycloakConfigResolver.java" timestamp="1630464369907" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/adapters/oidc/adapter-core/src/main/java/org/keycloak/adapters/KeycloakDeployment.java" timestamp="1630464383347" />
       <file name="$MAVEN_REPOSITORY$/org/keycloak/keycloak-admin-client/15.0.0/keycloak-admin-client-15.0.0-sources.jar!/org/keycloak/admin/client/Keycloak.java" timestamp="1630464274868" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-ui-components/packages/react-components/src/components/AuthingGuard/MfaLayout/index.tsx" timestamp="1630245588975" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-ui-components/packages/react-components/src/components/AuthingGuard/LoginLayout/index.tsx" timestamp="1630249212705" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-ui-components/packages/react-components/src/components/AuthingGuard/index.tsx" timestamp="1630249236555" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-ui-components/packages/react-components/src/context/global/reducer.tsx" timestamp="1630248770820" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/OidcController.java" timestamp="1630466794987">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/OidcController.java" timestamp="1630472448892">
         <mark key="[" line="72" column="48" />
         <mark key="]" line="65" column="65" />
         <mark key="^" line="65" column="65" />
@@ -235,10 +239,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>kcProperties</text>
+        <text>buildAuthorizeUrl</text>
       </register>
       <register name="-" type="4">
-        <text>kcProperties</text>
+        <text>buildAuthorizeUrl</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
