@@ -112,26 +112,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/browser/ConditionalOtpFormAuthenticator.java" timestamp="1630660130179" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/AbstractFormAuthenticator.java" timestamp="1630658685249" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/browser/CookieAuthenticator.java" timestamp="1630661203244" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/validation/Validation.java" timestamp="1630659028962" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/browser/UsernamePasswordForm.java" timestamp="1630662210595" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/endpoints/AuthorizationEndpoint.java" timestamp="1630663276495" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProvider.java" timestamp="1630662635189" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/OIDCLoginProtocol.java" timestamp="1630678625714" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/browser/CookieAuthenticator.java" timestamp="1630665535915" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/endpoints/AuthorizationEndpoint.java" timestamp="1630668213160" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/AuthorizationEndpointBase.java" timestamp="1630663468089" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/IdentityBrokerService.java" timestamp="1630662846293" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/forms/login/LoginFormsProvider.java" timestamp="1630661803162" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-ui-components/packages/react-components/src/components/AuthingGuard/locales/zh/common.json" timestamp="1630657730747" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing-ui-components/packages/react-components/src/components/AuthingGuard/Forms/MfaVerifyForm/index.tsx" timestamp="1630658483053" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/authentication/Authenticator.java" timestamp="1630658954732" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/OIDCLoginProtocolService.java" timestamp="1630663207319" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/browser/AbstractUsernameFormAuthenticator.java" timestamp="1630659571260" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/IdentityBrokerService.java" timestamp="1630671353899" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/forms/login/LoginFormsProvider.java" timestamp="1630665176931" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/Templates.java" timestamp="1630661864292" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/RealmsResource.java" timestamp="1630670702426" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/LoginActionsService.java" timestamp="1630670659851" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/managers/AuthenticationManager.java" timestamp="1630678349746" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/endpoints/TokenEndpoint.java" timestamp="1630667191720" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/ClientAuthenticationFlow.java" timestamp="1630666755166" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/browser/UsernamePasswordForm.java" timestamp="1630665449277" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProvider.java" timestamp="1630662635189" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/DefaultAuthenticationFlow.java" timestamp="1630666911603" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/AuthenticationProcessor.java" timestamp="1630678003310" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/OIDCLoginProtocolService.java" timestamp="1630663207319" />
       <file name="$MAVEN_REPOSITORY$/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_2.1_spec/2.0.1.Final/jboss-jaxrs-api_2.1_spec-2.0.1.Final-sources.jar!/javax/ws/rs/core/Response.java" timestamp="1630661792984" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/browser/OTPFormAuthenticator.java" timestamp="1630660451429" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/RealmsResource.java" timestamp="1630663165851" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/LoginActionsService.java" timestamp="1630663806968" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/Urls.java" timestamp="1630670692620" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/models/Constants.java" timestamp="1630670982151" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
