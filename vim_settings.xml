@@ -112,12 +112,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/endpoints/AuthorizationEndpoint.java" timestamp="1630848976223" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/requiredactions/UpdateTotp.java" timestamp="1630850435370" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/forms/login/JsonLoginFormsProvider.java" timestamp="1630923144952" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/forms/login/JsonLoginFormsProvider.java" timestamp="1630924946351">
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/authentication/AuthenticationFlowContext.java" timestamp="1630921164705" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/forms/login/LoginFormsProvider.java" timestamp="1630923268285" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/example/MyExampleAuthenticator.java" timestamp="1630922577937" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/forms/login/JsonLoginFormsProviderFactory.java" timestamp="1630924965813">
+        <mark key="[" line="12" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/authentication/authenticators/broker/IdpConfirmLink4JsonAuthenticator.java" timestamp="1630922350283" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/broker/IdpConfirmLinkAuthenticator.java" timestamp="1630922366099" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/broker/oidc/OIDCIdentityProvider.java" timestamp="1630849176395" />
@@ -125,10 +131,15 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/broker/saml/SAMLIdentityProvider.java" timestamp="1630849167910" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/LoginActionsService.java" timestamp="1630850384097" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/managers/AuthenticationManager.java" timestamp="1630850168488" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/admin/UserResource.java" timestamp="1630848927710" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/standalone.xml" timestamp="1630925013121">
+        <mark key="[" line="453" column="32" />
+        <mark key="]" line="453" column="32" />
+        <mark key="^" line="453" column="44" />
+        <mark key="." line="453" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/authentication/RequiredActionProvider.java" timestamp="1630851146749" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProviderFactory.java" timestamp="1630921629755" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProvider.java" timestamp="1630923204448" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProviderFactory.java" timestamp="1630924693011" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProvider.java" timestamp="1630924944486" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProviderWrapper.java" timestamp="1630922606688" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/forms/FlowEntity.java" timestamp="1630922231487" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/broker/IdpUsernamePasswordForm.java" timestamp="1630921495835" />
@@ -230,10 +241,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>buildAuthorizeUrl</text>
+        <text>json-login-f</text>
       </register>
       <register name="-" type="4">
-        <text>buildAuthorizeUrl</text>
+        <text>json-login-f</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
@@ -242,7 +253,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHVybEJ1aWxkZXIuYWRkUXVlcnkoImFwcElkIix2KTsK</text>
       </register>
       <register name="1" type="2">
-        <text>from ;</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5zCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -254,16 +265,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoK</text>
+        <text>from ;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="4" type="2">
-        <text>from;</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>from;</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -272,10 +283,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyB1cGRhdGVkQXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyB1cGRhdGVkQXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>277</text>
