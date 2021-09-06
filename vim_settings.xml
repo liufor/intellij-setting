@@ -113,17 +113,15 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/requiredactions/UpdateTotp.java" timestamp="1630850435370" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/forms/login/JsonLoginFormsProvider.java" timestamp="1630924946351">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/forms/login/JsonLoginFormsProvider.java" timestamp="1630927241875">
+        <mark key="[" line="753" column="16" />
+        <mark key="]" line="757" column="20" />
+        <mark key="." line="757" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/authentication/AuthenticationFlowContext.java" timestamp="1630921164705" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/forms/login/LoginFormsProvider.java" timestamp="1630923268285" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/example/MyExampleAuthenticator.java" timestamp="1630922577937" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/forms/login/JsonLoginFormsProviderFactory.java" timestamp="1630924965813">
-        <mark key="[" line="12" column="55" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/forms/login/JsonLoginFormsProviderFactory.java" timestamp="1630927556624" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/authentication/authenticators/broker/IdpConfirmLink4JsonAuthenticator.java" timestamp="1630922350283" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/broker/IdpConfirmLinkAuthenticator.java" timestamp="1630922366099" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/broker/oidc/OIDCIdentityProvider.java" timestamp="1630849176395" />
@@ -131,15 +129,15 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/broker/saml/SAMLIdentityProvider.java" timestamp="1630849167910" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/LoginActionsService.java" timestamp="1630850384097" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/managers/AuthenticationManager.java" timestamp="1630850168488" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/standalone.xml" timestamp="1630925013121">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/standalone.xml" timestamp="1630926960436">
         <mark key="[" line="453" column="32" />
         <mark key="]" line="453" column="32" />
         <mark key="^" line="453" column="44" />
         <mark key="." line="453" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/authentication/RequiredActionProvider.java" timestamp="1630851146749" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProviderFactory.java" timestamp="1630924693011" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProvider.java" timestamp="1630924944486" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProviderFactory.java" timestamp="1630927545731" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProvider.java" timestamp="1630927536456" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/org/keycloak/forms/login/freemarker/FreeMarkerLoginFormsProviderWrapper.java" timestamp="1630922606688" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/forms/FlowEntity.java" timestamp="1630922231487" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/broker/IdpUsernamePasswordForm.java" timestamp="1630921495835" />
@@ -241,10 +239,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>json-login-f</text>
+        <text>createIdpLinkConfirmLinkPage</text>
       </register>
       <register name="-" type="4">
-        <text>json-login-f</text>
+        <text>createIdpLinkConfirmLinkPage</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
