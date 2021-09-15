@@ -116,7 +116,6 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/authentication/FlowStatus.java" timestamp="1631696200042" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/openid-connect.lua" timestamp="1631690744722" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/authentication/AuthenticationFlowContext.java" timestamp="1631698810882" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/AuthorizationEndpointBase.java" timestamp="1631670798986" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/init.lua" timestamp="1631685717180" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/beplant-ops/apisix/fix_code/session.lua" timestamp="1631685144395">
         <mark key="[" line="175" column="36" />
@@ -133,6 +132,12 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/core/config_local.lua" timestamp="1631674906454" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/LoginActionsService.java" timestamp="1631701859572" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/managers/AuthenticationManager.java" timestamp="1631701533584" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/AppConfigController.java" timestamp="1631705190478">
+        <mark key="[" line="81" column="39" />
+        <mark key="]" line="81" column="39" />
+        <mark key="." line="81" column="39" />
+        <mark key="^" line="45" column="96" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/beplant-ops/apisix/standalone/conf/config.yaml" timestamp="1631688526455" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/authenticators/browser/UsernamePasswordForm.java" timestamp="1631697018752" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/AuthenticationProcessor.java" timestamp="1631701830872" />
@@ -237,11 +242,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cHM6Ly9pZGFhcy1rYy12MTUtZGV2LnQtcGFhcy5ibWRpZ2l0ZWNoLmNvbS9hdXRoL3JlYWxtcy9GZXRlc3QvbG9naW4tYWN0aW9ucy9hdXRoZW50aWNhdGU/c2Vzc2lvbl9jb2RlPUVVNDVMZzVYeHNPTi0wZDFxanVnaUVLRmxQdVVxLUdnUk9YU2dmVmFEclkmZXhlY3V0aW9uPWU4NDM0OWE1LWM3YTAtNDY4MC05NDMxLTBjMjg2MmU2MjE1MyZjbGllbnRfaWQ9NjBjMWFiMmFlODg4MjRkYmE3NGNmZTI5JnRhYl9pZD0xcFJhV1R6YkJaRQ==</text>
+      <register name="&quot;" type="4">
+        <text>SAML</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>SAML</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
