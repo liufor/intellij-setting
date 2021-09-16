@@ -112,31 +112,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/IdentityBrokerService.java" timestamp="1631723628670" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/common/src/main/java/org/keycloak/common/util/KeycloakUriBuilder.java" timestamp="1631706825632" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/RealmsResource.java" timestamp="1631711112039" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-digibms-provider/src/main/java/com/digibms/keycloak/side/browser/LoginSuccess201Authenticator.java" timestamp="1631699353416" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/actiontoken/resetcred/ResetCredentialsActionTokenHandler.java" timestamp="1631701776394" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/authing.js/src/lib/authentication/SocialAuthenticationClient.ts" timestamp="1631708687258" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/data/AppConfigDTO.java" timestamp="1631708970194" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/LoginActionsService.java" timestamp="1631723527620" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/managers/AuthenticationManager.java" timestamp="1631721266820" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/idaas-ui-commponents/packages/react-components/src/components/AuthingGuard/Forms/SocialAndIdpLogin/index.tsx" timestamp="1631708633391" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/beplant-ops/apisix/yongqing/1.yaml" timestamp="1631767436237">
+        <mark key="'" line="42" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/beplant-ops/apisix/k8s_beplant_ms_lab/conf/config.yaml" timestamp="1631770184127">
+        <mark key="]" line="112" column="2" />
+        <mark key="^" line="112" column="2" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-adapter/src/main/java/com/digibms/iiot/idaas/server/idaas/web/v1/AppConfigController.java" timestamp="1631708765826">
         <mark key="[" line="84" column="35" />
         <mark key="]" line="72" column="64" />
         <mark key="." line="72" column="63" />
         <mark key="^" line="72" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi/src/main/java/org/keycloak/sessions/CommonClientSessionModel.java" timestamp="1631719076338" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/ClientAuthenticationFlow.java" timestamp="1631719684351" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/authentication/RequiredActionProvider.java" timestamp="1631713337747" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/AuthenticationProcessor.java" timestamp="1631721469586" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/authentication/requiredactions/UpdatePassword.java" timestamp="1631713321974" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/response-rewrite.lua" timestamp="1631764944368" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/saml/SamlProtocol.java" timestamp="1631715237018" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/Urls.java" timestamp="1631711211812" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/src/main/java/com/digibms/idaas/adapter/web/v2/PublicConfigController.java" timestamp="1631708524290" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/beplant-ops/apisix/standalone/conf/config.yaml" timestamp="1631768540790" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/beplant-ops/apisix/k8s_beplant_ms_lab/conf/debug.yaml" timestamp="1631770176684" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
@@ -214,6 +205,7 @@
       <jump line="1369" column="38" filename="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/Scene.ts" />
       <jump line="2" column="33" filename="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/MaterialUtil.ts" />
       <jump line="98" column="9" filename="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/BOS3DMaterial.ts" />
+      <jump line="41" column="68" filename="$USER_HOME$/Documents/work/code/iiot-idaas/authing/beplant-ops/apisix/yongqing/1.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
