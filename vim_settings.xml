@@ -112,26 +112,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/api/http/LdapAgentUrls.class" timestamp="1633760149971" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/dto/action/PasswordUpdateAction.class" timestamp="1633758237359" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/javax/xml/bind/Unmarshaller.class" timestamp="1633757051103" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/api/http/LdapRestClient.class" timestamp="1633759916746" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/mapper/IDaaSResourceMapper.java" timestamp="1634030170702" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/permissionpackage/model/IDaaSPermissionPackage.java" timestamp="1634029541447" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/api/IDaaSPermissionPackageServiceI.java" timestamp="1634029215453" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/dto/action/components/scan/ScanData.class" timestamp="1633760226332" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/handlers/LdapActionHandler.class" timestamp="1633757978620" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/dto/action/LdapActionResult.class" timestamp="1633758554053" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/api/IDaaSActionServiceI.java" timestamp="1634029191277" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/permissionpackage/model/IDaaSPermissionPolicy.java" timestamp="1634030492702" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-app/src/main/java/com/digibms/iiot/idaas/server/idaas/executor/CreatePermissionPackageCmdExe.java" timestamp="1634029870419" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/permissionpackage/domainservice/IDaaSPermissionPackageDomainService.java" timestamp="1634030310628" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/dto/action/base/ActionWrapper.class" timestamp="1633760219428" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/LdapAgent.class" timestamp="1633760118680" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/util/FormatUtil.class" timestamp="1633759826774" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/LdapAgentRuntime.class" timestamp="1633756686445" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/spring/OktaLDAPAgent.xml" timestamp="1633753890436" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/client/unboundid/UnboundIDLdapClient.class" timestamp="1633756806445" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/dto/action/enums/ActionType.class" timestamp="1633757179004" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/gatewayimpl/KCAuthzGatewayImpl.java" timestamp="1634030721030" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/action/model/IDaaSResource.java" timestamp="1634030678119" />
+      <file name="/console" timestamp="1634029986052">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-domain/src/main/java/com/digibms/iiot/idaas/server/idaas/domain/permissionpackage/gateway/KCAuthzGateway.java" timestamp="1634030714345" />
+      <file name="/a.sql" timestamp="1634029984029">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-client/src/main/java/com/digibms/iiot/idaas/server/idaas/dto/IDaaSPermissionPackageCmd.java" timestamp="1634029385674" />
+      <file name="/Dummy.txt" timestamp="1634029984039">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/dto/registration/DomainRequest.class" timestamp="1633763339947" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/connectors/ldap/LdapConnectorExecutorImpl.class" timestamp="1633758389843" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/adapters/DirectoryAdapter.class" timestamp="1633760137679" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/handlers/PasswordUpdateActionHandler.class" timestamp="1633758335822" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/unboundid/ldap/sdk/LDAPConnection.class" timestamp="1633756900748" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/OktaLDAPAgent.jar!/com/okta/ldap_agent/dto/action/base/LdapAgentAction.class" timestamp="1633758211697" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bb499e80-5386-47ca-9f69-a08814a130ce/console.sql" timestamp="1634030060847">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-app/src/main/java/com/digibms/iiot/idaas/server/idaas/executor/query/AssigneeListQryExe.java" timestamp="1634029326654" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
