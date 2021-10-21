@@ -20,7 +20,6 @@
         <entry>tokne</entry>
       </history-search>
       <history-cmd>
-        <entry>324</entry>
         <entry>101</entry>
         <entry>344</entry>
         <entry>147</entry>
@@ -40,6 +39,7 @@
         <entry>1374</entry>
         <entry>209</entry>
         <entry>74</entry>
+        <entry>71</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,14 +134,14 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/idaas/idaas-auth-value.yaml" timestamp="1634832260631">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/idaas/idaas-auth-value.yaml" timestamp="1634834083301">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="106" column="71" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="65" column="3" />
+        <mark key="." line="65" column="2" />
+        <mark key="^" line="65" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/keycloak/templates/statefulset.yaml" timestamp="1634832896567" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/keycloak/templates/statefulset.yaml" timestamp="1634833682357" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/templates/statefulset.yaml" timestamp="1634804744142" />
       <file name="/upte.py" timestamp="1634805780301">
         <mark key="[" line="0" column="0" />
@@ -269,11 +269,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>extra</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
@@ -294,28 +294,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAg6L+Z5Liq5YC877yMCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsYWJlbHM6IHt9Cg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIEFkZGl0aW9uYWwgSG9yaXpvbnRhbFBvZEF1dG9zY2FsZXIgbGFiZWxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWxsUG9saWN5OiBJZk5vdFByZXNlbnQK</text>
+        <text encoding="base64">ICAgICAg6L+Z5Liq5YC877yMCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIFRoZSBLZXljbG9hayBpbWFnZSBwdWxsIHBvbGljeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlYXRlIHNjaGVtYSBpZiBub3QgZXhpc3RzIGlkYWFzX3NlcnZlcl9kZXYgY29sbGF0ZSB1dGY4bWI0X2dlbmVyYWxfY2k7Cg==</text>
+        <text encoding="base64">ICBsYWJlbHM6IHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlIHNjaGVtYSBpZiBub3QgZXhpc3RzIGtleWNsb2FrX2RldiBjb2xsYXRlIHV0ZjhtYjRfZ2VuZXJhbF9jaTsK</text>
+        <text encoding="base64">ICAjIEFkZGl0aW9uYWwgSG9yaXpvbnRhbFBvZEF1dG9zY2FsZXIgbGFiZWxzCg==</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
