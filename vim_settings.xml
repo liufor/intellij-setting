@@ -120,7 +120,17 @@
       <file name="/a.dummy" timestamp="1634805785718">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/keycloak/templates/_helpers.tpl" timestamp="1634807084367" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/keycloak/templates/_helpers.tpl" timestamp="1634811970720" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/idaas-auth-value.yaml" timestamp="1634814038178">
+        <mark key="[" line="56" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/idaas-auth/tools/cli/theme.cli" timestamp="1634811145087" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/idaas-auth-init.cli" timestamp="1634812020649">
+        <mark key="[" line="1" column="120" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/templates/statefulset.yaml" timestamp="1634804744142" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/tsconfig.json" timestamp="1634708523100">
         <mark key="[" line="783" column="12" />
@@ -128,13 +138,21 @@
       <file name="/upte.py" timestamp="1634805780301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/keycloak/values.yaml" timestamp="1634806995862" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/Chart.yaml" timestamp="1634803683091" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-update.sh" timestamp="1634805810104">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/keycloak/values.yaml" timestamp="1634812225047">
+        <mark key="[" line="194" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/extra-value.yaml" timestamp="1634807135113">
-        <mark key="[" line="2" column="12" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/Chart.yaml" timestamp="1634803683091" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/idaas-auth/tools/cli/loglevel.cli" timestamp="1634811434052" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-update.sh" timestamp="1634814265258">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/extra-value.yaml" timestamp="1634812472089">
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="11" />
+        <mark key="." line="45" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/extra-init-value.yaml" timestamp="1634807592393">
         <mark key="[" line="6" column="4" />
@@ -242,11 +260,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>extra</text>
       </register>
       <register name="-" type="4">
-        <text>5432</text>
+        <text>extra</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
@@ -255,7 +273,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHVybEJ1aWxkZXIuYWRkUXVlcnkoImFwcElkIix2KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAg6L+Z5Liq5YC877yMCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -267,28 +285,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsYWJlbHM6IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIEFkZGl0aW9uYWwgSG9yaXpvbnRhbFBvZEF1dG9zY2FsZXIgbGFiZWxzCg==</text>
+        <text encoding="base64">ICBsYWJlbHM6IHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWxsUG9saWN5OiBJZk5vdFByZXNlbnQK</text>
+        <text encoding="base64">ICAjIEFkZGl0aW9uYWwgSG9yaXpvbnRhbFBvZEF1dG9zY2FsZXIgbGFiZWxzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIFRoZSBLZXljbG9hayBpbWFnZSBwdWxsIHBvbGljeQo=</text>
+        <text encoding="base64">ICBwdWxsUG9saWN5OiBJZk5vdFByZXNlbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3JlYXRlIHNjaGVtYSBpZiBub3QgZXhpc3RzIGlkYWFzX3NlcnZlcl9kZXYgY29sbGF0ZSB1dGY4bWI0X2dlbmVyYWxfY2k7Cg==</text>
+        <text encoding="base64">ICAjIFRoZSBLZXljbG9hayBpbWFnZSBwdWxsIHBvbGljeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3JlYXRlIHNjaGVtYSBpZiBub3QgZXhpc3RzIGtleWNsb2FrX2RldiBjb2xsYXRlIHV0ZjhtYjRfZ2VuZXJhbF9jaTsK</text>
+        <text encoding="base64">Y3JlYXRlIHNjaGVtYSBpZiBub3QgZXhpc3RzIGlkYWFzX3NlcnZlcl9kZXYgY29sbGF0ZSB1dGY4bWI0X2dlbmVyYWxfY2k7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aHR0cHM6Ly9pZGFhcy1rYy12MTUtZGV2LnQtcGFhcy5ibWRpZ2l0ZWNoLmNvbS9hdXRoL3JlYWxtcy9GZXRlc3QvbG9naW4tYWN0aW9ucy9hdXRoZW50aWNhdGU/c2Vzc2lvbl9jb2RlPUVVNDVMZzVYeHNPTi0wZDFxanVnaUVLRmxQdVVxLUdnUk9YU2dmVmFEclkmZXhlY3V0aW9uPWU4NDM0OWE1LWM3YTAtNDY4MC05NDMxLTBjMjg2MmU2MjE1MyZjbGllbnRfaWQ9NjBjMWFiMmFlODg4MjRkYmE3NGNmZTI5JnRhYl9pZD0xcFJhV1R6YkJaRQ==</text>
+        <text encoding="base64">Y3JlYXRlIHNjaGVtYSBpZiBub3QgZXhpc3RzIGtleWNsb2FrX2RldiBjb2xsYXRlIHV0ZjhtYjRfZ2VuZXJhbF9jaTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aHR0cHM6Ly9pZGFhcy1rYy12MTUtZGV2LnQtcGFhcy5ibWRpZ2l0ZWNoLmNvbS9hdXRoL3JlYWxtcy9GZXRlc3QvbG9naW4tYWN0aW9ucy9hdXRoZW50aWNhdGU/c2Vzc2lvbl9jb2RlPUVVNDVMZzVYeHNPTi0wZDFxanVnaUVLRmxQdVVxLUdnUk9YU2dmVmFEclkmZXhlY3V0aW9uPWU4NDM0OWE1LWM3YTAtNDY4MC05NDMxLTBjMjg2MmU2MjE1MyZjbGllbnRfaWQ9NjBjMWFiMmFlODg4MjRkYmE3NGNmZTI5JnRhYl9pZD0xcFJhV1R6YkJaRQ==</text>
       </register>
       <register name=":" type="4">
         <text>74</text>
