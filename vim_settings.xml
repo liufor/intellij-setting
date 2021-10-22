@@ -112,9 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/keycloak/scripts/keycloak.cli" timestamp="1634804873859" />
-      <file name="/a.dummy" timestamp="1634805785718">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/start/src/main/resources/application-foshan.yml" timestamp="1634912792972">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/keycloak/templates/_helpers.tpl" timestamp="1634811970720" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/idaas-auth-value.yaml" timestamp="1634814038178">
@@ -132,6 +134,9 @@
         <mark key="^" line="169" column="19" />
         <mark key="." line="169" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-app/src/main/java/com/digibms/iiot/idaas/server/app/service/IDaaSAppService.java" timestamp="1634912799134">
+        <mark key="[" line="44" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/idaas-auth/tools/cli/theme.cli" timestamp="1634811145087" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/idaas-auth-init.cli" timestamp="1634812020649">
         <mark key="[" line="1" column="120" />
@@ -148,9 +153,6 @@
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/keycloak/templates/statefulset.yaml" timestamp="1634833682357" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/idaas-auth/Dockerfile.idaas-auth-15.0.0" timestamp="1634841092319" />
-      <file name="/upte.py" timestamp="1634805780301">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/keycloak/values.yaml" timestamp="1634812225047">
         <mark key="[" line="194" column="44" />
       </file>
@@ -166,7 +168,7 @@
         <mark key="]" line="45" column="11" />
         <mark key="." line="45" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/idaas-auth/idaas-auth-value.yaml" timestamp="1634892630265">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/idaas-auth/idaas-auth-value.yaml" timestamp="1634912730081">
         <mark key="[" line="73" column="28" />
         <mark key="]" line="72" column="5" />
         <mark key="." line="72" column="4" />
@@ -179,6 +181,9 @@
         <mark key="]" line="105" column="0" />
         <mark key="^" line="101" column="15" />
         <mark key="." line="105" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1634912745943">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
