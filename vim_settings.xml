@@ -112,11 +112,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/lua-resty-session/lib/resty/session.lua" timestamp="1635414892722" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/lua-resty-session/lib/resty/session.lua" timestamp="1635415744028">
+        <mark key="[" line="269" column="4" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="268" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/idaas-api/java-app-base/values.yaml" timestamp="1635213447705">
         <mark key="[" line="44" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/openid-connect.lua" timestamp="1635412005582">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/openid-connect.lua" timestamp="1635415044940">
         <mark key="'" line="270" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/idaas/idaas-api-public.json" timestamp="1635317446361">
@@ -263,7 +267,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGdldG1ldGF0YWJsZShzZWxmKSA9PSBzZXNzaW9uIHRoZW4K</text>
       </register>
       <register name="-" type="4">
         <text>idaas_auth_liujunhong</text>
@@ -275,7 +279,7 @@
         <text encoding="base64">ICAgIHZhbHVlOiByb290Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGdldG1ldGF0YWJsZShzZWxmKSA9PSBzZXNzaW9uIHRoZW4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -287,31 +291,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3NoIHJvb3RAY3ZtX2lpb3RfYmVwXzIgL2RhdGExL2lkYWFzX2Zvc2hhbi9yZXN0YXJ0X2lkYWFzX3NlcnZlci5zaAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2xlZXAgMQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">c3NoIHJvb3RAY3ZtX2lpb3RfYmVwXzIgL2RhdGExL2lkYWFzX2Zvc2hhbi9yZXN0YXJ0X2lkYWFzX3NlcnZlci5zaAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2xlZXAgMQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">c2NwIHN0YXJ0L3RhcmdldC9zdGFydC5qYXIgcm9vdEBjdm1faWlvdF9iZXBfMjovZGF0YTEvaWRhYXNfZm9zaGFuL2lkYWFzLXNlcnZlci9pZGFhcy1zZXJ2ZXIuamFyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFbGFzdGljQXBtQXR0YWNoZXIuYXR0YWNoKCk7Cg==</text>
+        <text encoding="base64">c2NwIHN0YXJ0L3RhcmdldC9zdGFydC5qYXIgcm9vdEBjdm1faWlvdF9iZXBfMjovZGF0YTEvaWRhYXNfZm9zaGFuL2lkYWFzLXNlcnZlci9pZGFhcy1zZXJ2ZXIuamFyCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBFbGFzdGljQXBtQXR0YWNoZXIuYXR0YWNoKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvLmVsYXN0aWMuYXBtLmF0dGFjaC5FbGFzdGljQXBtQXR0YWNoZXI7Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
-      </register>
       <register name="9" type="8">
-        <text>#
-#
-#
-#</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name=":" type="4">
         <text>140</text>
