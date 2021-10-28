@@ -112,9 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/lua-resty-session/lib/resty/session.lua" timestamp="1635410823605" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/lua-resty-session/lib/resty/session.lua" timestamp="1635411768936" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/idaas-api/java-app-base/values.yaml" timestamp="1635213447705">
         <mark key="[" line="44" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/openid-connect.lua" timestamp="1635412005582">
+        <mark key="'" line="270" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/idaas/idaas-api-public.json" timestamp="1635317446361">
         <mark key="[" line="0" column="0" />
@@ -238,6 +241,7 @@
       <jump line="98" column="9" filename="$USER_HOME$/Documents/work/code/ice/M3DViewer/src/Viewer/BOS3DMaterial.ts" />
       <jump line="41" column="68" filename="$USER_HOME$/Documents/work/code/iiot-idaas/authing/beplant-ops/apisix/yongqing/1.yaml" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/idaas/idaas-auth-value.yaml" />
+      <jump line="270" column="0" filename="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/openid-connect.lua" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
