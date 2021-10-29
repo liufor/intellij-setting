@@ -20,7 +20,6 @@
         <entry>tokne</entry>
       </history-search>
       <history-cmd>
-        <entry>344</entry>
         <entry>147</entry>
         <entry>11629</entry>
         <entry>wq</entry>
@@ -40,6 +39,7 @@
         <entry>74</entry>
         <entry>71</entry>
         <entry>140</entry>
+        <entry>90</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,23 +116,19 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/idaas/idaas-api-public.json" timestamp="1635317446361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/start/src/main/resources/application-longan.yml" timestamp="1635484199098">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/start/src/main/resources/application-longan.yml" timestamp="1635486241202">
         <mark key="[" line="49" column="44" />
         <mark key="]" line="49" column="44" />
         <mark key="^" line="49" column="44" />
         <mark key="." line="49" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/idaas/passport.json" timestamp="1635317339938">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/keycloak/keycloak-admin-client/15.0.0/keycloak-admin-client-15.0.0-sources.jar!/org/keycloak/admin/client/KeycloakBuilder.java" timestamp="1635484366442" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/config/KCProperties.java" timestamp="1635482625642" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/integration/admin-client/src/main/java/org/keycloak/admin/client/token/TokenManager.java" timestamp="1635486841187" />
       <file name="$MAVEN_REPOSITORY$/org/keycloak/keycloak-admin-client/15.0.0/keycloak-admin-client-15.0.0-sources.jar!/org/keycloak/admin/client/Keycloak.java" timestamp="1635484328051" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/headers.json" timestamp="1635317258951">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/gatewayimpl/AppGatewayImpl.java" timestamp="1635483991352" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/gatewayimpl/KCDomainServiceImpl.java" timestamp="1635484489968" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/integration/admin-client/src/main/java/org/keycloak/admin/client/token/TokenService.java" timestamp="1635486797127" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/gatewayimpl/KCDomainServiceImpl.java" timestamp="1635487165439" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/lua-resty-session/lib/resty/session.lua" timestamp="1635417558455">
         <mark key="[" line="269" column="4" />
         <mark key="]" line="269" column="0" />
@@ -299,7 +295,7 @@
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name=":" type="4">
-        <text>140</text>
+        <text>90</text>
       </register>
     </registers>
   </component>
