@@ -118,16 +118,13 @@
         <mark key="." line="268" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/start/src/main/resources/application-dev.yml" timestamp="1635424693478" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/helm-charts/idaas-api/java-app-base/values.yaml" timestamp="1635213447705">
-        <mark key="[" line="44" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/openid-connect.lua" timestamp="1635415044940">
         <mark key="'" line="270" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/idaas/idaas-api-public.json" timestamp="1635317446361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/start/src/main/resources/application-longan.yml" timestamp="1635425760854">
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/start/src/main/resources/application-longan.yml" timestamp="1635482832193">
         <mark key="[" line="49" column="44" />
         <mark key="]" line="49" column="44" />
         <mark key="^" line="49" column="44" />
@@ -139,15 +136,11 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/idaas/idaas-auth-public.json" timestamp="1635317389873">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/src/main/java/com/digibms/idaas/infrastructure/config/KCProperties.java" timestamp="1635482395120" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/lua-resty-session/lib/resty/session/strategies/default.lua" timestamp="1635419741201" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/filler.json" timestamp="1635317126947">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be-idaas/src/main/java/com/digibms/idaas/domain/service/KCDomainService.java" timestamp="1635482373288" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/filler3.json" timestamp="1635317203239">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/ops/build/java-app-base/values.yaml" timestamp="1635213111026">
-        <mark key="[" line="40" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/idaas/passport.json" timestamp="1635317339938">
         <mark key="[" line="0" column="0" />
@@ -155,9 +148,12 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/idaas/idaas-auth-private.json" timestamp="1635317415634">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/config/KCProperties.java" timestamp="1635482625642" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/longan_apisix_route/headers.json" timestamp="1635317258951">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/gatewayimpl/AppGatewayImpl.java" timestamp="1635482921870" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-server/fat-app-idaas-server/fat-app-idaas-server-infrastructure/src/main/java/com/digibms/iiot/idaas/server/idaas/gatewayimpl/KCDomainServiceImpl.java" timestamp="1635482586092" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
