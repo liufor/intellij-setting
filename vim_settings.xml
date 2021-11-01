@@ -121,13 +121,17 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/endpoints/TokenEndpoint.java" timestamp="1635733085894" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/http-logger.lua" timestamp="1635764022854" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/cli/ngx_tpl.lua" timestamp="1635771360878" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/proxy-rewrite.lua" timestamp="1635773096660" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/authz-keycloak.lua" timestamp="1635771726757" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/openid-connect.lua" timestamp="1635771656684">
         <mark key="'" line="270" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/core.lua" timestamp="1635765734861" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/coremailAPI2.lua" timestamp="1635772250455">
-        <mark key="[" line="28" column="18" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/coremailAPI2.lua" timestamp="1635773179976">
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/api-breaker.lua" timestamp="1635765714715" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/core/src/main/java/org/keycloak/representations/AccessTokenResponse.java" timestamp="1635733119517" />
@@ -231,20 +235,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>params</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiByb290Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5FUlIsICJyZXF1ZXN0IGNvcmVtYWlsIGFjY2Vzc190b2tlbiBmYWlsZWQsIGJvZHkgaXMgIiwgYm9keSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB2YWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -256,28 +260,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGdldG1ldGF0YWJsZShzZWxmKSA9PSBzZXNzaW9uIHRoZW4K</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3NoIHJvb3RAY3ZtX2lpb3RfYmVwXzIgL2RhdGExL2lkYWFzX2Zvc2hhbi9yZXN0YXJ0X2lkYWFzX3NlcnZlci5zaAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2xlZXAgMQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2FsIGZ1bmN0aW9uIGYyKGNvbmYsIGN0eCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2NwIHN0YXJ0L3RhcmdldC9zdGFydC5qYXIgcm9vdEBjdm1faWlvdF9iZXBfMjovZGF0YTEvaWRhYXNfZm9zaGFuL2lkYWFzLXNlcnZlci9pZGFhcy1zZXJ2ZXIuamFyCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFbGFzdGljQXBtQXR0YWNoZXIuYXR0YWNoKCk7Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
