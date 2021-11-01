@@ -121,17 +121,17 @@
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/endpoints/TokenEndpoint.java" timestamp="1635733085894" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/http-logger.lua" timestamp="1635764022854" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/cli/ngx_tpl.lua" timestamp="1635771360878" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/proxy-rewrite.lua" timestamp="1635773096660" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/proxy-rewrite.lua" timestamp="1635776475596" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/authz-keycloak.lua" timestamp="1635771726757" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/openid-connect.lua" timestamp="1635771656684">
         <mark key="'" line="270" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/core.lua" timestamp="1635765734861" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/coremailAPI2.lua" timestamp="1635773179976">
-        <mark key="[" line="20" column="59" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="20" column="20" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/coremailAPI2.lua" timestamp="1635775826293">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="27" column="8" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/authing/apisix_lab/apisix/apisix/plugins/api-breaker.lua" timestamp="1635765714715" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/core/src/main/java/org/keycloak/representations/AccessTokenResponse.java" timestamp="1635733119517" />
@@ -236,7 +236,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmd4LmxvZyhuZ3guRVJSLCAicmVxdWVzdCBjb3JlbWFpbCBhY2Nlc3NfdG9rZW4gc3VjY2VzcywgdmFsdWUgaXMgIiwgYWNjZXNzX3Rva2VuKQo=</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
@@ -248,7 +248,7 @@
         <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5FUlIsICJyZXF1ZXN0IGNvcmVtYWlsIGFjY2Vzc190b2tlbiBmYWlsZWQsIGJvZHkgaXMgIiwgYm9keSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmd4LmxvZyhuZ3guRVJSLCAicmVxdWVzdCBjb3JlbWFpbCBhY2Nlc3NfdG9rZW4gc3VjY2VzcywgdmFsdWUgaXMgIiwgYWNjZXNzX3Rva2VuKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -260,28 +260,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBhY2Nlc3NfdG9rZW4gdGhlbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIGZ1bmN0aW9uIGYyKGNvbmYsIGN0eCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
