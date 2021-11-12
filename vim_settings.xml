@@ -114,27 +114,39 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/broker/oidc/mappers/AbstractJsonUserAttributeMapper.java" timestamp="1636636902293" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi/src/main/java/org/keycloak/models/FederatedIdentityModel.java" timestamp="1636637361905" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/broker/provider/IdentityProviderMapper.java" timestamp="1636635700914" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/src.zip!/javax/script/Bindings.java" timestamp="1636647141020" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-services-social-wechatwork/src/main/java/org/keycloak/social/wechat/WechatWorkIdentityProvider.java" timestamp="1636636332687" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/scripting/DefaultScriptingProvider.java" timestamp="1636646944517" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/saml/mappers/ScriptBasedMapper.java" timestamp="1636634333749" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/idaas-el-demo/src/main/java/org/example/ExpressionLanguageHelper.java" timestamp="1636693832522">
+        <mark key="[" line="5" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi-private/src/main/java/org/keycloak/models/utils/ModelToRepresentation.java" timestamp="1636643397035" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/server-spi/src/main/java/org/keycloak/models/KeycloakSession.java" timestamp="1636638015895" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-provisioning/provisioning-app/src/main/java/EL.java" timestamp="1636693955142">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="19" column="52" />
+        <mark key="." line="19" column="51" />
+        <mark key="^" line="19" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/scripting/CompiledEvaluatableScriptAdapter.java" timestamp="1636647062318" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/src.zip!/javax/script/CompiledScript.java" timestamp="1636647111999" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/mappers/ScriptBasedOIDCProtocolMapper.java" timestamp="1636647097433" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/idaas-keycloak-side/keycloak-services-social-wechatwork/src/main/java/org/keycloak/social/wechat/WechatWorkProviderConfig.java" timestamp="1636636740954" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/idaas-el-demo/src/main/java/org/example/App.java" timestamp="1636693996575" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/scripting/AbstractEvaluatableScriptAdapter.java" timestamp="1636647166616" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/broker/oidc/mappers/UsernameTemplateMapper.java" timestamp="1636635918283" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/admin/RealmsAdminResource.java" timestamp="1636641267643" />
-      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/protocol/oidc/mappers/AbstractOIDCProtocolMapper.java" timestamp="1636633798162" />
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/fat-app-idaas-provisioning/provisioning-app/src/main/java/com/digibms/idaas/provisioning/IDaaSELRuntime.java" timestamp="1636692029969">
         <mark key="[" line="65" column="60" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/services/src/main/java/org/keycloak/services/resources/IdentityBrokerService.java" timestamp="1636637215154" />
+      <file name="$USER_HOME$/Documents/work/code/iiot-idaas/be/idaas-el-demo/pom.xml" timestamp="1636694043783">
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="26" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/iiot-idaas/keycloak/core/src/main/java/org/keycloak/representations/idm/RealmRepresentation.java" timestamp="1636641155510" />
     </filemarks>
     <jumps>
@@ -236,11 +248,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>code</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>code</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
@@ -249,7 +261,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBIYXNoTWFwPFN0cmluZywgT2JqZWN0Pigpe3twdXQoInVzZXJOYW1lIiwiaGFoYWgiKX19LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -261,28 +273,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIngiOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZGlnaWJtcy5pZGFhcy5wcm92aXNpb25pbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIngiOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5ncy5wdXQoInVzZXIiLHVzZXIpOwo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZGlnaWJtcy5pZGFhcy5wcm92aXNpb25pbmc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5ncy5wdXQoInVzZXIiLHVzZXIpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTY3JpcHRFbmdpbmUgZW5naW5lQnlOYW1lID0gbmV3IFNjcmlwdEVuZ2luZU1hbmFnZXIoKS5nZXRFbmdpbmVCeU5hbWUoImdyYWFsLmpzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFNjcmlwdEVuZ2luZU1hbmFnZXIoKS5nZXRFbmdpbmVCeU5hbWUoImdyYWFsLmpzIikK</text>
+        <text encoding="base64">ICAgICAgICBTY3JpcHRFbmdpbmUgZW5naW5lQnlOYW1lID0gbmV3IFNjcmlwdEVuZ2luZU1hbmFnZXIoKS5nZXRFbmdpbmVCeU5hbWUoImdyYWFsLmpzIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
