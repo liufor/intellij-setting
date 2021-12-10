@@ -112,26 +112,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/camel-core-model/src/main/java/org/apache/camel/model/AdviceWithDefinition.java" timestamp="1638608313741" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-kamelet-main/src/main/java/org/apache/camel/main/KameletMain.java" timestamp="1638622696174" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-kamelet-main/src/main/java/org/apache/camel/main/KameletDependencyDownloader.java" timestamp="1638622808466" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-groovy-dsl/camel-groovy-dsl/src/main/java/org/apache/camel/dsl/groovy/GroovyRoutesBuilderLoader.java" timestamp="1638621440572" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-xml-io-dsl/src/main/java/org/apache/camel/dsl/xml/io/XmlRoutesBuilderLoader.java" timestamp="1638622928050" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-java-joor-dsl/src/main/java/org/apache/camel/dsl/java/joor/JavaRoutesBuilderLoader.java" timestamp="1638621308795" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/camel-core-reifier/src/main/java/org/apache/camel/reifier/ProcessorReifier.java" timestamp="1638608543393" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/pom.xml" timestamp="1638628499933" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-kamelet-main/src/main/java/org/apache/camel/main/MavenGav.java" timestamp="1638622722605" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-xml-jaxb-dsl/src/main/java/org/apache/camel/dsl/xml/jaxb/JaxbXmlRoutesBuilderLoader.java" timestamp="1638622960418" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/camel-core-model/src/main/java/org/apache/camel/model/Model.java" timestamp="1638617961546" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/camel-core-engine/src/main/java/org/apache/camel/impl/DefaultModel.java" timestamp="1638621223406" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/camel-core-model/src/main/java/org/apache/camel/model/DataFormatDefinition.java" timestamp="1638608369506" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/camel-core-processor/src/main/java/org/apache/camel/processor/FilterProcessor.java" timestamp="1638608624998" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/camel-core-reifier/src/main/java/org/apache/camel/reifier/LogReifier.java" timestamp="1638608414982" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-yaml-dsl/camel-yaml-dsl/src/main/java/org/apache/camel/dsl/yaml/YamlRoutesBuilderLoaderSupport.java" timestamp="1638622986130" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/camel-core-languages/src/main/java/org/apache/camel/language/constant/ConstantLanguage.java" timestamp="1638617913854" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-js-dsl/src/main/java/org/apache/camel/dsl/js/JavaScriptRoutesBuilderLoader.java" timestamp="1638622399013" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-js-dsl/src/main/java/org/apache/camel/dsl/js/JavaScriptDSL.java" timestamp="1638621507874" />
-      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/camel-api/src/main/java/org/apache/camel/ExchangePattern.java" timestamp="1638669963411" />
+      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/components/camel-spring-xml/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateForceCompletionOnStopTest.xml" timestamp="1639122368820" />
+      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/core/camel-core/src/test/java/org/apache/camel/processor/aggregator/MyCompletionProcessor.java" timestamp="1639124691599" />
+      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/components/camel-spring-xml/target/classes/camel-spring.xsd" timestamp="1639125306062" />
+      <file name="$USER_HOME$/Documents/work/code/iiot/iiot-ipaas/camel/camel/dsl/camel-yaml-dsl/camel-yaml-dsl/src/generated/resources/camel-yaml-dsl.json" timestamp="1639125084926" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e4cc4159-d979-4ca4-b688-634fce7bac53/console_1.sql" />
