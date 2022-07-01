@@ -112,15 +112,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/router.config.js" timestamp="1656703070598" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/privateDeployment/index.js" timestamp="1656710455248" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Personal/systemSettings/index.jsx" timestamp="1656716003505" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/docker/rewrite.setting" timestamp="1656711994028">
         <mark key="[" line="79" column="15" />
         <mark key="]" line="79" column="14" />
         <mark key="." line="79" column="14" />
       </file>
-      <file name="/AppGrid.jsx" timestamp="1656706395164" />
-      <file name="/AppGroups.jsx" timestamp="1656703548826" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/redux/reducers.js" timestamp="1656711160837" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/deploy-dev.sh" timestamp="1656708866806">
         <mark key="[" line="0" column="0" />
@@ -137,7 +135,8 @@
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/deploy-qa.sh" timestamp="1656708817885">
         <mark key="[" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/index.jsx" timestamp="1656713753332">
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/homePage/index.jsx" timestamp="1656714675081" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/index.jsx" timestamp="1656714319341">
         <mark key="[" line="135" column="35" />
         <mark key="]" line="134" column="104" />
       </file>
@@ -145,10 +144,15 @@
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/router.config.js" timestamp="1656713284843">
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/router.config.js" timestamp="1656713991509">
         <mark key="[" line="32" column="45" />
         <mark key="]" line="298" column="20" />
         <mark key="." line="298" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/common/privatization.js" timestamp="1656715958225">
+        <mark key="[" line="100" column="22" />
+        <mark key="]" line="100" column="22" />
+        <mark key="." line="100" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/config.js" timestamp="1656710483350" />
       <file name="/Dummy.txt" timestamp="1656707554196">
@@ -262,11 +266,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0iL2FkbWluLzpyb3V0ZVR5cGUvOnByb2plY3RJZCI+e3RoaXMucmVuZGVySG9tZUNvbnRlbnQocm91dGVzV2l0aEF1dGhvcml0eSl9PC9Sb3V0ZT4K</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
