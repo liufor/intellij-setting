@@ -126,17 +126,26 @@
         <mark key="^" line="75" column="33" />
         <mark key="." line="75" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/common/privatization.js" timestamp="1656950957304">
-        <mark key="[" line="58" column="3" />
-        <mark key="]" line="58" column="3" />
-        <mark key="^" line="58" column="12" />
-        <mark key="." line="58" column="3" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/SmartSearch/components/reactSmartSearch.js" timestamp="1656956239460">
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="28" />
+        <mark key="^" line="63" column="28" />
+        <mark key="." line="63" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/common/privatization.js" timestamp="1656954510868">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/config.js" timestamp="1656936378015">
         <mark key="[" line="92" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/router/App.jsx" timestamp="1656951436408">
-        <mark key="[" line="313" column="33" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/router/App.jsx" timestamp="1656956790088">
+        <mark key="[" line="322" column="7" />
+        <mark key="]" line="313" column="58" />
+        <mark key="^" line="313" column="58" />
+        <mark key="." line="313" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/router/PageHeader/config.js" timestamp="1656936871389">
         <mark key="[" line="84" column="12" />
@@ -151,29 +160,21 @@
         <mark key="^" line="61" column="25" />
         <mark key="." line="61" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/common/preall.js" timestamp="1656950995422">
-        <mark key="[" line="81" column="42" />
-        <mark key="]" line="82" column="19" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/common/preall.js" timestamp="1656954798272">
+        <mark key="[" line="79" column="58" />
+        <mark key="]" line="79" column="58" />
         <mark key="^" line="82" column="19" />
-        <mark key="." line="82" column="18" />
+        <mark key="." line="79" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/PageHeader/components/CommonUserHandle/index.jsx" timestamp="1656949966418" />
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/PageHeader/AppCenterHeader/index.jsx" timestamp="1656949122633">
-        <mark key="[" line="234" column="42" />
-        <mark key="]" line="233" column="50" />
-        <mark key="^" line="233" column="50" />
-        <mark key="." line="233" column="49" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/PageHeader/components/CommonUserHandle/index.jsx" timestamp="1656953566163">
+        <mark key="[" line="109" column="37" />
+        <mark key="]" line="109" column="37" />
+        <mark key="." line="109" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/util/index.js" timestamp="1656949861391">
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/util/index.js" timestamp="1656951992203">
         <mark key="[" line="626" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/worksheet/common/WorkSheetLeft/WorkSheetLeft.jsx" timestamp="1656949615316" />
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/router.config.js" timestamp="1656935731324">
-        <mark key="[" line="301" column="50" />
-        <mark key="]" line="301" column="54" />
-        <mark key="." line="301" column="53" />
-        <mark key="^" line="301" column="54" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/sp/demo/index.jsx" timestamp="1656937314931">
         <mark key="[" line="2" column="20" />
         <mark key="^" line="2" column="23" />
@@ -281,10 +282,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>personal.personalInfo.personalEmblem</text>
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>personal.personalInfo.personalEmblem</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
@@ -293,7 +294,9 @@
         <text encoding="base64">ICBhZG1pbjogX2woJ+e7hOe7h+euoeeQhicpLAo=</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+        <text>&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -304,29 +307,31 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApfQo=</text>
+      <register name="2" type="8">
+        <text>&quot;
+&quot;
+&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Y3VycmVudFByb2plY3QgJiYgY3VycmVudFByb2plY3QuaXNQcm9qZWN0QWRtaW4gJiYgKAo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICApfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB7Y3VycmVudFByb2plY3QgJiYgY3VycmVudFByb2plY3QuaXNQcm9qZWN0QWRtaW4gJiYgKAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB7Y3VycmVudFByb2plY3QgJiYgY3VycmVudFByb2plY3QuaXNQcm9qZWN0QWRtaW4gJiYgKAo=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">aW1wb3J0KCdzcmMvcGFnZXMvUGFnZUhlYWRlci9BcHBNYW5hZ2VtZW50SGVhZGVyJykKICAgICAgICA6IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvQXBwQ2VudGVySGVhZGVyJyksCiAgfSwKICBhcHBQa2c6IHsKICAgIHBhdGg6ICcvYXBwLzphcHBJZC86Z3JvdXBJZD8vOndvcmtzaGVldElkPy86dmlld0lkPycsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvQXBwUGtnSGVhZGVyJyksCiAgfSwKICB3b3Jrc2hlZXRSZWNvcmQ6IHsKICAgIHBhdGg6ICcvd29ya3NoZWV0Lzp3b3Jrc2hlZXRJZC9yb3cvOnJvd0lkJywKICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdzcmMvcGFnZXMvUGFnZUhlYWRlci9OZXRNYW5hZ2VIZWFkZXInKSwKICB9LAogIHdvcmtzaGVldFdpdGhWaWV3OiB7CiAgICBwYXRoOiAnL3dvcmtzaGVldC86d29ya3NoZWV0SWQvdmlldy86dmlld0lkJywKICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdzcmMvcGFnZXMvUGFnZUhlYWRlci9BcHBQa2dIZWFkZXInKSwKICB9LAogIHdvcmtzaGVldDogewogICAgcGF0aDogJy93b3Jrc2hlZXQvOndvcmtzaGVldElkPycsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvQXBwUGtnSGVhZGVyJyksCiAgfSwKICBmZWVkOiB7CiAgICBwYXRoOiAnL2ZlZWQnLAogICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJ3NyYy9wYWdlcy9QYWdlSGVhZGVyL05hdGl2ZUhlYWRlcicpLAogIH0sCiAgZmVlZGRldGFpbDogewogICAgcGF0aDogJy9mZWVkZGV0YWlsJywKICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdzcmMvcGFnZXMvUGFnZUhlYWRlci9OYXRpdmVIZWFkZXInKSwKICB9LAogIHVzZXI6IHsKICAgIHBhdGg6IFsndXNlcicsICcvdXNlcl86dXNlcklkPyddLAogICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJ3NyYy9wYWdlcy9QYWdlSGVhZGVyL05ldE1hbmFnZUhlYWRlcicpLAogIH0sCiAgZ3JvdXA6IHsKICAgIHBhdGg6ICcvZ3JvdXAvZ3JvdXBWYWxpZGF0ZScsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvTmV0TWFuYWdlSGVhZGVyJyksCiAgfSwKICB0YXNrOiB7CiAgICBwYXRoOiAnL2FwcHMvdGFzaycsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvTmF0aXZlSGVhZGVyJyksCiAgfSwKICBjYWxlbmRhcjogewogICAgcGF0aDogJy9hcHBzL2NhbGVuZGFyJywKICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdzcmMvcGFnZXMvUGFnZUhlYWRlci9OYXRpdmVIZWFkZXInKSwKICB9LAogIGtjOiB7CiAgICBwYXRoOiAnL2FwcHMva2MnLAogICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJ3NyYy9wYWdlcy9QYWdlSGVhZGVyL05hdGl2ZUhlYWRlcicpLAogIH0sCiAgaHI6IHsKICAgIHBhdGg6ICcvc3JjL3BhZ2VzL2hyJywKICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdzcmMvcGFnZXMvUGFnZUhlYWRlci9OYXRpdmVIZWFkZXInKSwKICB9LAogIGhyUGFnZTogewogICAgcGF0aDogJy9ocicsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvTmF0aXZlSGVhZGVyJyksCiAgfSwKICBwZXJzb25hbDogewogICAgcGF0aDogJy9wZXJzb25hbCcsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvTmV0TWFuYWdlSGVhZGVyJyksCiAgfSwKICBwcml2YXRlRGVwbG95bWVudDogewogICAgcGF0aDogJy9wcml2YXRlRGVwbG95bWVudCcsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvTmV0TWFuYWdlSGVhZGVyJyksCiAgfSwKICBhcHBJbnN0YWxsU2V0dGluZzogewogICAgcGF0aDogJy9hcHBJbnN0YWxsU2V0dGluZycsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvTmV0TWFuYWdlSGVhZGVyJyksCiAgfSwKICBhZG1pbjogewogICAgcGF0aDogJy9hZG1pbi86cm9sZVR5cGUvOnByb2plY3RJZCcsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvTmV0TWFuYWdlSGVhZGVyJyksCiAgfSwKICBzcDogewogICAgcGF0aDogJy9hZG1pbi86cm9sZVR5cGUvOnByb2plY3RJZCcsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvTmV0TWFuYWdlSGVhZGVyJyksCiAgfSwKICBkaW5nQXBwQ291cnNlOiB7CiAgICBwYXRoOiAnL2RpbmdBcHBDb3Vyc2UvOnByb2plY3RJZD8vOmFwa0lkPycsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvQXBwTmFtZUhlYWRlcicpLAogIH0sCiAgZGluZ1N5bmNDb3Vyc2U6IHsKICAgIHBhdGg6ICcvZGluZ1N5bmNDb3Vyc2UvOnByb2plY3RJZD8nLAogICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJ3NyYy9wYWdlcy9QYWdlSGVhZGVyL05ldE1hbmFnZUhlYWRlcicpLAogIH0sCiAgd3hhcHBTeW5jQ291cnNlOiB7CiAgICBwYXRoOiAnL3d4YXBwU3luY0NvdXJzZS86cHJvamVjdElkPycsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvTmV0TWFuYWdlSGVhZGVyJyksCiAgfSwKICB3ZWxpbmtTeW5jQ291cnNlOiB7CiAgICBwYXRoOiAnL3dlbGlua1N5bmNDb3Vyc2UvOnByb2plY3RJZD8nLAogICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJ3NyYy9wYWdlcy9QYWdlSGVhZGVyL05ldE1hbmFnZUhlYWRlcicpLAogIH0sCiAgZmVpc2h1U3luY0NvdXJzZTogewogICAgcGF0aDogJy9mZWlzaHVTeW5jQ291cnNlLzpwcm9qZWN0SWQ/JywKICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCdzcmMvcGFnZXMvUGFnZUhlYWRlci9OZXRNYW5hZ2VIZWFkZXInKSwKICB9LAogIHdlaXhpbkFwcENvdXJzZTogewogICAgcGF0aDogJy93ZWl4aW5BcHBDb3Vyc2UvOnByb2plY3RJZD8vOmFwa0lkPycsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvQXBwTmFtZUhlYWRlcicpLAogIH0sCiAgc2VhcmNoOiB7CiAgICBwYXRoOiAnL3NlYXJjaCcsCiAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnc3JjL3BhZ2VzL1BhZ2VIZWFkZXIvTmV0TWFuYWdlSGVhZGVyJyksCiAgfSwKICBhcHA6IHsKICAgIHBhdGg6ICcvYXBwLz8nLAogICAgaXNFeGFjdDogdHJ1ZSwKICAgIGNvbXBvbmVudDogKCkgPT4KICAgICAgbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ29sZEhvbWUnKSA9PT0gJzEnCiAgICAgICAgPw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhcHAuCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LnByaXZhdGUgPSB3aW5kb3cubWQuZ2xvYmFsLkN1cnJlbnRYU2V0dGluZ3MgJiYgdW5mbGF0dGVuKHdpbmRvdy5tZC5nbG9iYWwuQ3VycmVudFhTZXR0aW5ncyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5hcHBzID0gd2luZG93Lm1kCg==</text>
+        <text encoding="base64">ICBhcHAuCg==</text>
       </register>
       <register name=":" type="4">
         <text>209</text>
