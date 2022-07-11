@@ -113,12 +113,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/systemSetting/component/CloseNet.jsx" timestamp="1657503486605" />
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/others/components/PasswordConfirm/index.js" timestamp="1657358898007" />
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/PageHeader/components/UserMenu/index.jsx" timestamp="1656956876943">
-        <mark key="]" line="61" column="25" />
-        <mark key="^" line="61" column="25" />
-        <mark key="." line="61" column="24" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/Mysql_Initialize_Data_MDProject2.sql" timestamp="1657517643668">
+        <mark key="[" line="159" column="34" />
+        <mark key="]" line="159" column="34" />
+        <mark key="." line="159" column="33" />
+        <mark key="^" line="159" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/others/components/PasswordConfirm/index.js" timestamp="1657358898007" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/resignation/resignList/index.jsx" timestamp="1657104019375">
         <mark key="[" line="210" column="17" />
         <mark key="]" line="210" column="17" />
@@ -134,7 +135,7 @@
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/CI/serve.js" timestamp="1657176445471">
         <mark key="[" line="89" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/package.json" timestamp="1656959432519">
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/package.json" timestamp="1657515946712">
         <mark key="[" line="4" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/common/preall.js" timestamp="1657358509349">
@@ -163,7 +164,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/Mysql_Initialize_Data_MDProject.sql" timestamp="1657512307922" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/Mysql_Initialize_Data_MDProject.sql" timestamp="1657517079126" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Personal/bindAccount/validatePasswordDialog/index.js" timestamp="1657507565827" />
     </filemarks>
     <jumps>
@@ -267,11 +268,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QjNDRTMyNTUtQUYxNy1CQkYyLURBNTAtQzRCRDVDMjJCNzBGCg==</text>
+      <register name="&quot;" type="4">
+        <text>PermissionId</text>
       </register>
       <register name="-" type="4">
-        <text>common</text>
+        <text>PermissionId</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
