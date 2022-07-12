@@ -112,7 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/roleDetail/permissionList.jsx" timestamp="1657537552334" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/common/common.js" timestamp="1657593563404">
         <mark key="[" line="42" column="3" />
         <mark key="]" line="34" column="14" />
@@ -123,8 +122,12 @@
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/package.json" timestamp="1657565361981">
         <mark key="[" line="4" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/AppHomepage/AppCenter/SideNav.jsx" timestamp="1657613638382" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/Mysql_Create_DB_MDProject.sql" timestamp="1657604836591" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Roles/RoleItem.jsx" timestamp="1657563801867" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/Mysql_Initialize_Data_MDProject.2.sql" timestamp="1657613650584">
+        <mark key="[" line="197" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/roleDetail/index.jsx" timestamp="1657593659592">
         <mark key="[" line="100" column="83" />
         <mark key="]" line="100" column="6" />
@@ -156,19 +159,13 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/util/index.js" timestamp="1657530073307">
-        <mark key="[" line="20" column="3" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/roleList/index.jsx" timestamp="1657564645323">
         <mark key="[" line="84" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/sp_init.sql" timestamp="1657612008637">
-        <mark key="[" line="121" column="53" />
-        <mark key="]" line="121" column="53" />
-        <mark key="." line="121" column="53" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/sp_init.sql" timestamp="1657613819681">
+        <mark key="[" line="167" column="37" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/Mysql_Initialize_Data_MDProject.sql" timestamp="1657561920489">
         <mark key="[" line="195" column="43" />
@@ -278,8 +275,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>DESC</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>DESC</text>
@@ -291,7 +288,7 @@
         <text encoding="base64">ICBjb25zdCBpc0FkbWluID0gcm9sZS5yb2xlSWQgJiYgcm9sZS5yb2xlSWQudG9VcHBlckNhc2UoKSA9PT0gJ0Q1NTIxNTRBLUJGMjYtNDAzRi05NzgzLURDNEE1QjI2ODg2NSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYFByb2plY3RgIEFERCBDT0xVTU4gYElzU3BQcm9qZWN0YCBpbnQoMTEpIERFRkFVTFQgMCAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -306,25 +303,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0IFByb2plY3RJZCBmcm9tIFByb2plY3Qgb3JkZXIgYnkgQXV0b0lkIGFzYyBsaW1pdCAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IFByb2plY3RJZCBmcm9tIFByb2plY3Qgb3JkZXIgYnkgQXV0b0lkIGFzYyBsaW1pdCAxOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgYFByb2plY3RgIEFERCBDT0xVTU4gYElzU3BQcm9qZWN0YCBpbnQoMTEpIERFRkFVTFQgMCAsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REVMRVRFIEZST00K</text>
+        <text encoding="base64">c2VsZWN0IFByb2plY3RJZCBmcm9tIFByb2plY3Qgb3JkZXIgYnkgQXV0b0lkIGFzYyBsaW1pdCAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>209</text>
