@@ -123,6 +123,7 @@
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/package.json" timestamp="1657565361981">
         <mark key="[" line="4" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/Mysql_Create_DB_MDProject.sql" timestamp="1657604836591" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Roles/RoleItem.jsx" timestamp="1657563801867" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/roleDetail/index.jsx" timestamp="1657593659592">
         <mark key="[" line="100" column="83" />
@@ -164,8 +165,10 @@
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/roleList/index.jsx" timestamp="1657564645323">
         <mark key="[" line="84" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/sp_init.sql" timestamp="1657562263864">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/sp_init.sql" timestamp="1657605671893">
+        <mark key="[" line="153" column="261" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/Mysql_Initialize_Data_MDProject.sql" timestamp="1657561920489">
         <mark key="[" line="195" column="43" />
@@ -275,8 +278,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>const</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QUxURVIgVEFCTEUgYFByb2plY3RgIEFERCBDT0xVTU4gYElzU3BQcm9qZWN0YCBpbnQoMTEpIERFRkFVTFQgMCAsCg==</text>
       </register>
       <register name="-" type="4">
         <text>const</text>
@@ -288,7 +291,7 @@
         <text encoding="base64">ICBjb25zdCBpc0FkbWluID0gcm9sZS5yb2xlSWQgJiYgcm9sZS5yb2xlSWQudG9VcHBlckNhc2UoKSA9PT0gJ0Q1NTIxNTRBLUJGMjYtNDAzRi05NzgzLURDNEE1QjI2ODg2NSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgYFByb2plY3RgIEFERCBDT0xVTU4gYElzU3BQcm9qZWN0YCBpbnQoMTEpIERFRkFVTFQgMCAsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -300,16 +303,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0IFByb2plY3RJZCBmcm9tIFByb2plY3Qgb3JkZXIgYnkgQXV0b0lkIGFzYyBsaW1pdCAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">c2VsZWN0IFByb2plY3RJZCBmcm9tIFByb2plY3Qgb3JkZXIgYnkgQXV0b0lkIGFzYyBsaW1pdCAxOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">c2VsZWN0IFByb2plY3RJZCBmcm9tIFByb2plY3Qgb3JkZXIgYnkgQXV0b0lkIGFzYyBsaW1pdCAxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -318,10 +321,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REVMRVRFIEZST00K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REVMRVRFIEZST00K</text>
       </register>
       <register name=":" type="4">
         <text>209</text>
