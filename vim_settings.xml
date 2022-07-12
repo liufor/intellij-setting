@@ -112,11 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/common/common.js" timestamp="1657593563404">
-        <mark key="[" line="42" column="3" />
-        <mark key="]" line="34" column="14" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/docker/rewrite.setting" timestamp="1657622569338" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/common/common.js" timestamp="1657628514166">
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="35" column="55" />
         <mark key="^" line="34" column="14" />
-        <mark key="." line="34" column="13" />
+        <mark key="." line="35" column="55" />
       </file>
       <file name="/Mysql_Initialize_Data_MDProject.sql" timestamp="1657562166544" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/package.json" timestamp="1657565361981">
@@ -128,25 +129,19 @@
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/Mysql_Initialize_Data_MDProject.2.sql" timestamp="1657613650584">
         <mark key="[" line="197" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/roleDetail/index.jsx" timestamp="1657593659592">
-        <mark key="[" line="100" column="83" />
-        <mark key="]" line="100" column="6" />
-        <mark key="^" line="97" column="9" />
-        <mark key="." line="100" column="6" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/roleDetail/index.jsx" timestamp="1657627909221">
+        <mark key="[" line="106" column="6" />
+        <mark key="]" line="106" column="6" />
+        <mark key="." line="106" column="6" />
+        <mark key="^" line="105" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/structure/components/userList/userList.jsx" timestamp="1657594131094" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/homePage/index.jsx" timestamp="1657563875109" />
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/createEditRole/index.jsx" timestamp="1657564614542">
-        <mark key="[" line="100" column="50" />
-        <mark key="]" line="74" column="64" />
-        <mark key="^" line="74" column="64" />
-        <mark key="." line="74" column="63" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/Mysql_Initialize_Data_MDProject2.sql" timestamp="1657543783039">
-        <mark key="[" line="195" column="57" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
-        <mark key="^" line="200" column="12" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/createEditRole/index.jsx" timestamp="1657628643754">
+        <mark key="[" line="69" column="33" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="70" column="13" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1657561803648">
         <mark key="[" line="0" column="0" />
@@ -158,10 +153,12 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/roleList/index.jsx" timestamp="1657564645323">
-        <mark key="[" line="84" column="50" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/roleList/index.jsx" timestamp="1657625118685">
+        <mark key="[" line="84" column="57" />
+        <mark key="]" line="84" column="57" />
+        <mark key="." line="84" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/sp_init.sql" timestamp="1657613914184">
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/be/tools/init/mysql/sp_init.sql" timestamp="1657625140211">
         <mark key="[" line="165" column="130" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
@@ -274,11 +271,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>removeSpModule</text>
       </register>
       <register name="-" type="4">
-        <text>DESC</text>
+        <text>removeSpModule</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
@@ -287,7 +284,7 @@
         <text encoding="base64">ICBjb25zdCBpc0FkbWluID0gcm9sZS5yb2xlSWQgJiYgcm9sZS5yb2xlSWQudG9VcHBlckNhc2UoKSA9PT0gJ0Q1NTIxNTRBLUJGMjYtNDAzRi05NzgzLURDNEE1QjI2ODg2NSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -298,14 +295,14 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIHJvbGVJZCA9PT0gJ0IzQ0UzMjU1LUFGMTctQkJGMi1EQTUwLUM0QkQ1QzIyQjcwRic=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgcGVybWlzc2lvblR5cGVzID0gXy5maWx0ZXIocGVybWlzc2lvblR5cGVzLCBwZXJtaXNzaW9uID0+IHBlcm1pc3Npb24udHlwZUlkICE9PSA1MDEpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -314,13 +311,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYFByb2plY3RgIEFERCBDT0xVTU4gYElzU3BQcm9qZWN0YCBpbnQoMTEpIERFRkFVTFQgMCAsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IFByb2plY3RJZCBmcm9tIFByb2plY3Qgb3JkZXIgYnkgQXV0b0lkIGFzYyBsaW1pdCAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>209</text>
