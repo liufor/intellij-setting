@@ -112,7 +112,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/docker/rewrite.setting" timestamp="1657689102804" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/docker/rewrite.setting" timestamp="1657696324872">
+        <mark key="[" line="14" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/common/common.js" timestamp="1657666651835">
         <mark key="[" line="33" column="71" />
         <mark key="]" line="26" column="15" />
@@ -141,11 +143,11 @@
         <mark key="^" line="108" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/config.js" timestamp="1657667031229" />
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/docker/nginx.conf" timestamp="1657695298422">
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="18" column="8" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/docker/nginx.conf" timestamp="1657696279957">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="72" column="1" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/structure/components/userList/userList.jsx" timestamp="1657594131094" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/createEditRole/index.jsx" timestamp="1657666796962">
@@ -278,8 +280,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>set_if_empty</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
       <register name="-" type="4">
         <text>set_if_empty</text>
@@ -290,8 +292,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHAuaXNTcEFkbWluID0gZmFsc2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGUuCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -302,29 +304,29 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVzZXJQZXJtaXNzaW9ucyA9IHVzZXJQZXJtaXNzaW9uCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIHJvbGVJZCA9PT0gJ0IzQ0UzMjU1LUFGMTctQkJGMi1EQTUwLUM0QkQ1QzIyQjcwRic=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGVybWlzc2lvblR5cGVzID0gXy5maWx0ZXIocGVybWlzc2lvblR5cGVzLCBwZXJtaXNzaW9uID0+IHBlcm1pc3Npb24udHlwZUlkICE9PSA1MDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVzZXJQZXJtaXNzaW9ucyA9IHVzZXJQZXJtaXNzaW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIHJvbGVJZCA9PT0gJ0IzQ0UzMjU1LUFGMTctQkJGMi1EQTUwLUM0QkQ1QzIyQjcwRic=</text>
       </register>
       <register name=":" type="4">
         <text>209</text>
