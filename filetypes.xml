@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="original" type="ARCHIVE" />
       <mapping ext="acss" type="CSS" />
@@ -7,50 +7,53 @@
       <mapping ext="gltf" type="JSON" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="gosu-amd64 (1)" type="PLAIN_TEXT" />
-      <mapping pattern="META-INF" type="PLAIN_TEXT" />
-      <mapping pattern="sqlite_new" type="PLAIN_TEXT" />
-      <mapping pattern="deploy" type="PLAIN_TEXT" />
-      <mapping pattern="0OO00l111l1l" type="PLAIN_TEXT" />
       <mapping pattern="填写方法.txt" type="PLAIN_TEXT" />
-      <mapping pattern="request-transformer" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="pre_process" type="PLAIN_TEXT" />
-      <mapping pattern="Dockefile" type="PLAIN_TEXT" />
-      <mapping pattern="填写方法" type="PLAIN_TEXT" />
-      <mapping pattern="wubaQzCategoryData" type="PLAIN_TEXT" />
-      <mapping pattern="deploy_script" type="PLAIN_TEXT" />
-      <mapping pattern="idaas-auth-public.json" type="PLAIN_TEXT" />
+      <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="dev" type="PLAIN_TEXT" />
+      <mapping pattern="deploy_script" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping pattern="sqlite_new" type="PLAIN_TEXT" />
+      <mapping pattern="META-INF" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="idaas-auth-public.json" type="PLAIN_TEXT" />
+      <mapping pattern="wubaQzCategoryData" type="PLAIN_TEXT" />
+      <mapping pattern="填写方法" type="PLAIN_TEXT" />
+      <mapping pattern="Dockefile" type="PLAIN_TEXT" />
+      <mapping pattern="gosu-amd64 (1)" type="PLAIN_TEXT" />
+      <mapping pattern="0OO00l111l1l" type="PLAIN_TEXT" />
+      <mapping pattern="request-transformer" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="rvm" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="fbx" type="PLAIN_TEXT" />
-      <mapping ext="vue2" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="rewrite" type="PLAIN_TEXT" />
-      <mapping ext="cli" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="sh2" type="PLAIN_TEXT" />
       <mapping ext="server" type="PLAIN_TEXT" />
-      <mapping ext="exe" type="PLAIN_TEXT" />
-      <mapping ext="xxx" type="PLAIN_TEXT" />
       <mapping ext="common" type="PLAIN_TEXT" />
-      <mapping ext="wxss" type="PLAIN_TEXT" />
-      <mapping ext="location" type="PLAIN_TEXT" />
-      <mapping ext="me" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping ext="map" type="PLAIN_TEXT" />
-      <mapping ext="defaut" type="PLAIN_TEXT" />
-      <mapping ext="rvm" type="PLAIN_TEXT" />
+      <mapping ext="rewrite" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
-      <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="xxx" type="PLAIN_TEXT" />
+      <mapping ext="vue2" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="defaut" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="location" type="PLAIN_TEXT" />
+      <mapping ext="wxss" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="cisDubboProvider" type="XML" />
       <mapping ext="wxml" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
