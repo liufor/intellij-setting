@@ -141,11 +141,11 @@
         <mark key="^" line="108" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/config.js" timestamp="1657667031229" />
-      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/docker/nginx.conf" timestamp="1657691375226">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="24" />
+      <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/docker/nginx.conf" timestamp="1657695298422">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="18" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/structure/components/userList/userList.jsx" timestamp="1657594131094" />
       <file name="$USER_HOME$/Documents/work/code/lowcode/iiot-apps/fe/apps-web/src/pages/Admin/roleAuth/createEditRole/index.jsx" timestamp="1657666796962">
@@ -278,11 +278,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHAuaXNTcEFkbWluID0gZmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>set_if_empty</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>set_if_empty</text>
       </register>
       <register name="/" type="4">
         <text>tokne</text>
