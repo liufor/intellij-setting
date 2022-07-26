@@ -6,7 +6,6 @@
       <mapping pattern="wxs" type="ECMAScript 6" />
       <mapping ext="gltf" type="JSON" />
       <mapping ext="wxs" type="JavaScript" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="填写方法.txt" type="PLAIN_TEXT" />
       <mapping pattern="pre_process" type="PLAIN_TEXT" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
@@ -27,7 +26,6 @@
       <mapping ext="rvm" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="fbx" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="sh2" type="PLAIN_TEXT" />
       <mapping ext="server" type="PLAIN_TEXT" />
       <mapping ext="common" type="PLAIN_TEXT" />
@@ -49,11 +47,14 @@
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="location" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="cisDubboProvider" type="XML" />
       <mapping ext="wxml" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="exe" approved="true" type="Binary" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="wxs" approved="true" type="WIX file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
